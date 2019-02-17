@@ -11,20 +11,21 @@
     position: relative;
 }
 .content{
-    z-index: 3;
+    /* z-index: 3; */
+    display: flex;
 }
 .shadow{
-    z-index: 2;
+    /* z-index: 2; */
 }
 .ornament{
-    z-index: 1;
+    /* z-index: 0; */
     position: absolute;
     top: 0;
     width: inherit;
     height: inherit;
     display: flex;
 }
-.section .ornament div{
+.section .ornament > div{
     flex: 1;
     height: inherit;
     width: 50%;
@@ -98,4 +99,111 @@
     height: 30px;
     background: no-repeat center center;
     background-image: url(../images/arrow-down.svg);
+}
+#header{
+    z-index: 999;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 97.2%;
+    padding: 0px 1.4%;
+    /* background-color: rgba(0,0,0,0.25); */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&1+0,0.44+100 */
+    background: -moz-linear-gradient(top, rgba(44, 44, 44, 0.5) 0%, rgba(44, 44, 44, 0.0) 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(44, 44, 44, 0.5) 0%, rgba(44, 44, 44, 0.0) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(44, 44, 44, 0.5) 0%, rgba(44, 44, 44, 0.0) 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#70000000', GradientType=0);
+    /* IE6-9 */
+}
+#logo{
+    width: 150px;
+    height: 50px;
+}
+.content > div{
+    flex: 1;
+    z-index: 1;
+}
+.content > div:nth-child(1){
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.content > div:nth-child(2) {
+    
+}
+.title {
+    /* flex: 1; */
+    text-transform: uppercase;
+    font-family: 'Museo Sans 900';
+    font-size: 2em;
+    letter-spacing: 5px;
+}
+.title-left {
+    text-align: left;
+}
+.title-right {
+    font-size: 4em;
+    text-align: right;
+    margin-right: 100px;
+}
+.line {
+    margin-right: 100px;
+    width: 75px;
+    height: 5px;
+    display: block;
+    right: 0;
+    background: url('../images/line.svg');
+    margin-top: 25px;
+    margin-bottom: 125px;
+}
+.line-block{
+    display: flex;
+    margin: 25px 125px 25px 0;
+    justify-content: flex-start;
+    align-items: center;
+}
+.icon-wrapper{
+    width: 200px;
+    height: 80px;
+    margin-right: 35px;
+    background-repeat: no-repeat;
+}
+.line-block:nth-child(1) .icon-wrapper {
+    background-image: url('../images/icon-1.svg');
+}
+.line-block:nth-child(2) .icon-wrapper {
+    background-image: url('../images/icon-2.svg');
+}
+.line-block:nth-child(3) .icon-wrapper {
+    background-image: url('../images/icon-3.svg');
+}
+.list-content{
+    text-align: left;
+}
+.list-content h3{
+    font-family: 'Museo Sans 700';
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.list-content p {
+
+}
+.button{
+    text-transform: uppercase;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.button-ghost{
+    display: block;
+    /* width: 100%; */
+    margin-left: 110px;
+    margin-top: 15px;
+    border: 1px solid #ddd;
 }
