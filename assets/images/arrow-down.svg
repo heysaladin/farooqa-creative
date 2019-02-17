@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="698.658 849.68 42.684 24.504">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="arrow-down" class="cls-1" transform="translate(983.751 762.911) rotate(45)">
+    <rect id="Rectangle_117" data-name="Rectangle 117" class="cls-2" width="30.182" height="4.471" rx="2.236" transform="translate(-138 260.711)"/>
+    <rect id="Rectangle_118" data-name="Rectangle 118" class="cls-2" width="30.182" height="4.471" rx="2.236" transform="translate(-107.818 235) rotate(90)"/>
+  </g>
+</svg>

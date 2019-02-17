@@ -1,0 +1,101 @@
+/* Custom CSS
+ * --------------------------------------- */
+ body{
+	font-family: 'Museo Sans 300',arial,helvetica;
+	color: #333;
+	color: rgba(0,0,0,0.5);
+}
+/* --------------------------------------- */
+.section{
+    text-align: center;
+    position: relative;
+}
+.content{
+    z-index: 3;
+}
+.shadow{
+    z-index: 2;
+}
+.ornament{
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    width: inherit;
+    height: inherit;
+    display: flex;
+}
+.section .ornament div{
+    flex: 1;
+    height: inherit;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+#section1 .ornament .ornament-left{
+    background-image: url("../images/ornament-2.svg");
+    background-position: bottom left;
+    background-size: 70%;
+}
+#section1 .ornament .ornament-right{
+    background-image: url("../images/ornament-1.svg");
+    background-position: top right;
+    background-size: 36%;
+}
+#section2 .ornament .ornament-left{
+    background-image: url("../images/ornament-3.svg");
+    background-position: top left;
+    background-size: 70%;
+    margin-top: -1px;
+}
+#section2 .ornament .ornament-right{
+    background-image: url("../images/ornament-4.svg");
+    background-position: bottom right;
+}
+#section3 .ornament .ornament-left{
+    background-image: url("../images/ornament-6.svg");
+    background-position: bottom left;
+}
+#section3 .ornament .ornament-right{
+    background-image: url("../images/ornament-5.svg");
+    background-position: top right;
+}
+#section4 .ornament .ornament-left{
+    background-image: url("../images/ornament-7.svg");
+    background-position: top left;
+}
+#section4 .ornament .ornament-right{
+    background-image: url("../images/ornament-8.svg");
+    background-position: bottom right;
+}
+#section3 .ornament{
+    width: 100%;
+    height: 100%;
+}
+.fp-controlArrow {
+    border-width: 0 !important;
+    border-color: transparent transparent transparent #fff;
+    background: no-repeat center center;
+    width: 30px !important;
+    height: 30px;
+}
+.fp-prev {
+    left: 15px;
+    background-image: url(../images/left.svg);
+}
+.fp-next {
+    right: 15px;
+    background-image: url(../images/right.svg);
+}
+#arrow-down-anchor{
+    margin: 0 auto;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    bottom: 15px;
+}
+#arrow-down{
+    width: 30px;
+    height: 30px;
+    background: no-repeat center center;
+    background-image: url(../images/arrow-down.svg);
+}
