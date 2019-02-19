@@ -9,6 +9,7 @@
     <meta name="keywords" content="fullpage,jquery,demo,screen,fullscreen,normal scroll,autoscrolling, scroll" />
     <meta name="Resource-type" content="Document" />
     <link rel="stylesheet" type="text/css" href="./assets/style/fullpage.min.css" />
+    <link rel="stylesheet" type="text/css" href="./assets/style/modal.css" />
     <link rel="stylesheet" type="text/css" href="./assets/style/page.css" />
     <link rel="stylesheet" type="text/css" href="./assets/style/style.css" />
     <link rel="stylesheet" type="text/css" href="./assets/fonts/museo-sans/stylesheet.css" />
@@ -270,7 +271,9 @@
                     <span class="line"></span>
                     <p id="text-before-plan">Let’s go, you can build a project plan and let us help you achive with
                         your overall business objectives.</p>
-                    <a class="button button-color">plan a project</a>
+                    <label  class="button button-color" for="modal-2">plan a project</label>
+                    <!-- btn btn--blue  -->
+                    <!-- <label class="btn btn--blue" for="modal-2">Click for more AWW</label> -->
                 </div>
                 <div class="footer">
                     <ul id="secondary-menu">
@@ -290,6 +293,16 @@
                 </div>
             </div>
         </div>
+    </div>
+
+    <input class="modal-state" id="modal-2" type="checkbox" />
+    <div class="modal">
+    <label class="modal__bg" for="modal-2"></label>
+    <div class="modal__inner">
+        <label class="modal__close" for="modal-2"></label>
+        <h2>Sleppy sloth</h2>
+        <p><img src="https://i.imgur.com/TPx9zYo.gif" alt="" />Aliquam in sagittis nulla. Curabitur euismod diam eget risus venenatis, sed dictum lectus bibendum. Nunc nunc nisi, hendrerit eget nisi id, rhoncus rutrum velit. Nunc vel mauris dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam fringilla quis nisi eget imperdiet.</p>
+    </div>
     </div>
 
     <script type="text/javascript" src="./assets/script/fullpage.min.js"></script>

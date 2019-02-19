@@ -412,6 +412,7 @@
     line-height: 21px;
 }
 .button-color {
+    cursor: pointer;
     font-size: 2em;
     padding: 20px 50px;
     font-family: 'Museo Sans 900';
