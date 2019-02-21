@@ -5,6 +5,10 @@
 	color: #333;
 	color: rgba(0,0,0,0.5);
 }
+body{
+    width: inherit;
+    position: relative;
+}
 /* --------------------------------------- */
 .section{
     text-align: center;
@@ -93,8 +97,12 @@
     width: 30px;
     height: 30px;
     bottom: 15px;
+    width: 100%;
+    left: 0;
+    right: 0;
 }
 #arrow-down{
+    margin: 0 auto;
     width: 30px;
     height: 30px;
     background: no-repeat center center;
@@ -498,11 +506,7 @@
         display: inline-block;
     }
     #header{
-        width: auto;
+        width: inherit;
     }
 }
 /* END RESPONSIVE ----------------------------- */
-body{
-    width: 100%;
-    position: relative;
-}

@@ -74,7 +74,7 @@
     <div id="fullpage">
         <div class="section" id="section0">
             <div class="content">
-                <h1 style="margin: 0 auto; font-family:'Museo Sans 900'; font-size: 5em; color: white;">JUST CREATE<br />SOMETHING
+                <h1 style="margin: 0 auto; font-family:'Museo Sans 900'; font-size: 1em; color: white;">JUST CREATE<br />SOMETHING
                     NEW</h1>
             </div>
             <a id="arrow-down-anchor" href="#services">
@@ -872,23 +872,31 @@
     <script type="text/javascript" src="./assets/script/siema.min.js"></script>
 
     <script type="text/javascript">
-        var myFullpage = new fullpage('#fullpage', {
-            menu: '#menu',
-            anchors: ['home', 'services', 'works', 'onGoing', 'action'],
-            sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
-            autoScrolling: false,
-            scrollOverflow: true,
-            licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE'
-        });
+        // if(document.width > 720){
+            var myFullpage = new fullpage('#fullpage', {
+                menu: '#menu',
+                anchors: ['home', 'services', 'works', 'onGoing', 'action'],
+                sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
+                autoScrolling: false,
+                scrollOverflow: true,
+                licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE'
+            });
+        // }
     </script>
     <script type="text/javascript">
         // Siema doesn't come with pagination built in
         // But it is very easy to add one if you want
 
+        if(document.width > 720){
         // New siema instance
         const mySiema = new Siema({
             perPage: 3,
         });
+        } else {
+            const mySiema = new Siema({
+            perPage: 1,
+        });
+        }
 
         // Add a function that generates pagination to prototype
         Siema.prototype.addPagination = function () {
