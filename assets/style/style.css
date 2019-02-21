@@ -293,10 +293,11 @@
 /* END WORKS ----------------------------- */
 /* START ON GOING ----------------------------- */
 #section3 .content {
+    display: block;
     color: white;
     flex-direction: column;
 }
-#section3 .content .title-block {
+#section3 .title-block {
     margin-top: 75px;
 }
 .slide-content-block{
