@@ -483,3 +483,26 @@
     color: gray;
 }
 /* END ACTION ----------------------------- */
+/* RESPONSIVE ----------------------------- */
+#menu{
+    display: inline-block;
+}
+#trigger-overlay{
+    display: none;
+}
+@media only screen and (max-width: 720px){
+    #menu{
+        display: none;
+    }
+    #trigger-overlay{
+        display: inline-block;
+    }
+    #header{
+        width: auto;
+    }
+}
+/* END RESPONSIVE ----------------------------- */
+body{
+    width: 100%;
+    position: relative;
+}
