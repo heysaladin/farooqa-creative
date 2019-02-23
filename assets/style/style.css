@@ -9,6 +9,9 @@ body{
     width: inherit;
     position: relative;
 }
+a{
+    cursor: pointer;
+}
 /* --------------------------------------- */
 .section{
     text-align: center;
@@ -26,12 +29,12 @@ body{
     position: absolute;
     top: 0;
     width: inherit;
-    height: inherit;
+    height: 100%;
     display: flex;
 }
 .section .ornament > div{
     flex: 1;
-    height: inherit;
+    height: 100%;
     width: 50%;
     background-repeat: no-repeat;
     background-size: 50%;
@@ -114,7 +117,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 97.2%;
+    width: 100%;
     padding: 0px 1.4%;
     /* background-color: rgba(0,0,0,0.25); */
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&1+0,0.44+100 */
@@ -231,10 +234,32 @@ body{
     margin-top: 15px;
     /* border: 1px solid #ddd; */
 }
+/* START ABOUT ----------------------------- */
+#section1 {
+    min-height: 700px;
+}
+@media only screen and (max-width: 768px) {
+#section1 .content {
+    flex-direction: column;
+}
+}
+/* #section1 .ornament {
+    min-height: 100%;
+} */
+/* END ABOUT ----------------------------- */
 /* START WORKS ----------------------------- */
+#section2 {
+    min-height: 850px;
+}
+/* #section2 .ornament {
+    min-height: 100%;
+} */
 #section2 .content {
     color: white;
     flex-direction: column;
+}
+#section2 .title-block {
+    padding-top: 75px;
 }
 .siema {
     margin: 1rem 0;
@@ -298,15 +323,23 @@ body{
 .siema > div h3 {
     color: #7E7E7E;
 }
+@media only screen and (max-width: 768px) {
+    .carousel {
+        /* display: none; */
+    }
+}
 /* END WORKS ----------------------------- */
 /* START ON GOING ----------------------------- */
+#section3 {
+    min-height: 900px;
+}
 #section3 .content {
     display: block;
     color: white;
     flex-direction: column;
 }
 #section3 .title-block {
-    margin-top: 75px;
+    padding-top: 75px;
 }
 .slide-content-block{
     width: 100%;
@@ -340,7 +373,7 @@ body{
 }
 .card-content {
     width: 99.8%;
-    height: 600px;
+    height: 545px;
     margin: 3px 0.1% 0;
     /* background: white; */
     border-radius: 10px;
@@ -368,8 +401,8 @@ body{
 
 }
 .logo-project{
-    width: 60px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 10px;
@@ -394,6 +427,44 @@ body{
     width: 50%;
     color: black;
 }
+.fp-slides {
+    height: auto;
+    overflow: unset;
+    overflow: hidden;
+}
+@media only screen and (max-width: 768px) {
+    .fp-slides {
+        /* display: none; */
+    }
+    /* #section1, */
+    /* #section2, */
+    /* #section3, */
+    /* #section4{
+        display: none;
+    } */
+    #section3 {
+        min-height: 1600px;
+    }
+.slide-content-block {
+    flex-direction: column;
+}
+.slide-content-block>div>.card {
+    padding: 45px 40px;
+}
+.slide-content-block>div>.card {
+    height: 465px;
+}
+
+.card-content {
+    height: 345px;
+}
+.slide-content-block>div>.slide-content-text-wrapper {
+    height: 500px;
+}
+/* .slide-content-block>div>.slide-content-text-wrapper {
+    justify-content: center;
+} */
+}
 /* END ON GOING ----------------------------- */
 /* START ACTION ----------------------------- */
 #section4 .content {
@@ -413,7 +484,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    padding: 50px;
+    padding: 50px 0;
 }
 #text-before-plan{
     margin: 50px auto;

@@ -22,11 +22,11 @@ body {
 	font-family: 'Lato', 'Avenir Next', Arial, sans-serif;
 }
 
-a {
+/* a {
 	color: #99cc33;
 	text-decoration: none;
 	outline: none;
-}
+} */
 
 a:hover, a:focus {
 	color: #373e18;
@@ -132,14 +132,14 @@ section p {
 	padding: 20px 0;
 }
 
-section button {
+/* section button {
 	border: none;
 	padding: 15px 30px;
 	outline: none;
 	background: #85b91e;
-}
+} */
 
-.related > a {
+/* .related > a {
 	border: 1px solid #99cc33;
 	display: inline-block;
 	text-align: center;
@@ -155,7 +155,7 @@ section button {
 .related a:hover {
 	border-color: #82b222;
 	color: #82b222;
-}
+} */
 
 .related a img {
 	max-width: 100%;
