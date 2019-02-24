@@ -13,12 +13,14 @@ body {
 
 a {
     cursor: pointer;
+    text-decoration: none;
+    color: #2C2C2C;
 }
 
 /* --------------------------------------- */
 .section {
     text-align: center;
-    position: relative;
+    /* position: relative; */
 }
 
 .content {
@@ -776,3 +778,44 @@ a {
 }
 
 /* END RESPONSIVE ----------------------------- */
+/* POPUP ----------------------------- */
+.modal-container{
+    height: 100%;
+    display: flex;
+}
+.modal-image-wrapper{
+    
+}
+.modal-content{
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.popup-title{
+    font-family: 'Museo Sans 700';
+    font-size: 1.5em;
+    margin-bottom: 10px
+}
+.popup-text-small{
+
+}
+.popup-text-large{
+    margin: 15px auto 25px;
+    font-size: 1.65em;
+    color: #2C2C2C;
+}
+.popup-button{
+    margin: 0 15%;
+}
+.popup-button > a{
+    font-size: 1em;
+    display: block;
+}
+@media only screen and (max-width: 768px) {
+    .popup-button{
+        margin: 0 0%;
+    }
+}
+/* END POPUP ----------------------------- */

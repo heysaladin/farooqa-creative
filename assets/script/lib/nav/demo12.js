@@ -1,4 +1,7 @@
 (function() {
+
+	
+
 	var triggerBttn = document.getElementById( 'trigger-overlay' ),
 		overlay = document.querySelector( 'div.overlay' ),
 		closeBttn = overlay.querySelector( 'button.overlay-close' );
@@ -54,4 +57,19 @@
 
 	triggerBttn.addEventListener( 'click', toggleOverlay );
 	closeBttn.addEventListener( 'click', toggleOverlay );
+
+	var menuLinks = document.querySelectorAll("div.overlay nav ul li a");
+	//menuLinks.addEventListener( 'click', toggleOverlay );
+	// menuLinks.forEach(function(element) {
+	// 	console.log(element);
+	// 	menuLinks[element].addEventListener( 'click', toggleOverlay );
+	// });
+	menuLinks[0].addEventListener( 'click', toggleOverlay );
+	menuLinks[1].addEventListener( 'click', toggleOverlay );
+	menuLinks[2].addEventListener( 'click', toggleOverlay );
+	menuLinks[3].addEventListener( 'click', toggleOverlay );
+	menuLinks[4].addEventListener( 'click', toggleOverlay );
+	menuLinks[5].addEventListener( 'click', toggleOverlay );
+	menuLinks[6].addEventListener( 'click', toggleOverlay );
+
 })();

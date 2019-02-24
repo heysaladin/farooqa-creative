@@ -278,13 +278,13 @@
         <button type="button" class="overlay-close">Close</button>
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Work</a></li>
-                <li><a href="#">Clients</a></li>
-                <li><a href="#">Contact</a></li>
-                <li><a href="#">Clients</a></li>
-                <li><a href="#">Contact</a></li>
+                <li data-menuanchor="home" class="active"><a href="#home">Home</a></li>
+                <li data-menuanchor="services"><a href="#services">Services</a></li>
+                <li data-menuanchor="works"><a href="#works">Works</a></li>
+                <li data-menuanchor="onGoing"><a href="#onGoing">On Going</a></li>
+                <li data-menuanchor="action" class="special"><a href="#action">Action</a></li>
+                <li><a href="https://www.instagram.com/">Clients & Partners</a></li>
+                <li><a href="https://www.youtube.com/">Blog & Notes</a></li>
             </ul>
         </nav>
     </div>
@@ -294,20 +294,30 @@
         <label class="modal__bg" for="modal-2"></label>
         <div class="modal__inner">
             <label class="modal__close" for="modal-2"></label>
-            <h2>Sleppy sloth</h2>
-            <p><img src="https://i.imgur.com/TPx9zYo.gif" alt="" />Aliquam in sagittis nulla. Curabitur euismod diam
-                eget
-                risus venenatis, sed dictum lectus bibendum. Nunc nunc nisi, hendrerit eget nisi id, rhoncus rutrum
-                velit.
-                Nunc vel mauris dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
-                himenaeos. Aliquam fringilla quis nisi eget imperdiet.</p>
+            <div class="modal-container">
+                <div class="modal-image-wrapper">
+
+                </div>
+
+                <div class="modal-content">
+                    <h2 class="popup-title">Plan a Project</h2>
+                    <p class="popup-text-small">
+                        You can start planning a project by sending a message below to us ...
+                    </p>
+                    <p class="popup-text-large">
+                        Hello, my name is __________, I can be contacted via email on __________ or phone number on __________,
+                        I will hold project __________. I need Farooqa's help in this project. Contact me immediately.
+                    </p>
+                    <div class="popup-button">
+                        <a href="#" class="button button-color">submit</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
     <script src="./assets/script/lib/nav/classie.js"></script>
     <script src="./assets/script/lib/nav/demo12.js"></script>
-
-
 
     <script type="text/javascript" src="./assets/script/fullpage.min.js"></script>
     <script type="text/javascript" src="./assets/script/siema.min.js"></script>
