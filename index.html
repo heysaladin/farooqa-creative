@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Normal scrolling - fullPage.js</title>
+    <title>Farooqa</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Alvaro Trigo Lopez" />
     <meta name="description" content="fullPage full-screen normal scrolling with autoScrolling." />
@@ -17,49 +17,15 @@
     <link rel="stylesheet" type="text/css" href="./assets/script/lib/nav/demo.css" />
     <link rel="stylesheet" type="text/css" href="./assets/script/lib/nav/style12.css" />
     <script src="./assets/script/lib/nav/snap.svg-min.js"></script>
-      <script src="./assets/script/lib/nav/modernizr.custom.js"></script>
-    <!-- <style>
-
-    /* Style for our header texts
-    * --------------------------------------- */
-    h1{
-        font-size: 5em;
-        font-family: arial,helvetica;
-        color: #fff;
-        margin:0;
-    }
-    .intro p{
-        color: #fff;
-    }
-
-    /* Centered texts in each section
-    * --------------------------------------- */
-    .section{
-        text-align:center;
-    }
-
-
-    /* Bottom menu
-    * --------------------------------------- */
-    #infoMenu li a {
-        color: #fff;
-    }
-    </style> -->
-
-    <!--[if IE]>
-        <script type="text/javascript">
-             var console = { log: function() {} };
-        </script>
-    <![endif]-->
+    <script src="./assets/script/lib/nav/modernizr.custom.js"></script>
 </head>
 
 <body>
 
-    <!-- style="position: fixed; z-index: 9;" -->
-
     <header id="header">
         <a href="#" id="logo">
-            <img src="./assets/images/logo-white.svg" />
+            <img id="logo-desktop" src="./assets/images/logo-white.svg" />
+            <img id="logo-mobile" src="./assets/images/logo-short-white.svg" />
         </a>
         <ul id="menu">
             <li data-menuanchor="home" class="active"><a href="#home">Home</a></li>
@@ -68,7 +34,7 @@
             <li data-menuanchor="onGoing"><a href="#onGoing">On Going</a></li>
             <li data-menuanchor="action" class="special"><a href="#action">Action</a></li>
         </ul>
-        <button id="trigger-overlay" type="button">Open Overlay</button>
+        <button id="trigger-overlay" type="button"></button>
     </header>
 
     <div id="fullpage">
@@ -122,7 +88,7 @@
                     <div class="line-block">
                         <!-- <div class="icon-wrapper"></div> -->
                         <div class="list-content">
-                            <a class="button button-ghost">explore more</a>
+                            <a href="#" class="button button-ghost">explore more</a>
                         </div>
                     </div>
                 </div>
@@ -199,540 +165,6 @@
                     <h1 class="title">On Going Project</h1>
                     <span class="line"></span>
                 </div>
-                <!-- <div class="slide" id="slide1"> -->
-                    <!-- <div class="slide-content-block">
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/39a31e12891215.5626e854534fd.jpg" />
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="slide-content-text-wrapper">
-                                <div class="card-caption">
-                                    <div class="logo-project">
-                                        <img src="https://cdc.uns.ac.id/uploads/image/2017-03-22-Au6NamtS6eJHbjexgXFgr0nP3qzc8y87.png" />
-                                    </div>
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet,
-                                        consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                                        dolore magna aliqua.
-                                        <br />
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                    <div class="list-content">
-                                        <a class="button button-ghost">read more</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-                <!-- </div> -->
-
-                <!-- <div class="slide" id="slide2"> -->
-                    <!-- <div class="slide-content-block">
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/39a31e12891215.5626e854534fd.jpg" />
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="slide-content-text-wrapper">
-                                <div class="card-caption">
-                                    <div class="logo-project">
-                                        <img src="https://cdc.uns.ac.id/uploads/image/2017-03-22-Au6NamtS6eJHbjexgXFgr0nP3qzc8y87.png" />
-                                    </div>
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet,
-                                        consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                                        dolore magna aliqua.
-                                        <br />
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                    <div class="list-content">
-                                        <a class="button button-ghost">read more</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-                <!-- </div> -->
-        
-        
-                <!-- <img src="./imgs/iphone2.png" alt="iphone" id="iphone-two" /> -->
-        <!-- <p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed. -->
-        
-        <!-- </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p> -->
-        <!-- <p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p>
-        <p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p><p>Eu nec ferri molestie consequat, vel at alia dolore putant. Labore philosophia ut vix. In vis nostrud
-            interesset appellantur, vis et tation feugiat scripserit. Te nec noster suavitate persecuti. Diceret
-            erroribus cu vix, alii omnes ei sit. Sea an corrumpit patrioque, virtute accumsan nominavi et usu, ex mei
-            dolore vocibus incorrupte.
-        
-            Duo ea saperet tacimates. Sed possim prodesset no, per novum putent doctus ea. Eu mea magna aliquip graecis,
-            pri corpora officiis complectitur ei, lorem saepe consetetur his ad. Meis consulatu ei vis, an altera
-            ocurreret interesset qui.
-        
-            Eu ponderum comprehensam his, case antiopam pri te. Mel ne partem consequat instructior. Ad dicunt malorum
-            sea, ex qui omnes invenire gubergren. Ius cu autem aliquando, pri vide ornatus perpetua an, no has epicuri
-            verterem. Nam at animal pertinax efficiantur.
-        
-            Per alienum torquatos eu. Sed saepe quodsi et, ullum choro definitionem sed et. Ullum elitr comprehensam sed
-            at, sint illum propriae per eu. Eu enim laudem reformidans vel. Pro clita quando ad. Usu te virtute
-            quaestio, ut eruditi tacimates volutpat per.
-        
-            Affert accusamus duo ex, ea pri habeo graece, cu magna dolorum sea. Quas dictas assueverit ad qui, cu duo
-            harum fabulas apeirian, ullum gubergren et sit. Ne cetero recusabo adipiscing quo, cu harum quaestio
-            neglegentur cum. Has tation aliquip ad, virtute volumus definitionem mel ne. Nobis audiam civibus ius at.
-        
-            Ei eum hinc mutat inciderint. Cu maluisset assentior per, graecis ponderum no mel. Eum eu vitae quando
-            gloriatur, cum graece percipitur no, sed errem maiestatis te. Sed porro epicuri te, ad nam malorum verterem.
-            Ea zril aliquip euismod sed.
-        
-        </p> -->
-
-
-        <!-- <div class="content">
-            <div class="title-block">
-                <h1 class="title">On Going Project</h1>
-                <span class="line"></span>
-            </div> -->
-            <div class="slide" id="slide1">
-                <div class="slide-content-block">
-                    <div>
-                        <div class="card">
-                            <div class="card-content">
-                                <img class="card-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/39a31e12891215.5626e854534fd.jpg" />
-                            </div>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="slide-content-text-wrapper">
-                            <div class="card-caption">
-                                <div class="logo-project">
-                                    <img src="https://cdc.uns.ac.id/uploads/image/2017-03-22-Au6NamtS6eJHbjexgXFgr0nP3qzc8y87.png" />
-                                </div>
-                                <h1>Despacito Web Project</h1>
-                                <h3>Design, Development</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                                    dolore magna aliqua.
-                                    <br />
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua.</p>
-                                <div class="list-content">
-                                    <a class="button button-ghost">read more</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="slide" id="slide2">
-                <div class="slide-content-block">
-                    <div>
-                        <div class="card">
-                            <div class="card-content">
-                                <img class="card-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/39a31e12891215.5626e854534fd.jpg" />
-                            </div>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="slide-content-text-wrapper">
-                            <div class="card-caption">
-                                <div class="logo-project">
-                                    <img src="https://cdc.uns.ac.id/uploads/image/2017-03-22-Au6NamtS6eJHbjexgXFgr0nP3qzc8y87.png" />
-                                </div>
-                                <h1>Despacito Web Project</h1>
-                                <h3>Design, Development</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet,
-                                    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                                    dolore magna aliqua.
-                                    <br />
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua.</p>
-                                <div class="list-content">
-                                    <a class="button button-ghost">read more</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            </div>
-        </div>
-
-        
-        <!-- 
-        <div class="section" id="section3">
-            <div class="ornament">
-                <div class="ornament-left"></div>
-                <div class="ornament-right"></div>
-            </div>
-            <div class="content">
-                <div class="title-block">
-                    <h1 class="title">On Going Project</h1>
-                    <span class="line"></span>
-                </div>
                 <div class="slide" id="slide1">
                     <div class="slide-content-block">
                         <div>
@@ -758,7 +190,7 @@
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                         incididunt ut labore et dolore magna aliqua.</p>
                                     <div class="list-content">
-                                        <a class="button button-ghost">read more</a>
+                                        <a href="#" class="button button-ghost">read more</a>
                                     </div>
                                 </div>
                             </div>
@@ -791,7 +223,7 @@
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                         incididunt ut labore et dolore magna aliqua.</p>
                                     <div class="list-content">
-                                        <a class="button button-ghost">read more</a>
+                                        <a href="#" class="button button-ghost">read more</a>
                                     </div>
                                 </div>
                             </div>
@@ -801,7 +233,7 @@
 
             </div>
         </div>
-        -->
+
         <div class="section" id="section4">
             <div class="ornament">
                 <div class="ornament-left"></div>
@@ -812,9 +244,8 @@
                     <span class="line"></span>
                     <p id="text-before-plan">Let’s go, you can build a project plan and let us help you achive with
                         your overall business objectives.</p>
-                    <label  class="button button-color" for="modal-2">plan a project</label>
-                    <!-- btn btn--blue  -->
-                    <!-- <label class="btn btn--blue" for="modal-2">Click for more AWW</label> -->
+                    <label class="button button-color" for="modal-2">plan a project</label>
+
                 </div>
                 <div class="footer">
                     <ul id="secondary-menu">
@@ -835,14 +266,13 @@
             </div>
         </div>
 
-        
+
 
     </div>
 
-    <div class="section overlay overlay-genie"
-        data-steps="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z;m 698.9986,728.03569 41.23353,0 -3.41953,77.8735 -34.98557,0 z;m 687.08153,513.78234 53.1506,0 C 738.0505,683.9161 737.86917,503.34193 737.27015,806 l -35.90067,0 c -7.82727,-276.34892 -2.06916,-72.79261 -14.28795,-292.21766 z;m 403.87105,257.94772 566.31246,2.93091 C 923.38284,513.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 455.17312,480.07689 403.87105,257.94772 z;M 51.871052,165.94772 1362.1835,168.87863 C 1171.3828,653.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 31.173122,513.78234 51.871052,165.94772 z;m 52,26 1364,4 c -12.8007,666.9037 -273.2644,483.78234 -322.7299,776 l -633.90062,0 C 359.32034,432.49318 -6.6979288,733.83462 52,26 z;m 0,0 1439.999975,0 0,805.99999 -1439.999975,0 z">
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1440 806"
-            preserveAspectRatio="none">
+
+    <div class="section overlay overlay-genie" data-steps="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z;m 698.9986,728.03569 41.23353,0 -3.41953,77.8735 -34.98557,0 z;m 687.08153,513.78234 53.1506,0 C 738.0505,683.9161 737.86917,503.34193 737.27015,806 l -35.90067,0 c -7.82727,-276.34892 -2.06916,-72.79261 -14.28795,-292.21766 z;m 403.87105,257.94772 566.31246,2.93091 C 923.38284,513.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 455.17312,480.07689 403.87105,257.94772 z;M 51.871052,165.94772 1362.1835,168.87863 C 1171.3828,653.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 31.173122,513.78234 51.871052,165.94772 z;m 52,26 1364,4 c -12.8007,666.9037 -273.2644,483.78234 -322.7299,776 l -633.90062,0 C 359.32034,432.49318 -6.6979288,733.83462 52,26 z;m 0,0 1439.999975,0 0,805.99999 -1439.999975,0 z">
+        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1440 806" preserveAspectRatio="none">
             <path class="overlay-path" d="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z" />
         </svg>
         <button type="button" class="overlay-close">Close</button>
@@ -853,18 +283,22 @@
                 <li><a href="#">Work</a></li>
                 <li><a href="#">Clients</a></li>
                 <li><a href="#">Contact</a></li>
+                <li><a href="#">Clients</a></li>
+                <li><a href="#">Contact</a></li>
             </ul>
         </nav>
     </div>
-    
+
     <input class="modal-state" id="modal-2" type="checkbox" />
     <div class="section modal">
         <label class="modal__bg" for="modal-2"></label>
         <div class="modal__inner">
             <label class="modal__close" for="modal-2"></label>
             <h2>Sleppy sloth</h2>
-            <p><img src="https://i.imgur.com/TPx9zYo.gif" alt="" />Aliquam in sagittis nulla. Curabitur euismod diam eget
-                risus venenatis, sed dictum lectus bibendum. Nunc nunc nisi, hendrerit eget nisi id, rhoncus rutrum velit.
+            <p><img src="https://i.imgur.com/TPx9zYo.gif" alt="" />Aliquam in sagittis nulla. Curabitur euismod diam
+                eget
+                risus venenatis, sed dictum lectus bibendum. Nunc nunc nisi, hendrerit eget nisi id, rhoncus rutrum
+                velit.
                 Nunc vel mauris dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
                 himenaeos. Aliquam fringilla quis nisi eget imperdiet.</p>
         </div>
@@ -873,21 +307,21 @@
     <script src="./assets/script/lib/nav/classie.js"></script>
     <script src="./assets/script/lib/nav/demo12.js"></script>
 
-    
+
 
     <script type="text/javascript" src="./assets/script/fullpage.min.js"></script>
     <script type="text/javascript" src="./assets/script/siema.min.js"></script>
 
     <script type="text/javascript">
         // if(document.width > 720){
-            var myFullpage = new fullpage('#fullpage', {
-                menu: '#menu',
-                anchors: ['home', 'services', 'works', 'onGoing', 'action'],
-                sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
-                autoScrolling: false,
-                scrollOverflow: true,
-                licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE'
-            });
+        var myFullpage = new fullpage('#fullpage', {
+            menu: '#menu',
+            anchors: ['home', 'services', 'works', 'onGoing', 'action'],
+            sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
+            autoScrolling: false,
+            scrollOverflow: true,
+            licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE'
+        });
         // }
     </script>
     <script type="text/javascript">
@@ -897,7 +331,10 @@
         // if(document.width > 720){
         // New siema instance
         const mySiema = new Siema({
-            perPage: 3,
+            perPage: {
+                768: 1,
+                1024: 3,
+            },
         });
         // } else {
         //     const mySiema = new Siema({
