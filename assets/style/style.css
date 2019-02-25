@@ -796,7 +796,8 @@ a {
 .popup-title{
     font-family: 'Museo Sans 700';
     font-size: 1.5em;
-    margin-bottom: 10px
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .popup-text-small{
 
@@ -807,15 +808,26 @@ a {
     color: #2C2C2C;
 }
 .popup-button{
-    margin: 0 15%;
+    margin: 0 15% 10px;
 }
 .popup-button > a{
     font-size: 1em;
     display: block;
 }
 @media only screen and (max-width: 768px) {
+    .modal-container{
+        /* overflow-y: scroll; */
+    }
     .popup-button{
-        margin: 0 0%;
+        margin: 0 0% 10px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .modal-content{
+        justify-content: flex-start;
+    }
+    .popup-button{
+        margin: 0 0% 25px;
     }
 }
 /* END POPUP ----------------------------- */

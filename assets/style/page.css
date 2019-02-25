@@ -62,7 +62,7 @@ abbr,acronym { border: 0;
 }
 #menu li.special a {
 	-webkit-border-radius: 10px;
-	border-radius: 10px;
+	border-radius: 25px;
 	border: 1px solid #ffffff;
 }
 #menu li.special a:active {
@@ -72,7 +72,7 @@ abbr,acronym { border: 0;
 
 #menu li.special a:hover {
 	background-color: rgba(255, 255, 255, 0.25);
-	border-color: rgba(0, 0, 0, 0.5);
+	border-color: rgba(0, 0, 0, 0.0);
 	/* color: black; */
 }
 #menu li.active{
