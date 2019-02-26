@@ -1,371 +1,424 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-
+<html>
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Farooqa</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Alvaro Trigo Lopez" />
-    <meta name="description" content="fullPage full-screen normal scrolling with autoScrolling." />
-    <meta name="keywords" content="fullpage,jquery,demo,screen,fullscreen,normal scroll,autoscrolling, scroll" />
-    <meta name="Resource-type" content="Document" />
-    <link rel="stylesheet" type="text/css" href="./assets/style/fullpage.min.css" />
-    <link rel="stylesheet" type="text/css" href="./assets/style/modal.css" />
-    <link rel="stylesheet" type="text/css" href="./assets/style/page.css" />
-    <link rel="stylesheet" type="text/css" href="./assets/style/style.css" />
-    <link rel="stylesheet" type="text/css" href="./assets/fonts/museo-sans/stylesheet.css" />
-    <link rel="stylesheet" type="text/css" href="./assets/script/lib/nav/demo.css" />
-    <link rel="stylesheet" type="text/css" href="./assets/script/lib/nav/style12.css" />
-    <script src="./assets/script/lib/nav/snap.svg-min.js"></script>
-    <script src="./assets/script/lib/nav/modernizr.custom.js"></script>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<title>Farooqa</title>
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<meta content="Alvaro Trigo Lopez" name="author">
+	<meta content="fullPage full-screen normal scrolling with autoScrolling." name="description">
+	<meta content="fullpage,jquery,demo,screen,fullscreen,normal scroll,autoscrolling, scroll" name="keywords">
+	<meta content="Document" name="Resource-type">
+	<link href="./assets/style/fullpage.min.css" rel="stylesheet" type="text/css">
+	<link href="./assets/style/modal.css" rel="stylesheet" type="text/css">
+	<link href="./assets/style/page.css" rel="stylesheet" type="text/css">
+	<link href="./assets/style/style.css" rel="stylesheet" type="text/css">
+	<link href="./assets/fonts/museo-sans/stylesheet.css" rel="stylesheet" type="text/css">
+	<link href="./assets/script/lib/nav/demo.css" rel="stylesheet" type="text/css">
+	<link href="./assets/script/lib/nav/style12.css" rel="stylesheet" type="text/css">
+	<script src="./assets/script/lib/nav/snap.svg-min.js">
+	</script>
+	<script src="./assets/script/lib/nav/modernizr.custom.js">
+	</script>
 </head>
-
 <body>
+	<header id="header">
+		<a href="#" id="logo"><img id="logo-desktop" src="./assets/images/logo-white.svg"> <img id="logo-mobile" src="./assets/images/logo-short-white.svg"></a>
+		<ul id="menu">
+			<li class="active" data-menuanchor="home">
+				<a href="#home">Home</a>
+			</li>
+			<li data-menuanchor="services">
+				<a href="#services">Services</a>
+			</li>
+			<li data-menuanchor="works">
+				<a href="#works">Works</a>
+			</li>
+			<li data-menuanchor="onGoing">
+				<a href="#onGoing">On Going</a>
+			</li>
+			<li class="special" data-menuanchor="action">
+				<a href="#action">Action</a>
+			</li>
+		</ul><button id="trigger-overlay" type="button"></button>
+	</header>
+	<div id="fullpage">
+		<div class="section" id="section0">
+			<div class="content">
+				<h1 style="margin: 0 auto; font-family:'Museo Sans 900'; font-size: 1em; color: white;">JUST CREATE<br>
+				SOMETHING NEW</h1>
+			</div><a href="#services" id="arrow-down-anchor">
+			<div id="arrow-down"></div></a>
+		</div>
+		<div class="section" id="section1">
+			<div class="ornament">
+				<div class="ornament-left"></div>
+				<div class="ornament-right"></div>
+			</div>
+			<div class="content">
+				<div>
+					<h1 class="title title-right">what<br>
+					we do</h1><span class="line line-right"></span>
+				</div>
+				<div>
+					<div class="line-block">
+						<div class="icon-wrapper"></div>
+						<div class="list-content">
+							<h3>Design</h3>
+							<p>We create the creative solutions can help you differentiate your company by creating a fresh, compelling design. Our designers create memorable visual content that motivates visitors to fulfill your business goals.</p>
+						</div>
+					</div>
+					<div class="line-block">
+						<div class="icon-wrapper"></div>
+						<div class="list-content">
+							<h3>Develops</h3>
+							<p>Executionists works primarily with Mobile App, Modern Website, Custom Development and other popular, open source frameworks. We have the expertise to customize design and functionality to your business needs.</p>
+						</div>
+					</div>
+					<div class="line-block">
+						<div class="icon-wrapper"></div>
+						<div class="list-content">
+							<h3>Marketing</h3>
+							<p>We can augment your internal team or take marketing completely off your plate. Consistent and creative marketing will boost your visibility and produce the conversions you need to be profitable.</p>
+						</div>
+					</div>
+					<div class="line-block">
+						<!-- <div class="icon-wrapper"></div> -->
+						<div class="list-content">
+							<a class="button button-ghost" href="#">explore more</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section" id="section2">
+			<div class="ornament">
+				<div class="ornament-left"></div>
+				<div class="ornament-right"></div>
+			</div>
+			<div class="content">
+				<div class="title-block">
+					<h1 class="title">Works</h1><span class="line"></span>
+				</div>
+				<div class="carousel">
+					<div class="siema">
+						<div>
+							<div class="card">
+								<div class="card-content">
+									<img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg">
+									<h1>Despacito Web Project</h1>
+									<h3>Design, Development</h3>
+								</div>
+							</div>
+						</div>
+						<div>
+							<div class="card">
+								<div class="card-content">
+									<img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg">
+									<h1>Despacito Web Project</h1>
+									<h3>Design, Development</h3>
+								</div>
+							</div>
+						</div>
+						<div>
+							<div class="card">
+								<div class="card-content">
+									<img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg">
+									<h1>Despacito Web Project</h1>
+									<h3>Design, Development</h3>
+								</div>
+							</div>
+						</div>
+						<div>
+							<div class="card">
+								<div class="card-content">
+									<img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg">
+									<h1>Despacito Web Project</h1>
+									<h3>Design, Development</h3>
+								</div>
+							</div>
+						</div>
+						<div>
+							<div class="card">
+								<div class="card-content">
+									<img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg">
+									<h1>Despacito Web Project</h1>
+									<h3>Design, Development</h3>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section" id="section3">
+			<div class="ornament">
+				<div class="ornament-left"></div>
+				<div class="ornament-right"></div>
+			</div>
+			<div class="intro">
+				<div class="title-block">
+					<h1 class="title">On Going Project</h1><span class="line"></span>
+				</div>
+				<div class="slide" id="slide1">
+					<div class="slide-content-block">
+						<div>
+							<div class="card">
+								<div class="card-content"><img class="card-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/39a31e12891215.5626e854534fd.jpg"></div>
+							</div>
+						</div>
+						<div>
+							<div class="slide-content-text-wrapper">
+								<div class="card-caption">
+									<div class="logo-project"><img src="https://cdc.uns.ac.id/uploads/image/2017-03-22-Au6NamtS6eJHbjexgXFgr0nP3qzc8y87.png"></div>
+									<h1>Despacito Web Project</h1>
+									<h3>Design, Development</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<div class="list-content">
+										<a class="button button-ghost" href="#">read more</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="slide" id="slide2">
+					<div class="slide-content-block">
+						<div>
+							<div class="card">
+								<div class="card-content"><img class="card-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/39a31e12891215.5626e854534fd.jpg"></div>
+							</div>
+						</div>
+						<div>
+							<div class="slide-content-text-wrapper">
+								<div class="card-caption">
+									<div class="logo-project"><img src="https://cdc.uns.ac.id/uploads/image/2017-03-22-Au6NamtS6eJHbjexgXFgr0nP3qzc8y87.png"></div>
+									<h1>Despacito Web Project</h1>
+									<h3>Design, Development</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<div class="list-content">
+										<a class="button button-ghost" href="#">read more</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section" id="section4">
+			<div class="ornament">
+				<div class="ornament-left"></div>
+				<div class="ornament-right"></div>
+			</div>
+			<div class="content">
+				<div>
+					<span class="line"></span>
+					<p id="text-before-plan">Let’s go, you can build a project plan and let us help you achive with your overall business objectives.</p><label class="button button-color" for="modal-2">plan a project</label>
+				</div>
+				<div class="footer">
+					<ul id="secondary-menu">
+						<li>
+							<a href="#">Clients & Partners</a>
+						</li>
+						<li>
+							<a href="#">Blog & Notes</a>
+						</li>
+					</ul>
+					<ul id="social-menu">
+						<li>
+							<a class="icon behance" href="https://www.behance.net/didiengeon0aa6" rel="noopener" target="_blank" title=""></a>
+						</li>
+						<li>
+							<a class="icon dribbble" href="https://dribbble.com/saladinid" rel="noopener" target="_blank" title=""></a>
+						</li>
+						<li>
+							<a class="icon instagram" href="https://www.instagram.com/lakonono.works/" rel="noopener" target="_blank" title=""></a>
+						</li>
+						<li>
+							<a class="icon youtube" href="https://www.youtube.com/channel/UCkO1_CLA_xV7VktHBz9-9XQ?view_as=subscriber" rel="noopener" target="_blank" title=""></a>
+						</li>
+						<li>
+							<a class="icon github" href="https://github.com/saladinid" rel="noopener" target="_blank" title=""></a>
+						</li>
+					</ul>
+					<h5 id="copyright-text">©2019 Farooqa</h5>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="section overlay overlay-genie" data-steps="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z;m 698.9986,728.03569 41.23353,0 -3.41953,77.8735 -34.98557,0 z;m 687.08153,513.78234 53.1506,0 C 738.0505,683.9161 737.86917,503.34193 737.27015,806 l -35.90067,0 c -7.82727,-276.34892 -2.06916,-72.79261 -14.28795,-292.21766 z;m 403.87105,257.94772 566.31246,2.93091 C 923.38284,513.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 455.17312,480.07689 403.87105,257.94772 z;M 51.871052,165.94772 1362.1835,168.87863 C 1171.3828,653.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 31.173122,513.78234 51.871052,165.94772 z;m 52,26 1364,4 c -12.8007,666.9037 -273.2644,483.78234 -322.7299,776 l -633.90062,0 C 359.32034,432.49318 -6.6979288,733.83462 52,26 z;m 0,0 1439.999975,0 0,805.99999 -1439.999975,0 z">
+		<svg height="100%" preserveaspectratio="none" viewbox="0 0 1440 806" width="100%" xmlns="http://www.w3.org/2000/svg">
+		<path class="overlay-path" d="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z"></path></svg> <button class="overlay-close" type="button">Close</button>
+		<nav>
+			<ul>
+				<li class="active" data-menuanchor="home">
+					<a href="#home">Home</a>
+				</li>
+				<li data-menuanchor="services">
+					<a href="#services">Services</a>
+				</li>
+				<li data-menuanchor="works">
+					<a href="#works">Works</a>
+				</li>
+				<li data-menuanchor="onGoing">
+					<a href="#onGoing">On Going</a>
+				</li>
+				<li class="special" data-menuanchor="action">
+					<a href="#action">Action</a>
+				</li>
+				<li>
+					<a href="https://www.instagram.com/">Clients & Partners</a>
+				</li>
+				<li>
+					<a href="https://www.youtube.com/">Blog & Notes</a>
+				</li>
+			</ul>
+		</nav>
+	</div>
+	<input class="modal-state" id="modal-2" type="checkbox">
+	<div class="section modal">
+		<label class="modal__bg" for="modal-2"></label>
+		<div class="modal__inner">
+			<label class="modal__close" for="modal-2"></label>
+			<div class="modal-container">
+				<div class="modal-image-wrapper"></div>
+				<div class="modal-content">
+					<h2 class="popup-title">Plan a Project</h2>
+					<p class="popup-text-small">You can start planning a project by sending a message below to us ...</p>
+					<form action="#" method="get" onsubmit="return singup()">
+						<p class="popup-text-large">Hello, my name is <input name="fname" placeholder="Your name" type="text">, I can be contacted via email on <input name="femail" placeholder="Your email" type="text"> or phone number on <input name="fphone" placeholder="Your phone" type="text">, I will hold project <select name="projects">
+							<option value="default">
+								Select Project
+							</option>
+							<option value="design">
+								Graphic Design
+							</option>
+							<option value="web">
+								Website Development
+							</option>
+							<option value="mobile">
+								Mobile App Development
+							</option>
+							<option value="marketing">
+								Digital Marketing
+							</option>
+							<option value="custom">
+								Custom Project
+							</option>
+						</select>. I need Farooqa's help in this project.<br>
+						Contact me immediately.</p>
+						<div class="popup-button">
+							<button class="button button-color" name="submit" type="submit" value="SUBMIT">SUBMIT</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js">
+	</script> 
+	<script src="./assets/script/lib/nav/classie.js">
+	</script> 
+	<script src="./assets/script/lib/nav/demo12.js">
+	</script> 
+	<script src="./assets/script/fullpage.min.js" type="text/javascript">
+	</script> 
+	<script src="./assets/script/siema.min.js" type="text/javascript">
+	</script> 
+	<script type="text/javascript">
+	       var myFullpage = new fullpage('#fullpage', {
+	           menu: '#menu',
+	           anchors: ['home', 'services', 'works', 'onGoing', 'action'],
+	           sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
+	           autoScrolling: false,
+	           scrollOverflow: true,
+	           licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE'
+	       });
+	</script> 
+	<script type="text/javascript">
+	       const mySiema = new Siema({
+	           perPage: {
+	               768: 1,
+	               1024: 3,
+	           },
+	       });
+	       // Add a function that generates pagination to prototype
+	       Siema.prototype.addPagination = function() {
+	               for (let i = 0; i < this.innerElements.length; i++) {
+	                   const btn = document.createElement('button');
+	                   btn.textContent = ''; //i;
+	                   btn.addEventListener('click', () => this.goTo(i));
+	                   this.selector.appendChild(btn);
+	               }
+	           }
+	           // Trigger pagination creator
+	       mySiema.addPagination();
+	</script> 
+	<script type="text/javascript">
+	       function tc(a) {
+	           var x = document.querySelector(a).value;
+	           return x;
+	       }
 
-    <header id="header">
-        <a href="#" id="logo">
-            <img id="logo-desktop" src="./assets/images/logo-white.svg" />
-            <img id="logo-mobile" src="./assets/images/logo-short-white.svg" />
-        </a>
-        <ul id="menu">
-            <li data-menuanchor="home" class="active"><a href="#home">Home</a></li>
-            <li data-menuanchor="services"><a href="#services">Services</a></li>
-            <li data-menuanchor="works"><a href="#works">Works</a></li>
-            <li data-menuanchor="onGoing"><a href="#onGoing">On Going</a></li>
-            <li data-menuanchor="action" class="special"><a href="#action">Action</a></li>
-        </ul>
-        <button id="trigger-overlay" type="button"></button>
-    </header>
+	       function msg(a) {
+	           var x = document.querySelector(".emsg").innerHTML = a;
+	           return x;
+	       }
 
-    <div id="fullpage">
-        <div class="section" id="section0">
-            <div class="content">
-                <h1 style="margin: 0 auto; font-family:'Museo Sans 900'; font-size: 1em; color: white;">JUST CREATE<br />SOMETHING
-                    NEW</h1>
-            </div>
-            <a id="arrow-down-anchor" href="#services">
-                <div id="arrow-down"></div>
-            </a>
-        </div>
-        <div class="section" id="section1">
-            <div class="ornament">
-                <div class="ornament-left"></div>
-                <div class="ornament-right"></div>
-            </div>
-            <div class="content">
-                <div>
-                    <h1 class="title title-right">what<br />we do</h1>
-                    <span class="line line-right"></span>
-                </div>
-                <div>
-                    <div class="line-block">
-                        <div class="icon-wrapper"></div>
-                        <div class="list-content">
-                            <h3>Design</h3>
-                            <p>We create the creative solutions can help you differentiate your company by creating a
-                                fresh, compelling design. Our designers create memorable visual content that motivates
-                                visitors to fulfill your business goals.</p>
-                        </div>
-                    </div>
-                    <div class="line-block">
-                        <div class="icon-wrapper"></div>
-                        <div class="list-content">
-                            <h3>Develops</h3>
-                            <p>Executionists works primarily with Mobile App, Modern Website, Custom Development and
-                                other popular, open source frameworks. We have the expertise to customize design and
-                                functionality to your business needs.</p>
-                        </div>
-                    </div>
-                    <div class="line-block">
-                        <div class="icon-wrapper"></div>
-                        <div class="list-content">
-                            <h3>Marketing</h3>
-                            <p>We can augment your internal team or take marketing completely off your plate.
-                                Consistent and creative marketing will boost your visibility and produce the
-                                conversions you need to be profitable.</p>
-                        </div>
-                    </div>
-                    <div class="line-block">
-                        <!-- <div class="icon-wrapper"></div> -->
-                        <div class="list-content">
-                            <a href="#" class="button button-ghost">explore more</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="section" id="section2">
-            <div class="ornament">
-                <div class="ornament-left"></div>
-                <div class="ornament-right"></div>
-            </div>
-            <div class="content">
-                <div class="title-block">
-                    <h1 class="title">Works</h1>
-                    <span class="line"></span>
-                </div>
-                <div class="carousel">
-                    <div class="siema">
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg" />
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg" />
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg" />
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg" />
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg" />
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="section" id="section3">
-            <div class="ornament">
-                <div class="ornament-left"></div>
-                <div class="ornament-right"></div>
-            </div>
-            <div class="intro">
-                <div class="title-block">
-                    <h1 class="title">On Going Project</h1>
-                    <span class="line"></span>
-                </div>
-                <div class="slide" id="slide1">
-                    <div class="slide-content-block">
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/39a31e12891215.5626e854534fd.jpg" />
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="slide-content-text-wrapper">
-                                <div class="card-caption">
-                                    <div class="logo-project">
-                                        <img src="https://cdc.uns.ac.id/uploads/image/2017-03-22-Au6NamtS6eJHbjexgXFgr0nP3qzc8y87.png" />
-                                    </div>
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet,
-                                        consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                                        dolore magna aliqua.
-                                        <br />
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                    <div class="list-content">
-                                        <a href="#" class="button button-ghost">read more</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+	       function msgb(a) {
+	           var x = document.querySelector(".emsgb").innerHTML = a;
+	           return x;
+	       }
 
-                <div class="slide" id="slide2">
-                    <div class="slide-content-block">
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/39a31e12891215.5626e854534fd.jpg" />
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="slide-content-text-wrapper">
-                                <div class="card-caption">
-                                    <div class="logo-project">
-                                        <img src="https://cdc.uns.ac.id/uploads/image/2017-03-22-Au6NamtS6eJHbjexgXFgr0nP3qzc8y87.png" />
-                                    </div>
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet,
-                                        consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                                        dolore magna aliqua.
-                                        <br />
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                    <div class="list-content">
-                                        <a href="#" class="button button-ghost">read more</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+	       function size(a) {
+	           var x = document.querySelector(a).value.length;
+	           return x;
+	       }
+	       // show hide function
+	       //var idhide=document.getElementById("singup");
+	       function singu() {
+	           var hide = document.querySelector(".form-login");
 
-            </div>
-        </div>
-
-        <div class="section" id="section4">
-            <div class="ornament">
-                <div class="ornament-left"></div>
-                <div class="ornament-right"></div>
-            </div>
-            <div class="content">
-                <div>
-                    <span class="line"></span>
-                    <p id="text-before-plan">Let’s go, you can build a project plan and let us help you achive with
-                        your overall business objectives.</p>
-                    <label class="button button-color" for="modal-2">plan a project</label>
-
-                </div>
-                <div class="footer">
-                    <ul id="secondary-menu">
-                        <li><a href="#">Clients & Partners</a></li>
-                        <li><a href="#">Blog & Notes</a></li>
-                    </ul>
-
-                    <ul id="social-menu">
-                        <li><a href="https://www.behance.net/didiengeon0aa6" target="_blank" rel="noopener" class="icon behance" title=""></a></li>
-                        <li><a href="https://dribbble.com/saladinid" target="_blank" rel="noopener" class="icon dribbble" title=""></a></li>
-                        <li><a href="https://www.instagram.com/lakonono.works/" target="_blank" rel="noopener" class="icon instagram" title=""></a></li>
-                        <li><a href="https://www.youtube.com/channel/UCkO1_CLA_xV7VktHBz9-9XQ?view_as=subscriber" target="_blank" rel="noopener" class="icon youtube" title=""></a></li>
-                        <li><a href="https://github.com/saladinid" target="_blank" rel="noopener" class="icon github" title=""></a></li>
-                    </ul>
-
-                    <h5 id="copyright-text">©2019 Farooqa</h5>
-                </div>
-            </div>
-        </div>
-
-
-
-    </div>
-
-
-    <div class="section overlay overlay-genie" data-steps="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z;m 698.9986,728.03569 41.23353,0 -3.41953,77.8735 -34.98557,0 z;m 687.08153,513.78234 53.1506,0 C 738.0505,683.9161 737.86917,503.34193 737.27015,806 l -35.90067,0 c -7.82727,-276.34892 -2.06916,-72.79261 -14.28795,-292.21766 z;m 403.87105,257.94772 566.31246,2.93091 C 923.38284,513.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 455.17312,480.07689 403.87105,257.94772 z;M 51.871052,165.94772 1362.1835,168.87863 C 1171.3828,653.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 31.173122,513.78234 51.871052,165.94772 z;m 52,26 1364,4 c -12.8007,666.9037 -273.2644,483.78234 -322.7299,776 l -633.90062,0 C 359.32034,432.49318 -6.6979288,733.83462 52,26 z;m 0,0 1439.999975,0 0,805.99999 -1439.999975,0 z">
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1440 806" preserveAspectRatio="none">
-            <path class="overlay-path" d="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z" />
-        </svg>
-        <button type="button" class="overlay-close">Close</button>
-        <nav>
-            <ul>
-                <li data-menuanchor="home" class="active"><a href="#home">Home</a></li>
-                <li data-menuanchor="services"><a href="#services">Services</a></li>
-                <li data-menuanchor="works"><a href="#works">Works</a></li>
-                <li data-menuanchor="onGoing"><a href="#onGoing">On Going</a></li>
-                <li data-menuanchor="action" class="special"><a href="#action">Action</a></li>
-                <li><a href="https://www.instagram.com/">Clients & Partners</a></li>
-                <li><a href="https://www.youtube.com/">Blog & Notes</a></li>
-            </ul>
-        </nav>
-    </div>
-
-    <input class="modal-state" id="modal-2" type="checkbox" />
-    <div class="section modal">
-        <label class="modal__bg" for="modal-2"></label>
-        <div class="modal__inner">
-            <label class="modal__close" for="modal-2"></label>
-            <div class="modal-container">
-                <div class="modal-image-wrapper">
-
-                </div>
-
-                <div class="modal-content">
-                    <h2 class="popup-title">Plan a Project</h2>
-                    <p class="popup-text-small">
-                        You can start planning a project by sending a message below to us ...
-                    </p>
-                    <p class="popup-text-large">
-                        Hello, my name is __________, I can be contacted via email on __________ or phone number on __________,
-                        I will hold project __________. I need Farooqa's help in this project. Contact me immediately.
-                    </p>
-                    <div class="popup-button">
-                        <a href="#" class="button button-color">submit</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <script src="./assets/script/lib/nav/classie.js"></script>
-    <script src="./assets/script/lib/nav/demo12.js"></script>
-
-    <script type="text/javascript" src="./assets/script/fullpage.min.js"></script>
-    <script type="text/javascript" src="./assets/script/siema.min.js"></script>
-
-    <script type="text/javascript">
-        // if(document.width > 720){
-        var myFullpage = new fullpage('#fullpage', {
-            menu: '#menu',
-            anchors: ['home', 'services', 'works', 'onGoing', 'action'],
-            sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
-            autoScrolling: false,
-            scrollOverflow: true,
-            licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE'
-        });
-        // }
-    </script>
-    <script type="text/javascript">
-        // Siema doesn't come with pagination built in
-        // But it is very easy to add one if you want
-
-        // if(document.width > 720){
-        // New siema instance
-        const mySiema = new Siema({
-            perPage: {
-                768: 1,
-                1024: 3,
-            },
-        });
-        // } else {
-        //     const mySiema = new Siema({
-        //     perPage: 1,
-        // });
-        // }
-
-        // Add a function that generates pagination to prototype
-        Siema.prototype.addPagination = function () {
-            for (let i = 0; i < this.innerElements.length; i++) {
-                const btn = document.createElement('button');
-                btn.textContent = ''; //i;
-                btn.addEventListener('click', () => this.goTo(i));
-                this.selector.appendChild(btn);
-            }
-        }
-
-        // Trigger pagination creator
-        mySiema.addPagination();
-    </script>
-
+	           if (hide.classList[1] == "hidden") {
+	               hide.classList.toggle("visible");
+	           } else {
+	               hide.classList.toggle("hidden");
+	           }
+	           console.log(hide.classList);
+	           return hide;
+	       }
+	       // Sing up
+	       function singup() {
+	           swal("Good job!", "Your message has been sent!", "success", {
+	               button: "OK!",
+	           });
+	           //   if (tc(".fname")==null || tc(".fname")=="") {
+	           //     msgb("Please Enter First name");
+	           //     return false;
+	           //   }
+	           //   if (tc(".lname")==null || tc(".lname")=="") {
+	           //     msgb("Please Enter Last name");
+	           //     return false;
+	           //   }
+	           //   if (tc(".email")==null || tc(".email")=="") {
+	           //     msgb("Please Enter Email");
+	           //     return false;
+	           //   }
+	           //   if (tc(".pwd")==null || tc(".pwd")=="") {
+	           //     msgb("Please Enter Password");
+	           //     return false;
+	           //   }
+	           //   if (tc(".pwd")!=tc(".conpwd")) {
+	           //     msgb("Password Miss match");
+	           //     return false;
+	           //   }
+	           //   if (size(".pwd") <= 10) {
+	           //     msgb("Minimum Password length 10");
+	           //     return false;
+	           //   }
+	       }
+	</script>
 </body>
-
 </html>
