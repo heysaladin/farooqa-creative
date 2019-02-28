@@ -1174,9 +1174,11 @@ a {
         align-items: flex-start;
         margin-bottom: 25px;
     }
+
     .card-body {
         padding: 0;
     }
+
     .card .card-image-list {
         padding-left: 5px;
         padding-right: 5px;
@@ -1308,11 +1310,11 @@ a {
     box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.05);
 }
 
-.card .card-content > .image-wrapper {
+.card .card-content>.image-wrapper {
     overflow: hidden;
 }
 
-.card .card-content > .image-wrapper img {
+.card .card-content>.image-wrapper img {
     margin: 0;
     display: block
 }
@@ -1322,22 +1324,146 @@ a {
     width: 400px;
 }
 
-.card .card-content .card-text-wrapper{
+.card .card-content .card-text-wrapper {
     /* background: white;
     padding: 12px 0 27px;
     margin-top: -8px; */
     padding-top: 9px;
 }
 
-.card .card-content .card-text-wrapper > h1 {
+.card .card-content .card-text-wrapper>h1 {
     margin: 15px 0 10px;
     font-family: 'Museo Sans 700';
     font-size: 24px;
 }
 
-.card .card-content .card-text-wrapper > h3 {
+.card .card-content .card-text-wrapper>h3 {
     color: #7E7E7E;
     font-size: 18px;
 }
 
 /* END Works ----------------------------- */
+/* Services ----------------------------- */
+#services .pre-content {
+    min-height: 350px;
+}
+
+#services .content-block {
+    margin: -225px auto 0;
+}
+
+#services .content-block .opening {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#services .content-block .opening * {
+    color: white;
+    text-align: left;
+}
+
+#services .content-block .opening h1 {
+    margin: 15px auto;
+    font-size: 1.75em;
+}
+
+#services .content-block .opening p {
+    color: #aaa;
+    max-width: 768px;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.service {
+    max-width: 1200px;
+    padding: 50px 0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#services .content-core {
+    margin-top: 50px;
+}
+
+.service-body {
+    flex: 1;
+}
+
+.service-left {
+    flex-direction: row;
+}
+
+.service-right {
+    flex-direction: row-reverse;
+}
+
+.service-left .service-body * {
+    text-align: left;
+}
+
+.service-right .service-body * {
+    text-align: right;
+}
+
+.service-body h2 {
+    font-family: 'Museo Sans 700';
+    font-size: 1.5em;
+}
+
+.service-body p {
+    margin: 25px auto;
+}
+
+.service-body .list-content {}
+
+.service-body .list-content a {
+    text-align: center;
+    display: inline-block;
+    font-size: 1em;
+    letter-spacing: 2px;
+}
+
+.service-image-wrapper {
+    /* flex: 1; */
+    max-width: 50%;
+}
+
+.service-image-wrapper img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+
+    #services .content-block .opening * {
+        text-align: center;
+        padding: 0 25px;
+    }
+
+    .service {
+        flex-direction: column-reverse;
+    }
+
+    .service .service-body * {
+        text-align: center;
+    }
+
+}
+
+@media only screen and (max-width: 616px) {
+    #services .pre-content {
+        min-height: 125px;
+    }
+
+    #services .content-block {
+        margin: -75px auto 0;
+    }
+
+    #services .content-block .opening p {
+        display: none;
+    }
+
+}
+
+/* END Services ----------------------------- */
