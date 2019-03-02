@@ -1,62 +1,74 @@
 [
   {
     "meta": {
-  "lang": "en",
-  "title": "LestariDiskon App - Android",
-  "stylesheets": ["./css/style.css"],
-  "scripts": ["./js/main.js"],
-  "charset": "utf-8",
-  "description": "This is a page awal",
-  "keywords": "page, sample",
-  "author": "None",
-  "favicon": "./images/favicon.png",
-  "viewport": "width=device-width, initial-scale=1",
-  "extra": []
-},
-"data": {
-  "title": "Project Keren 1",
-  "catogory": ["Design", "Development"],
-  "image": "../assets/images/works/large/image.jpg"
-}
-},
-{
-  "meta": {
-"lang": "en",
-"title": "Mekar",
-"stylesheets": ["./css/style.css"],
-"scripts": ["./js/main.js"],
-"charset": "utf-8",
-"description": "This is a JOKO",
-"keywords": "page, sample, JOKO",
-"author": "JOKO",
-"favicon": "./images/favicon.png",
-"viewport": "width=device-width, initial-scale=1",
-"extra": []
-},
-"data": {
-  "title": "Project Keren 2",
-  "catogory": ["Design", "Development"],
-  "image": "../assets/images/works/large/image.jpg"
-}
-},
-{
-  "meta": {
-"lang": "en",
-"title": "Aisyira",
-"stylesheets": ["./css/style.css"],
-"scripts": ["./js/main.js"],
-"charset": "utf-8",
-"description": "This is a JOKO",
-"keywords": "page, sample, JOKO",
-"author": "JOKO",
-"favicon": "./images/favicon.png",
-"viewport": "width=device-width, initial-scale=1",
-"extra": []
-},
-"data": {
-  "title": "Project Keren 3",
-  "catogory": ["Design", "Development"],
-  "image": "../assets/images/works/large/image.jpg"
-}
-}
+      "lang": "en",
+      "title": "Aisyira",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "This is a JOKO",
+      "keywords": "page, sample, JOKO",
+      "author": "JOKO",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Aisyira",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari. Lestari Diskon provides complete information about merchants covering major discounts, locations, phone numbers, and opening hours. <br />Through this application, user will be facilitated in finding merchants to get discounts using The Royal, Lestari First and Lestari First Ladies cards.",
+      "image": "../assets/images/works/large/image.jpg",
+      "workOfTheMonth": true,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "aisyira"
+    }
+  },
+  {
+    "meta": {
+      "lang": "en",
+      "title": "LestariDiskon App - Android",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "This is a page awal",
+      "keywords": "page, sample",
+      "author": "None",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "LestariDiskon App - Android",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari. Lestari Diskon provides complete information about merchants covering major discounts, locations, phone numbers, and opening hours. <br />Through this application, user will be facilitated in finding merchants to get discounts using The Royal, Lestari First and Lestari First Ladies cards.",
+      "image": "../assets/images/works/large/image.jpg",
+      "workOfTheMonth": true,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "lestari"
+    }
+  },
+  {
+    "meta": {
+      "lang": "en",
+      "title": "Mekar",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "This is a JOKO",
+      "keywords": "page, sample, JOKO",
+      "author": "JOKO",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Mekar",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari. Lestari Diskon provides complete information about merchants covering major discounts, locations, phone numbers, and opening hours. <br />Through this application, user will be facilitated in finding merchants to get discounts using The Royal, Lestari First and Lestari First Ladies cards.",
+      "image": "../assets/images/works/large/image.jpg",
+      "workOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "mekar"
+    }
+  }
 ]

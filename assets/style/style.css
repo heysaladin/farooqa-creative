@@ -499,7 +499,8 @@ a {
 
 .card-image {
     width: 100%;
-    height: calc((width/3) * 4);
+    /* height: calc((width/3) * 4); */
+    height: inherit;
 }
 
 .slide-content-block>div>.slide-content-text-wrapper {
@@ -901,6 +902,19 @@ a {
     margin: -450px auto 0;
 }
 
+@media only screen and (max-width: 850px) {
+
+    #work .pre-content,
+    #blog .pre-content {
+        min-height: 250px;
+    }
+
+    #work .content-block,
+    #blog .content-block {
+        margin: -150px auto 0;
+    }
+}
+
 #clients-and-partners .pre-content {
     min-height: 200px;
 }
@@ -934,16 +948,23 @@ a {
     background-color: grey;
     position: relative;
     width: 100%;
-    padding-top: 62.5%;
+    padding-top: 720px;
+}
+
+@media only screen and (max-width: 960px) {
+    .hero-image-wrapper {
+        padding-top: 56.75%;
+    }
 }
 
 .hero-image-wrapper img {
+    width: 100%;
+    height: 100%;
     position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
-    width: 100%;
 }
 
 .content-core {
@@ -1122,6 +1143,16 @@ a {
 .card .card-image-list {
     width: auto;
     padding-right: 20px;
+    width: 155px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card .card-image-list img {
+    width: auto;
+    height: 155px;
 }
 
 .card-image img {
@@ -1180,8 +1211,14 @@ a {
     }
 
     .card .card-image-list {
-        padding-left: 5px;
-        padding-right: 5px;
+        padding-right: 0px;
+        width: 100%;
+        justify-content: flex-start;
+    }
+    .card .card-image-list img {
+        margin: 15px 0;
+        width: 100%;
+        height: auto;
     }
 }
 

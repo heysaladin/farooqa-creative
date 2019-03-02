@@ -20,6 +20,7 @@
     </script>
     <script src="./assets/script/lib/nav/modernizr.custom.js">
     </script>
+    <link rel="icon" type="image/png" href="./assets/images/cross.png">
 </head>
 
 <body>
@@ -92,7 +93,7 @@
                     </div>
                     <div class="line-block">
                         <div class="list-content">
-                            <a class="button button-ghost" href="#">explore more</a>
+                            <a class="button button-ghost" href="./services.html">explore more</a>
                         </div>
                     </div>
                 </div>
@@ -171,7 +172,7 @@
                 <div class="title-block">
                     <h1 class="title">On Going Project</h1><span class="line"></span>
                 </div>
-
+                <div id="slideWrapper">
                 <div class="slide" id="slide1">
                     <div class="slide-content-block">
                         <div>
@@ -228,6 +229,7 @@
                         </div>
                     </div>
                 </div>
+            </div>
                 <!-- -->
             </div>
         </div>
@@ -367,38 +369,6 @@
     <script src="./assets/script/fullpage.min.js" type="text/javascript">
     </script>
     <script src="./assets/script/siema.min.js" type="text/javascript">
-    </script>
-    <script type="text/javascript">
-        // if (screen && screen.width > 768) {
-        var myFullpage = new fullpage('#fullpage', {
-            menu: '#menu',
-            anchors: ['home', 'services', 'works', 'onGoing', 'action'],
-            sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
-            autoScrolling: false,
-            scrollOverflow: true,
-            licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE', 
-            // verticalCentered: false,
-    // scrollOverflow: true,
-    // scrollOverflowOptions: {
-    //     scrollbars: false,
-    //     preventDefault: false
-    // },
-        //     scrollOverflow: true,
-        // // scrollingSpeed: 700,
-        // easing: 'easeInOutCubic',
-        // loopBottom: false,
-        // loopTop: false,
-        // css3: false,
-        // resize: false,
-
-        // //events
-        // onLeave: function (index, direction) {},
-        // afterLoad: function (anchorLink, index) {
-        //     //Load flexslider after page scroll
-        //     // initContainer(index);
-        // },
-        });
-        // }
     </script>
     <script type="text/javascript">
         function validateEmail(email) {
@@ -547,7 +517,15 @@ xobj.send(null);
 
             var siema = document.createElement("div");  
             siema.setAttribute('class', 'siema');
+
+            // var siema = document.createElement("div");  
+            // siema.setAttribute('class', 'slide');
+
+            // slideWrapper
             
+            var slideWrapper = document.querySelector('#slideWrapper');
+            slideWrapper.innerHTML = "";
+            // slideWrapper.appendChild(siema);
     
             // CREATE DYNAMIC TABLE.
     
@@ -557,7 +535,17 @@ xobj.send(null);
     
             // var divContainer = document.getElementById("showData");
 
+            var numGo = 0;
+
             for (var i = 0; i < myBooks.length; i++) {
+
+                var catogory = myBooks[i].data.catogory;
+                var catogoryString = catogory.join();
+                var catogoryStringReady = catogoryString.split(',').join(', ');
+
+
+                if(myBooks[i].data.workOfTheMonth){
+
                 // var th = document.createElement("th");      // TABLE HEADER.
                 // th.innerHTML = col[i];
                 // tr.appendChild(th);
@@ -581,8 +569,17 @@ xobj.send(null);
                 // table.append("<h1>XXX</h1>");
 
 
+
+            var anchorCardCaptionSiema = document.createElement("a");
+            // anchorCardCaptionSiema.setAttribute('class', 'button button-ghost');
+            anchorCardCaptionSiema.setAttribute('href', './works/'+myBooks[i].data.slug +'.html');
+            // anchorCardCaptionSiema.innerHTML = "read more";
+
                 var card = document.createElement("div");  
                 card.setAttribute('class', 'card');
+
+
+                // anchorCardCaptionSiema.appendChild(card);
 
 
                 var cardContent = document.createElement("div");  
@@ -597,9 +594,11 @@ xobj.send(null);
                  var h1 = document.createElement("h1");      // TABLE HEADER.
                 h1.innerHTML = myBooks[i].data.title;
 
-                var catogory = myBooks[i].data.catogory;
-                var catogoryString = catogory.join();
-                var catogoryStringReady = catogoryString.split(',').join(', '); // '1, 2, 3, 4, 5, 6'
+                anchorCardCaptionSiema.appendChild(h1);
+
+                // var catogory = myBooks[i].data.catogory;
+                // var catogoryString = catogory.join();
+                // var catogoryStringReady = catogoryString.split(',').join(', '); // '1, 2, 3, 4, 5, 6'
                 // for (var k = 0; k < catogory.length; k++) {
 
                 // }
@@ -608,15 +607,138 @@ xobj.send(null);
                 h3.innerHTML = catogoryStringReady;
 
                 cardContent.appendChild(img);
-                cardContent.appendChild(h1);
+                // cardContent.appendChild(h1);
+                cardContent.appendChild(anchorCardCaptionSiema);
                 cardContent.appendChild(h3);
 
 
 
                 table.appendChild(card);
+            // table.appendChild(anchorCardCaptionSiema);
 
 
                 siema.appendChild(table);
+
+            }
+
+            if(myBooks[i].data.onGoingWorkOfTheMonth){
+                numGo++;
+                var slide = document.createElement("div");
+                slide.setAttribute('class', 'slide'); 
+                console.log('slide'+(numGo));
+                slide.setAttribute('id', 'slide'+(numGo));
+
+
+            /*
+            <div class="slide" id="slide2">
+                    <div class="slide-content-block">
+                        <div>
+                            <div class="card">
+                                <div class="card-content"><img class="card-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/39a31e12891215.5626e854534fd.jpg"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="slide-content-text-wrapper">
+                                <div class="card-caption">
+                                    <div class="logo-project"><img src="https://cdc.uns.ac.id/uploads/image/2017-03-22-Au6NamtS6eJHbjexgXFgr0nP3qzc8y87.png"></div>
+                                    <h1>Lestari Diskon</h1>
+                                    <h3>Development, Mobile App, Android</h3>
+                                    <p>Lestari Diskon is a mobile platform application provides merchant information
+                                        which collaborate with BPR Lestari. Lestari Diskon provides complete
+                                        information about merchants covering major discounts, locations, phone numbers,
+                                        and opening hours.
+                                        <br />
+                                        Through this application, user will be facilitated in finding merchants to get
+                                        discounts using The Royal, Lestari First and Lestari First Ladies cards.</p>
+                                    <div class="list-content">
+                                        <a class="button button-ghost" href="#">read more</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            */
+
+
+            // var fpTableCell = document.createElement("div");
+            // fpTableCell.setAttribute('class', 'fp-tableCell'); 
+            // slide.appendChild(fpTableCell);
+
+            var slideContentBlock = document.createElement("div");
+            slideContentBlock.setAttribute('class', 'slide-content-block'); 
+            slide.appendChild(slideContentBlock);
+
+
+            var slideDivFirst = document.createElement("div");
+            slideContentBlock.appendChild(slideDivFirst);
+
+            var slideDivSecond = document.createElement("div");
+            slideContentBlock.appendChild(slideDivSecond);
+
+
+            var slideCard = document.createElement("div");
+            slideCard.setAttribute('class', 'card'); 
+            slideDivFirst.appendChild(slideCard);
+
+            var slideCardContent = document.createElement("div");
+            slideCardContent.setAttribute('class', 'card-content'); 
+            slideCard.appendChild(slideCardContent);
+            
+            var imgCard = document.createElement("img");      // TABLE HEADER.
+            imgCard.setAttribute('class', 'card-image');
+            imgCard.setAttribute('src', myBooks[i].data.image);
+            slideCardContent.appendChild(imgCard);
+
+
+
+
+            var slideContentTextWrapper = document.createElement("div");
+            slideContentTextWrapper.setAttribute('class', 'slide-content-text-wrapper'); 
+            slideDivSecond.appendChild(slideContentTextWrapper);
+
+            var cardCaption = document.createElement("div");
+            cardCaption.setAttribute('class', 'card-caption'); 
+            slideContentTextWrapper.appendChild(cardCaption);
+
+
+            var logoProject = document.createElement("div");
+            logoProject.setAttribute('class', 'logo-project');
+            cardCaption.appendChild(logoProject);
+
+            var imgLogoProject = document.createElement("img");
+            imgLogoProject.setAttribute('src', myBooks[i].data.image);
+            logoProject.appendChild(imgLogoProject);
+
+
+            var cardCaptionTitle = document.createElement("h1");
+            cardCaptionTitle.innerHTML = myBooks[i].data.title;
+            cardCaption.appendChild(cardCaptionTitle);
+
+            var cardCaptionCategory = document.createElement("h3");
+            cardCaptionCategory.innerHTML = catogoryStringReady;
+            cardCaption.appendChild(cardCaptionCategory);
+
+            var cardCaptionParagraph = document.createElement("p");
+            cardCaptionParagraph.innerHTML = myBooks[i].data.bodyCopyShort;
+            cardCaption.appendChild(cardCaptionParagraph);
+
+
+            var listContent = document.createElement("div");
+            listContent.setAttribute('class', 'list-content');
+            cardCaption.appendChild(listContent);
+
+            var anchorCardCaption = document.createElement("a");
+            anchorCardCaption.setAttribute('class', 'button button-ghost');
+            anchorCardCaption.setAttribute('href', './works/'+myBooks[i].data.slug +'.html');
+            anchorCardCaption.innerHTML = "read more";
+            listContent.appendChild(anchorCardCaption);
+
+
+
+                slideWrapper.appendChild(slide);
+            }
+
 
             }
 
@@ -661,6 +783,16 @@ xobj.send(null);
         // Trigger pagination creator
         mySiema.addPagination();
 
+
+        var myFullpage = new fullpage('#fullpage', {
+            menu: '#menu',
+            anchors: ['home', 'services', 'works', 'onGoing', 'action'],
+            sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
+            autoScrolling: false,
+            scrollOverflow: true,
+            licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE',
+        });
+
 // FINALLY ADD THE NEWLY CREATED TABLE WITH JSON DATA TO A CONTAINER.
             // var divContainer = document.getElementById("showData");
             // var divContainer = document.querySelector('#showData > div ');
@@ -669,6 +801,38 @@ xobj.send(null);
 
         });
 
+    </script>
+    <script type="text/javascript">
+    //     // if (screen && screen.width > 768) {
+    //     var myFullpage = new fullpage('#fullpage', {
+    //         menu: '#menu',
+    //         anchors: ['home', 'services', 'works', 'onGoing', 'action'],
+    //         sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
+    //         autoScrolling: false,
+    //         scrollOverflow: true,
+    //         licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE', 
+    //         // verticalCentered: false,
+    // // scrollOverflow: true,
+    // // scrollOverflowOptions: {
+    // //     scrollbars: false,
+    // //     preventDefault: false
+    // // },
+    //     //     scrollOverflow: true,
+    //     // // scrollingSpeed: 700,
+    //     // easing: 'easeInOutCubic',
+    //     // loopBottom: false,
+    //     // loopTop: false,
+    //     // css3: false,
+    //     // resize: false,
+
+    //     // //events
+    //     // onLeave: function (index, direction) {},
+    //     // afterLoad: function (anchorLink, index) {
+    //     //     //Load flexslider after page scroll
+    //     //     // initContainer(index);
+    //     // },
+    //     });
+    //     // }
     </script>
 </body>
 
