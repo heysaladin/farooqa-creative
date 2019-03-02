@@ -107,9 +107,11 @@
                 <div class="title-block">
                     <h1 class="title">Works</h1><span class="line"></span>
                 </div>
-                <div class="carousel">
+                <!-- <p id="showData"></p> -->
+                <div class="carousel" id="showData">
 
                     <div class="siema">
+                        
                         <div>
                             <div class="card">
                                 <div class="card-content">
@@ -156,7 +158,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- -->
+                   
                 </div>
             </div>
         </div>
@@ -277,7 +279,8 @@
             </div>
         </div>
     </div>
-    <div class="section overlay overlay-genie" data-steps="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z;m 698.9986,728.03569 41.23353,0 -3.41953,77.8735 -34.98557,0 z;m 687.08153,513.78234 53.1506,0 C 738.0505,683.9161 737.86917,503.34193 737.27015,806 l -35.90067,0 c -7.82727,-276.34892 -2.06916,-72.79261 -14.28795,-292.21766 z;m 403.87105,257.94772 566.31246,2.93091 C 923.38284,513.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 455.17312,480.07689 403.87105,257.94772 z;M 51.871052,165.94772 1362.1835,168.87863 C 1171.3828,653.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 31.173122,513.78234 51.871052,165.94772 z;m 52,26 1364,4 c -12.8007,666.9037 -273.2644,483.78234 -322.7299,776 l -633.90062,0 C 359.32034,432.49318 -6.6979288,733.83462 52,26 z;m 0,0 1439.999975,0 0,805.99999 -1439.999975,0 z">
+    
+        <div class="section overlay overlay-genie" data-steps="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z;m 698.9986,728.03569 41.23353,0 -3.41953,77.8735 -34.98557,0 z;m 687.08153,513.78234 53.1506,0 C 738.0505,683.9161 737.86917,503.34193 737.27015,806 l -35.90067,0 c -7.82727,-276.34892 -2.06916,-72.79261 -14.28795,-292.21766 z;m 403.87105,257.94772 566.31246,2.93091 C 923.38284,513.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 455.17312,480.07689 403.87105,257.94772 z;M 51.871052,165.94772 1362.1835,168.87863 C 1171.3828,653.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 31.173122,513.78234 51.871052,165.94772 z;m 52,26 1364,4 c -12.8007,666.9037 -273.2644,483.78234 -322.7299,776 l -633.90062,0 C 359.32034,432.49318 -6.6979288,733.83462 52,26 z;m 0,0 1439.999975,0 0,805.99999 -1439.999975,0 z">
         <svg height="100%" preserveaspectratio="none" viewbox="0 0 1440 806" width="100%" xmlns="http://www.w3.org/2000/svg">
             <path class="overlay-path" d="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z"></path>
         </svg> <button class="overlay-close" type="button">Close</button>
@@ -373,28 +376,29 @@
             sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
             autoScrolling: false,
             scrollOverflow: true,
-            licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE'
+            licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE', 
+            // verticalCentered: false,
+    // scrollOverflow: true,
+    // scrollOverflowOptions: {
+    //     scrollbars: false,
+    //     preventDefault: false
+    // },
+        //     scrollOverflow: true,
+        // // scrollingSpeed: 700,
+        // easing: 'easeInOutCubic',
+        // loopBottom: false,
+        // loopTop: false,
+        // css3: false,
+        // resize: false,
+
+        // //events
+        // onLeave: function (index, direction) {},
+        // afterLoad: function (anchorLink, index) {
+        //     //Load flexslider after page scroll
+        //     // initContainer(index);
+        // },
         });
         // }
-    </script>
-    <script type="text/javascript">
-        const mySiema = new Siema({
-            perPage: {
-                768: 1,
-                1024: 3,
-            },
-        });
-        // Add a function that generates pagination to prototype
-        Siema.prototype.addPagination = function () {
-            for (let i = 0; i < this.innerElements.length; i++) {
-                const btn = document.createElement('button');
-                btn.textContent = ''; //i;
-                btn.addEventListener('click', () => this.goTo(i));
-                this.selector.appendChild(btn);
-            }
-        }
-        // Trigger pagination creator
-        mySiema.addPagination();
     </script>
     <script type="text/javascript">
         function validateEmail(email) {
@@ -443,6 +447,228 @@
                 return false;
             }
         }
+    </script>
+    <script type="text/javascript">
+            // CreateTableFromJSON();
+        // function CreateTableFromJSON() {
+            var myBooksOld = [
+                {
+                    "BookID": "1",
+                    "BookName": "Computer Architecture",
+                    "Category": "Computers",
+                    "Price": "125.60",
+"image": "../assets/images/blog/large/image.jpg"
+                },
+                {
+                    "BookID": "2",
+                    "BookName": "Asp.Net 4 Blue Book",
+                    "Category": "Programming",
+                    "Price": "56.00",
+"image": "../assets/images/blog/large/image.jpg"
+                },
+                {
+                    "BookID": "3",
+                    "BookName": "Popular Science",
+                    "Category": "Science",
+                    "Price": "210.40",
+"image": "../assets/images/blog/large/image.jpg"
+                },
+                {
+                    "BookID": "2",
+                    "BookName": "Asp.Net 4 Blue Book",
+                    "Category": "Programming",
+                    "Price": "56.00",
+"image": "../assets/images/blog/large/image.jpg"
+                },
+                {
+                    "BookID": "3",
+                    "BookName": "Popular Science",
+                    "Category": "Science",
+                    "Price": "210.40",
+"image": "../assets/images/blog/large/image.jpg"
+                },
+                {
+                    "BookID": "2",
+                    "BookName": "Asp.Net 4 Blue Book",
+                    "Category": "Programming",
+                    "Price": "56.00",
+"image": "../assets/images/blog/large/image.jpg"
+                },
+                {
+                    "BookID": "3",
+                    "BookName": "Popular Science",
+                    "Category": "Science",
+                    "Price": "210.40",
+"image": "../assets/images/blog/large/image.jpg"
+                }
+            ];
+
+
+            function loadJSON(callback) {   
+
+var xobj = new XMLHttpRequest();
+    xobj.overrideMimeType("application/json");
+xobj.open('GET', './data/data_works.json', true); // Replace 'my_data' with the path to your file
+xobj.onreadystatechange = function () {
+      if (xobj.readyState == 4 && xobj.status == "200") {
+        // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+        callback(xobj.responseText);
+      }
+};
+xobj.send(null);  
+}
+
+            // var dataWorks = document.require('./data/data_works.json');
+
+            // var myBooks = null;//JSON.parse(dataWorks);
+    
+            loadJSON(function(response) {
+  // Parse JSON string into object
+    var respo = JSON.parse(response);
+
+    console.log(respo);
+    var myBooks = respo;
+                console.log(myBooks);
+
+//  });
+
+
+            // EXTRACT VALUE FOR HTML HEADER. 
+            // ('Book ID', 'Book Name', 'Category' and 'Price')
+            // var col = [];
+            // for (var i = 0; i < myBooks.length; i++) {
+            //     for (var key in myBooks[i]) {
+            //         if (col.indexOf(key) === -1) {
+            //             col.push(key);
+            //         }
+            //     }
+            // }
+
+
+            var siema = document.createElement("div");  
+            siema.setAttribute('class', 'siema');
+            
+    
+            // CREATE DYNAMIC TABLE.
+    
+            // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
+    
+            // var tr = table.insertRow(-1);                   // TABLE ROW.
+    
+            // var divContainer = document.getElementById("showData");
+
+            for (var i = 0; i < myBooks.length; i++) {
+                // var th = document.createElement("th");      // TABLE HEADER.
+                // th.innerHTML = col[i];
+                // tr.appendChild(th);
+
+
+            var table = document.createElement("div");
+
+                console.log(myBooks[i].data);
+                console.log(myBooks[i].data.title);
+                
+                // divContainer.append(`<div>
+                //             <div class="card">
+                //                 <div class="card-content">
+                //                     <img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg">
+                //                     <h1>${myBooks[i].BookName}</h1>
+                //                     <h3>Design, Development</h3>
+                //                 </div>
+                //             </div>
+                //         </div>`);
+
+                // table.append("<h1>XXX</h1>");
+
+
+                var card = document.createElement("div");  
+                card.setAttribute('class', 'card');
+
+
+                var cardContent = document.createElement("div");  
+                cardContent.setAttribute('class', 'card-content');
+
+                card.appendChild(cardContent);
+
+                var img = document.createElement("img");      // TABLE HEADER.
+                img.setAttribute('class', 'card-image');
+                img.setAttribute('src', myBooks[i].data.image);
+
+                 var h1 = document.createElement("h1");      // TABLE HEADER.
+                h1.innerHTML = myBooks[i].data.title;
+
+                var catogory = myBooks[i].data.catogory;
+                var catogoryString = catogory.join();
+                var catogoryStringReady = catogoryString.split(',').join(', '); // '1, 2, 3, 4, 5, 6'
+                // for (var k = 0; k < catogory.length; k++) {
+
+                // }
+
+                var h3 = document.createElement("h3");      // TABLE HEADER.
+                h3.innerHTML = catogoryStringReady;
+
+                cardContent.appendChild(img);
+                cardContent.appendChild(h1);
+                cardContent.appendChild(h3);
+
+
+
+                table.appendChild(card);
+
+
+                siema.appendChild(table);
+
+            }
+
+    
+            // ADD JSON DATA TO THE TABLE AS ROWS.
+            // for (var i = 0; i < myBooks.length; i++) {
+    
+            //     tr = table.insertRow(-1);
+    
+            //     for (var j = 0; j < col.length; j++) {
+            //         var tabCell = tr.insertCell(-1);
+            //         tabCell.innerHTML = myBooks[i][col[j]];
+            //     }
+            // }
+
+            var divContainer = document.querySelector('#showData');
+            divContainer.innerHTML = "";
+            divContainer.appendChild(siema);
+    
+            // FINALLY ADD THE NEWLY CREATED TABLE WITH JSON DATA TO A CONTAINER.
+            // var divContainer = document.getElementById("showData div");
+            // divContainer.innerHTML = "";
+            // divContainer.appendChild(table);
+        // }
+    // <   /  script>
+    // <  script type="text/javascript">
+        const mySiema = new Siema({
+            perPage: {
+                768: 1,
+                1024: 3,
+            },
+        });
+        // Add a function that generates pagination to prototype
+        Siema.prototype.addPagination = function () {
+            for (let i = 0; i < this.innerElements.length; i++) {
+                const btn = document.createElement('button');
+                btn.textContent = ''; //i;
+                btn.addEventListener('click', () => this.goTo(i));
+                this.selector.appendChild(btn);
+            }
+        }
+        // Trigger pagination creator
+        mySiema.addPagination();
+
+// FINALLY ADD THE NEWLY CREATED TABLE WITH JSON DATA TO A CONTAINER.
+            // var divContainer = document.getElementById("showData");
+            // var divContainer = document.querySelector('#showData > div ');
+            // divContainer.innerHTML = "";
+            // divContainer.appendChild(table);
+
+        });
+
     </script>
 </body>
 

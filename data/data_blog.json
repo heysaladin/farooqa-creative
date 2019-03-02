@@ -1,0 +1,62 @@
+[
+  {
+    "meta": {
+  "lang": "en",
+  "title": "Color",
+  "stylesheets": ["./css/style.css"],
+  "scripts": ["./js/main.js"],
+  "charset": "utf-8",
+  "description": "This is a page awal",
+  "keywords": "page, sample",
+  "author": "None",
+  "favicon": "./images/favicon.png",
+  "viewport": "width=device-width, initial-scale=1",
+  "extra": []
+},
+"data": {
+  "title": "Project Keren",
+  "catogory": ["Design", "Development"],
+"image": "../assets/images/blog/large/image.jpg"
+}
+},
+{
+  "meta": {
+"lang": "en",
+"title": "Shape",
+"stylesheets": ["./css/style.css"],
+"scripts": ["./js/main.js"],
+"charset": "utf-8",
+"description": "This is a JOKO",
+"keywords": "page, sample, JOKO",
+"author": "JOKO",
+"favicon": "./images/favicon.png",
+"viewport": "width=device-width, initial-scale=1",
+"extra": []
+},
+"data": {
+  "title": "Project Keren 2",
+  "catogory": ["Design", "Development"],
+  "image": "../assets/images/blog/large/image.jpg"
+}
+},
+{
+  "meta": {
+"lang": "en",
+"title": "Illustration",
+"stylesheets": ["./css/style.css"],
+"scripts": ["./js/main.js"],
+"charset": "utf-8",
+"description": "This is a JOKO",
+"keywords": "page, sample, JOKO",
+"author": "JOKO",
+"favicon": "./images/favicon.png",
+"viewport": "width=device-width, initial-scale=1",
+"extra": []
+},
+"data": {
+  "title": "Project Keren 3",
+  "catogory": ["Design", "Development"],
+  "image": "../assets/images/blog/large/image.jpg"
+}
+}
+]
