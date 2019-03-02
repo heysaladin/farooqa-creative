@@ -1,11 +1,11 @@
 var fs = require('fs-extra');
 var path = require('path');
-var pageTemplate = require('./page_template');
+// var pageTemplate = require('./page_template');
 var pageTemplateBlog = require('./page_template_blog');
 var pageTemplateWork = require('./page_template_work');
 
 // All paths are relative to package.json.
-var pagesPath = './pages';
+var pagesPath = './pages_blog';
 var pagesMetaPath = '../data';
 // var copyFolders = ['./images', './css', './js'];
 // var outputPath = './build';
