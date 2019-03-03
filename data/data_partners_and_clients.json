@@ -1,22 +1,22 @@
 [{
     "title": "Color",
     "catogory": ["partner", "client"],
-    "image": "../assets/images/works/logo/lestari.jpg",
-    "url": "color",
+    "image": "../assets/images/works/logo/lestari.png",
+    "url": "https://bprlestari.com/",
     "legal": true
   },
   {
     "title": "Color",
     "catogory": ["partner", "client"],
-    "image": "../assets/images/works/logo/lestari.jpg",
-    "url": "color",
+    "image": "../assets/images/works/logo/lestari.png",
+    "url": "https://bprlestari.com/",
     "legal": true
   },
   {
     "title": "Color",
     "catogory": ["partner", "client"],
-    "image": "../assets/images/works/logo/lestari.jpg",
-    "url": "color",
+    "image": "../assets/images/works/logo/lestari.png",
+    "url": "https://bprlestari.com/",
     "legal": true
   }
 ]

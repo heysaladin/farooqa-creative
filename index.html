@@ -116,45 +116,9 @@
                         <div>
                             <div class="card">
                                 <div class="card-content">
-                                    <img class="card-image" src="">
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="">
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="">
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="">
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" src="">
-                                    <h1>Despacito Web Project</h1>
-                                    <h3>Design, Development</h3>
+                                    <img class="card-image">
+                                    <h1></h1>
+                                    <h3></h3>
                                 </div>
                             </div>
                         </div>
@@ -176,8 +140,8 @@
                         <div class="slide-content-block">
                             <div>
                                 <div class="card">
-                                    <div class="card-content">
-                                        <img class="card-image" src="">
+                                    <div class="card-content card-content-flex">
+                                        <img class="card-image card-image-flex">
                                     </div>
                                 </div>
                             </div>
@@ -185,22 +149,13 @@
                                 <div class="slide-content-text-wrapper">
                                     <div class="card-caption">
                                         <div class="logo-project">
-                                            <img src="">
+                                            <img />
                                         </div>
-                                        <h1>Lestari Diskon</h1>
-                                        <h3>Development, Mobile App, Android</h3>
-                                        <p>Lestari Diskon is a mobile platform application provides merchant
-                                            information
-                                            which collaborate with BPR Lestari. Lestari Diskon provides complete
-                                            information about merchants covering major discounts, locations, phone
-                                            numbers,
-                                            and opening hours.
-                                            <br />
-                                            Through this application, user will be facilitated in finding merchants to
-                                            get
-                                            discounts using The Royal, Lestari First and Lestari First Ladies cards.</p>
+                                        <h1></h1>
+                                        <h3></h3>
+                                        <p></p>
                                         <div class="list-content">
-                                            <a class="button button-ghost" href="#">read more</a>
+                                            <a class="button button-ghost" href="#"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -212,7 +167,7 @@
                             <div>
                                 <div class="card">
                                     <div class="card-content">
-                                        <img class="card-image" src="">
+                                        <img class="card-image">
                                     </div>
                                 </div>
                             </div>
@@ -220,22 +175,13 @@
                                 <div class="slide-content-text-wrapper">
                                     <div class="card-caption">
                                         <div class="logo-project">
-                                            <img src="">
+                                            <img />
                                         </div>
-                                        <h1>Lestari Diskon</h1>
-                                        <h3>Development, Mobile App, Android</h3>
-                                        <p>Lestari Diskon is a mobile platform application provides merchant
-                                            information
-                                            which collaborate with BPR Lestari. Lestari Diskon provides complete
-                                            information about merchants covering major discounts, locations, phone
-                                            numbers,
-                                            and opening hours.
-                                            <br />
-                                            Through this application, user will be facilitated in finding merchants to
-                                            get
-                                            discounts using The Royal, Lestari First and Lestari First Ladies cards.</p>
+                                        <h1></h1>
+                                        <h3></h3>
+                                        <p></p>
                                         <div class="list-content">
-                                            <a class="button button-ghost" href="#">read more</a>
+                                            <a class="button button-ghost" href="#"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -498,10 +444,10 @@
                     slideCard.setAttribute('class', 'card');
                     slideDivFirst.appendChild(slideCard);
                     var slideCardContent = document.createElement("div");
-                    slideCardContent.setAttribute('class', 'card-content');
+                    slideCardContent.setAttribute('class', 'card-content card-content-flex');
                     slideCard.appendChild(slideCardContent);
                     var imgCard = document.createElement("img");
-                    imgCard.setAttribute('class', 'card-image');
+                    imgCard.setAttribute('class', 'card-image card-image-flex');
                     imgCard.setAttribute('src', myBooks[i].data.image);
                     slideCardContent.appendChild(imgCard);
                     var slideContentTextWrapper = document.createElement("div");
@@ -514,7 +460,7 @@
                     logoProject.setAttribute('class', 'logo-project');
                     cardCaption.appendChild(logoProject);
                     var imgLogoProject = document.createElement("img");
-                    imgLogoProject.setAttribute('src', myBooks[i].data.image);
+                    imgLogoProject.setAttribute('src', myBooks[i].data.logo);
                     logoProject.appendChild(imgLogoProject);
                     var cardCaptionTitle = document.createElement("h1");
                     cardCaptionTitle.innerHTML = myBooks[i].data.title;

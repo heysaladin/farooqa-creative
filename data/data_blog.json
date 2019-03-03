@@ -15,10 +15,9 @@
     "data": {
       "title": "Color",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari. Lestari Diskon provides complete information about merchants covering major discounts, locations, phone numbers, and opening hours. <br />Through this application, user will be facilitated in finding merchants to get discounts using The Royal, Lestari First and Lestari First Ladies cards.",
+      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari.",
       "image": "../assets/images/works/large/image.jpg",
-      "workOfTheMonth": true,
-      "onGoingWorkOfTheMonth": true,
+      "date": "12-01-2018",
       "slug": "color"
     }
   },
@@ -39,10 +38,9 @@
     "data": {
       "title": "Illustration",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari. Lestari Diskon provides complete information about merchants covering major discounts, locations, phone numbers, and opening hours. <br />Through this application, user will be facilitated in finding merchants to get discounts using The Royal, Lestari First and Lestari First Ladies cards.",
+      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari.",
       "image": "../assets/images/works/large/image.jpg",
-      "workOfTheMonth": true,
-      "onGoingWorkOfTheMonth": true,
+      "date": "12-01-2018",
       "slug": "illustration"
     }
   },
@@ -63,10 +61,9 @@
     "data": {
       "title": "Shape",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari. Lestari Diskon provides complete information about merchants covering major discounts, locations, phone numbers, and opening hours. <br />Through this application, user will be facilitated in finding merchants to get discounts using The Royal, Lestari First and Lestari First Ladies cards.",
+      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari.",
       "image": "../assets/images/works/large/image.jpg",
-      "workOfTheMonth": true,
-      "onGoingWorkOfTheMonth": false,
+      "date": "12-01-2018",
       "slug": "shape"
     }
   }

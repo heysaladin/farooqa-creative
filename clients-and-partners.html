@@ -35,8 +35,8 @@
             <div class="content-area" id="clients-and-partners" style="min-height: 100vh;">
                 <div class="pre-content"></div>
                 <div class="content-block">
-                    <h1>Despacito App Design</h1>
-                    <span>Design, Development</span>
+                    <h1>Clients & Partners</h1>
+                    <span>Our family who joy the positivity of creativity</span>
                     <div class="content-core" id="clients-and-partners-wrapper">
                         <div class="wrapper">
                             <div class="box">
@@ -154,69 +154,98 @@
     </script>
     <script src="./assets/script/lib/nav/demoSVG.js">
     </script>
-    <script>
-        var wrapper = document.querySelector('div.wrapper');
-        var children = wrapper.childElementCount;
-        var columns = 5;
-        var mq = "";
-        var sw = wrapper.clientWidth;
-
-        if (sw >= 1400) {
-            mq = "(min-width: 1400px)";
-            columns = 5;
-        } else if (sw < 1400 && sw > 840) {
-            mq = "(max-width: 1400px)";
-            columns = 3;
-        } else if (sw < 840 && sw > 560) {
-            mq = "(max-width: 840px)";
-            columns = 2;
-        } else if (sw < 560) {
-            mq = "(max-width: 560px)";
-            columns = 1;
+    <script type="text/javascript">
+        function loadJSON(callback) {
+            var xobj = new XMLHttpRequest();
+            xobj.overrideMimeType("application/json");
+            xobj.open('GET', './data/data_partners_and_clients.json', true); // Replace 'my_data' with the path to your file
+            xobj.onreadystatechange = function () {
+                if (xobj.readyState == 4 && xobj.status == "200") {
+                    // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+                    callback(xobj.responseText);
+                }
+            };
+            xobj.send(null);
         }
+        loadJSON(function (response) {
+            // Parse JSON string into object
+            var respo = JSON.parse(response);
+            var myBooks = respo;
+            var divContainer = document.querySelector('.wrapper');
+            divContainer.innerHTML = "";
+            var numGo = 0;
+            for (var i = 0; i < myBooks.length; i++) {
+                if (myBooks[i].legal) {
+                    var box = document.createElement("div");
+                    box.setAttribute('class', 'box');
+                    var anchorCardCaptionSiema = document.createElement("a");
+                    anchorCardCaptionSiema.setAttribute('href', myBooks[i].url);
+                    anchorCardCaptionSiema.setAttribute('target', '_blank');
+                    box.appendChild(anchorCardCaptionSiema);
+                    var img = document.createElement("img");
+                    img.setAttribute('class', 'card-image');
+                    img.setAttribute('src', myBooks[i].image);
+                    anchorCardCaptionSiema.appendChild(img);
+                    divContainer.appendChild(box);
+                }
+            }
 
-        console.log(sw);
-        console.log(columns);
+            var wrapper = document.querySelector('div.wrapper');
+            var children = wrapper.childElementCount;
+            var columns = 5;
+            var mq = "";
+            var sw = wrapper.clientWidth;
 
-        var mod = children % columns;
+            if (sw >= 1400) {
+                mq = "(min-width: 1400px)";
+                columns = 5;
+            } else if (sw < 1400 && sw > 840) {
+                mq = "(max-width: 1400px)";
+                columns = 3;
+            } else if (sw < 840 && sw > 560) {
+                mq = "(max-width: 840px)";
+                columns = 2;
+            } else if (sw < 560) {
+                mq = "(max-width: 560px)";
+                columns = 1;
+            }
 
-        var lastThreeChild = document.querySelector('div.wrapper div:nth-last-child(3)');
-        var lastTwoChild = document.querySelector('div.wrapper div:nth-last-child(2)');
-        var lastOneChild = document.querySelector('div.wrapper div:nth-last-child(1)');
+            var mod = children % columns;
 
-        function myFunction(x) {
-            if (x.matches) { // If media query matches
-                // document.body.style.backgroundColor = "yellow";
-                if (columns == 5) {
-                    if (mod == 3) {
-                        lastThreeChild.style.gridColumn = 2;
-                    } else if (mod == 2) {
-                        lastTwoChild.style.gridColumn = 2;
-                        lastOneChild.style.gridColumn = 4;
-                    } else if (mod == 1) {
-                        lastOneChild.style.gridColumn = 3;
-                    }
-                } else if (columns == 3) {
-                    if (mod == 2) {
-                        lastTwoChild.style.gridColumn = 1;
-                        lastOneChild.style.gridColumn = 3;
-                    } else if (mod == 1) {
-                        lastOneChild.style.gridColumn = 2;
-                    }
-                } else if (columns == 2) {
-                    if (mod == 1) {
-                        lastOneChild.style.gridColumn = "span 2";
+            var lastThreeChild = document.querySelector('div.wrapper div:nth-last-child(3)');
+            var lastTwoChild = document.querySelector('div.wrapper div:nth-last-child(2)');
+            var lastOneChild = document.querySelector('div.wrapper div:nth-last-child(1)');
+
+            function myFunction(x) {
+                if (x.matches) {
+                    if (columns == 5) {
+                        if (mod == 3) {
+                            lastThreeChild.style.gridColumn = 2;
+                        } else if (mod == 2) {
+                            lastTwoChild.style.gridColumn = 2;
+                            lastOneChild.style.gridColumn = 4;
+                        } else if (mod == 1) {
+                            lastOneChild.style.gridColumn = 3;
+                        }
+                    } else if (columns == 3) {
+                        if (mod == 2) {
+                            lastTwoChild.style.gridColumn = 1;
+                            lastOneChild.style.gridColumn = 3;
+                        } else if (mod == 1) {
+                            lastOneChild.style.gridColumn = 2;
+                        }
+                    } else if (columns == 2) {
+                        if (mod == 1) {
+                            lastOneChild.style.gridColumn = "span 2";
+                        }
                     }
                 }
             }
-            // else {
-            //     // document.body.style.backgroundColor = "pink";
-            // }
-        }
+            var x = window.matchMedia(mq)
+            myFunction(x) // Call listener function at run time
+            x.addListener(myFunction) // Attach listener function on state changes
 
-        var x = window.matchMedia(mq)
-        myFunction(x) // Call listener function at run time
-        x.addListener(myFunction) // Attach listener function on state changes
+        });
     </script>
 </body>
 

@@ -35,8 +35,8 @@
             <div class="content-area" id="clients-and-partners" style="min-height: 100vh;">
                 <div class="pre-content"></div>
                 <div class="content-block">
-                    <h1>Despacito App Design</h1>
-                    <span>Design, Development</span>
+                    <h1>Blog & Notes</h1>
+                    <span>All creative info over here</span>
                     <div class="content-core" id="blog-and-notes">
                         <ul class="list-wrapper">
                             <li class="list-item">
@@ -169,69 +169,67 @@
     </script>
     <script src="./assets/script/lib/nav/demoSVG.js">
     </script>
-    <script>
-        var wrapper = document.querySelector('div.wrapper');
-        var children = wrapper.childElementCount;
-        var columns = 5;
-        var mq = "";
-        var sw = wrapper.clientWidth;
-
-        if (sw >= 1400) {
-            mq = "(min-width: 1400px)";
-            columns = 5;
-        } else if (sw < 1400 && sw > 840) {
-            mq = "(max-width: 1400px)";
-            columns = 3;
-        } else if (sw < 840 && sw > 560) {
-            mq = "(max-width: 840px)";
-            columns = 2;
-        } else if (sw < 560) {
-            mq = "(max-width: 560px)";
-            columns = 1;
-        }
-
-        console.log(sw);
-        console.log(columns);
-
-        var mod = children % columns;
-
-        var lastThreeChild = document.querySelector('div.wrapper div:nth-last-child(3)');
-        var lastTwoChild = document.querySelector('div.wrapper div:nth-last-child(2)');
-        var lastOneChild = document.querySelector('div.wrapper div:nth-last-child(1)');
-
-        function myFunction(x) {
-            if (x.matches) { // If media query matches
-                // document.body.style.backgroundColor = "yellow";
-                if (columns == 5) {
-                    if (mod == 3) {
-                        lastThreeChild.style.gridColumn = 2;
-                    } else if (mod == 2) {
-                        lastTwoChild.style.gridColumn = 2;
-                        lastOneChild.style.gridColumn = 4;
-                    } else if (mod == 1) {
-                        lastOneChild.style.gridColumn = 3;
-                    }
-                } else if (columns == 3) {
-                    if (mod == 2) {
-                        lastTwoChild.style.gridColumn = 1;
-                        lastOneChild.style.gridColumn = 3;
-                    } else if (mod == 1) {
-                        lastOneChild.style.gridColumn = 2;
-                    }
-                } else if (columns == 2) {
-                    if (mod == 1) {
-                        lastOneChild.style.gridColumn = "span 2";
-                    }
+    <script type="text/javascript">
+        function loadJSON(callback) {
+            var xobj = new XMLHttpRequest();
+            xobj.overrideMimeType("application/json");
+            xobj.open('GET', './data/data_blog.json', true); // Replace 'my_data' with the path to your file
+            xobj.onreadystatechange = function () {
+                if (xobj.readyState == 4 && xobj.status == "200") {
+                    // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+                    callback(xobj.responseText);
                 }
-            }
-            // else {
-            //     // document.body.style.backgroundColor = "pink";
-            // }
+            };
+            xobj.send(null);
         }
-
-        var x = window.matchMedia(mq)
-        myFunction(x) // Call listener function at run time
-        x.addListener(myFunction) // Attach listener function on state changes
+        loadJSON(function (response) {
+            // Parse JSON string into object
+            var respo = JSON.parse(response);
+            var myBooks = respo;
+            var divContainer = document.querySelector('.list-wrapper');
+            divContainer.innerHTML = "";
+            var numGo = 0;
+            for (var i = 0; i < myBooks.length; i++) {
+                var catogory = myBooks[i].data.catogory;
+                var catogoryString = catogory.join();
+                var catogoryStringReady = catogoryString.split(',').join(', ');
+                var listItem = document.createElement("li");
+                listItem.setAttribute('class', 'list-item');
+                var anchorCardCaptionSiema = document.createElement("a");
+                anchorCardCaptionSiema.setAttribute('href', './blog/' + myBooks[i].data.slug + '.html');
+                listItem.appendChild(anchorCardCaptionSiema);
+                var card = document.createElement("div");
+                card.setAttribute('class', 'card');
+                anchorCardCaptionSiema.appendChild(card);
+                var cardBody = document.createElement("div");
+                cardBody.setAttribute('class', 'card-body');
+                card.appendChild(cardBody);
+                var h2 = document.createElement("h2");
+                h2.innerHTML = myBooks[i].data.title;
+                h2.setAttribute('class', 'card-title');
+                cardBody.appendChild(h2);
+                var p = document.createElement("p");
+                p.innerHTML = myBooks[i].data.bodyCopyShort;
+                p.setAttribute('class', 'card-description');
+                cardBody.appendChild(p);
+                var catogorySpan = document.createElement("span");
+                catogorySpan.innerHTML = catogoryStringReady;
+                catogorySpan.setAttribute('class', 'card-category');
+                cardBody.appendChild(catogorySpan);
+                var dateSpan = document.createElement("span");
+                dateSpan.innerHTML = myBooks[i].data.date;
+                dateSpan.setAttribute('class', 'card-date');
+                cardBody.appendChild(dateSpan);
+                var cardImageList = document.createElement("div");
+                cardImageList.setAttribute('class', 'card-image-list');
+                card.appendChild(cardImageList);
+                var img = document.createElement("img");
+                img.setAttribute('class', 'card-image');
+                img.setAttribute('src', myBooks[i].data.image);
+                cardImageList.appendChild(img);
+                divContainer.appendChild(listItem);
+            }
+        });
     </script>
 </body>
 
