@@ -1,14 +1,13 @@
-[
-  {
+[{
     "meta": {
       "lang": "en",
       "title": "Color",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
-      "description": "This is a JOKO",
-      "keywords": "page, sample, JOKO",
-      "author": "JOKO",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
       "favicon": "../assets/images/cross.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
@@ -30,9 +29,9 @@
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
-      "description": "This is a page awal",
-      "keywords": "page, sample",
-      "author": "None",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
       "favicon": "./images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
@@ -54,9 +53,9 @@
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
-      "description": "This is a JOKO",
-      "keywords": "page, sample, JOKO",
-      "author": "JOKO",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
       "favicon": "./images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []

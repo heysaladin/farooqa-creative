@@ -61,7 +61,7 @@ module.exports = {
         </ul><button id="trigger-overlay" type="button"></button>
     </header>
     <div id="fullpage">
-        <div class="section" id="section4">
+        <div class="section" id="section0">
             <div class="content-area" id="blog" style="min-height: 100vh;">
                 <div class="pre-content"></div>
                 <div class="content-block">
@@ -75,13 +75,18 @@ module.exports = {
                     </div>
                 </div>
             </div>
+            <div class="action-block" style="background: #f5f5f5;">
+                <div class="list-content">
+                    <a class="button button-ghost" href="../blog-and-notes.html">read more blog</a>
+                </div>
+            </div>
             <div class="footer" style="background: #222222;">
                 <ul id="secondary-menu">
                     <li>
-                        <a href="clients-and-partners.html">Clients & Partners</a>
+                        <a href="../clients-and-partners.html">Clients & Partners</a>
                     </li>
                     <li>
-                        <a href="blog-and-notes.html">Blog & Notes</a>
+                        <a href="../blog-and-notes.html">Blog & Notes</a>
                     </li>
                 </ul>
                 <ul id="social-menu">
@@ -116,13 +121,13 @@ module.exports = {
         <nav>
             <ul>
                 <li class="special" data-menuanchor="action">
-                    <a href="index.html">Home</a>
+                    <a href="../index.html">Home</a>
                 </li>
                 <li>
-                    <a href="clients-and-partners.html">Clients & Partners</a>
+                    <a href="../clients-and-partners.html">Clients & Partners</a>
                 </li>
                 <li>
-                    <a href="blog-and-notes.html">Blog & Notes</a>
+                    <a href="../blog-and-notes.html">Blog & Notes</a>
                 </li>
             </ul>
         </nav>

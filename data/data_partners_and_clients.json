@@ -1,0 +1,22 @@
+[{
+    "title": "Color",
+    "catogory": ["partner", "client"],
+    "image": "../assets/images/works/logo/lestari.jpg",
+    "url": "color",
+    "legal": true
+  },
+  {
+    "title": "Color",
+    "catogory": ["partner", "client"],
+    "image": "../assets/images/works/logo/lestari.jpg",
+    "url": "color",
+    "legal": true
+  },
+  {
+    "title": "Color",
+    "catogory": ["partner", "client"],
+    "image": "../assets/images/works/logo/lestari.jpg",
+    "url": "color",
+    "legal": true
+  }
+]

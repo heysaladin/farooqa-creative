@@ -102,16 +102,9 @@ acronym {
 	display: inline-block;
 	margin: 4px 0;
 	color: #000;
-	/* padding-top: 30px; */
-	/* background:#fff;
-	background: rgba(255,255,255, 0.5); */
-	/* -webkit-border-radius: 10px;
-            border-radius: 10px; */
 }
 
-#menu li.special {
-	/* border: 1px solid #ffffff; */
-}
+#menu li.special {}
 
 #menu li.special a {
 	-webkit-border-radius: 10px;
@@ -121,49 +114,26 @@ acronym {
 
 #menu li.special a:active {
 	margin-top: 8px;
-	/* color: black; */
 }
 
 #menu li.special a:hover {
 	background-color: rgba(255, 255, 255, 0.25);
 	border-color: rgba(0, 0, 0, 0.0);
-	/* color: black; */
 }
 
 #menu li.active {
-	/* background:#666;
-	background: rgba(0,0,0, 0.5); */
 	color: #fff;
 }
 
 #menu li.active::before {
 	content: "";
-	/* background-color: yellow;
-	color: red;
-	font-weight: bold;
-	margin-right: 100px; */
 	width: 100%;
-	/* width: 75px; */
 	height: 5px;
-	/* position: relative;
-	/* width: 100px; */
-	/* z-index: -1;  */
-	/* margin: 0px 5px; */
-	/* display: block; */
-	/* margin: 0 auto 0; */
-	/* position: absolute; */
-	/* top: 0; */
-	/* right: 0;
-	left: 0; */
-	/* background: url('../images/line.svg') no-repeat top center; */
 	background-image: url('../images/line.svg');
 	background-repeat: no-repeat;
 	background-position: top center;
-	/* content: ""; */
 	display: block;
-	/* height: 18px; */
 	position: relative;
-	/* width: 100px; */
 	z-index: -1;
 	margin-top: -20px;
 }
@@ -177,9 +147,7 @@ acronym {
 	color: #fff;
 }
 
-#menu li:hover {
-	/* background: rgba(255,255,255, 0.8); */
-}
+#menu li:hover {}
 
 #menu li a,
 #menu li.active a {
@@ -194,12 +162,6 @@ acronym {
 
 #menu {
 	position: relative;
-	/* position:fixed;
-	top:0;
-	left:0; */
-	/* height: 40px; */
-	/* z-index: 70; */
-	/* width: 100%; */
 	padding: 0;
 	margin-top: 25;
 }

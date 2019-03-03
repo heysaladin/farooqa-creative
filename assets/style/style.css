@@ -499,7 +499,6 @@ a {
 
 .card-image {
     width: 100%;
-    /* height: calc((width/3) * 4); */
     height: inherit;
 }
 
@@ -999,6 +998,23 @@ a {
     font-style: italic;
 }
 
+.action-block{
+    padding: 50px 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action-block .list-content{
+    width: 30%;
+}
+
+@media only screen and (max-width: 400px) {
+    .action-block .list-content{
+        width: 100%;
+    }
+}
+
 /* END PAGE ----------------------------- */
 /* Clients & Partners ----------------------------- */
 
@@ -1215,6 +1231,7 @@ a {
         width: 100%;
         justify-content: flex-start;
     }
+
     .card .card-image-list img {
         margin: 15px 0;
         width: 100%;
@@ -1225,7 +1242,6 @@ a {
 /* END Blog & Notes ----------------------------- */
 /* Works ----------------------------- */
 #works {
-    /* background: #c27c0284; */
     max-width: 1400px;
     min-height: 100px;
     display: block;
@@ -1252,9 +1268,6 @@ a {
 #works .wrapper .box a {}
 
 #works .wrapper .box a img {
-    /* -webkit-filter: grayscale(100%); */
-    /* Safari 6.0 - 9.0 */
-    /* filter: grayscale(100%); */
     transition: all 0.25s ease;
 }
 
@@ -1362,9 +1375,6 @@ a {
 }
 
 .card .card-content .card-text-wrapper {
-    /* background: white;
-    padding: 12px 0 27px;
-    margin-top: -8px; */
     padding-top: 9px;
 }
 
@@ -1397,6 +1407,7 @@ a {
 #services .content-block .opening * {
     color: white;
     text-align: left;
+    padding: 0 25px;
 }
 
 #services .content-block .opening h1 {
@@ -1413,7 +1424,7 @@ a {
 
 .service {
     max-width: 1200px;
-    padding: 50px 0;
+    padding: 25px 0;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -1422,10 +1433,12 @@ a {
 
 #services .content-core {
     margin-top: 50px;
+    padding: 0 25px;
 }
 
 .service-body {
     flex: 1;
+    padding: 25px 40px 0;
 }
 
 .service-left {
@@ -1437,11 +1450,11 @@ a {
 }
 
 .service-left .service-body * {
-    text-align: left;
+    text-align: right;
 }
 
 .service-right .service-body * {
-    text-align: right;
+    text-align: left;
 }
 
 .service-body h2 {
