@@ -1,15 +1,13 @@
 var md = require('markdown-it')();
 
-// = defaultMeta
-// || this.defaultMeta.lang
 module.exports = {
-  generatePage: function(pageContent, pageMeta, pageData){
-    
-    var catogory = pageData.catogory;
-                var catogoryString = catogory.join();
-                var catogoryStringReady = catogoryString.split(',').join(', ');
+    generatePage: function (pageContent, pageMeta, pageData) {
 
-    return`<!DOCTYPE html>
+        var catogory = pageData.catogory;
+        var catogoryString = catogory.join();
+        var catogoryStringReady = catogoryString.split(',').join(', ');
+
+        return `<!DOCTYPE html>
 <html lang="${pageMeta.lang}">
   <head>
     <title>${pageMeta.title}</title>
@@ -40,19 +38,18 @@ module.exports = {
         :''
     }
     <link rel="icon" type="image/png" href="${pageMeta.favicon}">
-
-
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Document" name="Resource-type">
     <link href="../assets/style/modal.css" rel="stylesheet" type="text/css">
     <link href="../assets/style/page.css" rel="stylesheet" type="text/css">
     <link href="../assets/style/style.css" rel="stylesheet" type="text/css">
     <link href="../assets/fonts/museo-sans/stylesheet.css" rel="stylesheet" type="text/css">
     <link href="../assets/script/lib/nav/demo.css" rel="stylesheet" type="text/css">
-    <link href="../assets/script/lib/nav/style12.css" rel="stylesheet" type="text/css">
+    <link href="../assets/script/lib/nav/styleSVG.css" rel="stylesheet" type="text/css">
     <script src="../assets/script/lib/nav/snap.svg-min.js">
     </script>
     <script src="../assets/script/lib/nav/modernizr.custom.js">
     </script>
-
   </head>
   <body>
     <header id="header">
@@ -110,7 +107,6 @@ module.exports = {
                 </ul>
                 <h5 id="copyright-text">©2019 Farooqa</h5>
             </div>
-
         </div>
     </div>
     <div class="section overlay overlay-genie" data-steps="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z;m 698.9986,728.03569 41.23353,0 -3.41953,77.8735 -34.98557,0 z;m 687.08153,513.78234 53.1506,0 C 738.0505,683.9161 737.86917,503.34193 737.27015,806 l -35.90067,0 c -7.82727,-276.34892 -2.06916,-72.79261 -14.28795,-292.21766 z;m 403.87105,257.94772 566.31246,2.93091 C 923.38284,513.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 455.17312,480.07689 403.87105,257.94772 z;M 51.871052,165.94772 1362.1835,168.87863 C 1171.3828,653.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 31.173122,513.78234 51.871052,165.94772 z;m 52,26 1364,4 c -12.8007,666.9037 -273.2644,483.78234 -322.7299,776 l -633.90062,0 C 359.32034,432.49318 -6.6979288,733.83462 52,26 z;m 0,0 1439.999975,0 0,805.99999 -1439.999975,0 z">
@@ -182,28 +178,10 @@ module.exports = {
     </script>
     <script src="../assets/script/lib/nav/classie.js">
     </script>
-    <script src="../assets/script/lib/nav/demo12.js">
+    <script src="../assets/script/lib/nav/demoSVG.js">
     </script>
-
   </body>
 </html>
 `;
-  }
+    }
 }
-
-// this.defaultMeta.stylesheets.map(value => `<link rel="stylesheet" href="${value}">`)
-// this.defaultMeta.scripts.map(value => `<script src="${value}"></script>`)
-// ,
-//   defaultMeta: {
-//     lang: 'en',
-//     title: 'A Page',
-//     stylesheets: ['./css/style.css'],
-//     scripts: ['./js/main.js'],
-//     charset: 'utf-8',
-//     description: 'This is a page',
-//     keywords: 'page, sample',
-//     author: 'None',
-//     favicon: './images/favicon.png',
-//     viewport: 'width=device-width, initial-scale=1',
-//     extra: []
-//   }
