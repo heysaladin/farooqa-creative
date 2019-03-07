@@ -1,7 +1,9 @@
-[{
+[
+  {
+    "id": 16,
     "meta": {
       "lang": "en",
-      "title": "Color",
+      "title": "Apa itu digital marketing",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -13,58 +15,388 @@
       "extra": []
     },
     "data": {
-      "title": "Color",
+      "title": "Apa itu digital marketing",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari.",
+      "bodyCopyShort": "Tak dipungkiri lagi bahwa pemasaran adalah elemen penting bagi sebuah perusahaan. Seiring perkembangan jaman, pemasaranpun ikut berkembang mengikuti jaman.",
       "image": "../assets/images/works/large/image.jpg",
-      "date": "12-01-2018",
-      "slug": "color"
+      "date": "2016-09-29 08:59:37",
+      "date_update": "2016-10-06 06:41:01",
+      "slug": "apa-itu-digital-marketing"
     }
   },
   {
+    "id": 14,
     "meta": {
       "lang": "en",
-      "title": "Illustration",
+      "title": "Apa itu UI/UX?",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "./images/favicon.png",
+      "favicon": "../assets/images/cross.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
     "data": {
-      "title": "Illustration",
+      "title": "Apa itu UI/UX?",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari.",
+      "bodyCopyShort": "Terjadi perdebatan dimana-mana tentang perbedaan antara UI dan UX. Tapi masih banyak pula yang bahkan belum tahu apa itu UI dan UX. Binatang apa itu?",
       "image": "../assets/images/works/large/image.jpg",
-      "date": "12-01-2018",
-      "slug": "illustration"
+      "date": "2016-09-29 08:58:53",
+      "date_update": "2016-10-06 06:43:35",
+      "slug": "apa-itu-uiux"
     }
   },
   {
+    "id": 2,
     "meta": {
       "lang": "en",
-      "title": "Shape",
+      "title": "Apa itu visual desain",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "./images/favicon.png",
+      "favicon": "../assets/images/cross.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
     "data": {
-      "title": "Shape",
+      "title": "Apa itu visual desain",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari.",
+      "bodyCopyShort": "Kalau sebelumnya Anda pernah mendengar Desain Interior, Desain Eksterior, Desain Grafis, Desain Fashion dan desain-desain lainnya, kali ini kita akan membahas soal Visual Desain.",
       "image": "../assets/images/works/large/image.jpg",
-      "date": "12-01-2018",
-      "slug": "shape"
+      "date": "2016-09-29 08:52:46",
+      "date_update": "2016-10-06 06:45:47",
+      "slug": "apa-itu-visual-desain"
+    }
+  },
+  {
+    "id": 4,
+    "meta": {
+      "lang": "en",
+      "title": "Apa sih POI itu?",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Apa sih POI itu?",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Kita kali ini akan bahas soal POI. Apa itu POI? POI atau singkatan dari oint of Interest adalah titik awal mata manusia melihat sebuah benda. Dalam konteks ini benda yang dimaksud adalah Desain.",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:53:40",
+      "date_update": "2016-10-06 06:45:23",
+      "slug": "apa-sih-poi-itu"
+    }
+  },
+  {
+    "id": 3,
+    "meta": {
+      "lang": "en",
+      "title": "Belajar desain, mau jadi apa?",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Belajar desain, mau jadi apa?",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Rajin Pangkal Pandai, Sedekah Pangkal Kaya. Beberapa peribahasa tersebut pasti tidak asing di telinga kita. Karena memang pasti diajarkan di bangku sekolah dasar :D",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:53:22",
+      "date_update": "2016-10-06 06:45:35",
+      "slug": "belajar-desain-mau-jadi-apa"
+    }
+  },
+  {
+    "id": 11,
+    "meta": {
+      "lang": "en",
+      "title": "Cuma dengan 2 jurus",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Cuma dengan 2 jurus",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Jika Anda ingin jadi \"jagoan\" dalam dunia desain, tak perlu repot-repot belajar kitab kuno segala. Anda cukup mengusai 2 (dua) jurus. iya cuma DUA.",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:57:20",
+      "date_update": "2016-10-06 06:44:05",
+      "slug": "cuma-dengan-2-jurus"
+    }
+  },
+  {
+    "id": 13,
+    "meta": {
+      "lang": "en",
+      "title": "Desain web dari waktu ke waktu",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Desain web dari waktu ke waktu",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Jaman berubah begitu cepat. Terjadi perubahan yang sangat cepat dimana-mana. Komputer misalnya, dari dahulu komputer yang terlihat sangat canggih dan rumit sekarang tanpa disadari komputer sudah masuk dalam saku pakaian kita.",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:58:29",
+      "date_update": "2016-10-06 06:43:44",
+      "slug": "desain-web-dari-waktu-ke-waktu"
+    }
+  },
+  {
+    "id": 5,
+    "meta": {
+      "lang": "en",
+      "title": "Garis maya",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Garis maya",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Pernahkah dalam keseharian kita, menemukan sebuah brosur, flyer, banner dan lain sebagainya tapi malah bingung ketika ingin membacanya di mulai dari bagian mana dulu.",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:53:59",
+      "date_update": "2016-10-06 06:45:10",
+      "slug": "garis-maya"
+    }
+  },
+  {
+    "id": 12,
+    "meta": {
+      "lang": "en",
+      "title": "Kaidah dalam desain",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Kaidah dalam desain",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Mulai dari dapur rumah kita sampai ke sirkuit balap F1 tentu kita sadar ada yang namanya Aturan, dan tentu kita tahu pula sebenarnya aturan itu boleh-boleh saja tidak ditaati.",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:58:00",
+      "date_update": "2016-10-06 06:43:55",
+      "slug": "kaidah-dalam-desain"
+    }
+  },
+  {
+    "id": 9,
+    "meta": {
+      "lang": "en",
+      "title": "Memahami apa itu ilustrasi",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Memahami apa itu ilustrasi",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "\"Apakah foto adalah ilustrasi?\" jawab langsung! Apa alasan Anda? Baik di artikel kali ini kita akan coba memahami apa itu ilustrasi.",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:56:42",
+      "date_update": "2016-10-06 06:44:28",
+      "slug": "memahami-apa-itu-ilustrasi"
+    }
+  },
+  {
+    "id": 6,
+    "meta": {
+      "lang": "en",
+      "title": "Mengenal bentuk",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Mengenal bentuk",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Ketika duduk di taman kanak-kanak dulu anda pasti diajari beberapa bentuk bangun. Baik bangun datar atau bangun ruang.",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:54:33",
+      "date_update": "2016-10-06 06:44:58",
+      "slug": "mengenal-bentuk"
+    }
+  },
+  {
+    "id": 8,
+    "meta": {
+      "lang": "en",
+      "title": "Mengenal huruf",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Mengenal huruf",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Bicara soal huruf, apa jenis huruf yang namanya anda ingat selain Times New Roman? :D Calibri, Impact ... apa lagi ya?</p>\n\n<p>Baik itu nama-namanya.",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:56:11",
+      "date_update": "2016-10-06 06:44:37",
+      "slug": "perbedaan-desain-dan-seni"
+    }
+  },
+  {
+    "id": 10,
+    "meta": {
+      "lang": "en",
+      "title": "Mengenal layout",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Mengenal layout",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Tanpa disadari, layout sangat akrab dengan kita dalam kehidupan sehari-hari.",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:56:57",
+      "date_update": "2016-10-06 06:44:17",
+      "slug": "mengenal-layout"
+    }
+  },
+  {
+    "id": 7,
+    "meta": {
+      "lang": "en",
+      "title": "Mengenal warna",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Mengenal warna",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Merah, kuning, hijau. Selalu ketiga warna itu yang terbayang dalam pikiran kita jika mendengar kata \"Warna-warni\".",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:55:33",
+      "date_update": "2016-10-06 06:44:46",
+      "slug": "mengenal-warna"
+    }
+  },
+  {
+    "id": 1,
+    "meta": {
+      "lang": "en",
+      "title": "Perbedaan desain dan seni",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Perbedaan desain dan seni",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Banyak diantara kita yang masih menganggap bahwa seni dan desain adalah sama. Hal ini kurang tepat, karena pada kenyataannya memang banyak perbedaan antara keduanya.",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 05:55:33",
+      "date_update": "2016-10-06 06:45:57",
+      "slug": "perbedaan-desain-dan-seni"
+    }
+  },
+  {
+    "id": 15,
+    "meta": {
+      "lang": "en",
+      "title": "Perias yang kadang tak dianggap",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/cross.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Perias yang kadang tak dianggap",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Yap.. \"Perias\" adalah kata yang tepat sebagai kata ganti bagi seorang desainer. Lalu, kenapa pakai kata \"yang tak dianggap\"?",
+      "image": "../assets/images/works/large/image.jpg",
+      "date": "2016-09-29 08:59:19",
+      "date_update": "2016-10-06 06:43:26",
+      "slug": "perias-yang-kadang-tak-dianggap"
     }
   }
 ]
