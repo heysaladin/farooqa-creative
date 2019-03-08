@@ -1,5 +1,3 @@
-#Mengenal bentuk
-
 Ketika duduk di taman kanak-kanak dulu anda pasti diajari beberapa bentuk bangun. Baik bangun datar atau bangun ruang.
 
 Ada banyak bangun yang kita kenal, misal bangun datar seperti persegi, persegi panjang, segitiga, lingkaran, jajar genjang, trapesium, layang layang serta belah ketupat. Wah banyak juga ya, ternyata saya masih hafal hehe... :D

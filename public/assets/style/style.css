@@ -1026,6 +1026,13 @@ a {
     color: #7E7E7E;
 }
 
+.content-core span.date {
+    color: #333333;
+    font-size: 0.80em;
+    font-family: 'Museo Sans 300';
+    margin: 0px auto 40px;
+}
+
 .content-core span.quote {
     color: #7E7E7E;
     font-size: 1.5em;

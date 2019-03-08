@@ -1,5 +1,3 @@
-#Memahami apa itu ilustrasi
-
 "Apakah foto adalah ilustrasi?" jawab langsung!
 
 Apa alasan Anda?

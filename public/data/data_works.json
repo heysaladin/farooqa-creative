@@ -1,7 +1,9 @@
-[{
+[
+  {
+    "id": 24,
     "meta": {
       "lang": "en",
-      "title": "Aisyira",
+      "title": "3D Portfolio",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -13,64 +15,4248 @@
       "extra": []
     },
     "data": {
-      "title": "Aisyira",
+      "title": "3D Portfolio",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari. Lestari Diskon provides complete information about merchants covering major discounts, locations, phone numbers, and opening hours. <br />Through this application, user will be facilitated in finding merchants to get discounts using The Royal, Lestari First and Lestari First Ladies cards.",
-      "image": "../assets/images/works/large/image.jpg",
+      "bodyCopyShort": "3D Portfolio",
+      "work_category": 7,
+      "image": "../assets/images/works/large/JwkCZcPt_work_image.png",
+      "thumbnail": "../assets/images/works/small/JwkCZcPt_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
-      "workOfTheMonth": true,
-      "onGoingWorkOfTheMonth": true,
-      "slug": "aisyira"
-    }
-  },
-  {
-    "meta": {
-      "lang": "en",
-      "title": "LestariDiskon App - Android",
-      "stylesheets": ["./css/style.css"],
-      "scripts": ["./js/main.js"],
-      "charset": "utf-8",
-      "description": "Excellent freelance company from Bali, Indonesia.",
-      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
-      "author": "Farooq Agent",
-      "favicon": "./images/favicon.png",
-      "viewport": "width=device-width, initial-scale=1",
-      "extra": []
-    },
-    "data": {
-      "title": "LestariDiskon App - Android",
-      "catogory": ["Design", "Development"],
-      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari. Lestari Diskon provides complete information about merchants covering major discounts, locations, phone numbers, and opening hours. <br />Through this application, user will be facilitated in finding merchants to get discounts using The Royal, Lestari First and Lestari First Ladies cards.",
-      "image": "../assets/images/works/large/image.jpg",
-      "logo": "../assets/images/works/logo/lestari.png",
-      "workOfTheMonth": true,
-      "onGoingWorkOfTheMonth": true,
-      "slug": "lestari"
-    }
-  },
-  {
-    "meta": {
-      "lang": "en",
-      "title": "Mekar",
-      "stylesheets": ["./css/style.css"],
-      "scripts": ["./js/main.js"],
-      "charset": "utf-8",
-      "description": "Excellent freelance company from Bali, Indonesia.",
-      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
-      "author": "Farooq Agent",
-      "favicon": "./images/favicon.png",
-      "viewport": "width=device-width, initial-scale=1",
-      "extra": []
-    },
-    "data": {
-      "title": "Mekar",
-      "catogory": ["Design", "Development"],
-      "bodyCopyShort": "Lestari Diskon is a mobile platform application provides merchant information which collaborate with BPR Lestari. Lestari Diskon provides complete information about merchants covering major discounts, locations, phone numbers, and opening hours. <br />Through this application, user will be facilitated in finding merchants to get discounts using The Royal, Lestari First and Lestari First Ladies cards.",
-      "image": "../assets/images/works/large/image.jpg",
-      "logo": "../assets/images/works/logo/lestari.png",
-      "workOfTheMonth": true,
+      "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "mekar"
+      "slug": "3d-portfolio",
+      "date": "2012-04-12 11:03:23",
+      "date_update": "2016-12-08 19:26:39"
+    }
+  },
+  {
+    "id": 118,
+    "meta": {
+      "lang": "en",
+      "title": "4kampus frontend dev. Coding only",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "4kampus frontend dev. Coding only",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "4kampus frontend dev. Coding only",
+      "work_category": 11,
+      "image": "../assets/images/works/large/0X7wYcC3_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/0X7wYcC3_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "4kampus-frontend-dev-coding-only",
+      "date": "2016-10-04 13:52:52",
+      "date_update": "2016-12-07 21:31:35"
+    }
+  },
+  {
+    "id": 113,
+    "meta": {
+      "lang": "en",
+      "title": "Adhitrans company profile printed",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Adhitrans company profile printed",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Adhitrans company profile printed",
+      "work_category": 3,
+      "image": "../assets/images/works/large/Q5H7Jcbq_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/Q5H7Jcbq_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "adhitrans-company-profile-printed",
+      "date": "2016-10-17 13:50:07",
+      "date_update": "2016-12-07 21:29:55"
+    }
+  },
+  {
+    "id": 129,
+    "meta": {
+      "lang": "en",
+      "title": "Aisyira website design",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Aisyira website design",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Aisyira website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/k5UeVzyZ_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/k5UeVzyZ_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "aisyira-website-design",
+      "date": "2015-08-26 13:56:41",
+      "date_update": "2016-12-05 11:19:52"
+    }
+  },
+  {
+    "id": 30,
+    "meta": {
+      "lang": "en",
+      "title": "Ale-ale product photo",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Ale-ale product photo",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Ale-ale product photo",
+      "work_category": 2,
+      "image": "../assets/images/works/large/WzfGbZEC_work_image.png",
+      "thumbnail": "../assets/images/works/small/WzfGbZEC_work_image.png",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "ale-ale-product-photo",
+      "date": "2012-07-31 11:19:46",
+      "date_update": "2016-12-08 19:20:45"
+    }
+  },
+  {
+    "id": 48,
+    "meta": {
+      "lang": "en",
+      "title": "Alien octopus character design",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Alien octopus character design",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Alien octopus character design",
+      "work_category": 6,
+      "image": "../assets/images/works/large/hn4HxM8R_work_image.png",
+      "thumbnail": "../assets/images/works/small/hn4HxM8R_work_image.png",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "alien-octopus-character-design",
+      "date": "2012-07-31 11:41:44",
+      "date_update": "2016-12-08 19:23:10"
+    }
+  },
+  {
+    "id": 100,
+    "meta": {
+      "lang": "en",
+      "title": "Amidis Website Design",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Amidis Website Design",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Amidis Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/NNQUZYLj_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/NNQUZYLj_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "amidis-website-design",
+      "date": "2015-01-28 13:43:21",
+      "date_update": "2016-12-08 13:39:56"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "Antique flyer",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Antique flyer",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "Antique flyer",
+      "work_category": 3,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "antique-flyer",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
+    }
+  },
+  {
+    "id": 71,
+    "meta": {
+      "lang": "en",
+      "title": "X",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "./images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "X",
+      "catogory": ["Design", "Development"],
+      "bodyCopyShort": "X",
+      "work_category": 0,
+      "image": "../assets/images/works/large/wcFYd6rE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.jpg",
+      "logo": "../assets/images/works/logo/lestari.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "slug": "x",
+      "date": "2013-03-13 12:11:22",
+      "date_update": "2016-12-08 13:54:04"
     }
   }
 ]

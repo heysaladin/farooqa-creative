@@ -1,5 +1,3 @@
-#Belajar desain, mau jadi apa?
-
 Rajin Pangkal Pandai, Sedekah Pangkal Kaya. Beberapa peribahasa tersebut pasti tidak asing di telinga kita. Karena memang pasti diajarkan di bangku sekolah dasar :D
 
 Baik, dari peribahasa \"Rajin Pangkal Pandai\" kita coba ilustrasikan.

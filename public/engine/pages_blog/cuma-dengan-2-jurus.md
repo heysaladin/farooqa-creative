@@ -1,5 +1,3 @@
-#Cuma dengan 2 jurus
-
 Jika Anda ingin jadi "jagoan" dalam dunia desain, tak perlu repot-repot belajar kitab kuno segala.
 
 Anda cukup mengusai 2 (dua) jurus. iya cuma DUA. Apa itu?

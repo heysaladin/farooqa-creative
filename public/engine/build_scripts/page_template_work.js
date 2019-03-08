@@ -67,6 +67,7 @@ module.exports = {
                 <div class="content-block">
                     <h1>${pageData.title}</h1>
                     <span>${catogoryStringReady}</span>
+                    <span class="date">${pageData.date}</span>
                     <div class="hero-image-wrapper">
                         <img src="${pageData.image}">
                     </div>

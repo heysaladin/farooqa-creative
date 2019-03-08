@@ -71,6 +71,7 @@ module.exports = {
                     <div class="content-core">
                         <h1>${pageData.title}</h1>
                         <span>${catogoryStringReady}</span>
+                        <span class="date">${pageData.date}</span>
                         ${md.render(pageContent)}
                     </div>
                 </div>

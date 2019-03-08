@@ -1,5 +1,3 @@
-#Mengenal huruf
-
 Bicara soal huruf, apa jenis huruf yang namanya anda ingat selain Times New Roman? :D
 
 Calibri, Impact ... apa lagi ya?

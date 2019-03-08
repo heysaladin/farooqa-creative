@@ -1,5 +1,3 @@
-#Perias yang kadang tak dianggap
-
 Yap.. \"Perias\" adalah kata yang tepat sebagai kata ganti bagi seorang desainer.
 
 Lalu, kenapa pakai kata \"yang tak dianggap\"?

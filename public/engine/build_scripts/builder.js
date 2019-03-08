@@ -59,6 +59,8 @@ try {
 
 // Generate each page from the data provided, using the template.
 console.log('Generating pages...');
+console.log('>>> ' + JSON.parse(pagesMeta['data_blog.json']).length );
+console.log('>>> ' + JSON.parse(pagesMetaWork['data_works.json']).length );
 try {
   var i = 0;
   for (var page of Object.entries(pages)) {

@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": 16,
     "meta": {
       "lang": "en",
@@ -18,7 +17,8 @@
       "title": "Apa itu digital marketing",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Tak dipungkiri lagi bahwa pemasaran adalah elemen penting bagi sebuah perusahaan. Seiring perkembangan jaman, pemasaranpun ikut berkembang mengikuti jaman.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/La9m4GAI_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/La9m4GAI_post_image.jpg",
       "date": "2016-09-29 08:59:37",
       "date_update": "2016-10-06 06:41:01",
       "slug": "apa-itu-digital-marketing"
@@ -43,7 +43,8 @@
       "title": "Apa itu UI/UX?",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Terjadi perdebatan dimana-mana tentang perbedaan antara UI dan UX. Tapi masih banyak pula yang bahkan belum tahu apa itu UI dan UX. Binatang apa itu?",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/Yd7Sr24j_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/Yd7Sr24j_post_image.jpg",
       "date": "2016-09-29 08:58:53",
       "date_update": "2016-10-06 06:43:35",
       "slug": "apa-itu-uiux"
@@ -68,7 +69,8 @@
       "title": "Apa itu visual desain",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Kalau sebelumnya Anda pernah mendengar Desain Interior, Desain Eksterior, Desain Grafis, Desain Fashion dan desain-desain lainnya, kali ini kita akan membahas soal Visual Desain.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/qlkxhcbN_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/qlkxhcbN_post_image.jpg",
       "date": "2016-09-29 08:52:46",
       "date_update": "2016-10-06 06:45:47",
       "slug": "apa-itu-visual-desain"
@@ -93,7 +95,8 @@
       "title": "Apa sih POI itu?",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Kita kali ini akan bahas soal POI. Apa itu POI? POI atau singkatan dari oint of Interest adalah titik awal mata manusia melihat sebuah benda. Dalam konteks ini benda yang dimaksud adalah Desain.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/w2sqSPpS_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/w2sqSPpS_post_image.jpg",
       "date": "2016-09-29 08:53:40",
       "date_update": "2016-10-06 06:45:23",
       "slug": "apa-sih-poi-itu"
@@ -118,7 +121,8 @@
       "title": "Belajar desain, mau jadi apa?",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Rajin Pangkal Pandai, Sedekah Pangkal Kaya. Beberapa peribahasa tersebut pasti tidak asing di telinga kita. Karena memang pasti diajarkan di bangku sekolah dasar :D",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/E1rLyvjZ_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/E1rLyvjZ_post_image.jpg",
       "date": "2016-09-29 08:53:22",
       "date_update": "2016-10-06 06:45:35",
       "slug": "belajar-desain-mau-jadi-apa"
@@ -143,7 +147,8 @@
       "title": "Cuma dengan 2 jurus",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Jika Anda ingin jadi \"jagoan\" dalam dunia desain, tak perlu repot-repot belajar kitab kuno segala. Anda cukup mengusai 2 (dua) jurus. iya cuma DUA.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/B7Kks1Qf_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/B7Kks1Qf_post_image.jpg",
       "date": "2016-09-29 08:57:20",
       "date_update": "2016-10-06 06:44:05",
       "slug": "cuma-dengan-2-jurus"
@@ -168,7 +173,8 @@
       "title": "Desain web dari waktu ke waktu",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Jaman berubah begitu cepat. Terjadi perubahan yang sangat cepat dimana-mana. Komputer misalnya, dari dahulu komputer yang terlihat sangat canggih dan rumit sekarang tanpa disadari komputer sudah masuk dalam saku pakaian kita.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/biZnbgkg_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/biZnbgkg_post_image.jpg",
       "date": "2016-09-29 08:58:29",
       "date_update": "2016-10-06 06:43:44",
       "slug": "desain-web-dari-waktu-ke-waktu"
@@ -193,7 +199,8 @@
       "title": "Garis maya",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Pernahkah dalam keseharian kita, menemukan sebuah brosur, flyer, banner dan lain sebagainya tapi malah bingung ketika ingin membacanya di mulai dari bagian mana dulu.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/xMRV5sJp_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/xMRV5sJp_post_image.jpg",
       "date": "2016-09-29 08:53:59",
       "date_update": "2016-10-06 06:45:10",
       "slug": "garis-maya"
@@ -218,7 +225,8 @@
       "title": "Kaidah dalam desain",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Mulai dari dapur rumah kita sampai ke sirkuit balap F1 tentu kita sadar ada yang namanya Aturan, dan tentu kita tahu pula sebenarnya aturan itu boleh-boleh saja tidak ditaati.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/q1ttRqac_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/q1ttRqac_post_image.jpg",
       "date": "2016-09-29 08:58:00",
       "date_update": "2016-10-06 06:43:55",
       "slug": "kaidah-dalam-desain"
@@ -243,7 +251,8 @@
       "title": "Memahami apa itu ilustrasi",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "\"Apakah foto adalah ilustrasi?\" jawab langsung! Apa alasan Anda? Baik di artikel kali ini kita akan coba memahami apa itu ilustrasi.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/AtbwjD0Q_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/AtbwjD0Q_post_image.jpg",
       "date": "2016-09-29 08:56:42",
       "date_update": "2016-10-06 06:44:28",
       "slug": "memahami-apa-itu-ilustrasi"
@@ -268,7 +277,8 @@
       "title": "Mengenal bentuk",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Ketika duduk di taman kanak-kanak dulu anda pasti diajari beberapa bentuk bangun. Baik bangun datar atau bangun ruang.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/p4saDamP_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/p4saDamP_post_image.jpg",
       "date": "2016-09-29 08:54:33",
       "date_update": "2016-10-06 06:44:58",
       "slug": "mengenal-bentuk"
@@ -293,7 +303,8 @@
       "title": "Mengenal huruf",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Bicara soal huruf, apa jenis huruf yang namanya anda ingat selain Times New Roman? :D Calibri, Impact ... apa lagi ya?</p>\n\n<p>Baik itu nama-namanya.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/Ag6VIEIn_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/Ag6VIEIn_post_image.jpg",
       "date": "2016-09-29 08:56:11",
       "date_update": "2016-10-06 06:44:37",
       "slug": "perbedaan-desain-dan-seni"
@@ -318,7 +329,8 @@
       "title": "Mengenal layout",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Tanpa disadari, layout sangat akrab dengan kita dalam kehidupan sehari-hari.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/ccWFSD33_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/ccWFSD33_post_image.jpg",
       "date": "2016-09-29 08:56:57",
       "date_update": "2016-10-06 06:44:17",
       "slug": "mengenal-layout"
@@ -343,7 +355,8 @@
       "title": "Mengenal warna",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Merah, kuning, hijau. Selalu ketiga warna itu yang terbayang dalam pikiran kita jika mendengar kata \"Warna-warni\".",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/FndTWHKS_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/FndTWHKS_post_image.jpg",
       "date": "2016-09-29 08:55:33",
       "date_update": "2016-10-06 06:44:46",
       "slug": "mengenal-warna"
@@ -368,7 +381,8 @@
       "title": "Perbedaan desain dan seni",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Banyak diantara kita yang masih menganggap bahwa seni dan desain adalah sama. Hal ini kurang tepat, karena pada kenyataannya memang banyak perbedaan antara keduanya.",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/RQ31NVk5_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/RQ31NVk5_post_image.jpg",
       "date": "2016-09-29 05:55:33",
       "date_update": "2016-10-06 06:45:57",
       "slug": "perbedaan-desain-dan-seni"
@@ -393,7 +407,8 @@
       "title": "Perias yang kadang tak dianggap",
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Yap.. \"Perias\" adalah kata yang tepat sebagai kata ganti bagi seorang desainer. Lalu, kenapa pakai kata \"yang tak dianggap\"?",
-      "image": "../assets/images/works/large/image.jpg",
+      "image": "../assets/images/blog/small/N8RVh6ag_post_image.jpg",
+      "thumbnail": "../assets/images/blog/small/N8RVh6ag_post_image.jpg",
       "date": "2016-09-29 08:59:19",
       "date_update": "2016-10-06 06:43:26",
       "slug": "perias-yang-kadang-tak-dianggap"
