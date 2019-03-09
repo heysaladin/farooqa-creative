@@ -240,10 +240,10 @@
     }
   },
   {
-    "id": 71,
+    "id": 96,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Arafah Catalog",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -255,25 +255,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Arafah Catalog",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Arafah Catalog",
+      "work_category": 10,
+      "image": "../assets/images/works/large/RXmjtsRZ_work_image.png",
+      "thumbnail": "../assets/images/works/small/RXmjtsRZ_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "arafah-catalog",
+      "date": "2014-06-11 13:32:27",
+      "date_update": "2016-12-08 13:44:38"
     }
   },
   {
-    "id": 71,
+    "id": 97,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Arafah Newspaper Advertisement",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -285,25 +285,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Arafah Newspaper Advertisement",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Arafah Newspaper Advertisement",
+      "work_category": 3,
+      "image": "../assets/images/works/large/FfZJcslm_work_image.png",
+      "thumbnail": "../assets/images/works/small/FfZJcslm_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "arafah-newspaper-advertisement",
+      "date": "2014-10-30 13:36:04",
+      "date_update": "2016-12-08 13:42:04"
     }
   },
   {
-    "id": 71,
+    "id": 98,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Arafah Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -315,25 +315,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Arafah Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Arafah Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/NZuNvDxP_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/NZuNvDxP_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "arafah-website-design",
+      "date": "2014-05-20 13:38:47",
+      "date_update": "2016-12-08 13:44:55"
     }
   },
   {
-    "id": 71,
+    "id": 115,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Arroudhah branding",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -345,25 +345,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Arroudhah branding",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Arroudhah branding",
+      "work_category": 1,
+      "image": "../assets/images/works/large/l4DKOS7A_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/l4DKOS7A_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "arroudhah-branding",
+      "date": "2016-04-15 13:51:43",
+      "date_update": "2016-12-07 22:18:36"
     }
   },
   {
-    "id": 71,
+    "id": 116,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Arroudhah website",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -375,25 +375,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Arroudhah website",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Arroudhah website",
+      "work_category": 9,
+      "image": "../assets/images/works/large/LqsoQHxf_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/LqsoQHxf_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "arroudhah-website",
+      "date": "2016-08-13 13:52:05",
+      "date_update": "2016-12-07 21:38:36"
     }
   },
   {
-    "id": 71,
+    "id": 131,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Ayo belisaham project",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -405,25 +405,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Ayo belisaham project",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Ayo belisaham project",
+      "work_category": 11,
+      "image": "../assets/images/works/large/J54DT7Nc_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/J54DT7Nc_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "ayo-belisaham-project",
+      "date": "2015-12-13 13:57:16",
+      "date_update": "2016-12-08 19:52:36"
     }
   },
   {
-    "id": 71,
+    "id": 31,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Bacok logo design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -435,25 +435,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Bacok logo design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Bacok logo design",
+      "work_category": 1,
+      "image": "../assets/images/works/large/PfmH0XO0_work_image.png",
+      "thumbnail": "../assets/images/works/small/PfmH0XO0_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "bacok-logo-design",
+      "date": "2012-07-31 11:22:29",
+      "date_update": "2016-12-08 19:21:37"
     }
   },
   {
-    "id": 71,
+    "id": 62,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Bakso burger sandwich t-shirt",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -465,25 +465,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Bakso burger sandwich t-shirt",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Bakso burger sandwich t-shirt",
+      "work_category": 3,
+      "image": "../assets/images/works/large/jDIWQR6Z_work_image.png",
+      "thumbnail": "../assets/images/works/small/jDIWQR6Z_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "bakso-burger-sandwich-t-shirt",
+      "date": "2012-07-31 11:59:16",
+      "date_update": "2016-12-08 19:24:52"
     }
   },
   {
-    "id": 71,
+    "id": 44,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Beer lover character design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -495,25 +495,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Beer lover character design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Beer lover character design",
+      "work_category": 6,
+      "image": "../assets/images/works/large/Xo4TxRrJ_work_image.png",
+      "thumbnail": "../assets/images/works/small/Xo4TxRrJ_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "beer-lover-character-design",
+      "date": "2012-07-31 11:38:15",
+      "date_update": "2016-12-08 19:22:40"
     }
   },
   {
-    "id": 71,
+    "id": 70,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Begundal ngalam t-shirt",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -525,25 +525,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Begundal ngalam t-shirt",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Begundal ngalam t-shirt",
+      "work_category": 3,
+      "image": "../assets/images/works/large/h9aDmRVZ_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/h9aDmRVZ_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "begundal-ngalam-t-shirt",
+      "date": "2013-02-23 12:04:13",
+      "date_update": "2016-12-08 13:57:04"
     }
   },
   {
-    "id": 71,
+    "id": 28,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Bidadari photo manipulation",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -555,25 +555,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Bidadari photo manipulation",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Bidadari photo manipulation",
+      "work_category": 3,
+      "image": "../assets/images/works/large/UtTHAul0_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/UtTHAul0_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "bidadari-photo-manipulation",
+      "date": "2012-11-27 11:16:20",
+      "date_update": "2016-12-08 13:59:04"
     }
   },
   {
-    "id": 71,
+    "id": 19,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Black and white photography",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -585,25 +585,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Black and white photography",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Black and white photography",
+      "work_category": 8,
+      "image": "../assets/images/works/large/gFCZavnX_work_image.png",
+      "thumbnail": "../assets/images/works/small/gFCZavnX_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "black-and-white-photography",
+      "date": "2012-07-31 10:52:48",
+      "date_update": "2016-12-05 15:44:12"
     }
   },
   {
-    "id": 71,
+    "id": 45,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Breast cancer care character design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -615,25 +615,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Breast cancer care character design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
+      "bodyCopyShort": "Breast cancer care character design",
       "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "image": "../assets/images/works/large/gNY4xqga_work_image.png",
+      "thumbnail": "../assets/images/works/small/gNY4xqga_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "breast-cancer-care-character-design",
+      "date": "2012-08-01 11:38:53",
+      "date_update": "2016-12-08 14:01:02"
     }
   },
   {
-    "id": 71,
+    "id": 77,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Brother Website Design 1.0",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -645,25 +645,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Brother Website Design 1.0",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Brother Website Design 1.0",
+      "work_category": 9,
+      "image": "../assets/images/works/large/1w2tX3Av_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/1w2tX3Av_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "brother-website-design-10",
+      "date": "2013-07-12 12:22:27",
+      "date_update": "2016-12-08 13:50:30"
     }
   },
   {
-    "id": 71,
+    "id": 76,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Brother Website Design 2.0",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -675,25 +675,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Brother Website Design 2.0",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Brother Website Design 2.0",
+      "work_category": 9,
+      "image": "../assets/images/works/large/5Z7LV9E4_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/5Z7LV9E4_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
+      "slug": "brother-website-design-20",
+      "date": "2014-01-10 12:11:22",
       "date_update": "2016-12-08 13:54:04"
     }
   },
   {
-    "id": 71,
+    "id": 117,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Bubumbu interactive education media",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -705,25 +705,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Bubumbu interactive education media",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Bubumbu interactive education media",
+      "work_category": 10,
+      "image": "../assets/images/works/large/cMLsQat3_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/cMLsQat3_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "bubumbu-interactive-education-media",
+      "date": "2016-06-28 13:52:30",
+      "date_update": "2016-12-07 22:12:30"
     }
   },
   {
-    "id": 71,
+    "id": 84,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Cap Tawon Exhibition Needs",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -735,25 +735,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Cap Tawon Exhibition Needs",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Cap Tawon Exhibition Needs",
+      "work_category": 2,
+      "image": "../assets/images/works/large/BbXf8YdB_work_image.png",
+      "thumbnail": "../assets/images/works/small/BbXf8YdB_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "cap-tawon-exhibition-needs",
+      "date": "2015-03-04 12:45:13",
+      "date_update": "2016-12-08 13:39:24"
     }
   },
   {
-    "id": 71,
+    "id": 16,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Ciputa Water Park Trifold Brochure Layout",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -765,25 +765,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Ciputa Water Park Trifold Brochure Layout",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Ciputa Water Park Trifold Brochure Layout",
+      "work_category": 3,
+      "image": "../assets/images/works/large/O2XC7OM0_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/O2XC7OM0_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "ciputa-water-park-trifold-brochure-layout",
+      "date": "2014-12-10 07:52:46",
+      "date_update": "2016-12-08 13:40:51"
     }
   },
   {
-    "id": 71,
+    "id": 104,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Citra Harmony Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -795,25 +795,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Citra Harmony Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Citra Harmony Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/0jrhdnPY_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/0jrhdnPY_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "citra-harmony-website-design",
+      "date": "2015-04-10 13:45:46",
+      "date_update": "2016-12-08 13:37:58"
     }
   },
   {
-    "id": 71,
+    "id": 68,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Corporate business brochure",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -825,25 +825,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Corporate business brochure",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
+      "bodyCopyShort": "Corporate business brochure",
       "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "image": "../assets/images/works/large/s2Sev9hP_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/s2Sev9hP_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "corporate-business-brochure",
+      "date": "2013-03-02 12:02:59",
+      "date_update": "2016-12-08 13:54:56"
     }
   },
   {
-    "id": 71,
+    "id": 65,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Crossfit eclipse t-shirt",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -855,25 +855,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Crossfit eclipse t-shirt",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Crossfit eclipse t-shirt",
+      "work_category": 3,
+      "image": "../assets/images/works/large/zrADdy0b_work_image.png",
+      "thumbnail": "../assets/images/works/small/zrADdy0b_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "crossfit-eclipse-t-shirt",
+      "date": "2012-07-31 12:01:08",
+      "date_update": "2016-12-08 19:25:41"
     }
   },
   {
-    "id": 71,
+    "id": 41,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Dancing zombie character design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -885,25 +885,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Dancing zombie character design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Dancing zombie character design",
+      "work_category": 6,
+      "image": "../assets/images/works/large/iijD4Iqa_work_image.png",
+      "thumbnail": "../assets/images/works/small/iijD4Iqa_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "dancing-zombie-character-design",
+      "date": "2012-07-31 11:32:00",
+      "date_update": "2016-12-08 19:22:13"
     }
   },
   {
-    "id": 71,
+    "id": 99,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Danilo Pavo Website Design and Frontend Development",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -915,25 +915,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Danilo Pavo Website Design and Frontend Development",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Danilo Pavo Website Design and Frontend Development",
+      "work_category": 9,
+      "image": "../assets/images/works/large/3HUCoTrm_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/3HUCoTrm_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "danilo-pavo-website-design-and-frontend-development",
+      "date": "2014-07-23 13:42:55",
+      "date_update": "2016-12-08 13:43:43"
     }
   },
   {
-    "id": 71,
+    "id": 107,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "David Jack Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -945,25 +945,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "David Jack Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "David Jack Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/RragmKzj_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/RragmKzj_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "david-jack-website-design",
+      "date": "2013-07-04 13:47:06",
+      "date_update": "2016-12-08 13:52:31"
     }
   },
   {
-    "id": 71,
+    "id": 54,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "De green website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -975,25 +975,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "De green website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "De green website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/ElaNduwu_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/ElaNduwu_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "de-green-website-design",
+      "date": "2013-03-01 11:46:27",
+      "date_update": "2016-12-08 13:56:01"
     }
   },
   {
-    "id": 71,
+    "id": 47,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Defiskom lion character design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1005,25 +1005,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Defiskom lion character design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Defiskom lion character design",
+      "work_category": 6,
+      "image": "../assets/images/works/large/5zM00KHm_work_image.png",
+      "thumbnail": "../assets/images/works/small/5zM00KHm_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "defiskom-lion-character-design",
+      "date": "2011-06-01 11:41:09",
+      "date_update": "2016-12-08 19:27:36"
     }
   },
   {
-    "id": 71,
+    "id": 14,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Dessert Time Logo Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1035,25 +1035,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Dessert Time Logo Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Dessert Time Logo Design",
+      "work_category": 1,
+      "image": "../assets/images/works/large/0dX76Xga_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/0dX76Xga_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "dessert-time-logo-design",
+      "date": "2013-09-06 07:51:47",
+      "date_update": "2016-12-08 13:49:06"
     }
   },
   {
-    "id": 71,
+    "id": 101,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Deteksi Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1065,25 +1065,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Deteksi Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Deteksi Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/FqKF6i7Z_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/FqKF6i7Z_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "deteksi-website-design",
+      "date": "2014-06-26 13:43:55",
+      "date_update": "2016-12-08 13:44:09"
     }
   },
   {
-    "id": 71,
+    "id": 72,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Dian Istana Billboard",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1095,25 +1095,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Dian Istana Billboard",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Dian Istana Billboard",
+      "work_category": 2,
+      "image": "../assets/images/works/large/usKR1Yug_work_image.png",
+      "thumbnail": "../assets/images/works/small/usKR1Yug_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "dian-istana-billboard",
+      "date": "2015-03-31 12:12:34",
+      "date_update": "2016-12-08 13:38:09"
     }
   },
   {
-    "id": 71,
+    "id": 73,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Dian Istana Logo Design Improvement",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1125,25 +1125,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Dian Istana Logo Design Improvement",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Dian Istana Logo Design Improvement",
+      "work_category": 1,
+      "image": "../assets/images/works/large/31CRDdij_work_image.png",
+      "thumbnail": "../assets/images/works/small/31CRDdij_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "dian-istana-logo-design-improvement",
+      "date": "2015-03-24 12:14:17",
+      "date_update": "2016-12-08 13:38:26"
     }
   },
   {
-    "id": 71,
+    "id": 8,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "DIMINDO Business Card Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1155,25 +1155,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "DIMINDO Business Card Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
+      "bodyCopyShort": "DIMINDO Business Card Design",
       "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "image": "../assets/images/works/large/xyVob9JL_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/xyVob9JL_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "dimindo-business-card-design",
+      "date": "2015-10-06 07:48:15",
+      "date_update": "2016-12-05 16:49:58"
     }
   },
   {
-    "id": 71,
+    "id": 74,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Donini Website Design 2.0",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1185,25 +1185,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Donini Website Design 2.0",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Donini Website Design 2.0",
+      "work_category": 9,
+      "image": "../assets/images/works/large/gdyOBT00_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/gdyOBT00_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "donini-website-design-20",
+      "date": "2013-11-27 12:16:24",
+      "date_update": "2016-12-08 13:46:42"
     }
   },
   {
-    "id": 71,
+    "id": 106,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Dr. Daniel Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1215,25 +1215,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Dr. Daniel Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Dr. Daniel Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/iwjqr1lJ_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/iwjqr1lJ_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "dr-daniel-website-design",
+      "date": "2013-12-04 13:46:42",
+      "date_update": "2016-12-08 13:46:27"
     }
   },
   {
-    "id": 71,
+    "id": 105,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Dr. Ratna Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1245,25 +1245,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Dr. Ratna Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Dr. Ratna Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/Jju2BnsG_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/Jju2BnsG_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "dr-ratna-website-design",
+      "date": "2014-04-04 13:46:19",
+      "date_update": "2016-12-08 13:45:15"
     }
   },
   {
-    "id": 71,
+    "id": 33,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Elang persada logo",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1275,25 +1275,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Elang persada logo",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Elang persada logo",
+      "work_category": 1,
+      "image": "../assets/images/works/large/z9UILGv9_work_image.png",
+      "thumbnail": "../assets/images/works/small/z9UILGv9_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "elang-persada-logo",
+      "date": "2012-08-01 11:24:37",
+      "date_update": "2016-12-08 13:59:42"
     }
   },
   {
-    "id": 71,
+    "id": 27,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Energen POI Redesign 3D",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1305,25 +1305,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Energen POI Redesign 3D",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Energen POI Redesign 3D",
+      "work_category": 7,
+      "image": "../assets/images/works/large/xBRShVvY_work_image.png",
+      "thumbnail": "../assets/images/works/small/xBRShVvY_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "energen-poi-redesign-3d",
+      "date": "2012-05-03 11:13:17",
+      "date_update": "2016-12-08 19:26:20"
     }
   },
   {
-    "id": 71,
+    "id": 36,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Episode 1 logo",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1335,25 +1335,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Episode 1 logo",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
+      "bodyCopyShort": "Episode 1 logo",
+      "work_category": 1,
       "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
       "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "episode-1-logo",
+      "date": "2012-08-01 11:26:49",
+      "date_update": "2016-12-08 14:00:29"
     }
   },
   {
-    "id": 71,
+    "id": 18,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Farooqa Website",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1365,25 +1365,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Farooqa Website",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Farooqa Website",
+      "work_category": 9,
+      "image": "../assets/images/works/large/fqnW90nR_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/fqnW90nR_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "farooqa-website",
+      "date": "2015-08-26 01:21:42",
+      "date_update":"2016-12-08 19:55:53"
     }
   },
   {
-    "id": 71,
+    "id": 15,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Ferrous Brand Value and Guidelines",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1395,25 +1395,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Ferrous Brand Value and Guidelines",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Ferrous Brand Value and Guidelines",
+      "work_category": 1,
+      "image": "../assets/images/works/large/pjx2gGpV_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/pjx2gGpV_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "ferrous-brand-value-and-guidelines",
+      "date": "2013-07-08 07:52:18",
+      "date_update": "2016-12-08 13:52:03"
     }
   },
   {
-    "id": 71,
+    "id": 13,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "FUFA Frontend Web Development",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1425,25 +1425,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "FUFA Frontend Web Development",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "FUFA Frontend Web Development",
+      "work_category": 11,
+      "image": "../assets/images/works/large/WfV9r5Wm_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/WfV9r5Wm_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "fufa-frontend-web-development",
+      "date": "2013-09-25 07:51:11",
+      "date_update": "2016-12-08 20:14:09"
     }
   },
   {
-    "id": 71,
+    "id": 40,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Gatot kaca character sketch",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1455,25 +1455,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Gatot kaca character sketch",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Gatot kaca character sketch",
+      "work_category": 5,
+      "image": "../assets/images/works/large/Bna1SbPv_work_image.png",
+      "thumbnail": "../assets/images/works/small/Bna1SbPv_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "gatot-kaca-character-sketch",
+      "date": "2012-07-31 11:31:15",
+      "date_update": "2016-12-05 15:53:04"
     }
   },
   {
-    "id": 71,
+    "id": 49,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Geohorse character design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1485,25 +1485,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Geohorse character design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Geohorse character design",
+      "work_category": 6,
+      "image": "../assets/images/works/large/S7LWLcEB_work_image.png",
+      "thumbnail": "../assets/images/works/small/S7LWLcEB_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "geohorse-character-design",
+      "date": "2012-07-31 11:42:15",
+      "date_update": "2016-12-08 19:23:26"
     }
   },
   {
-    "id": 71,
+    "id": 25,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Geonk Bass 3D",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1515,25 +1515,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Geonk Bass 3D",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Geonk Bass 3D",
+      "work_category": 7,
+      "image": "../assets/images/works/large/7foAinlQ_work_image.png",
+      "thumbnail": "../assets/images/works/small/7foAinlQ_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "geonk-bass-3d",
+      "date": "2012-03-24 11:06:40",
+      "date_update": "2016-12-08 19:27:12"
     }
   },
   {
-    "id": 71,
+    "id": 26,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Geonk design illustration 3D",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1545,25 +1545,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Geonk design illustration 3D",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Geonk design illustration 3D",
+      "work_category": 7,
+      "image": "../assets/images/works/large/W8qF7pzj_work_image.png",
+      "thumbnail": "../assets/images/works/small/W8qF7pzj_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "geonk-design-illustration-3d",
+      "date": "2012-07-31 11:11:07",
+      "date_update": "2016-12-08 19:20:08"
     }
   },
   {
-    "id": 71,
+    "id": 58,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Geonk newspaper",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1575,25 +1575,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Geonk newspaper",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Geonk newspaper",
+      "work_category": 3,
+      "image": "../assets/images/works/large/AvEFMZJm_work_image.png",
+      "thumbnail": "../assets/images/works/small/AvEFMZJm_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "geonk-newspaper",
+      "date": "2012-07-31 11:55:29",
+      "date_update": "2016-12-08 19:24:00"
     }
   },
   {
-    "id": 71,
+    "id": 35,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Geonk radio logo",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1605,25 +1605,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Geonk radio logo",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Geonk radio logo",
+      "work_category": 1,
+      "image": "../assets/images/works/large/C5hLTFMh_work_image.png",
+      "thumbnail": "../assets/images/works/small/C5hLTFMh_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "geonk-radio-logo",
+      "date": "2012-07-31 11:26:22",
+      "date_update": "2016-12-08 19:21:54"
     }
   },
   {
-    "id": 71,
+    "id": 142,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Geonk Retro - Profile Flash App",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1635,25 +1635,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Geonk Retro - Profile Flash App",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Geonk Retro - Profile Flash App",
+      "work_category": 10,
+      "image": "../assets/images/works/large/ATExggLP_work_image.png",
+      "thumbnail": "../assets/images/works/small/ATExggLP_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "geonk-retro-profile-flash-app",
+      "date": "2011-12-01 22:03:37",
+      "date_update": "2016-12-08 22:24:45"
     }
   },
   {
-    "id": 71,
+    "id": 46,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Georema robot character design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1665,25 +1665,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Georema robot character design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Georema robot character design",
+      "work_category": 6,
+      "image": "../assets/images/works/large/4vx4SZxe_work_image.png",
+      "thumbnail": "../assets/images/works/small/4vx4SZxe_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "georema-robot-character-design",
+      "date": "2012-07-31 11:39:49",
+      "date_update": "2016-12-08 19:22:56"
     }
   },
   {
-    "id": 71,
+    "id": 141,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Giring Kambing",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1695,25 +1695,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Giring Kambing",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
+      "bodyCopyShort": "Giring Kambing",
+      "work_category": 10,
       "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
       "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "giring-kambing",
+      "date": "2014-11-01 21:50:48",
+      "date_update": "2016-12-08 21:59:23"
     }
   },
   {
-    "id": 71,
+    "id": 75,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Gladysnatalia Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1725,25 +1725,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Gladysnatalia Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Gladysnatalia Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/yxW0iFmG_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/yxW0iFmG_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "gladysnatalia-website-design",
+      "date": "2013-11-15 12:19:02",
+      "date_update": "2016-12-08 13:47:03"
     }
   },
   {
-    "id": 71,
+    "id": 127,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Gloria cell frontend development",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1755,25 +1755,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Gloria cell frontend development",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
+      "bodyCopyShort": "Gloria cell frontend development",
       "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "image": "../assets/images/works/large/R4icUt4o_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/R4icUt4o_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "gloria-cell-frontend-development",
+      "date": "2015-08-20 13:56:06",
+      "date_update": "2016-12-08 21:09:22"
     }
   },
   {
-    "id": 71,
+    "id": 103,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Graha Natura Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1785,25 +1785,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Graha Natura Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Graha Natura Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/okllJEFy_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/okllJEFy_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "graha-natura-website-design",
+      "date": "2014-09-12 13:45:09",
+      "date_update": "2016-12-08 13:42:38"
     }
   },
   {
-    "id": 71,
+    "id": 12,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "GuluGulu Frontend Web Development",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1815,25 +1815,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "GuluGulu Frontend Web Development",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "GuluGulu Frontend Web Development",
+      "work_category": 11,
+      "image": "../assets/images/works/large/8yb4x85j_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/8yb4x85j_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "gulugulu-frontend-web-development",
+      "date": "2013-10-12 07:50:39",
+      "date_update": "2016-12-08 20:13:40"
     }
   },
   {
-    "id": 71,
+    "id": 136,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Hana application concept",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1845,25 +1845,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Hana application concept",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Hana application concept",
+      "work_category": 10,
+      "image": "../assets/images/works/large/UkSyMPts_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/UkSyMPts_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "hana-application-concept",
+      "date": "2016-10-25 13:59:01",
+      "date_update": "2016-12-07 20:21:12"
     }
   },
   {
-    "id": 71,
+    "id": 144,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "HAZE",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1875,25 +1875,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "HAZE",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "HAZE",
+      "work_category": 12,
+      "image": "../assets/images/works/large/ge10XmE3_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/ge10XmE3_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "haze",
+      "date": "2016-12-27 18:00:56",
+      "date_update": "2017-02-02 18:00:56"
     }
   },
   {
-    "id": 71,
+    "id": 67,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Healthy brochure",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1905,25 +1905,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Healthy brochure",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Healthy brochure",
+      "work_category": 3,
+      "image": "../assets/images/works/large/gK0XkMXS_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/gK0XkMXS_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "healthy-brochure",
+      "date": "2013-03-02 12:02:08",
+      "date_update": "2016-12-08 13:54:42"
     }
   },
   {
-    "id": 71,
+    "id": 114,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Heffen website",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1935,25 +1935,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Heffen website",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Heffen website",
+      "work_category": 9,
+      "image": "../assets/images/works/large/ML8e4lPf_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/ML8e4lPf_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "heffen-website",
+      "date": "2016-09-12 13:50:41",
+      "date_update": "2016-12-07 21:33:54"
     }
   },
   {
-    "id": 71,
+    "id": 125,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Idn times 4.0",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1965,25 +1965,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Idn times 4.0",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Idn times 4.0",
+      "work_category": 9,
+      "image": "../assets/images/works/large/h3slJWTU_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/h3slJWTU_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "idn-times-40",
+      "date": "2015-12-08 13:55:35",
+      "date_update": "2016-12-07 22:41:44"
     }
   },
   {
-    "id": 71,
+    "id": 9,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Inspiring Home Brand Value and Guidelines",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1995,25 +1995,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Inspiring Home Brand Value and Guidelines",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Inspiring Home Brand Value and Guidelines",
+      "work_category": 1,
+      "image": "../assets/images/works/large/DFN9VRZA_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/DFN9VRZA_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "inspiring-home-brand-value-and-guidelines",
+      "date": "2013-07-08 07:48:51",
+      "date_update": "2016-12-08 13:51:44"
     }
   },
   {
-    "id": 71,
+    "id": 23,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Interior design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2025,25 +2025,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Interior design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Interior design",
+      "work_category": 7,
+      "image": "../assets/images/works/large/TnJWPk5J_work_image.png",
+      "thumbnail": "../assets/images/works/small/TnJWPk5J_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "interior-design",
+      "date": "2012-03-27 11:01:11",
+      "date_update": "2016-12-08 19:26:54"
     }
   },
   {
-    "id": 71,
+    "id": 124,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Jatim elctronic data icon",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2055,25 +2055,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Jatim elctronic data icon",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Jatim elctronic data icon",
+      "work_category": 10,
+      "image": "../assets/images/works/large/vlBUtgck_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/vlBUtgck_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "jatim-elctronic-data-icon",
+      "date": "2016-04-29 13:55:00",
+      "date_update": "2016-12-07 22:16:16"
     }
   },
   {
-    "id": 71,
+    "id": 91,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Java Paradigm Branding",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2085,25 +2085,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Java Paradigm Branding",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Java Paradigm Branding",
+      "work_category": 1,
+      "image": "../assets/images/works/large/FwXD6UcP_work_image.png",
+      "thumbnail": "../assets/images/works/small/FwXD6UcP_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "java-paradigm-branding",
+      "date": "2013-06-13 13:02:47",
+      "date_update": "2016-12-08 13:53:19"
     }
   },
   {
-    "id": 71,
+    "id": 32,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Juanita logo",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2115,25 +2115,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Juanita logo",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Juanita logo",
+      "work_category": 1,
+      "image": "../assets/images/works/large/iUU75IOT_work_image.png",
+      "thumbnail": "../assets/images/works/small/iUU75IOT_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "juanita-logo",
+      "date": "2012-07-31 11:23:11",
+      "date_update": "2016-12-08 19:21:21"
     }
   },
   {
-    "id": 71,
+    "id": 95,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Kadologi App UI Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2145,25 +2145,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Kadologi App UI Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Kadologi App UI Design",
+      "work_category": 10,
+      "image": "../assets/images/works/large/rRMA8ULL_work_image.png",
+      "thumbnail": "../assets/images/works/small/rRMA8ULL_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "kadologi-app-ui-design",
+      "date": "2014-09-05 13:23:07",
+      "date_update": "2016-12-08 13:42:54"
     }
   },
   {
-    "id": 71,
+    "id": 111,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Key Branding",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2175,25 +2175,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Key Branding",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Key Branding",
+      "work_category": 1,
+      "image": "../assets/images/works/large/JPrR4n5n_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/JPrR4n5n_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "key-branding",
+      "date": "2014-12-17 13:49:12",
+      "date_update": "2016-12-08 13:40:25"
     }
   },
   {
-    "id": 71,
+    "id": 42,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Kill my worst enemy illustration",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2205,25 +2205,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Kill my worst enemy illustration",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Kill my worst enemy illustration",
+      "work_category": 6,
+      "image": "../assets/images/works/large/1LiJiu8t_work_image.png",
+      "thumbnail": "../assets/images/works/small/1LiJiu8t_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "kill-my-worst-enemy-illustration",
+      "date": "2013-02-28 11:36:41",
+      "date_update": "2016-12-08 13:56:37"
     }
   },
   {
-    "id": 71,
+    "id": 11,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "KIOO KIOO Social Media Campaign of Lebaran",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2235,25 +2235,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "KIOO KIOO Social Media Campaign of Lebaran",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "KIOO KIOO Social Media Campaign of Lebaran",
+      "work_category": 2,
+      "image": "../assets/images/works/large/dbKem6ga_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/dbKem6ga_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "kioo-kioo-social-media-campaign-of-lebaran",
+      "date": "2013-07-19 07:49:59",
+      "date_update": "2016-12-08 13:50:07"
     }
   },
   {
-    "id": 71,
+    "id": 93,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "KREATE App UI Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2265,25 +2265,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "KREATE App UI Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "KREATE App UI Design",
+      "work_category": 10,
+      "image": "../assets/images/works/large/syWPFwQv_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/syWPFwQv_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "kreate-app-ui-design",
+      "date": "2015-06-04 13:06:44",
+      "date_update": "2016-12-08 13:36:03"
     }
   },
   {
-    "id": 71,
+    "id": 94,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "KREATE Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2295,25 +2295,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "KREATE Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "KREATE Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/QgMuf4vT_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/QgMuf4vT_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "kreate-website-design",
+      "date": "2015-06-16 13:07:46",
+      "date_update": "2016-12-08 13:35:41"
     }
   },
   {
-    "id": 71,
+    "id": 66,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Ladys park sticker",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2325,25 +2325,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Ladys park sticker",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Ladys park sticker",
+      "work_category": 3,
+      "image": "../assets/images/works/large/mK5TjtfG_work_image.png",
+      "thumbnail": "../assets/images/works/small/mK5TjtfG_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "ladys-park-sticker",
+      "date": "2012-08-01 12:01:36",
+      "date_update": "2016-12-08 14:01:24"
     }
   },
   {
-    "id": 71,
+    "id": 10,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Last Memory Logo Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2355,25 +2355,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Last Memory Logo Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Last Memory Logo Design",
+      "work_category": 1,
+      "image": "../assets/images/works/large/qh4hvY2u_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/qh4hvY2u_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "last-memory-logo-design",
+      "date": "2014-12-05 07:49:22",
+      "date_update": "2016-12-08 13:41:07"
     }
   },
   {
-    "id": 71,
+    "id": 108,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Last memory website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2385,25 +2385,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Last memory website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Last memory website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/Wfjozuza_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/Wfjozuza_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "last-memory-website-design",
+      "date": "2014-11-18 13:47:47",
+      "date_update": "2016-12-08 13:41:24"
     }
   },
   {
-    "id": 71,
+    "id": 92,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Latulipe Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2415,25 +2415,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Latulipe Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Latulipe Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/ESVI8BUV_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/ESVI8BUV_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "latulipe-website-design",
+      "date": "2015-05-21 13:04:10",
+      "date_update": "2016-12-08 13:36:20"
     }
   },
   {
-    "id": 71,
+    "id": 17,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Ledtron Packaging Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2445,25 +2445,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Ledtron Packaging Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Ledtron Packaging Design",
+      "work_category": 4,
+      "image": "../assets/images/works/large/cPxTb9QG_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/cPxTb9QG_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "ledtron-packaging-design",
+      "date": "2015-04-15 07:53:14",
+      "date_update": "2016-12-08 13:37:41"
     }
   },
   {
-    "id": 71,
+    "id": 139,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "LKCNHM",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2475,25 +2475,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "LKCNHM",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "<p><em>The Lee Kong Chian Natural History Museum strives to be a leader in Southeast Asian biodiversity – in <strong>Research</strong>, <strong>Education</strong> and <strong>Outreach</strong>.</em></p>\n\n<p>By their official website, they want to display information about the collections, the museum's profile information and functional features that can do.</p>\n\n<p>They wish to update their website to make it more modern, attractive, intuitive, informative, mobile-friendly and visually exciting look that Gives the museum's identity. Another thing they want is Social media integration and Integrating functionalities such as blogging and document submission.</p>",
+      "work_category": 12,
+      "image": "../assets/images/works/large/BDYKzn6j_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/BDYKzn6j_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "lkcnhm",
+      "date": "2016-11-26 05:19:27",
+      "date_update": "2016-12-07 19:45:02"
     }
   },
   {
-    "id": 71,
+    "id": 37,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Maleeka logo",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2505,25 +2505,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Maleeka logo",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Maleeka logo",
+      "work_category": 1,
+      "image": "../assets/images/works/large/bPYeDwer_work_image.png",
+      "thumbnail": "../assets/images/works/small/bPYeDwer_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "maleeka-logo",
+      "date": "2012-12-29 11:27:30",
+      "date_update": "2016-12-08 13:58:05"
     }
   },
   {
-    "id": 71,
+    "id": 88,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Marvell City Advertisement Needs",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2535,25 +2535,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Marvell City Advertisement Needs",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Marvell City Advertisement Needs",
+      "work_category": 2,
+      "image": "../assets/images/works/large/WzbjTjVN_work_image.png",
+      "thumbnail": "../assets/images/works/small/WzbjTjVN_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "marvell-city-advertisement-needs",
+      "date": "2015-04-24 12:54:27",
+      "date_update": "2016-12-08 13:37:09"
     }
   },
   {
-    "id": 71,
+    "id": 89,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Marvell City Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2565,25 +2565,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Marvell City Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Marvell City Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/gq4daFI6_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/gq4daFI6_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "marvell-city-website-design",
+      "date": "2015-05-08 12:58:31",
+      "date_update": "2016-12-08 13:36:38"
     }
   },
   {
-    "id": 71,
+    "id": 78,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Maspion Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2595,25 +2595,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Maspion Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Maspion Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/QN7khuOA_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/QN7khuOA_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "maspion-website-design",
+      "date": "2015-01-19 12:24:17",
+      "date_update": "2016-12-08 13:40:10"
     }
   },
   {
-    "id": 71,
+    "id": 79,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Max Tape Branding Needs",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2625,25 +2625,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Max Tape Branding Needs",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Max Tape Branding Needs",
+      "work_category": 1,
+      "image": "../assets/images/works/large/X3I1blAQ_work_image.png",
+      "thumbnail": "../assets/images/works/small/X3I1blAQ_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "max-tape-branding-needs",
+      "date": "2013-06-13 12:26:35",
+      "date_update": "2016-12-08 13:52:48"
     }
   },
   {
-    "id": 71,
+    "id": 7,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "MONG Branding",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2655,25 +2655,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "MONG Branding",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "MONG Branding",
+      "work_category": 1,
+      "image": "../assets/images/works/large/4vFMph3l_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/4vFMph3l_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "mong-branding",
+      "date": "2015-10-11 07:47:46",
+      "date_update": "2016-12-05 16:48:39"
     }
   },
   {
-    "id": 71,
+    "id": 87,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Multinas Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2685,25 +2685,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Multinas Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Multinas Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/sVdiiT71_work_image.png",
+      "thumbnail": "../assets/images/works/small/sVdiiT71_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "multinas-website-design",
+      "date": "2015-06-16 12:52:21",
+      "date_update": "2016-12-08 13:35:20"
     }
   },
   {
-    "id": 71,
+    "id": 59,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Mulyono illustration inverse color",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2715,25 +2715,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Mulyono illustration inverse color",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Mulyono illustration inverse color",
+      "work_category": 5,
+      "image": "../assets/images/works/large/1ifBoIWt_work_image.png",
+      "thumbnail": "../assets/images/works/small/1ifBoIWt_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "mulyono-illustration-inverse-color",
+      "date": "2012-02-04 11:56:20",
+      "date_update": "2016-12-05 15:58:54"
     }
   },
   {
-    "id": 71,
+    "id": 134,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Nana shop branding",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2745,25 +2745,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Nana shop branding",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Nana shop branding",
+      "work_category": 1,
+      "image": "../assets/images/works/large/aS4yWxi6_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/aS4yWxi6_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "nana-shop-branding",
+      "date": "2015-07-28 13:58:22",
+      "date_update": "2016-12-07 22:59:26"
     }
   },
   {
-    "id": 71,
+    "id": 143,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "NEA",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2775,25 +2775,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "NEA",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "National Environment Agency",
+      "work_category": 12,
+      "image": "../assets/images/works/large/upucuDho_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/upucuDho_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "nea",
+      "date": "2016-12-29 17:55:29",
+      "date_update": "2017-02-02 17:55:29"
     }
   },
   {
-    "id": 71,
+    "id": 6,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "NOCTURE Branding",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2805,25 +2805,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "NOCTURE Branding",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "NOCTURE Branding",
+      "work_category": 1,
+      "image": "../assets/images/works/large/nLXidNgf_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/nLXidNgf_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "nocture-branding",
+      "date": "2013-07-11 07:46:57",
+      "date_update": "2016-12-08 13:50:47"
     }
   },
   {
-    "id": 71,
+    "id": 132,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Notebook digital ads - CSS3",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2835,25 +2835,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Notebook digital ads - CSS3",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Notebook digital ads - CSS3",
+      "work_category": 2,
+      "image": "../assets/images/works/large/VbNBzdjL_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/VbNBzdjL_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "notebook-digital-ads-css3",
+      "date": "2015-08-16 13:57:38",
+      "date_update": "2016-12-08 19:56:57"
     }
   },
   {
-    "id": 71,
+    "id": 135,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Oartscience web concept",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2865,25 +2865,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Oartscience web concept",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Oartscience web concept",
+      "work_category": 9,
+      "image": "../assets/images/works/large/mFu3mTSV_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/mFu3mTSV_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "oartscience-web-concept",
+      "date": "2015-07-26 13:58:43",
+      "date_update": "2016-12-05 11:14:52"
     }
   },
   {
-    "id": 71,
+    "id": 5,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "One be You - Frontend Web Development",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2895,25 +2895,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "One be You - Frontend Web Development",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "One be You - Frontend Web Development",
+      "work_category": 11,
+      "image": "../assets/images/works/large/kfdWcO6B_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/kfdWcO6B_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "one-be-you-frontend-web-development",
+      "date": "2013-10-30 07:46:21",
+      "date_update": "2016-12-08 20:13:29"
     }
   },
   {
-    "id": 71,
+    "id": 53,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Orange tech website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2925,25 +2925,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Orange tech website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Orange tech website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/moV5z9Ft_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/moV5z9Ft_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "orange-tech-website-design",
+      "date": "2013-03-01 11:45:50",
+      "date_update": "2016-12-08 13:55:42"
     }
   },
   {
-    "id": 71,
+    "id": 4,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "PADI Company Profile - Printed",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2955,25 +2955,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "PADI Company Profile - Printed",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "PADI Company Profile - Printed",
+      "work_category": 3,
+      "image": "../assets/images/works/large/xUZ4eZNt_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/xUZ4eZNt_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "padi-company-profile-printed",
+      "date": "2015-04-21 07:45:20",
+      "date_update": "2016-12-08 13:37:28"
     }
   },
   {
-    "id": 71,
+    "id": 140,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Pak Pos Illustration",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -2985,25 +2985,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Pak Pos Illustration",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Pak Pos Illustration",
+      "work_category": 6,
+      "image": "../assets/images/works/large/BvEFMZJm_work_image.png",
+      "thumbnail": "../assets/images/works/small/BvEFMZJm_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "pak-pos-illustration",
+      "date": "2013-01-06 11:55:29",
+      "date_update": "2016-12-08 13:57:33"
     }
   },
   {
-    "id": 71,
+    "id": 133,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Pak topo sticker",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3015,25 +3015,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Pak topo sticker",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Pak topo sticker",
+      "work_category": 3,
+      "image": "../assets/images/works/large/QZcfAJHH_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/QZcfAJHH_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "pak-topo-sticker",
+      "date": "2015-07-28 13:58:00",
+      "date_update": "2016-12-07 22:58:25"
     }
   },
   {
-    "id": 71,
+    "id": 29,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Paramex ads. Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3045,25 +3045,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Paramex ads. Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Paramex ads. Design",
+      "work_category": 2,
+      "image": "../assets/images/works/large/TmUwGIPX_work_image.png",
+      "thumbnail": "../assets/images/works/small/TmUwGIPX_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "paramex-ads-design",
+      "date": "2012-07-31 11:18:08",
+      "date_update": "2016-12-08 19:20:26"
     }
   },
   {
-    "id": 71,
+    "id": 137,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Pelindo III website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3075,25 +3075,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Pelindo III website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Pelindo III website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/5Qrdew31_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/5Qrdew31_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "pelindo-iii-website-design",
+      "date": "2016-11-01 13:59:32",
+      "date_update": "2016-12-07 21:26:52"
     }
   },
   {
-    "id": 71,
+    "id": 126,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Portal bojonegoro website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3105,25 +3105,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Portal bojonegoro website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Portal bojonegoro website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/UEfvFQwx_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/UEfvFQwx_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "portal-bojonegoro-website-design",
+      "date": "2016-04-26 13:55:49",
+      "date_update": "2016-12-07 20:08:59"
     }
   },
   {
-    "id": 71,
+    "id": 51,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Potfol website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3135,25 +3135,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Potfol website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Potfol website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/5C7TMcoQ_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/5C7TMcoQ_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "potfol-website-design",
+      "date": "2013-03-01 11:44:26",
+      "date_update": "2016-12-08 13:55:19"
     }
   },
   {
-    "id": 71,
+    "id": 56,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Privateers website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3165,25 +3165,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Privateers website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Privateers website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/0eeUkYkH_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/0eeUkYkH_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "privateers-website-design",
+      "date": "2012-11-03 11:49:50",
+      "date_update": "2016-12-08 13:59:25"
     }
   },
   {
-    "id": 71,
+    "id": 34,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Ronggolawe group logo",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3195,25 +3195,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Ronggolawe group logo",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Ronggolawe group logo",
+      "work_category": 1,
+      "image": "../assets/images/works/large/2dtwtLAE_work_image.png",
+      "thumbnail": "../assets/images/works/small/2dtwtLAE_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "ronggolawe-group-logo",
+      "date": "2012-08-01 11:25:26",
+      "date_update": "2016-12-08 14:00:12"
     }
   },
   {
-    "id": 71,
+    "id": 81,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Safecare Website Design 2.0",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3225,25 +3225,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Safecare Website Design 2.0",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Safecare Website Design 2.0",
+      "work_category": 9,
+      "image": "../assets/images/works/large/KCfaKpDn_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/KCfaKpDn_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "safecare-website-design-20",
+      "date": "2013-07-25 12:39:23",
+      "date_update": "2016-12-08 13:49:51"
     }
   },
   {
-    "id": 71,
+    "id": 80,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "SafeCare Website Design 3.0",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3255,25 +3255,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "SafeCare Website Design 3.0",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "SafeCare Website Design 3.0",
+      "work_category": 9,
+      "image": "../assets/images/works/large/XcS4zjBi_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/XcS4zjBi_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "safecare-website-design-30",
+      "date": "2014-01-10 12:28:19",
+      "date_update": "2016-12-08 13:46:10"
     }
   },
   {
-    "id": 71,
+    "id": 90,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "SBY Layout",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3285,25 +3285,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "SBY Layout",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "SBY Layout",
+      "work_category": 3,
+      "image": "../assets/images/works/large/TYdKaWXJ_work_image.png",
+      "thumbnail": "../assets/images/works/small/TYdKaWXJ_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "sby-layout",
+      "date": "2013-09-23 13:01:56",
+      "date_update": "2016-12-08 13:48:50"
     }
   },
   {
-    "id": 71,
+    "id": 102,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "SBY Website Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3315,25 +3315,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "SBY Website Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "SBY Website Design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/fkiFKacN_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/fkiFKacN_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "sby-website-design",
+      "date": "2013-07-29 13:44:44",
+      "date_update": "2016-12-08 13:49:30"
     }
   },
   {
-    "id": 71,
+    "id": 121,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Semanggine branding",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3345,25 +3345,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Semanggine branding",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
+      "bodyCopyShort": "Semanggine branding",
+      "work_category": 1,
       "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
       "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "semanggine-branding",
+      "date": "2015-11-08 13:53:54",
+      "date_update": "2016-12-05 10:51:08"
     }
   },
   {
-    "id": 71,
+    "id": 120,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Semanggine packaging",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3375,25 +3375,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Semanggine packaging",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Semanggine packaging",
+      "work_category": 4,
+      "image": "../assets/images/works/large/6JwwoPGo_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/6JwwoPGo_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "semanggine-packaging",
+      "date": "2016-09-12 13:53:33",
+      "date_update": "2016-12-07 22:14:52"
     }
   },
   {
-    "id": 71,
+    "id": 3,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Shake Club House Social Media Marketing",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3405,25 +3405,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Shake Club House Social Media Marketing",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Shake Club House Social Media Marketing",
+      "work_category": 2,
+      "image": "../assets/images/works/large/S81swfwM_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/S81swfwM_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "shake-club-house-social-media-marketing",
+      "date": "2013-07-10 07:44:38",
+      "date_update": "2016-12-08 13:51:06"
     }
   },
   {
-    "id": 71,
+    "id": 64,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Shred t-shirt",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3435,25 +3435,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Shred t-shirt",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Shred t-shirt",
+      "work_category": 3,
+      "image": "../assets/images/works/large/mq4dHLsK_work_image.png",
+      "thumbnail": "../assets/images/works/small/mq4dHLsK_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "shred-t-shirt",
+      "date": "2016-11-20 12:00:16",
+      "date_update": "2016-12-08 19:25:28"
     }
   },
   {
-    "id": 71,
+    "id": 138,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "SIEW",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3465,25 +3465,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "SIEW",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "<p><em>The Singapore International Energy Week (SIEW) is an annual week-long platform for energy professionals, policymakers and commentators to discuss and share best practices and solutions within the global energy space.</em></p>\n\n<p>This site aims to provide comprehensive information about the event SIEW in general and specifically SIEW 2017. Such information includes:<br />\n1. Programmes (activities undertaken)<br />\n2. Speakers<br />\n3. Topics covered, and ...<br />\n4. Other things about SIEW like sponsors, locations and others<br />\n <br />\nexpected through this site everyone can find complete information about SIEW and other issue or information about it.</p>",
+      "work_category": 12,
+      "image": "../assets/images/works/large/cFgTnTZ1_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/cFgTnTZ1_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "siew",
+      "date": "2016-11-12 04:28:49",
+      "date_update": "2016-12-07 19:59:51"
     }
   },
   {
-    "id": 71,
+    "id": 69,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Star blue business card",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3495,25 +3495,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Star blue business card",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Star blue business card",
+      "work_category": 3,
+      "image": "../assets/images/works/large/Oc9KHnKQ_work_image.png",
+      "thumbnail": "../assets/images/works/small/Oc9KHnKQ_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "star-blue-business-card",
+      "date": "2013-03-13 12:03:37",
+      "date_update": "2016-12-08 13:53:38"
     }
   },
   {
-    "id": 71,
+    "id": 55,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Starbuss website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3525,25 +3525,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Starbuss website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Starbuss website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/dfMuvUjA_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/dfMuvUjA_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "starbuss-website-design",
+      "date": "2013-03-01 11:48:46",
+      "date_update": "2016-12-08 13:56:21"
     }
   },
   {
-    "id": 71,
+    "id": 60,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Sumpah pamungkas poster",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3555,25 +3555,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Sumpah pamungkas poster",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Sumpah pamungkas poster",
+      "work_category": 3,
+      "image": "../assets/images/works/large/90bcF2tw_work_image.png",
+      "thumbnail": "../assets/images/works/small/90bcF2tw_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "sumpah-pamungkas-poster",
+      "date": "2012-07-31 11:57:53",
+      "date_update": "2016-12-08 19:24:18"
     }
   },
   {
-    "id": 71,
+    "id": 86,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Sungwoo Company Profile - Printed",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3585,25 +3585,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Sungwoo Company Profile - Printed",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Sungwoo Company Profile - Printed",
+      "work_category": 3,
+      "image": "../assets/images/works/large/floXG9HQ_work_image.png",
+      "thumbnail": "../assets/images/works/small/floXG9HQ_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "sungwoo-company-profile-printed",
+      "date": "2014-11-10 12:50:36",
+      "date_update": "2016-12-08 13:41:42"
     }
   },
   {
-    "id": 71,
+    "id": 83,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Superstrait Logo Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3615,25 +3615,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Superstrait Logo Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Superstrait Logo Design",
+      "work_category": 1,
+      "image": "../assets/images/works/large/kd31xZy1_work_image.png",
+      "thumbnail": "../assets/images/works/small/kd31xZy1_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "superstrait-logo-design",
+      "date": "2015-03-06 12:43:48",
+      "date_update": "2016-12-08 13:39:07"
     }
   },
   {
-    "id": 71,
+    "id": 119,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Suroboyo.org website design & frontend dev.",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3645,25 +3645,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Suroboyo.org website design & frontend dev.",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Suroboyo.org website design & frontend dev.",
+      "work_category": 9,
+      "image": "../assets/images/works/large/V7fvqktM_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/V7fvqktM_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "suroboyoorg-website-design-frontend-dev",
+      "date": "2015-10-22 13:53:10",
+      "date_update": "2016-12-08 19:45:35"
     }
   },
   {
-    "id": 71,
+    "id": 123,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Swabina frontend development",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3675,25 +3675,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Swabina frontend development",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Swabina frontend development",
+      "work_category": 9,
+      "image": "../assets/images/works/large/azKaxl36_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/azKaxl36_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "swabina-frontend-development",
+      "date": "2016-06-22 13:54:43",
+      "date_update": "2016-12-08 19:45:06"
     }
   },
   {
-    "id": 71,
+    "id": 50,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Taxfix website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3705,25 +3705,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Taxfix website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Taxfix website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/qdrAsJob_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/qdrAsJob_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "taxfix-website-design",
+      "date": "2012-12-09 11:43:24",
+      "date_update": "2016-12-08 13:58:36"
     }
   },
   {
-    "id": 71,
+    "id": 112,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Teapresso Flyer",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3735,25 +3735,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Teapresso Flyer",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Teapresso Flyer",
+      "work_category": 3,
+      "image": "../assets/images/works/large/kzsxStpE_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/kzsxStpE_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "teapresso-flyer",
+      "date": "2014-01-13 13:49:47",
+      "date_update": "2016-12-08 13:45:39"
     }
   },
   {
-    "id": 71,
+    "id": 145,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "TECHINNOVATION",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3765,25 +3765,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "TECHINNOVATION",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "TECHINNOVATION",
+      "work_category": 12,
+      "image": "../assets/images/works/large/cwE8r2Tk_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/cwE8r2Tk_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "techinnovation",
+      "date": "2016-12-21 18:19:11",
+      "date_update": "2017-02-02 18:19:11"
     }
   },
   {
-    "id": 71,
+    "id": 130,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Tempo cepat website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3795,25 +3795,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Tempo cepat website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Tempo cepat website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/iiy2uNTa_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/iiy2uNTa_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "tempo-cepat-website-design",
+      "date": "2016-03-23 13:56:59",
+      "date_update": "2016-12-08 19:48:31"
     }
   },
   {
-    "id": 71,
+    "id": 38,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "The Bassist",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3825,25 +3825,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "The Bassist",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "The Bassist",
+      "work_category": 5,
+      "image": "../assets/images/works/large/akaiWYLr_work_image.png",
+      "thumbnail": "../assets/images/works/small/akaiWYLr_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "the-bassist",
+      "date": "2012-07-31 11:28:19",
+      "date_update": "2016-12-05 15:52:32"
     }
   },
   {
-    "id": 71,
+    "id": 52,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "The pixel website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3855,25 +3855,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "The pixel website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "The pixel website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/0qUmt8MF_work_image.png",
+      "thumbnail": "../assets/images/works/small/0qUmt8MF_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "the-pixel-website-design",
+      "date": "2012-07-31 11:44:59",
+      "date_update": "2016-12-08 19:23:41"
     }
   },
   {
-    "id": 71,
+    "id": 57,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Top five to remember illustration",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3885,25 +3885,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Top five to remember illustration",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Top five to remember illustration",
+      "work_category": 3,
+      "image": "../assets/images/works/large/yCtQleer_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/yCtQleer_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "top-five-to-remember-illustration",
+      "date": "2012-12-31 11:52:53",
+      "date_update": "2016-12-08 13:57:50"
     }
   },
   {
-    "id": 71,
+    "id": 122,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Travel syariah frontend website",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3915,25 +3915,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Travel syariah frontend website",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Travel syariah frontend website",
+      "work_category": 9,
+      "image": "../assets/images/works/large/Rprhqg8k_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/Rprhqg8k_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "travel-syariah-frontend-website",
+      "date": "2016-07-07 13:54:23",
+      "date_update": "2016-12-08 19:44:51"
     }
   },
   {
-    "id": 71,
+    "id": 85,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Trio Stationary",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3945,25 +3945,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Trio Stationary",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Trio Stationary",
+      "work_category": 3,
+      "image": "../assets/images/works/large/xYB0FX57_work_image.png",
+      "thumbnail": "../assets/images/works/small/xYB0FX57_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "trio-stationary",
+      "date": "2014-10-08 12:47:31",
+      "date_update": "2016-12-08 13:42:18"
     }
   },
   {
-    "id": 71,
+    "id": 82,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Tunggal Jaya Steel Branding",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3975,25 +3975,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Tunggal Jaya Steel Branding",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Tunggal Jaya Steel Branding",
+      "work_category": 1,
+      "image": "../assets/images/works/large/fO2zMMIq_work_image.png",
+      "thumbnail": "../assets/images/works/small/fO2zMMIq_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "tunggal-jaya-steel-branding",
+      "date": "2016-11-20 12:42:09",
+      "date_update": "2016-12-08 13:38:42"
     }
   },
   {
-    "id": 71,
+    "id": 63,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Uneg uneg t-shirt",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -4005,25 +4005,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Uneg uneg t-shirt",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Uneg uneg t-shirt",
+      "work_category": 3,
+      "image": "../assets/images/works/large/CWAXzAAp_work_image.png",
+      "thumbnail": "../assets/images/works/small/CWAXzAAp_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "uneg-uneg-t-shirt",
+      "date": "2012-07-31 11:59:45",
+      "date_update": "2016-12-08 19:25:11"
     }
   },
   {
-    "id": 71,
+    "id": 128,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Univ. Kader bangsa website design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -4035,25 +4035,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Univ. Kader bangsa website design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Univ. Kader bangsa website design",
+      "work_category": 9,
+      "image": "../assets/images/works/large/MK9khiqO_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/MK9khiqO_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "univ-kader-bangsa-website-design",
+      "date": "2014-07-04 13:56:24",
+      "date_update": "2016-12-08 13:43:56"
     }
   },
   {
-    "id": 71,
+    "id": 109,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Van Holland Branding, Website Design and Website Frontend Development",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -4065,25 +4065,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Van Holland Branding, Website Design and Website Frontend Development",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Van Holland Branding, Website Design and Website Frontend Development",
+      "work_category": 9,
+      "image": "../assets/images/works/large/Gfa29C2h_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/Gfa29C2h_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "van-holland-branding-website-design-and-website-frontend-development",
+      "date": "2013-10-11 13:48:22",
+      "date_update": "2016-12-08 20:13:52"
     }
   },
   {
-    "id": 71,
+    "id": 2,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Welco Logo Guideline",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -4095,25 +4095,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Welco Logo Guideline",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Welco Logo Guideline",
+      "work_category": 1,
+      "image": "../assets/images/works/large/2paQkfmi_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/2paQkfmi_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "welco-logo-guideline",
+      "date": "2015-02-02 07:41:06",
+      "date_update": "2016-12-08 13:39:44"
     }
   },
   {
-    "id": 71,
+    "id": 110,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Yin Da Branding",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -4125,25 +4125,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Yin Da Branding",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Yin Da Branding",
+      "work_category": 1,
+      "image": "../assets/images/works/large/a2mcSgYa_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/a2mcSgYa_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "yin-da-branding",
+      "date": "2015-04-29 13:48:41",
+      "date_update": "2016-12-08 13:36:54"
     }
   },
   {
-    "id": 71,
+    "id": 43,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Zombie bassist character design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -4155,25 +4155,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Zombie bassist character design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Zombie bassist character design",
+      "work_category": 6,
+      "image": "../assets/images/works/large/rYhfgWJw_work_image.png",
+      "thumbnail": "../assets/images/works/small/rYhfgWJw_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "zombie-bassist-character-design",
+      "date": "2012-07-31 11:37:21",
+      "date_update": "2016-12-08 19:22:27"
     }
   },
   {
-    "id": 71,
+    "id": 39,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Zombrema sketch",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -4185,25 +4185,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Zombrema sketch",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Zombrema sketch",
+      "work_category": 5,
+      "image": "../assets/images/works/large/TTwEbvoY_work_image.png",
+      "thumbnail": "../assets/images/works/small/TTwEbvoY_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "zombrema-sketch",
+      "date": "2012-07-31 11:30:34",
+      "date_update": "2016-12-05 15:52:48"
     }
   },
   {
-    "id": 71,
+    "id": 61,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Zombrema",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -4215,25 +4215,25 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Zombrema",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Zombrema",
+      "work_category": 3,
+      "image": "../assets/images/works/large/fFZNF0mp_work_image.png",
+      "thumbnail": "../assets/images/works/small/fFZNF0mp_work_image.png",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "zombrema",
+      "date": "2012-07-31 11:58:33",
+      "date_update": "2016-12-08 19:24:35"
     }
   },
   {
-    "id": 71,
+    "id": 1,
     "meta": {
       "lang": "en",
-      "title": "X",
+      "title": "Zoom Hotel Graphic Design",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -4245,18 +4245,18 @@
       "extra": []
     },
     "data": {
-      "title": "X",
+      "title": "Zoom Hotel Graphic Design",
       "catogory": ["Design", "Development"],
-      "bodyCopyShort": "X",
-      "work_category": 0,
-      "image": "../assets/images/works/large/wcFYd6rE_work_image.png",
-      "thumbnail": "../assets/images/works/small/wcFYd6rE_work_image.png",
+      "bodyCopyShort": "Zoom Hotel Graphic Design",
+      "work_category": 2,
+      "image": "../assets/images/works/large/5EBYtVxt_work_image.jpg",
+      "thumbnail": "../assets/images/works/small/5EBYtVxt_work_image.jpg",
       "logo": "../assets/images/works/logo/lestari.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "slug": "x",
-      "date": "2013-03-13 12:11:22",
-      "date_update": "2016-12-08 13:54:04"
+      "slug": "zoom-hotel-graphic-design",
+      "date": "2014-01-20 07:37:50",
+      "date_update": "2016-12-08 13:45:28"
     }
   }
 ]
