@@ -516,6 +516,19 @@
             });
 
         });
+
+
+        var modal = document.querySelector('div.modal');
+        var modalInner = document.querySelector('div.modal__inner');
+        var ch = modal.clientHeight;
+
+        console.log(ch);
+
+        if(ch < 850 && ch > 675){
+            modalInner.style.height = "75%";
+        }
+
+
     </script>
 </body>
 
