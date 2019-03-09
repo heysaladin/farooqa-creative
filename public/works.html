@@ -224,17 +224,17 @@
                     cardContent.appendChild(imageWrapper);
                     var img = document.createElement("img");
                     img.setAttribute('class', 'card-image');
-                    img.setAttribute('src', myBooks[i].data.image);
+                    img.setAttribute('src', myBooks[i].data.thumbnail);
                     imageWrapper.appendChild(img);
-                    var cardTextWrapper = document.createElement("div");
-                    cardTextWrapper.setAttribute('class', 'card-text-wrapper');
-                    cardContent.appendChild(cardTextWrapper);
-                    var cardCaptionTitle = document.createElement("h1");
-                    cardCaptionTitle.innerHTML = myBooks[i].data.title;
-                    cardTextWrapper.appendChild(cardCaptionTitle);
-                    var cardCaptionCategory = document.createElement("h3");
-                    cardCaptionCategory.innerHTML = catogoryStringReady;
-                    cardTextWrapper.appendChild(cardCaptionCategory);
+                    // var cardTextWrapper = document.createElement("div");
+                    // cardTextWrapper.setAttribute('class', 'card-text-wrapper');
+                    // cardContent.appendChild(cardTextWrapper);
+                    // var cardCaptionTitle = document.createElement("h1");
+                    // cardCaptionTitle.innerHTML = myBooks[i].data.title;
+                    // cardTextWrapper.appendChild(cardCaptionTitle);
+                    // var cardCaptionCategory = document.createElement("h3");
+                    // cardCaptionCategory.innerHTML = catogoryStringReady;
+                    // cardTextWrapper.appendChild(cardCaptionCategory);
                     divContainer.appendChild(box);
                 //}
             }
