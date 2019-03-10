@@ -87,7 +87,7 @@ module.exports = {
                         <a href="../clients-and-partners.html">Clients & Partners</a>
                     </li>
                     <li>
-                        <a href="../blog-and-notes.html">Blog & Notes</a>
+                        <a href="../works.html">Works</a>
                     </li>
                 </ul>
                 <ul id="social-menu">
@@ -128,7 +128,7 @@ module.exports = {
                     <a href="../clients-and-partners.html">Clients & Partners</a>
                 </li>
                 <li>
-                    <a href="../blog-and-notes.html">Blog & Notes</a>
+                    <a href="../works.html">Works</a>
                 </li>
             </ul>
         </nav>

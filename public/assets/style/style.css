@@ -414,8 +414,10 @@ a {
 }
 
 .siema>div .card-image {
+    /*
     height: 400px;
     width: 400px;
+    */
 }
 
 .siema>div h1 {
@@ -576,12 +578,12 @@ a {
     }
 
     .slide-content-block>div>.card {
-        padding: 0px 40px;
+        padding: 0px 0px;
         margin: 0;
     }
 
     .slide-content-block>div>.card {
-        height: 465px;
+        height: 520px;
     }
 
     .card-content {
@@ -590,6 +592,8 @@ a {
 
     .slide-content-block>div>.slide-content-text-wrapper {
         height: 610px;
+        align-items: center;
+        justify-content: flex-start;
     }
 
     /* .slide-content-block>div>.slide-content-text-wrapper {
