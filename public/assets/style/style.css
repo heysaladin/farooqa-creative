@@ -500,9 +500,9 @@ a {
 }
 
 .card-content-flex {
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
 }
 
 .card-image {
@@ -512,6 +512,12 @@ a {
 
 .card-image-flex {
     width: auto;
+}
+
+@media only screen and (min-width: 769px) {
+    .card-image-flex {
+        margin-left: -16.5%;
+    }
 }
 
 .slide-content-block>div>.slide-content-text-wrapper {
@@ -556,7 +562,7 @@ a {
 }
 
 .card-caption .button {
-    width: 50%;
+    width: 100%;
     color: black;
 }
 
