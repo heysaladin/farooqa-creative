@@ -982,7 +982,7 @@ a {
 .hero-image-wrapper {
     background: gray;
     max-width: 960px;
-    max-height: 720px;
+    max-height: 960px;
     overflow: hidden;
     margin: 0 auto;
     border-radius: 15px;
@@ -992,12 +992,17 @@ a {
     background-color: grey;
     position: relative;
     width: 100%;
-    padding-top: 720px;
+    padding-top: 960px;
+    /* padding-top: 720px; */
 }
 
 @media only screen and (max-width: 960px) {
     .hero-image-wrapper {
-        padding-top: 56.75%;
+        padding-top: 100%;
+        /* padding-top: 56.75%; */
+    }
+    #blog .content-block .hero-image-wrapper {
+        padding-top: 64.065%;
     }
 }
 
@@ -1036,11 +1041,11 @@ a {
     color: #7E7E7E;
 }
 
-.content-core span.date {
-    color: #333333;
-    font-size: 0.80em;
+span.date {
+    color: #7E7E7E;
+    font-size: 0.90em;
     font-family: 'Museo Sans 300';
-    margin: 0px auto 40px;
+    margin: -4px auto 27px;
 }
 
 .content-core span.quote {
