@@ -1,7 +1,42 @@
 [{
     "title": "Color",
     "catogory": ["partner", "client"],
-    "image": "../assets/images/works/logo/lestari.png",
+    "image": "../assets/images/works/logo/akasia.jpeg",
+    "url": "https://bprlestari.com/",
+    "legal": true
+  },
+  {
+    "title": "Color",
+    "catogory": ["partner", "client"],
+    "image": "../assets/images/works/logo/azzamedia.png",
+    "url": "https://bprlestari.com/",
+    "legal": true
+  },
+  {
+    "title": "Color",
+    "catogory": ["partner", "client"],
+    "image": "../assets/images/works/logo/fxmedia.png",
+    "url": "https://bprlestari.com/",
+    "legal": true
+  },
+  {
+    "title": "Color",
+    "catogory": ["partner", "client"],
+    "image": "../assets/images/works/logo/garudamedia.png",
+    "url": "https://bprlestari.com/",
+    "legal": true
+  },
+  {
+    "title": "Color",
+    "catogory": ["partner", "client"],
+    "image": "../assets/images/works/logo/jade.jpeg",
+    "url": "https://bprlestari.com/",
+    "legal": true
+  },
+  {
+    "title": "Color",
+    "catogory": ["partner", "client"],
+    "image": "../assets/images/works/logo/karma.png",
     "url": "https://bprlestari.com/",
     "legal": true
   },
@@ -15,7 +50,21 @@
   {
     "title": "Color",
     "catogory": ["partner", "client"],
-    "image": "../assets/images/works/logo/lestari.png",
+    "image": "../assets/images/works/logo/oartstudios.png",
+    "url": "https://bprlestari.com/",
+    "legal": true
+  },
+  {
+    "title": "Color",
+    "catogory": ["partner", "client"],
+    "image": "../assets/images/works/logo/pinjam.jpg",
+    "url": "https://bprlestari.com/",
+    "legal": true
+  },
+  {
+    "title": "Color",
+    "catogory": ["partner", "client"],
+    "image": "../assets/images/works/logo/trio.jpg",
     "url": "https://bprlestari.com/",
     "legal": true
   }
