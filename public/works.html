@@ -164,6 +164,8 @@
     </script>
     <script src="./assets/script/lib/nav/demoSVG.js">
     </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.2/lodash.min.js">
+    </script>
     <script type="text/javascript">
         function loadJSON(callback) {
             var xobj = new XMLHttpRequest();
@@ -183,6 +185,27 @@
             var myBooks = respo;
             var divContainer = document.querySelector('.wrapper');
             divContainer.innerHTML = "";
+
+            // myBooks.sort(function(a, b) {
+            //     var dateA = new Date(a.release), dateB = new Date(b.release);
+            //     return dateA - dateB;
+            // });
+
+            // myBooks.sort(function (vote1, vote2) {
+            //     console.log(vote1);
+            //     console.log(vote2);
+            // });
+            // console.log(myBooks);
+
+            for (var i = 0; i < myBooks.length; i++) {
+                var date = myBooks[i].data.date;
+                myBooks[i].date = date;
+            }
+
+            myBooks = _.sortBy(myBooks, function(dateObj) {
+                return new Date(dateObj.date);
+            }).reverse();
+
             var numGo = 0;
             for (var i = 0; i < myBooks.length; i++) {
 

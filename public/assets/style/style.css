@@ -1314,6 +1314,7 @@ span.date {
     max-width: 1400px;
     min-height: 100px;
     display: block;
+    padding-top: 75px;
 }
 
 #works .wrapper .box {
