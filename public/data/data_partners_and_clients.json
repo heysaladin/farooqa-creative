@@ -1,337 +1,330 @@
 [{
-    "title": "Color",
-    "catogory": ["partner", "client"],
+    "title": "PT. Akal Karya Indonesia",
+    "catogory": ["partner"],
     "image": "../assets/images/works/logo/akasia.jpg",
-    "url": "https://bprlestari.com/",
-    "legal": false
+    "url": "https://akasia.id/",
+    "legal": true
   },
   {
-    "title": "Color",
-    "catogory": ["partner", "client"],
+    "title": "Azzamedia",
+    "catogory": ["partner"],
     "image": "../assets/images/works/logo/azzamedia.jpg",
-    "url": "https://bprlestari.com/",
-    "legal": false
+    "url": "https://azzamedia.com/",
+    "legal": true
   },
   {
-    "title": "Color",
-    "catogory": ["partner", "client"],
-    "image": "../assets/images/works/logo/jade.jpg",
-    "url": "https://bprlestari.com/",
-    "legal": false
-  },
-  {
-    "title": "Color",
-    "catogory": ["partner", "client"],
+    "title": "Karma Group",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/karma-group.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://karmagroup.com/",
     "legal": false
   },
   {
-    "title": "lestari",
-    "catogory": ["partner", "client"],
+    "title": "BPR Lestari",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/lestari.jpg",
     "url": "https://bprlestari.com/",
     "legal": false
   },
   {
-    "title": "Color",
-    "catogory": ["partner", "client"],
+    "title": "O'Art Studios",
+    "catogory": ["partner"],
     "image": "../assets/images/works/logo/oartstudios.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://oartscience.com/",
     "legal": false
   },
   {
-    "title": "Color",
-    "catogory": ["partner", "client"],
+    "title": "Pinjam.co.id",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/pinjam.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://pinjam.co.id/",
     "legal": false
   },
   {
-    "title": "Color",
-    "catogory": ["partner", "client"],
+    "title": "Trio Digital Agency",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/trio.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://triodigitalagency.com/",
     "legal": false
   },
   {
     "title": "4kampus",
-    "catogory": ["partner", "client"],
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/4kampus.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://4kampus.com/",
     "legal": false
   },
   {
-    "title": "amidis",
-    "catogory": ["partner", "client"],
+    "title": "Amidis",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/amidis.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://amidiswater.com/",
     "legal": false
   },
   {
-    "title": "bojonegoro",
-    "catogory": ["partner", "client"],
+    "title": "Pemerintah Kabupaten Bojonegoro",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/bojonegoro.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://www.bojonegorokab.go.id/",
     "legal": false
   },
   {
     "title": "brother",
-    "catogory": ["partner", "client"],
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/brother.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://brother.com/",
     "legal": false
   },
   {
-    "title": "cap-tawon",
-    "catogory": ["partner", "client"],
+    "title": "Cap Tawon",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/cap-tawon.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://plus.google.com/communities/110895161555733430948",
     "legal": false
   },
   {
-    "title": "ciputra-waterpark",
-    "catogory": ["partner", "client"],
+    "title": "Ciputra Waterpark",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/ciputra-waterpark.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://www.ciputrawaterparksurabaya.com/",
     "legal": false
   },
   {
-    "title": "citra-harmoni",
-    "catogory": ["partner", "client"],
+    "title": "Citra Harmoni",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/citra-harmoni.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.citraharmoni-ciputra.com/",
     "legal": false
   },
   {
-    "title": "deteksi-jawa-pos",
-    "catogory": ["partner", "client"],
+    "title": "Deteksi Jawa Pos",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/deteksi-jawa-pos.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.jawapos.com/tag/deteksi/",
     "legal": false
   },
   {
-    "title": "donini",
-    "catogory": ["partner", "client"],
+    "title": "Donini",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/donini.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://doninibags.com/",
     "legal": false
   },
   {
-    "title": "drgdaniel",
-    "catogory": ["partner", "client"],
+    "title": "Drg. Daniel",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/drgdaniel.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://drgdaniel.com/",
     "legal": false
   },
   {
-    "title": "drratna",
-    "catogory": ["partner", "client"],
+    "title": "Dr. Ratna",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/drratna.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://drratna.com/",
     "legal": false
   },
   {
-    "title": "fxmedia",
-    "catogory": ["partner", "client"],
+    "title": "FXmedia",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/fxmedia.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://www.fxmweb.com/",
     "legal": false
   },
   {
-    "title": "garudamedia",
-    "catogory": ["partner", "client"],
+    "title": "Garuda Media",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/garudamedia.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://www.garudamedia.co.id/",
     "legal": false
   },
   {
-    "title": "gladysposa",
-    "catogory": ["partner", "client"],
+    "title": "Gladysposa",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/gladysposa.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.instagram.com/explore/tags/gladysposa/",
     "legal": false
   },
   {
-    "title": "gloriacell",
-    "catogory": ["partner", "client"],
+    "title": "Gloria Cell",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/gloriacell.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.bukalapak.com/u/tigor_manurung",
     "legal": false
   },
   {
-    "title": "graha-natura",
-    "catogory": ["partner", "client"],
+    "title": "Graha Natura",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/graha-natura.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.grahanatura.com/",
     "legal": false
   },
   {
-    "title": "heffen",
-    "catogory": ["partner", "client"],
+    "title": "Heffen",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/heffen.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.instagram.com/heffen_clothing/",
     "legal": false
   },
   {
-    "title": "idn-times",
-    "catogory": ["partner", "client"],
+    "title": "IDN Times",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/idn-times.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.idntimes.com/",
     "legal": false
   },
   {
-    "title": "jade",
-    "catogory": ["partner", "client"],
+    "title": "Jade Indopratama",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/jade.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://jadeindopratama.com/home.php",
     "legal": false
   },
   {
-    "title": "jasawebtiket",
-    "catogory": ["partner", "client"],
+    "title": "Jasawebtiket",
+    "catogory": ["partner"],
     "image": "../assets/images/works/logo/jasawebtiket.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://jasawebtiket.com/",
     "legal": false
   },
   {
-    "title": "jatim",
-    "catogory": ["partner", "client"],
+    "title": "Pemerintah Provinsi Jawa Timur",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/jatim.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://jatimprov.go.id/",
     "legal": false
   },
   {
-    "title": "kreate",
-    "catogory": ["partner", "client"],
+    "title": "Kreate",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/kreate.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://kreatebar.com/",
     "legal": false
   },
   {
-    "title": "la-tulipe",
-    "catogory": ["partner", "client"],
+    "title": "La Tulipe",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/la-tulipe.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://www.latulipe-id.com/",
     "legal": false
   },
   {
-    "title": "ledtron",
-    "catogory": ["partner", "client"],
+    "title": "Ledtron",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/ledtron.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://www.ledtron.co.id/",
     "legal": false
   },
   {
-    "title": "lkcnhm",
-    "catogory": ["partner", "client"],
+    "title": "LKCNHM",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/lkcnhm.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://lkcnhm.nus.edu.sg/",
     "legal": false
   },
   {
-    "title": "marvell-city",
-    "catogory": ["partner", "client"],
+    "title": "Marvell City",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/marvell-city.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://marvellcity.com/mall/",
     "legal": false
   },
   {
-    "title": "maspion-group",
-    "catogory": ["partner", "client"],
+    "title": "Maspion Group",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/maspion-group.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.maspion.com/",
     "legal": false
   },
   {
-    "title": "nea",
-    "catogory": ["partner", "client"],
+    "title": "The National Environment Agency",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/nea.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.nea.gov.sg/",
     "legal": false
   },
   {
-    "title": "pelindo-iii",
-    "catogory": ["partner", "client"],
+    "title": "Pelindo III",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/pelindo-iii.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.pelindo.co.id/id",
     "legal": false
   },
   {
-    "title": "pt-multinas-indonesia",
-    "catogory": ["partner", "client"],
+    "title": "PT. Multinas Indonesia",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/pt-multinas-indonesia.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.multinas.com/",
     "legal": false
   },
   {
-    "title": "safe-care",
-    "catogory": ["partner", "client"],
+    "title": "Safe Care",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/safe-care.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.safecarearomatherapy.com/",
     "legal": false
   },
   {
-    "title": "sby",
-    "catogory": ["partner", "client"],
+    "title": "See Beyond Yourself",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/sby.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://ebooks.gramedia.com/magazines/see-beyond-yourself",
     "legal": false
   },
   {
-    "title": "shake-club-house",
-    "catogory": ["partner", "client"],
+    "title": "Shake Club House",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/shake-club-house.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://www.shakeclubhouse.com/",
     "legal": false
   },
   {
-    "title": "zoom",
-    "catogory": ["partner", "client"],
+    "title": "Zoom Smart Hotels",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/zoom.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://zoomsmarthotels.com/",
     "legal": false
   },
   {
-    "title": "siew",
-    "catogory": ["partner", "client"],
+    "title": "SIEW",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/siew.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.siew.sg/",
     "legal": false
   },
   {
-    "title": "sungwoo",
-    "catogory": ["partner", "client"],
+    "title": "Sungwoo",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/sungwoo.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://www.ai-online.com/Adv/IndCompan.php?pid=23124",
     "legal": false
   },
   {
-    "title": "tea-presso",
-    "catogory": ["partner", "client"],
+    "title": "Tea Presso",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/tea-presso.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://www.loveteapresso.com/",
     "legal": false
   },
   {
-    "title": "techinnovation",
-    "catogory": ["partner", "client"],
+    "title": "Techinnovation",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/techinnovation.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "https://www.techinnovation.com.sg/",
     "legal": false
   },
   {
-    "title": "ukb",
-    "catogory": ["partner", "client"],
+    "title": "UKB",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/ukb.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://www.ukb.ac.id/",
     "legal": false
   },
   {
-    "title": "welco",
-    "catogory": ["partner", "client"],
+    "title": "Welco",
+    "catogory": ["client"],
     "image": "../assets/images/works/logo/welco.jpg",
-    "url": "https://bprlestari.com/",
+    "url": "http://welco.co.id/",
     "legal": false
   }
 ]
