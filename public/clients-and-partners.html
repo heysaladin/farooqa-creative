@@ -175,7 +175,7 @@
             divContainer.innerHTML = "";
             var numGo = 0;
             for (var i = 0; i < myBooks.length; i++) {
-                if (myBooks[i].legal) {
+                //if (myBooks[i].legal) {
                     var box = document.createElement("div");
                     box.setAttribute('class', 'box');
                     var anchorCardCaptionSiema = document.createElement("a");
@@ -187,7 +187,7 @@
                     img.setAttribute('src', myBooks[i].image);
                     anchorCardCaptionSiema.appendChild(img);
                     divContainer.appendChild(box);
-                }
+                //}
             }
 
             var wrapper = document.querySelector('div.wrapper');
