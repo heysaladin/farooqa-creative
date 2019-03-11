@@ -1,7 +1,7 @@
 [{
     "title": "Color",
     "catogory": ["partner", "client"],
-    "image": "../assets/images/works/logo/akasia.jpeg",
+    "image": "../assets/images/works/logo/akasia.jpg",
     "url": "https://bprlestari.com/",
     "legal": false
   },
@@ -15,7 +15,7 @@
   {
     "title": "Color",
     "catogory": ["partner", "client"],
-    "image": "../assets/images/works/logo/jade.jpeg",
+    "image": "../assets/images/works/logo/jade.jpg",
     "url": "https://bprlestari.com/",
     "legal": false
   },
