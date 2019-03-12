@@ -14,7 +14,7 @@
   },
   {
     "title": "Karma Group",
-    "catogory": ["client"],
+    "catogory": ["partner"],
     "image": "../assets/images/works/logo/karma-group.jpg",
     "url": "https://karmagroup.com/",
     "legal": false
@@ -31,28 +31,28 @@
     "catogory": ["partner"],
     "image": "../assets/images/works/logo/oartstudios.jpg",
     "url": "http://oartscience.com/",
-    "legal": false
+    "legal": true
   },
   {
     "title": "Pinjam.co.id",
-    "catogory": ["client"],
+    "catogory": ["partner"],
     "image": "../assets/images/works/logo/pinjam.jpg",
     "url": "https://pinjam.co.id/",
     "legal": false
   },
   {
     "title": "Trio Digital Agency",
-    "catogory": ["client"],
+    "catogory": ["partner"],
     "image": "../assets/images/works/logo/trio.jpg",
     "url": "https://triodigitalagency.com/",
     "legal": false
   },
   {
     "title": "4kampus",
-    "catogory": ["client"],
+    "catogory": ["partner", "client"],
     "image": "../assets/images/works/logo/4kampus.jpg",
     "url": "http://4kampus.com/",
-    "legal": false
+    "legal": true
   },
   {
     "title": "Amidis",
@@ -69,10 +69,10 @@
     "legal": false
   },
   {
-    "title": "brother",
+    "title": "Brother",
     "catogory": ["client"],
     "image": "../assets/images/works/logo/brother.jpg",
-    "url": "https://brother.com/",
+    "url": "http://brothertjm.com/",
     "legal": false
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "title": "FXmedia",
-    "catogory": ["client"],
+    "catogory": ["partner"],
     "image": "../assets/images/works/logo/fxmedia.jpg",
     "url": "http://www.fxmweb.com/",
     "legal": false
@@ -161,7 +161,7 @@
   },
   {
     "title": "Heffen",
-    "catogory": ["client"],
+    "catogory": ["partner", "client"],
     "image": "../assets/images/works/logo/heffen.jpg",
     "url": "https://www.instagram.com/heffen_clothing/",
     "legal": false
@@ -175,7 +175,7 @@
   },
   {
     "title": "Jade Indopratama",
-    "catogory": ["client"],
+    "catogory": ["partner"],
     "image": "../assets/images/works/logo/jade.jpg",
     "url": "http://jadeindopratama.com/home.php",
     "legal": false
@@ -326,5 +326,19 @@
     "image": "../assets/images/works/logo/welco.jpg",
     "url": "http://welco.co.id/",
     "legal": false
+  },
+  {
+    "title": "Adhitrans",
+    "catogory": ["client"],
+    "image": "../assets/images/works/logo/adhitrans.jpg",
+    "url": "http://welco.co.id/",
+    "legal": true
+  },
+  {
+    "title": "Greatsoft",
+    "catogory": ["partner"],
+    "image": "../assets/images/works/logo/greatsoft.jpg",
+    "url": "http://welco.co.id/",
+    "legal": true
   }
 ]
