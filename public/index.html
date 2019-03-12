@@ -14,8 +14,8 @@
     <link href="./assets/style/modal.css" rel="stylesheet" type="text/css" >
     <link href="./assets/style/page.css" rel="stylesheet" type="text/css" >
     <link href="./assets/style/style.css" rel="stylesheet" type="text/css">
-    <link href="./assets/fonts/museo-sans/stylesheet.css" rel="stylesheet" type="text/css">
-    <link href="./assets/script/lib/nav/demo.css" rel="stylesheet" type="text/css" >
+    <!-- <link href="./assets/fonts/museo-sans/stylesheet.css" rel="stylesheet" type="text/css"> -->
+    <link href="./assets/script/lib/nav/demo.css" rel="stylesheet" type="text/css">
     <link href="./assets/script/lib/nav/styleSVG.css" rel="stylesheet" type="text/css" >
     <script src="./assets/script/lib/nav/snap.svg-min.js" defer>
     </script>
@@ -332,6 +332,15 @@
     <script src="./assets/script/fullpage.min.js" type="text/javascript">
     </script>
     <script src="./assets/script/siema.min.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+        /* First CSS File */
+        var giftofspeed = document.createElement('link');
+        giftofspeed.rel = 'stylesheet';
+        giftofspeed.href = './assets/fonts/museo-sans/stylesheet.css';
+        giftofspeed.type = 'text/css';
+        var godefer = document.getElementsByTagName('link')[0];
+        godefer.parentNode.insertBefore(giftofspeed, godefer);
     </script>
     <script type="text/javascript">
 
