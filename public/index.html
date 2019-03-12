@@ -437,7 +437,7 @@
                     card.appendChild(cardContent);
                     var img = document.createElement("img");
                     img.setAttribute('class', 'card-image');
-                    img.setAttribute('src', myBooks[i].data.image);
+                    img.setAttribute('src', myBooks[i].data.thumbnail);
                     img.setAttribute('alt', myBooks[i].data.title);
                     var h1 = document.createElement("h1");
                     h1.innerHTML = myBooks[i].data.title;
@@ -471,7 +471,7 @@
                     slideCard.appendChild(slideCardContent);
                     var imgCard = document.createElement("img");
                     imgCard.setAttribute('class', 'card-image card-image-flex');
-                    imgCard.setAttribute('src', myBooks[i].data.image);
+                    imgCard.setAttribute('src', myBooks[i].data.thumbnail);
                     imgCard.setAttribute('alt', myBooks[i].data.title);
                     slideCardContent.appendChild(imgCard);
                     var slideContentTextWrapper = document.createElement("div");
