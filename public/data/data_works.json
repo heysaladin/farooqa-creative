@@ -4493,7 +4493,7 @@
       "thumbnail": "../assets/images/works/small/2paQkfmi_work_image.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "welco-logo-guideline",
       "date": "2015-02-02 07:41:06",
       "date_update": "2016-12-08 13:39:44"
