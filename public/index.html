@@ -484,6 +484,9 @@ var project_type = document.forms["planAProjectForm"]["project_type"].value;
 // function(data){ console.log(data); });
 
 
+
+
+
                 swal("Good job!", "Your message has been sent!", "success", {
                         button: "OK!",
                     })
@@ -496,6 +499,10 @@ var project_type = document.forms["planAProjectForm"]["project_type"].value;
 // console.log(phone_number);
 // console.log(project_type);
 // window.location = "index.html";
+
+
+
+
 
 var Url = "http://circlecontacts.herokuapp.com/kolega/projects";
 
@@ -512,19 +519,24 @@ var dataAndParam = {
     },
     body: Data,
     method: "POST",
-    agent: new https.Agent({
+    agent: false, //new https.Agent({
     rejectUnauthorized: false
-  })
+  //})
 };
 
 fetch(Url, dataAndParam)
 .then(data=>{return data.json()})
 .then(res=>{window.location = "index.html";})
 .then(error=>{
+    // window.location = "index.html";
+    
 swal("Sorry...", "Error server, try again later!", "error", {
 button: "OK!",
 });
+
 });
+
+
 
 
 
