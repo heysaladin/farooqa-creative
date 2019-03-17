@@ -461,27 +461,27 @@ var project_type = document.forms["planAProjectForm"]["project_type"].value;
 // }
 
 
-var Url = "http://circlecontacts.herokuapp.com/kolega/projects";
+// var Url = "http://circlecontacts.herokuapp.com/kolega/projects";
 
-function postAjax(url, data, success) {
-var params = typeof data == 'string' ? data : Object.keys(data).map(
-function(k){ return encodeURIComponent(k) + '=' + encodeURIComponent(data[k]) }
-).join('&');
+// function postAjax(url, data, success) {
+// var params = typeof data == 'string' ? data : Object.keys(data).map(
+// function(k){ return encodeURIComponent(k) + '=' + encodeURIComponent(data[k]) }
+// ).join('&');
 
-var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
-xhr.open('POST', url);
-xhr.onreadystatechange = function() {
-if (xhr.readyState>3 && xhr.status==200) { success(xhr.responseText); }
-};
-xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-xhr.send(params);
-return xhr;
-}
+// var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+// xhr.open('POST', url);
+// xhr.onreadystatechange = function() {
+// if (xhr.readyState>3 && xhr.status==200) { success(xhr.responseText); }
+// };
+// xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+// xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+// xhr.send(params);
+// return xhr;
+// }
 
-// example request
-postAjax(Url, 'name=name&email_address=email_address&phone_number=phone_number&project_type=project_type',
-function(data){ console.log(data); });
+// // example request
+// postAjax(Url, 'name=name&email_address=email_address&phone_number=phone_number&project_type=project_type',
+// function(data){ console.log(data); });
 
 
                 swal("Good job!", "Your message has been sent!", "success", {
@@ -511,17 +511,20 @@ var dataAndParam = {
         "Content-Type":"application/json; charset=UTF-8"
     },
     body: Data,
-    method: "POST"
+    method: "POST",
+    agent: new https.Agent({
+    rejectUnauthorized: false
+  })
 };
 
-// fetch(Url, dataAndParam)
-// .then(data=>{return data.json()})
-// .then(res=>{window.location = "index.html";})
-// .then(error=>{
-// swal("Sorry...", "Error server, try again later!", "error", {
-// button: "OK!",
-// });
-// });
+fetch(Url, dataAndParam)
+.then(data=>{return data.json()})
+.then(res=>{window.location = "index.html";})
+.then(error=>{
+swal("Sorry...", "Error server, try again later!", "error", {
+button: "OK!",
+});
+});
 
 
 
