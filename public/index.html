@@ -484,7 +484,7 @@ var project_type = document.forms["planAProjectForm"]["project_type"].value;
 // function(data){ console.log(data); });
 
 
-
+/*
 
 
 var Url = "http://circlecontacts.herokuapp.com/kolega/projects";
@@ -509,8 +509,8 @@ var dataAndParam = {
 
 fetch(Url, dataAndParam)
 .then(data=>{
-    // return data.json()
-    window.location = "index.html";
+    return data.json()
+    // window.location = "index.html";
 })
 .then(res=>{window.location = "index.html";})
 .then(error=>{
@@ -523,23 +523,104 @@ button: "OK!",
 });
 
 
+*/
+
+var Data = {
+    name: name,
+    email_address: email_address,
+    phone_number: phone_number,
+    project_type: project_type
+};
+
+// Example POST method implementation:
+
+// postData(`http://circlecontacts.herokuapp.com/kolega/projects`, Data);
+//   .then(
+//       data => {console.log(JSON.stringify(data))
+  
+//     swal("Good job!", "Your message has been sent!", "success", {
+//                         button: "OK!",
+//                     })
+//                     .then(() => {
+
+//                         window.location = "index.html";
+
+//                     });
 
 
+//   }
+  
+//   ) // JSON-string from `response.json()` call
+//   .catch(error => console.error(error));
+
+function postData(url = ``, data = {}) {
+  // Default options are marked with *
+    return fetch(url, {
+        method: "POST", // *GET, POST, PUT, DELETE, etc.
+        mode: "cors", // no-cors, cors, *same-origin
+        cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
+        credentials: "same-origin", // include, *same-origin, omit
+        headers: {
+            "Content-Type": "application/json",
+            // "Content-Type": "application/x-www-form-urlencoded",
+        },
+        redirect: "manual", // manual, *follow, error
+        referrer: "no-referrer", // no-referrer, *client
+        body: JSON.stringify(data), // body data type must match "Content-Type" header
+    })
+    .then(
+        response => response.json()
+        // window.location = "index.html"
+
+        // swal("Good job!", "Your message has been sent!", "success", {
+        //                 button: "OK!",
+        //             })
+        //             .then(() => {
+
+        //                 // window.location = "index.html";
+        //             })
 
 
+//   }
 
 
-                swal("Good job!", "Your message has been sent!", "success", {
+        ); // parses response to JSON
+}
+
+
+postData(`http://circlecontacts.herokuapp.com/kolega/projects`, Data)
+  .then(
+      data => {console.log(JSON.stringify(data))
+  
+    swal("Good job!", "Your message has been sent!", "success", {
                         button: "OK!",
                     })
                     .then(() => {
+
+                        window.location = "index.html";
+
+                    });
+
+
+  }
+  
+  ) // JSON-string from `response.json()` call
+  .catch(error => console.error(error));
+
+
+                // swal("Good job!", "Your message has been sent!", "success", {
+                //         button: "OK!",
+                //     })
+                //     .then(() => {
+
+
 // window.onload = function (){
 // AJAXform( 'planAProjectForm', 'submitButton', 'post' );
 // }
-// console.log(name);
-// console.log(email_address);
-// console.log(phone_number);
-// console.log(project_type);
+console.log(name);
+console.log(email_address);
+console.log(phone_number);
+console.log(project_type);
 // window.location = "index.html";
 
 
@@ -547,8 +628,12 @@ button: "OK!",
 
 
 
-                    });
+                    // });
                 return false;
+
+
+
+
             }
         }
     </script>
