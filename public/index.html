@@ -519,9 +519,9 @@ var dataAndParam = {
     },
     body: Data,
     method: "POST",
-    agent: false, //new https.Agent({
+    agent: new https.Agent({
     rejectUnauthorized: false
-  //})
+  })
 };
 
 fetch(Url, dataAndParam)
