@@ -508,7 +508,10 @@ var dataAndParam = {
 };
 
 fetch(Url, dataAndParam)
-.then(data=>{return data.json()})
+.then(data=>{
+    // return data.json()
+    window.location = "index.html";
+})
 .then(res=>{window.location = "index.html";})
 .then(error=>{
     // window.location = "index.html";
