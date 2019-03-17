@@ -24,7 +24,8 @@
 
 <body>
     <header id="header">
-        <a href="index.html" id="logo"><img id="logo-desktop" src="./assets/images/logo-white.svg"> <img id="logo-mobile" src="./assets/images/logo-short-white.svg"></a>
+        <a href="index.html" id="logo"><img id="logo-desktop" src="./assets/images/logo-white.svg"> <img id="logo-mobile"
+                src="./assets/images/logo-short-white.svg"></a>
         <ul id="menu">
             <li class="special" data-menuanchor="action">
                 <a href="index.html">Home</a>
@@ -187,23 +188,19 @@
             var divContainer = document.querySelector('.wrapper');
             divContainer.innerHTML = "";
 
-            // myBooks.sort(function(a, b) {
-            //     var dateA = new Date(a.release), dateB = new Date(b.release);
-            //     return dateA - dateB;
-            // });
-
-            // myBooks.sort(function (vote1, vote2) {
-            //     console.log(vote1);
-            //     console.log(vote2);
-            // });
-            // console.log(myBooks);
-
             for (var i = 0; i < myBooks.length; i++) {
                 var date = myBooks[i].data.date;
                 myBooks[i].date = date;
             }
 
-            myBooks = _.sortBy(myBooks, function(dateObj) {
+            /*
+            var myBooksId = _.orderBy(myBooks, ['id'], ['asc']);
+            for (var z = 0; z < myBooksId.length; z++) {
+                console.log(myBooksId[z].id);
+            }
+            */
+
+            myBooks = _.sortBy(myBooks, function (dateObj) {
                 return new Date(dateObj.date);
             }).reverse();
 
@@ -215,58 +212,58 @@
                 var catogoryStringReady = catogoryString.split(',').join(', ');
 
                 //if (myBooks[i].data.workOfTheMonth) {
-                    /*
-                    <div class="box">
-                        <a href="#">
-                            <div class="card">
-                                <div class="card-content">
-                                    <div class="image-wrapper">
-                                        <img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg">
-                                    </div>
-                                    <div class="card-text-wrapper">
-                                        <h1>Despacito Web Project</h1>
-                                        <h3>Design, Development</h3>
-                                    </div>
+                /*
+                <div class="box">
+                    <a href="#">
+                        <div class="card">
+                            <div class="card-content">
+                                <div class="image-wrapper">
+                                    <img class="card-image" src="https://www.popwebdesign.net/popart_blog/wp-content/uploads/2017/05/peter-tarka-3d-modelling-8.jpg">
+                                </div>
+                                <div class="card-text-wrapper">
+                                    <h1>Despacito Web Project</h1>
+                                    <h3>Design, Development</h3>
                                 </div>
                             </div>
-                        </a>
-                    </div>
-                    */
-                    var box = document.createElement("div");
-                    box.setAttribute('class', 'box');
-                    var anchorCardCaptionSiema = document.createElement("a");
-                    anchorCardCaptionSiema.setAttribute('href', './works/' + myBooks[i].data.slug + '.html');
-                    box.appendChild(anchorCardCaptionSiema);
-                    var card = document.createElement("div");
-                    card.setAttribute('class', 'card');
-                    anchorCardCaptionSiema.appendChild(card);
-                    var cardContent = document.createElement("div");
-                    cardContent.setAttribute('class', 'card-content');
-                    card.appendChild(cardContent);
-                    var imageWrapper = document.createElement("div");
-                    imageWrapper.setAttribute('class', 'image-wrapper');
-                    cardContent.appendChild(imageWrapper);
-                    var img = document.createElement("img");
-                    img.setAttribute('class', 'card-image');
-                    img.setAttribute('src', myBooks[i].data.thumbnail);
-                    imageWrapper.appendChild(img);
-                    var cardTextWrapper = document.createElement("div");
-                    cardTextWrapper.setAttribute('class', 'card-text-wrapper');
-                    cardContent.appendChild(cardTextWrapper);
-                    var cardCaptionTitle = document.createElement("h1");
-                    var titleCard = "";
-                    var titleData = myBooks[i].data.title;
-                    if(titleData.length > 25){
-                        titleCard = titleData.substring(0, 25) + "...";
-                    } else {
-                        titleCard = titleData
-                    }
-                    cardCaptionTitle.innerHTML = titleCard;
-                    cardTextWrapper.appendChild(cardCaptionTitle);
-                    var cardCaptionCategory = document.createElement("h3");
-                    cardCaptionCategory.innerHTML = catogoryStringReady;
-                    cardTextWrapper.appendChild(cardCaptionCategory);
-                    divContainer.appendChild(box);
+                        </div>
+                    </a>
+                </div>
+                */
+                var box = document.createElement("div");
+                box.setAttribute('class', 'box');
+                var anchorCardCaptionSiema = document.createElement("a");
+                anchorCardCaptionSiema.setAttribute('href', './works/' + myBooks[i].data.slug + '.html');
+                box.appendChild(anchorCardCaptionSiema);
+                var card = document.createElement("div");
+                card.setAttribute('class', 'card');
+                anchorCardCaptionSiema.appendChild(card);
+                var cardContent = document.createElement("div");
+                cardContent.setAttribute('class', 'card-content');
+                card.appendChild(cardContent);
+                var imageWrapper = document.createElement("div");
+                imageWrapper.setAttribute('class', 'image-wrapper');
+                cardContent.appendChild(imageWrapper);
+                var img = document.createElement("img");
+                img.setAttribute('class', 'card-image');
+                img.setAttribute('src', myBooks[i].data.thumbnail);
+                imageWrapper.appendChild(img);
+                var cardTextWrapper = document.createElement("div");
+                cardTextWrapper.setAttribute('class', 'card-text-wrapper');
+                cardContent.appendChild(cardTextWrapper);
+                var cardCaptionTitle = document.createElement("h1");
+                var titleCard = "";
+                var titleData = myBooks[i].data.title;
+                if (titleData.length > 25) {
+                    titleCard = titleData.substring(0, 25) + "...";
+                } else {
+                    titleCard = titleData
+                }
+                cardCaptionTitle.innerHTML = titleCard;
+                cardTextWrapper.appendChild(cardCaptionTitle);
+                var cardCaptionCategory = document.createElement("h3");
+                cardCaptionCategory.innerHTML = catogoryStringReady;
+                cardTextWrapper.appendChild(cardCaptionCategory);
+                divContainer.appendChild(box);
                 //}
             }
 
@@ -290,12 +287,12 @@
                 columns = 1;
             }
 
-            console.log(sw);
-            console.log(columns);
+            //console.log(sw);
+            //console.log(columns);
 
             var mod = children % columns;
 
-            console.log(mod);
+            //console.log(mod);
 
             var lastThreeChild = document.querySelector('div.wrapper > div:nth-last-child(3)');
             var lastTwoChild = document.querySelector('div.wrapper > div:nth-last-child(2)');
