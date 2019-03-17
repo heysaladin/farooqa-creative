@@ -11,12 +11,12 @@
     <meta content="Document" name="Resource-type">
     <link rel="icon" type="image/png" href="./assets/images/favicon.png" alt="favicon">
     <link href="./assets/style/fullpage.min.css" rel="stylesheet" type="text/css">
-    <link href="./assets/style/modal.css" rel="stylesheet" type="text/css" >
-    <link href="./assets/style/page.css" rel="stylesheet" type="text/css" >
+    <link href="./assets/style/modal.css" rel="stylesheet" type="text/css">
+    <link href="./assets/style/page.css" rel="stylesheet" type="text/css">
     <link href="./assets/style/style.css" rel="stylesheet" type="text/css">
     <!-- <link href="./assets/fonts/museo-sans/stylesheet.css" rel="stylesheet" type="text/css"> -->
     <link href="./assets/script/lib/nav/demo.css" rel="stylesheet" type="text/css">
-    <link href="./assets/script/lib/nav/styleSVG.css" rel="stylesheet" type="text/css" >
+    <link href="./assets/script/lib/nav/styleSVG.css" rel="stylesheet" type="text/css">
     <script src="./assets/script/lib/nav/snap.svg-min.js" defer>
     </script>
     <script src="./assets/script/lib/nav/modernizr.custom.js" defer>
@@ -25,7 +25,8 @@
 
 <body>
     <header id="header">
-        <a href="index.html" id="logo" alt="Farooqa"><img id="logo-desktop" src="./assets/images/logo-white.svg" alt="Farooqa Logo"/> <img id="logo-mobile" src="./assets/images/logo-short-white.svg" alt="Farooqa Logo Short"/></a>
+        <a href="index.html" id="logo" alt="Farooqa"><img id="logo-desktop" src="./assets/images/logo-white.svg" alt="Farooqa Logo" />
+            <img id="logo-mobile" src="./assets/images/logo-short-white.svg" alt="Farooqa Logo Short" /></a>
         <ul id="menu">
             <li class="active" data-menuanchor="home">
                 <a href="#home" alt="Home">Home</a>
@@ -172,7 +173,7 @@
                             <div>
                                 <div class="card">
                                     <div class="card-content">
-                                        <img class="card-image" alt="Project Artwork"/>
+                                        <img class="card-image" alt="Project Artwork" />
                                     </div>
                                 </div>
                             </div>
@@ -285,12 +286,8 @@
                 <div class="modal-content">
                     <h2 class="popup-title">Plan a Project</h2>
                     <p class="popup-text-small">You can start planning a project by sending a message below to us ...</p>
-                    <form
-                    id="planAProjectForm" 
-                    name="planAProjectForm" 
-                    action="http://circlecontacts.herokuapp.com/kolega/projects" 
-                    onsubmit="return validateForm()"
-                    method="POST">
+                    <form id="planAProjectForm" name="planAProjectForm" action="#" onsubmit="return validateForm()"
+                        method="GET">
                         <p class="popup-text-large">Hello, my name is
                             <input id="fname" name="name" placeholder="Your name" type="text" />
                             , I can be contacted via email on
@@ -321,7 +318,7 @@
                             . I need Farooqa's help for this project.<br>
                             Please contact me immediately.</p>
                         <div class="popup-button">
-<button class="button button-color" name="submit" id="submitButton" type="submit" value="SUBMIT">SUBMIT</button>
+                            <button class="button button-color" name="submit" id="submitButton" type="submit" value="SUBMIT">SUBMIT</button>
                         </div>
                     </form>
                 </div>
@@ -348,61 +345,18 @@
         godefer.parentNode.insertBefore(giftofspeed, godefer);
     </script>
     <script type="text/javascript">
-
         document.addEventListener(
-            'touchstart', 
-            onTouchStart, 
-            {
+            'touchstart',
+            onTouchStart, {
                 passive: true
             }
         );
         document.addEventListener('wheel', (evt) => {
-            // ... do stuff with evt
             console.log(evt);
         }, {
             capture: true,
             passive: true
         });
-
-        /*
-        AJAX in Pure JavaScript, without jQuery.
-        Written by Qassim Hassan | https://wp-time.com/ajax-form-pure-javascript-without-jquery/
-        */
-
-        /* AJAX Function */
-// resultID
-        function AJAXform( formID, buttonID, formMethod = 'post' ){
-        var selectForm = document.getElementById(formID); // Select the form by ID.
-        var selectButton = document.getElementById(buttonID); // Select the button by ID.
-        // var selectResult = document.getElementById(resultID); // Select result element by ID.
-        var formAction = document.getElementById(formID).getAttribute('action'); // Get the form action.
-        var formInputs = document.getElementById(formID).querySelectorAll("input"); // Get the form inputs.
-
-        function XMLhttp(){
-        var httpRequest = new XMLHttpRequest();
-        var formData = new FormData();
-
-        for( var i=0; i < formInputs.length; i++ ){ 
-            formData.append(formInputs[i].name, formInputs[i].value); // Add all inputs inside formData(). 
-        }
-        httpRequest.onreadystatechange=function(){ 
-            if ( this.readyState==4 && this.status==200 ) {
-                //selectResult.innerHTML=this.responseText; // Display the result inside result element. 
-console.log(this.responseText);
-                } 
-            };
-            httpRequest.open(formMethod, formAction); 
-            httpRequest.send(formData); 
-        } 
-            
-            selectButton.onclick=function(){ // If clicked on the button. 
-            XMLhttp(); 
-            } 
-            
-            selectForm.onsubmit=function(){ // Prevent page refresh 
-            return false; 
-            } 
-        }
 
         function validateEmail(email) {
             var re =
@@ -412,9 +366,9 @@ console.log(this.responseText);
 
         function validateForm() {
             var name = document.forms["planAProjectForm"]["name"].value;
-var email_address = document.forms["planAProjectForm"]["email_address"].value;
-var phone_number = document.forms["planAProjectForm"]["phone_number"].value;
-var project_type = document.forms["planAProjectForm"]["project_type"].value;
+            var email_address = document.forms["planAProjectForm"]["email_address"].value;
+            var phone_number = document.forms["planAProjectForm"]["phone_number"].value;
+            var project_type = document.forms["planAProjectForm"]["project_type"].value;
             if (name == "") {
                 swal("Oh no...", "Please tell us your name!", "error", {
                     button: "OK!",
@@ -422,217 +376,66 @@ var project_type = document.forms["planAProjectForm"]["project_type"].value;
                 return false;
             } else if (name.length < 6) {
                 swal("Oh please...", "Your name must more than 5 characters!", "error", {
-                button: "OK!",
+                    button: "OK!",
                 });
                 return false;
-} else if (email_address == "") {
+            } else if (email_address == "") {
                 swal("Please...", "Please tell us your email!", "error", {
                     button: "OK!",
                 });
                 return false;
-} else if (validateEmail(email_address) == false) {
+            } else if (validateEmail(email_address) == false) {
                 swal("Please fix it!", "You have entered an invalid email address.", "error", {
                     button: "OK!",
                 });
                 return false;
-} else if (phone_number == "") {
+            } else if (phone_number == "") {
                 swal("Please...", "Please tell us your phone number!", "error", {
                     button: "OK!",
                 });
                 return false;
-} else if (typeof parseInt(phone_number) != 'number') {
+            } else if (typeof parseInt(phone_number) != 'number') {
                 swal("Oops...", "Phone number must number!", "error", {
                     button: "OK!",
                 });
                 return false;
-} else if (phone_number.length < 10) {
-                swal("Oh please...", "Your phone number length must more than 9!" , "error" , {
+            } else if (phone_number.length < 10) {
+                swal("Oh please...", "Your phone number length must more than 9!", "error", {
                     button: "OK!",
-                    });
-                    return false;
-} else if (project_type=="default" ) {
+                });
+                return false;
+            } else if (project_type == "default") {
                 swal("Cool, but...", "Please select the project type!", "error", {
                     button: "OK!",
                 });
                 return false;
-} else {
-// window.onload = function (){
-// AJAXform( 'planAProjectForm', 'submitButton', 'post' );
-// }
+            } else {
+                var xhr = new XMLHttpRequest();
+                xhr.open('GET',
+                    'https://script.google.com/macros/s/AKfycbxDMuiujX-kOgPW1nILlKqKAUK9I2ho-or5gKlRQn0rnBCd7pWp/exec?name=' +
+                    name + '&' +
+                    'email_address=' + email_address + '&' +
+                    'phone_number=' + phone_number + '&' +
+                    'project_type=' + project_type);
+                xhr.onload = function () {
+                    if (xhr.status === 200) {
+                        //alert('User\'s name is ' + xhr.responseText);
+                        swal("Good job!", "Your message has been sent!", "success", {
+                                button: "OK!",
+                            })
+                            .then(() => {
+                                window.location = "index.html";
+                            });
+                    } else {
+                        //alert('Request failed.  Returned status of ' + xhr.status);
+                        swal("Sorry...", "Error server, try again later!", "error", {
+                            button: "OK!",
+                        });
+                    }
+                };
+                xhr.send()
 
-
-// var Url = "http://circlecontacts.herokuapp.com/kolega/projects";
-
-// function postAjax(url, data, success) {
-// var params = typeof data == 'string' ? data : Object.keys(data).map(
-// function(k){ return encodeURIComponent(k) + '=' + encodeURIComponent(data[k]) }
-// ).join('&');
-
-// var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
-// xhr.open('POST', url);
-// xhr.onreadystatechange = function() {
-// if (xhr.readyState>3 && xhr.status==200) { success(xhr.responseText); }
-// };
-// xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-// xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-// xhr.send(params);
-// return xhr;
-// }
-
-// // example request
-// postAjax(Url, 'name=name&email_address=email_address&phone_number=phone_number&project_type=project_type',
-// function(data){ console.log(data); });
-
-
-/*
-
-
-var Url = "http://circlecontacts.herokuapp.com/kolega/projects";
-
-var Data = {
-    name: name,
-    email_address: email_address,
-    phone_number: phone_number,
-    project_type: project_type
-};
-
-var dataAndParam = {
-    headers: {
-        "Content-Type":"application/json; charset=UTF-8"
-    },
-    body: Data,
-    method: "POST",
-    agent: new https.Agent({
-    rejectUnauthorized: false
-  })
-};
-
-fetch(Url, dataAndParam)
-.then(data=>{
-    return data.json()
-    // window.location = "index.html";
-})
-.then(res=>{window.location = "index.html";})
-.then(error=>{
-    // window.location = "index.html";
-    
-swal("Sorry...", "Error server, try again later!", "error", {
-button: "OK!",
-});
-
-});
-
-
-*/
-
-var Data = {
-    name: name,
-    email_address: email_address,
-    phone_number: phone_number,
-    project_type: project_type
-};
-
-// Example POST method implementation:
-
-// postData(`http://circlecontacts.herokuapp.com/kolega/projects`, Data);
-//   .then(
-//       data => {console.log(JSON.stringify(data))
-  
-//     swal("Good job!", "Your message has been sent!", "success", {
-//                         button: "OK!",
-//                     })
-//                     .then(() => {
-
-//                         window.location = "index.html";
-
-//                     });
-
-
-//   }
-  
-//   ) // JSON-string from `response.json()` call
-//   .catch(error => console.error(error));
-
-function postData(url = ``, data = {}) {
-  // Default options are marked with *
-    return fetch(url, {
-        method: "POST", // *GET, POST, PUT, DELETE, etc.
-        mode: "cors", // no-cors, cors, *same-origin
-        cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
-        credentials: "same-origin", // include, *same-origin, omit
-        headers: {
-            "Content-Type": "application/json",
-            // "Content-Type": "application/x-www-form-urlencoded",
-        },
-        redirect: "manual", // manual, *follow, error
-        referrer: "no-referrer", // no-referrer, *client
-        body: JSON.stringify(data), // body data type must match "Content-Type" header
-    })
-    .then(
-        response => response.json()
-        // window.location = "index.html"
-
-        // swal("Good job!", "Your message has been sent!", "success", {
-        //                 button: "OK!",
-        //             })
-        //             .then(() => {
-
-        //                 // window.location = "index.html";
-        //             })
-
-
-//   }
-
-
-        ); // parses response to JSON
-}
-
-
-postData(`http://circlecontacts.herokuapp.com/kolega/projects`, Data)
-  .then(
-      data => {console.log(JSON.stringify(data))
-  
-    swal("Good job!", "Your message has been sent!", "success", {
-                        button: "OK!",
-                    })
-                    .then(() => {
-
-                        window.location = "index.html";
-
-                    });
-
-
-  }
-  
-  ) // JSON-string from `response.json()` call
-  .catch(error => console.error(error));
-
-
-                // swal("Good job!", "Your message has been sent!", "success", {
-                //         button: "OK!",
-                //     })
-                //     .then(() => {
-
-
-// window.onload = function (){
-// AJAXform( 'planAProjectForm', 'submitButton', 'post' );
-// }
-console.log(name);
-console.log(email_address);
-console.log(phone_number);
-console.log(project_type);
-// window.location = "index.html";
-
-
-
-
-
-
-                    // });
                 return false;
-
-
-
 
             }
         }
@@ -790,11 +593,9 @@ console.log(project_type);
 
         console.log(ch);
 
-        if(ch < 850 && ch > 675){
+        if (ch < 850 && ch > 675) {
             modalInner.style.height = "75%";
         }
-
-
     </script>
 </body>
 
