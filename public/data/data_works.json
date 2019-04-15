@@ -139,8 +139,8 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Aisyira",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/aisyira-store.jpg",
+      "thumbnail": "../assets/images/works/small/aisyira-store.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
@@ -649,8 +649,8 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Blonjoan",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/blonjoan.jpg",
+      "thumbnail": "../assets/images/works/small/blonjoan.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
@@ -1429,8 +1429,8 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Farooqa Creative",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/farooqa-creative.jpg",
+      "thumbnail": "../assets/images/works/small/farooqa-creative.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
@@ -2040,6 +2040,43 @@
     }
   },
   {
+    "id": 160,
+    "meta": {
+      "lang": "en",
+      "title": "Hunter Motorcycle",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Hunter Motorcycle",
+      "catogory": [
+        "Design",
+        "Development"
+      ],
+      "bodyCopyShort": "Hunter Motorcycle",
+      "work_category": 1,
+      "image": "../assets/images/works/small/hunter.jpg",
+      "thumbnail": "../assets/images/works/small/hunter.jpg",
+      "logo": "../assets/images/works/logo/project.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "hunter-motorcycle",
+      "date": "2019-03-19 23:59:14",
+      "date_update": "2019-03-19 23:59:41"
+    }
+  },
+  {
     "id": 125,
     "meta": {
       "lang": "en",
@@ -2269,8 +2306,8 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Karma Group Android App Maintenance",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/karma-mobile-app.jpg",
+      "thumbnail": "../assets/images/works/small/karma-mobile-app.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
@@ -2299,8 +2336,8 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Karma Group Mobile Web Concept",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/goldenhand.jpg",
+      "thumbnail": "../assets/images/works/small/goldenhand.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
@@ -2329,8 +2366,8 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Karma Group React Native App Development",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/odyssey.jpg",
+      "thumbnail": "../assets/images/works/small/odyssey.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
@@ -2449,14 +2486,50 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Kokaku",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/kokaku.jpg",
+      "thumbnail": "../assets/images/works/small/kokaku.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
       "slug": "kokaku",
       "date": "2019-03-18 07:49:59",
       "date_update": "2019-03-18 13:50:07"
+    }
+  },
+  {
+    "id": 159,
+    "meta": {
+      "lang": "en",
+      "title": "Kolega",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Kolega",
+      "catogory": [
+        "Development"
+      ],
+      "bodyCopyShort": "Kolega",
+      "work_category": 1,
+      "image": "../assets/images/works/small/kolega.jpg",
+      "thumbnail": "../assets/images/works/small/kolega.jpg",
+      "logo": "../assets/images/works/logo/project.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "kolega",
+      "date": "2019-03-18 13:59:32",
+      "date_update": "2019-03-18 21:26:52"
     }
   },
   {
@@ -2569,8 +2642,8 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Lakonono Branding",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/lakonono.jpg",
+      "thumbnail": "../assets/images/works/small/lakonono.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
@@ -2719,14 +2792,50 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "LestariDiskon App",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/lestari.jpg",
+      "thumbnail": "../assets/images/works/small/lestari.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
       "slug": "lestaridiskon-app",
       "date": "2019-03-18 23:59:14",
       "date_update": "2019-03-18 23:59:41"
+    }
+  },
+  {
+    "id": 157,
+    "meta": {
+      "lang": "en",
+      "title": "Lift UI",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Lift UI",
+      "catogory": [
+        "Development"
+      ],
+      "bodyCopyShort": "Lift UI",
+      "work_category": 1,
+      "image": "../assets/images/works/small/lift.jpg",
+      "thumbnail": "../assets/images/works/small/lift.jpg",
+      "logo": "../assets/images/works/logo/project.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "lift-ui",
+      "date": "2019-03-18 13:59:32",
+      "date_update": "2019-03-18 21:26:52"
     }
   },
   {
@@ -2787,6 +2896,42 @@
       "slug": "maleeka-logo",
       "date": "2012-12-29 11:27:30",
       "date_update": "2016-12-08 13:58:05"
+    }
+  },
+  {
+    "id": 158,
+    "meta": {
+      "lang": "en",
+      "title": "Mamikos",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Mamikos",
+      "catogory": [
+        "Development"
+      ],
+      "bodyCopyShort": "Mamikos",
+      "work_category": 1,
+      "image": "../assets/images/works/small/mamikos.jpg",
+      "thumbnail": "../assets/images/works/small/mamikos.jpg",
+      "logo": "../assets/images/works/logo/project.png",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "mamikos",
+      "date": "2019-03-18 13:59:32",
+      "date_update": "2019-03-18 21:26:52"
     }
   },
   {
@@ -2929,8 +3074,8 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Maxfit",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/maxfit.jpg",
+      "thumbnail": "../assets/images/works/small/maxfit.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
@@ -2959,8 +3104,8 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Mekar",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/mekar.jpg",
+      "thumbnail": "../assets/images/works/small/mekar.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
@@ -3439,8 +3584,8 @@
       "catogory": ["Development"],
       "bodyCopyShort": "Pinjam Web Development",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/pinjam.jpg",
+      "thumbnail": "../assets/images/works/small/pinjam.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
@@ -4429,8 +4574,8 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Vacapedia",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/vacapedia.jpg",
+      "thumbnail": "../assets/images/works/small/vacapedia.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
@@ -4519,8 +4664,8 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Wind Lion",
       "work_category": 1,
-      "image": "../assets/images/works/logo/project.png",
-      "thumbnail": "../assets/images/works/logo/project.png",
+      "image": "../assets/images/works/small/windlion.jpg",
+      "thumbnail": "../assets/images/works/small/windlion.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
