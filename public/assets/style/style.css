@@ -534,16 +534,17 @@ a {
 .card-caption {}
 
 .logo-project {
-    width: 100px;
-    height: 100px;
-    padding: 20px;
+    width: 120px;
+    height: 120px;
+    padding: 0px;
     border: 1px solid #ddd;
     border-radius: 10px;
+    overflow: hidden;
 }
 
 .logo-project>img {
-    width: 60px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
 }
 
 .card-caption>h1 {
