@@ -653,7 +653,7 @@
       "thumbnail": "../assets/images/works/small/blonjoan.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "blonjoan",
       "date": "2019-03-18 10:52:48",
       "date_update": "2019-03-18 15:44:12"
@@ -1433,7 +1433,7 @@
       "thumbnail": "../assets/images/works/small/farooqa-creative.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "farooqa-creative",
       "date": "2019-03-18 01:21:42",
       "date_update":"2019-03-18 19:55:53"
@@ -2310,7 +2310,7 @@
       "thumbnail": "../assets/images/works/small/karma-mobile-app.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "karma-group-android-app-maintenance",
       "date": "2019-03-18 13:23:07",
       "date_update": "2019-03-18 13:42:54"
@@ -2340,7 +2340,7 @@
       "thumbnail": "../assets/images/works/small/goldenhand.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "karma-group-mobile-web-concept",
       "date": "2019-03-18 13:23:07",
       "date_update": "2019-03-18 13:42:54"
@@ -2370,7 +2370,7 @@
       "thumbnail": "../assets/images/works/small/odyssey.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "karma-group-react-native-app-development",
       "date": "2019-03-18 13:23:07",
       "date_update": "2019-03-18 13:42:54"
@@ -2490,7 +2490,7 @@
       "thumbnail": "../assets/images/works/small/kokaku.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "kokaku",
       "date": "2019-03-18 07:49:59",
       "date_update": "2019-03-18 13:50:07"
@@ -2527,7 +2527,7 @@
       "thumbnail": "../assets/images/works/small/kolega.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "kolega",
       "date": "2019-03-18 13:59:32",
       "date_update": "2019-03-18 21:26:52"
@@ -2647,7 +2647,7 @@
       "thumbnail": "../assets/images/works/small/lakonono.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "lakonono-branding",
       "date": "2019-03-18 12:01:36",
       "date_update": "2019-03-18 14:01:24"
@@ -2797,7 +2797,7 @@
       "thumbnail": "../assets/images/works/small/lestari.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "lestaridiskon-app",
       "date": "2019-03-18 23:59:14",
       "date_update": "2019-03-18 23:59:41"
@@ -2833,7 +2833,7 @@
       "thumbnail": "../assets/images/works/small/lift.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "lift-ui",
       "date": "2019-03-18 13:59:32",
       "date_update": "2019-03-18 21:26:52"
@@ -2929,7 +2929,7 @@
       "thumbnail": "../assets/images/works/small/mamikos.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "mamikos",
       "date": "2019-03-18 13:59:32",
       "date_update": "2019-03-18 21:26:52"
@@ -3079,7 +3079,7 @@
       "thumbnail": "../assets/images/works/small/maxfit.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "maxfit",
       "date": "2019-03-18 12:26:35",
       "date_update": "2019-03-18 13:52:48"
@@ -3589,7 +3589,7 @@
       "thumbnail": "../assets/images/works/small/pinjam.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "pinjam-web-development",
       "date": "2019-03-18 13:59:32",
       "date_update": "2019-03-18 21:26:52"
@@ -4579,7 +4579,7 @@
       "thumbnail": "../assets/images/works/small/vacapedia.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "vacapedia",
       "date": "2019-03-18 13:56:24",
       "date_update": "2019-03-18 13:43:56"
@@ -4669,7 +4669,7 @@
       "thumbnail": "../assets/images/works/small/windlion.jpg",
       "logo": "../assets/images/works/logo/project.png",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "slug": "wind-lion",
       "date": "2019-03-18 07:41:06",
       "date_update": "2019-03-18 13:39:44"

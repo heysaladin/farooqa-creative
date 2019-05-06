@@ -340,5 +340,12 @@
     "image": "../assets/images/works/logo/greatsoft.jpg",
     "url": "http://thegreatsoft.com/",
     "legal": true
+  },
+  {
+    "title": "Hunter Motorcycle",
+    "catogory": ["client"],
+    "image": "../assets/images/works/logo/hunter.jpg",
+    "url": "https://www.huntermotorcycles.com.au/index.php/en/",
+    "legal": true
   }
 ]
