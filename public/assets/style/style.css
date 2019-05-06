@@ -1388,7 +1388,7 @@ span.date {
     }
 
     #works {
-        padding: 50px 0;
+        padding: 0px 0 50px;
     }
 }
 
@@ -1470,11 +1470,13 @@ span.date {
     margin: 15px 0 10px;
     font-family: 'Museo Sans 700';
     font-size: 24px;
+    text-transform: capitalize;
 }
 
 .card .card-content .card-text-wrapper>h3 {
     color: #7E7E7E;
     font-size: 18px;
+    text-transform: capitalize;
 }
 
 /* END Works ----------------------------- */

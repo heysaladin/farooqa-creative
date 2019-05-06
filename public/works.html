@@ -246,6 +246,7 @@
                 var img = document.createElement("img");
                 img.setAttribute('class', 'card-image');
                 img.setAttribute('src', myBooks[i].data.thumbnail);
+                img.setAttribute('alt', myBooks[i].data.title);
                 imageWrapper.appendChild(img);
                 var cardTextWrapper = document.createElement("div");
                 cardTextWrapper.setAttribute('class', 'card-text-wrapper');

@@ -483,7 +483,15 @@
                     img.setAttribute('src', myBooks[i].data.thumbnail);
                     img.setAttribute('alt', myBooks[i].data.title);
                     var h1 = document.createElement("h1");
-                    h1.innerHTML = myBooks[i].data.title;
+                    var titleCard = "";
+                    var titleData = myBooks[i].data.title;
+                    if (titleData.length > 25) {
+                        titleCard = titleData.substring(0, 25) + "...";
+                    } else {
+                        titleCard = titleData
+                    }
+                    h1.innerHTML = titleCard;
+                    //h1.innerHTML = myBooks[i].data.title;
                     anchorCardCaptionSiema.appendChild(h1);
                     var h3 = document.createElement("h3");
                     h3.innerHTML = catogoryStringReady;
