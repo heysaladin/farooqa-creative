@@ -780,6 +780,42 @@
     }
   },
   {
+    "id": 162,
+    "meta": {
+      "lang": "en",
+      "title": "Bukber Lover",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Bukber Lover",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Bukber Lover",
+      "work_category": 1,
+      "image": "../assets/images/works/small/bukber-lover.jpg",
+      "thumbnail": "../assets/images/works/small/bukber-lover.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "bukber-lover",
+      "date": "2019-05-15 23:59:14",
+      "date_update": "2019-05-15 23:59:41"
+    }
+  },
+  {
     "id": 84,
     "meta": {
       "lang": "en",
@@ -1257,6 +1293,42 @@
       "slug": "donini-website-design-20",
       "date": "2013-11-27 12:16:24",
       "date_update": "2016-12-08 13:46:42"
+    }
+  },
+  {
+    "id": 163,
+    "meta": {
+      "lang": "en",
+      "title": "Dr. Antri",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Dr. Antri",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Dr. Antri",
+      "work_category": 1,
+      "image": "../assets/images/works/small/dr-antri.jpg",
+      "thumbnail": "../assets/images/works/small/dr-antri.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "dr-antri",
+      "date": "2019-05-20 23:59:14",
+      "date_update": "2019-05-20 23:59:41"
     }
   },
   {
@@ -1860,6 +1932,42 @@
     }
   },
   {
+    "id": 161,
+    "meta": {
+      "lang": "en",
+      "title": "Go Tadarus Go",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Go Tadarus Go",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Go Tadarus Go",
+      "work_category": 1,
+      "image": "../assets/images/works/small/go-tadarus-go.jpg",
+      "thumbnail": "../assets/images/works/small/go-tadarus-go.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "go-tadarus-go",
+      "date": "2019-05-13 23:59:14",
+      "date_update": "2019-05-13 23:59:41"
+    }
+  },
+  {
     "id": 103,
     "meta": {
       "lang": "en",
@@ -1939,13 +2047,13 @@
       "catogory": ["Design", "Development"],
       "bodyCopyShort": "Hana application concept",
       "work_category": 10,
-      "image": "../assets/images/works/large/UkSyMPts_work_image.jpg",
-      "thumbnail": "../assets/images/works/small/UkSyMPts_work_image.webp",
+      "image": "../assets/images/works/large/UkSyMPts_work_image.webp",
+      "thumbnail": "../assets/images/works/small/hana.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": true,
       "slug": "hana-application-concept",
-      "date": "2016-10-25 13:59:01",
+      "date": "2019-05-14 13:59:01",
       "date_update": "2016-12-07 20:21:12"
     }
   },
@@ -3356,6 +3464,42 @@
     }
   },
   {
+    "id": 164,
+    "meta": {
+      "lang": "en",
+      "title": "Oishi Hut",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Oishi Hut",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Oishi Hut",
+      "work_category": 1,
+      "image": "../assets/images/works/small/oishi-hut.jpg",
+      "thumbnail": "../assets/images/works/small/oishi-hut.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "oishi-hut",
+      "date": "2019-05-21 03:59:14",
+      "date_update": "2019-05-21 03:59:41"
+    }
+  },
+  {
     "id": 5,
     "meta": {
       "lang": "en",
@@ -4316,6 +4460,42 @@
     }
   },
   {
+    "id": 165,
+    "meta": {
+      "lang": "en",
+      "title": "Temu Dokter",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Temu Dokter",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Temu Dokter",
+      "work_category": 1,
+      "image": "../assets/images/works/small/temu-dokter.jpg",
+      "thumbnail": "../assets/images/works/small/temu-dokter.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "temu-dokter",
+      "date": "2019-05-21 13:59:14",
+      "date_update": "2019-05-21 13:59:41"
+    }
+  },
+  {
     "id": 38,
     "meta": {
       "lang": "en",
@@ -4373,6 +4553,42 @@
       "slug": "the-pixel-website-design",
       "date": "2012-07-31 11:44:59",
       "date_update": "2016-12-08 19:23:41"
+    }
+  },
+  {
+    "id": 166,
+    "meta": {
+      "lang": "en",
+      "title": "Time Bus",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Time Bus",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Time Bus",
+      "work_category": 1,
+      "image": "../assets/images/works/small/time-bus.jpg",
+      "thumbnail": "../assets/images/works/small/time-bus.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "time-bus",
+      "date": "2019-05-21 23:59:14",
+      "date_update": "2019-05-21 23:59:41"
     }
   },
   {
