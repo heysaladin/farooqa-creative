@@ -3860,6 +3860,42 @@
     }
   },
   {
+    "id": 168,
+    "meta": {
+      "lang": "en",
+      "title": "Ruteku",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Ruteku",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Ruteku",
+      "work_category": 1,
+      "image": "../assets/images/works/small/ruteku.jpg",
+      "thumbnail": "../assets/images/works/small/ruteku.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "ruteku",
+      "date": "2019-05-21 14:59:14",
+      "date_update": "2019-05-21 14:59:41"
+    }
+  },
+  {
     "id": 81,
     "meta": {
       "lang": "en",
@@ -3917,6 +3953,42 @@
       "slug": "safecare-website-design-30",
       "date": "2014-01-10 12:28:19",
       "date_update": "2016-12-08 13:46:10"
+    }
+  },
+  {
+    "id": 167,
+    "meta": {
+      "lang": "en",
+      "title": "Sang Penemu",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Sang Penemu",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Sang Penemu",
+      "work_category": 1,
+      "image": "../assets/images/works/small/sang-penemu.jpg",
+      "thumbnail": "../assets/images/works/small/sang-penemu.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "sang-penemu",
+      "date": "2019-05-21 13:59:14",
+      "date_update": "2019-05-21 13:59:41"
     }
   },
   {
