@@ -808,7 +808,7 @@
       "image": "../assets/images/works/small/bukber-lover.jpg",
       "thumbnail": "../assets/images/works/small/bukber-lover.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
-      "workOfTheMonth": false,
+      "workOfTheMonth": true,
       "onGoingWorkOfTheMonth": true,
       "slug": "bukber-lover",
       "date": "2019-05-15 23:59:14",
@@ -1324,7 +1324,7 @@
       "image": "../assets/images/works/small/dr-antri.jpg",
       "thumbnail": "../assets/images/works/small/dr-antri.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
-      "workOfTheMonth": false,
+      "workOfTheMonth": true,
       "onGoingWorkOfTheMonth": true,
       "slug": "dr-antri",
       "date": "2019-05-20 23:59:14",
@@ -2050,7 +2050,7 @@
       "image": "../assets/images/works/small/UkSyMPts_work_image.webp",
       "thumbnail": "../assets/images/works/small/hana.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
-      "workOfTheMonth": false,
+      "workOfTheMonth": true,
       "onGoingWorkOfTheMonth": true,
       "slug": "hana-application-concept",
       "date": "2019-05-14 13:59:01",
@@ -2145,6 +2145,42 @@
       "slug": "heffen-website",
       "date": "2016-09-12 13:50:41",
       "date_update": "2016-12-07 21:33:54"
+    }
+  },
+  {
+    "id": 171,
+    "meta": {
+      "lang": "en",
+      "title": "Hey Brew",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Hey Brew",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Hey Brew",
+      "work_category": 1,
+      "image": "../assets/images/works/small/hey-brew.jpg",
+      "thumbnail": "../assets/images/works/small/hey-brew.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "hey-brew",
+      "date": "2019-05-23 17:59:14",
+      "date_update": "2019-05-23 17:59:41"
     }
   },
   {
@@ -3827,6 +3863,78 @@
       "slug": "privateers-website-design",
       "date": "2012-11-03 11:49:50",
       "date_update": "2016-12-08 13:59:25"
+    }
+  },
+  {
+    "id": 169,
+    "meta": {
+      "lang": "en",
+      "title": "ProGad",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "ProGad",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "ProGad",
+      "work_category": 1,
+      "image": "../assets/images/works/small/progad.jpg",
+      "thumbnail": "../assets/images/works/small/progad.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "progad",
+      "date": "2019-05-23 14:59:14",
+      "date_update": "2019-05-23 14:59:41"
+    }
+  },
+  {
+    "id": 170,
+    "meta": {
+      "lang": "en",
+      "title": "Rent Gear",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Rent Gear",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Rent Gear",
+      "work_category": 1,
+      "image": "../assets/images/works/small/rent-gear.jpg",
+      "thumbnail": "../assets/images/works/small/rent-gear.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "rent-gear",
+      "date": "2019-05-23 16:59:14",
+      "date_update": "2019-05-23 16:59:41"
     }
   },
   {
