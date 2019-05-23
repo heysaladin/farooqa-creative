@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": 24,
     "meta": {
       "lang": "en",
@@ -1508,7 +1507,7 @@
       "onGoingWorkOfTheMonth": false,
       "slug": "farooqa-creative",
       "date": "2019-03-18 01:21:42",
-      "date_update":"2019-03-18 19:55:53"
+      "date_update": "2019-03-18 19:55:53"
     }
   },
   {
@@ -1538,7 +1537,7 @@
       "onGoingWorkOfTheMonth": false,
       "slug": "farooqa-website",
       "date": "2015-08-26 01:21:42",
-      "date_update":"2016-12-08 19:55:53"
+      "date_update": "2016-12-08 19:55:53"
     }
   },
   {
@@ -3887,7 +3886,7 @@
     "data": {
       "title": "ProGad",
       "catogory": [
-        "Design"
+        "Development"
       ],
       "bodyCopyShort": "ProGad",
       "work_category": 1,

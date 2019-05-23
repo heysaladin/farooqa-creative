@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -21,237 +21,25 @@
     </script>
     <script src="./assets/script/lib/nav/modernizr.custom.js" defer>
     </script>
+
+    <!-- update the version number as needed -->
+    <script defer src="/__/firebase/6.0.2/firebase-app.js"></script>
+    <!-- include only the Firebase features as you need -->
+    <script defer src="/__/firebase/6.0.2/firebase-auth.js"></script>
+    <script defer src="/__/firebase/6.0.2/firebase-database.js"></script>
+    <script defer src="/__/firebase/6.0.2/firebase-messaging.js"></script>
+    <script defer src="/__/firebase/6.0.2/firebase-storage.js"></script>
+    <!-- initialize the SDK after all desired features are loaded -->
+    <script defer src="/__/firebase/init.js"></script>
+
 </head>
 
 <body>
-    <header id="header">
-        <a href="index.html" id="logo" alt="Farooqa"><img id="logo-desktop" src="./assets/images/logo-white.svg" alt="Farooqa Logo" />
-            <img id="logo-mobile" src="./assets/images/logo-short-white.svg" alt="Farooqa Logo Short" /></a>
-        <ul id="menu">
-            <li class="active" data-menuanchor="home">
-                <a href="#home" alt="Home">Home</a>
-            </li>
-            <li data-menuanchor="services">
-                <a href="#services" alt="Services">Services</a>
-            </li>
-            <li data-menuanchor="works">
-                <a href="#works" alt="Works">Works</a>
-            </li>
-            <li data-menuanchor="onGoing">
-                <a href="#onGoing" alt="On Going">On Going</a>
-            </li>
-            <li class="special" data-menuanchor="action">
-                <a href="#action" alt="Action">Action</a>
-            </li>
-        </ul><button id="trigger-overlay" type="button" alt="Plan a project"></button>
-    </header>
-    <div id="fullpage">
-        <div class="section" id="section0">
-            <div class="content">
-                <h1 style="margin: 0 auto; font-family:'Museo Sans 900'; font-size: 3.25em; color: white;">
-                    JUST CREATE
-                    <br />
-                    SOMETHING NEW
-                </h1>
-            </div><a href="#services" id="arrow-down-anchor">
-                <div id="arrow-down"></div>
-            </a>
-        </div>
-        <div class="section" id="section1">
-            <div class="ornament">
-                <div class="ornament-left"></div>
-                <div class="ornament-right"></div>
-            </div>
-            <div class="content">
-                <div>
-                    <h1 class="title title-right">what<br>
-                        we do</h1><span class="line line-right"></span>
-                </div>
-                <div>
-                    <div class="line-block">
-                        <div class="icon-wrapper"></div>
-                        <div class="list-content">
-                            <h3>Design</h3>
-                            <p>We create the creative solutions can help you differentiate your company by creating a
-                                fresh, compelling design. Our designers create memorable visual content that motivates
-                                visitors to fulfill your business goals.</p>
-                        </div>
-                    </div>
-                    <div class="line-block">
-                        <div class="icon-wrapper"></div>
-                        <div class="list-content">
-                            <h3>Develops</h3>
-                            <p>Executionists works primarily with Mobile App, Modern Website, Custom Development and
-                                other popular, open source frameworks. We have the expertise to customize design and
-                                functionality to your business needs.</p>
-                        </div>
-                    </div>
-                    <div class="line-block">
-                        <div class="icon-wrapper"></div>
-                        <div class="list-content">
-                            <h3>Marketing</h3>
-                            <p>We can augment your internal team or take marketing completely off your plate.
-                                Consistent and creative marketing will boost your visibility and produce the
-                                conversions you need to be profitable.</p>
-                        </div>
-                    </div>
-                    <div class="line-block">
-                        <div class="list-content">
-                            <a class="button button-ghost" href="./services.html" alt="Explore services">explore more</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="section" id="section2">
-            <div class="ornament">
-                <div class="ornament-left"></div>
-                <div class="ornament-right"></div>
-            </div>
-            <div class="content">
-                <div class="title-block">
-                    <h1 class="title">Works</h1><span class="line"></span>
-                </div>
-                <div class="carousel" id="showData">
-                    <div class="siema">
-                        <div>
-                            <div class="card">
-                                <div class="card-content">
-                                    <img class="card-image" alt="Card Artwork" />
-                                    <h1></h1>
-                                    <h3></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="action-block" style="background: transparent;">
-                    <div class="list-content">
-                        <a class="button button-ghost" href="works.html" alt="Explore all works">explore all works</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="section" id="section3">
-            <div class="ornament">
-                <div class="ornament-left"></div>
-                <div class="ornament-right"></div>
-            </div>
-            <div class="intro">
-                <div class="title-block">
-                    <h1 class="title">On Going Project</h1><span class="line"></span>
-                </div>
-                <div id="slideWrapper">
-                    <div class="slide" id="slide1">
-                        <div class="slide-content-block">
-                            <div>
-                                <div class="card">
-                                    <div class="card-content card-content-flex">
-                                        <img class="card-image card-image-flex" alt="Project Artwork" />
-                                    </div>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="slide-content-text-wrapper">
-                                    <div class="card-caption">
-                                        <div class="logo-project">
-                                            <img alt="Logo Project" />
-                                        </div>
-                                        <h1></h1>
-                                        <h3></h3>
-                                        <p></p>
-                                        <div class="list-content">
-                                            <a class="button button-ghost" href="#" alt="Explore detail project"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="slide" id="slide2">
-                        <div class="slide-content-block">
-                            <div>
-                                <div class="card">
-                                    <div class="card-content">
-                                        <img class="card-image" alt="Project Artwork" />
-                                    </div>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="slide-content-text-wrapper">
-                                    <div class="card-caption">
-                                        <div class="logo-project">
-                                            <img alt="Logo Project" />
-                                        </div>
-                                        <h1></h1>
-                                        <h3></h3>
-                                        <p></p>
-                                        <div class="list-content">
-                                            <a class="button button-ghost" href="#" alt="Explore detail project"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="section" id="section4">
-            <div class="ornament">
-                <div class="ornament-left"></div>
-                <div class="ornament-right"></div>
-            </div>
-            <div class="content">
-                <div>
-                    <span class="line"></span>
-                    <p id="text-before-plan">Let’s go, you can build a project plan and let us help you achive with
-                        your overall business objectives.</p><label class="button button-color" for="modal-2">plan a
-                        project</label>
-                </div>
-                <div class="footer">
-                    <ul id="secondary-menu">
-                        <li>
-                            <a href="clients-and-partners.html" alt="Clients & Partners">Clients & Partners</a>
-                        </li>
-                        <li>
-                            <a href="blog-and-notes.html" alt="Blog & Notes">Blog & Notes</a>
-                        </li>
-                    </ul>
-                    <ul id="social-menu">
-                        <li>
-                            <a class="icon behance" href="https://www.behance.net/didiengeon0aa6" rel="noopener" target="_blank"
-                                title="" alt="Farooqa behance"></a>
-                        </li>
-                        <li>
-                            <a class="icon dribbble" href="https://dribbble.com/saladinid" rel="noopener" target="_blank"
-                                title="" alt="Farooqa dribbble"></a>
-                        </li>
-                        <li>
-                            <a class="icon instagram" href="https://www.instagram.com/lakonono.works/" rel="noopener"
-                                target="_blank" title="" alt="Farooqa instagram"></a>
-                        </li>
-                        <li>
-                            <a class="icon youtube" href="https://www.youtube.com/channel/UCkO1_CLA_xV7VktHBz9-9XQ?view_as=subscriber"
-                                rel="noopener" target="_blank" title="" alt="Farooqa youtube"></a>
-                        </li>
-                        <li>
-                            <a class="icon github" href="https://github.com/saladinid" rel="noopener" target="_blank"
-                                title="" alt="Farooqa github"></a>
-                        </li>
-                    </ul>
-                    <h5 id="copyright-text">©2019 Farooqa</h5>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="section overlay overlay-genie" data-steps="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z;m 698.9986,728.03569 41.23353,0 -3.41953,77.8735 -34.98557,0 z;m 687.08153,513.78234 53.1506,0 C 738.0505,683.9161 737.86917,503.34193 737.27015,806 l -35.90067,0 c -7.82727,-276.34892 -2.06916,-72.79261 -14.28795,-292.21766 z;m 403.87105,257.94772 566.31246,2.93091 C 923.38284,513.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 455.17312,480.07689 403.87105,257.94772 z;M 51.871052,165.94772 1362.1835,168.87863 C 1171.3828,653.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 31.173122,513.78234 51.871052,165.94772 z;m 52,26 1364,4 c -12.8007,666.9037 -273.2644,483.78234 -322.7299,776 l -633.90062,0 C 359.32034,432.49318 -6.6979288,733.83462 52,26 z;m 0,0 1439.999975,0 0,805.99999 -1439.999975,0 z">
-        <svg height="100%" preserveaspectratio="none" viewbox="0 0 1440 806" width="100%" xmlns="http://www.w3.org/2000/svg">
-            <path class="overlay-path" d="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z"></path>
-        </svg> <button class="overlay-close" type="button">Close</button>
-        <nav>
-            <ul>
+        <header id="header">
+            <a href="index.html" id="logo" alt="Farooqa"><img id="logo-desktop" src="./assets/images/logo-white.svg"
+                    alt="Farooqa Logo" />
+                <img id="logo-mobile" src="./assets/images/logo-short-white.svg" alt="Farooqa Logo Short" /></a>
+            <ul id="menu">
                 <li class="active" data-menuanchor="home">
                     <a href="#home" alt="Home">Home</a>
                 </li>
@@ -267,344 +55,607 @@
                 <li class="special" data-menuanchor="action">
                     <a href="#action" alt="Action">Action</a>
                 </li>
-                <li>
-                    <a href="clients-and-partners.html" alt="Clients & Partners">Clients & Partners</a>
-                </li>
-                <li>
-                    <a href="blog-and-notes.html" alt="Blog & Notes">Blog & Notes</a>
-                </li>
-            </ul>
-        </nav>
-    </div>
-    <input class="modal-state" id="modal-2" type="checkbox">
-    <div class="section modal">
-        <label class="modal__bg" for="modal-2"></label>
-        <div class="modal__inner">
-            <label class="modal__close" for="modal-2"></label>
-            <div class="modal-container">
-                <div class="modal-image-wrapper"></div>
-                <div class="modal-content">
-                    <h2 class="popup-title">Plan a Project</h2>
-                    <p class="popup-text-small">You can start planning a project by sending a message below to us ...</p>
-                    <form id="planAProjectForm" name="planAProjectForm" action="#" onsubmit="return validateForm()"
-                        method="GET">
-                        <p class="popup-text-large">Hello, my name is
-                            <input id="fname" name="name" placeholder="Your name" type="text" />
-                            , I can be contacted via email on
-                            <input name="email_address" placeholder="Your email" type="text">
-                            or phone number on
-                            <input name="phone_number" placeholder="Your phone number" type="text">
-                            , I will hold project
-                            <select name="project_type">
-                                <option value="default">
-                                    Select Project
-                                </option>
-                                <option value="design">
-                                    Graphic Design
-                                </option>
-                                <option value="web">
-                                    Website Development
-                                </option>
-                                <option value="mobile">
-                                    Mobile App Development
-                                </option>
-                                <option value="marketing">
-                                    Digital Marketing
-                                </option>
-                                <option value="custom">
-                                    Custom Project
-                                </option>
-                            </select>
-                            . I need Farooqa's help for this project.<br>
-                            Please contact me immediately.</p>
-                        <div class="popup-button">
-                            <button class="button button-color" name="submit" id="submitButton" type="submit" value="SUBMIT">SUBMIT</button>
+            </ul><button id="trigger-overlay" type="button" alt="Plan a project"></button>
+        </header>
+        <div id="fullpage">
+            <div class="section" id="section0">
+                <div class="content">
+                    <h1 style="margin: 0 auto; font-family:'Museo Sans 900'; font-size: 3.25em; color: white;">
+                        JUST CREATE
+                        <br />
+                        SOMETHING NEW
+                    </h1>
+                </div><a href="#services" id="arrow-down-anchor">
+                    <div id="arrow-down"></div>
+                </a>
+            </div>
+            <div class="section" id="section1">
+                <div class="ornament">
+                    <div class="ornament-left"></div>
+                    <div class="ornament-right"></div>
+                </div>
+                <div class="content">
+                    <div>
+                        <h1 class="title title-right">what<br>
+                            we do</h1><span class="line line-right"></span>
+                    </div>
+                    <div>
+                        <div class="line-block">
+                            <div class="icon-wrapper"></div>
+                            <div class="list-content">
+                                <h3>Design</h3>
+                                <p>We create the creative solutions can help you differentiate your company by creating
+                                    a
+                                    fresh, compelling design. Our designers create memorable visual content that
+                                    motivates
+                                    visitors to fulfill your business goals.</p>
+                            </div>
                         </div>
-                    </form>
+                        <div class="line-block">
+                            <div class="icon-wrapper"></div>
+                            <div class="list-content">
+                                <h3>Develops</h3>
+                                <p>Executionists works primarily with Mobile App, Modern Website, Custom Development and
+                                    other popular, open source frameworks. We have the expertise to customize design and
+                                    functionality to your business needs.</p>
+                            </div>
+                        </div>
+                        <div class="line-block">
+                            <div class="icon-wrapper"></div>
+                            <div class="list-content">
+                                <h3>Marketing</h3>
+                                <p>We can augment your internal team or take marketing completely off your plate.
+                                    Consistent and creative marketing will boost your visibility and produce the
+                                    conversions you need to be profitable.</p>
+                            </div>
+                        </div>
+                        <div class="line-block">
+                            <div class="list-content">
+                                <a class="button button-ghost" href="./services.html" alt="Explore services">explore
+                                    more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section" id="section2">
+                <div class="ornament">
+                    <div class="ornament-left"></div>
+                    <div class="ornament-right"></div>
+                </div>
+                <div class="content">
+                    <div class="title-block">
+                        <h1 class="title">Works</h1><span class="line"></span>
+                    </div>
+                    <div class="carousel" id="showData">
+                        <div class="siema">
+                            <div>
+                                <div class="card">
+                                    <div class="card-content">
+                                        <img class="card-image" alt="Card Artwork" />
+                                        <h1></h1>
+                                        <h3></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="action-block" style="background: transparent;">
+                        <div class="list-content">
+                            <a class="button button-ghost" href="works.html" alt="Explore all works">explore all
+                                works</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section" id="section3">
+                <div class="ornament">
+                    <div class="ornament-left"></div>
+                    <div class="ornament-right"></div>
+                </div>
+                <div class="intro">
+                    <div class="title-block">
+                        <h1 class="title">On Going Project</h1><span class="line"></span>
+                    </div>
+                    <div id="slideWrapper">
+                        <div class="slide" id="slide1">
+                            <div class="slide-content-block">
+                                <div>
+                                    <div class="card">
+                                        <div class="card-content card-content-flex">
+                                            <img class="card-image card-image-flex" alt="Project Artwork" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="slide-content-text-wrapper">
+                                        <div class="card-caption">
+                                            <div class="logo-project">
+                                                <img alt="Logo Project" />
+                                            </div>
+                                            <h1></h1>
+                                            <h3></h3>
+                                            <p></p>
+                                            <div class="list-content">
+                                                <a class="button button-ghost" href="#"
+                                                    alt="Explore detail project"></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide" id="slide2">
+                            <div class="slide-content-block">
+                                <div>
+                                    <div class="card">
+                                        <div class="card-content">
+                                            <img class="card-image" alt="Project Artwork" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="slide-content-text-wrapper">
+                                        <div class="card-caption">
+                                            <div class="logo-project">
+                                                <img alt="Logo Project" />
+                                            </div>
+                                            <h1></h1>
+                                            <h3></h3>
+                                            <p></p>
+                                            <div class="list-content">
+                                                <a class="button button-ghost" href="#"
+                                                    alt="Explore detail project"></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section" id="section4">
+                <div class="ornament">
+                    <div class="ornament-left"></div>
+                    <div class="ornament-right"></div>
+                </div>
+                <div class="content">
+                    <div>
+                        <span class="line"></span>
+                        <p id="text-before-plan">Let’s go, you can build a project plan and let us help you achive with
+                            your overall business objectives.</p><label class="button button-color" for="modal-2">plan a
+                            project</label>
+                    </div>
+                    <div class="footer">
+                        <ul id="secondary-menu">
+                            <li>
+                                <a href="clients-and-partners.html" alt="Clients & Partners">Clients & Partners</a>
+                            </li>
+                            <li>
+                                <a href="blog-and-notes.html" alt="Blog & Notes">Blog & Notes</a>
+                            </li>
+                        </ul>
+                        <ul id="social-menu">
+                            <li>
+                                <a class="icon behance" href="https://www.behance.net/didiengeon0aa6" rel="noopener"
+                                    target="_blank" title="" alt="Farooqa behance"></a>
+                            </li>
+                            <li>
+                                <a class="icon dribbble" href="https://dribbble.com/saladinid" rel="noopener"
+                                    target="_blank" title="" alt="Farooqa dribbble"></a>
+                            </li>
+                            <li>
+                                <a class="icon instagram" href="https://www.instagram.com/lakonono.works/"
+                                    rel="noopener" target="_blank" title="" alt="Farooqa instagram"></a>
+                            </li>
+                            <li>
+                                <a class="icon youtube"
+                                    href="https://www.youtube.com/channel/UCkO1_CLA_xV7VktHBz9-9XQ?view_as=subscriber"
+                                    rel="noopener" target="_blank" title="" alt="Farooqa youtube"></a>
+                            </li>
+                            <li>
+                                <a class="icon github" href="https://github.com/saladinid" rel="noopener"
+                                    target="_blank" title="" alt="Farooqa github"></a>
+                            </li>
+                        </ul>
+                        <h5 id="copyright-text">©2019 Farooqa</h5>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js" defer>
-    </script>
-    <script src="./assets/script/lib/nav/classie.js" defer>
-    </script>
-    <script src="./assets/script/lib/nav/demoSVG.js" defer>
-    </script>
-    <script src="./assets/script/fullpage.min.js" type="text/javascript">
-    </script>
-    <script src="./assets/script/siema.min.js" type="text/javascript">
-    </script>
-    <script type="text/javascript">
-        /* First CSS File */
-        var giftofspeed = document.createElement('link');
-        giftofspeed.rel = 'stylesheet';
-        giftofspeed.href = './assets/fonts/museo-sans/stylesheet.css';
-        giftofspeed.type = 'text/css';
-        var godefer = document.getElementsByTagName('link')[0];
-        godefer.parentNode.insertBefore(giftofspeed, godefer);
-    </script>
-    <script type="text/javascript">
-        document.addEventListener(
-            'touchstart',
-            onTouchStart, {
+
+        <div class="section overlay overlay-genie"
+            data-steps="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z;m 698.9986,728.03569 41.23353,0 -3.41953,77.8735 -34.98557,0 z;m 687.08153,513.78234 53.1506,0 C 738.0505,683.9161 737.86917,503.34193 737.27015,806 l -35.90067,0 c -7.82727,-276.34892 -2.06916,-72.79261 -14.28795,-292.21766 z;m 403.87105,257.94772 566.31246,2.93091 C 923.38284,513.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 455.17312,480.07689 403.87105,257.94772 z;M 51.871052,165.94772 1362.1835,168.87863 C 1171.3828,653.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 31.173122,513.78234 51.871052,165.94772 z;m 52,26 1364,4 c -12.8007,666.9037 -273.2644,483.78234 -322.7299,776 l -633.90062,0 C 359.32034,432.49318 -6.6979288,733.83462 52,26 z;m 0,0 1439.999975,0 0,805.99999 -1439.999975,0 z">
+            <svg height="100%" preserveaspectratio="none" viewbox="0 0 1440 806" width="100%"
+                xmlns="http://www.w3.org/2000/svg">
+                <path class="overlay-path" d="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z"></path>
+            </svg> <button class="overlay-close" type="button">Close</button>
+            <nav>
+                <ul>
+                    <li class="active" data-menuanchor="home">
+                        <a href="#home" alt="Home">Home</a>
+                    </li>
+                    <li data-menuanchor="services">
+                        <a href="#services" alt="Services">Services</a>
+                    </li>
+                    <li data-menuanchor="works">
+                        <a href="#works" alt="Works">Works</a>
+                    </li>
+                    <li data-menuanchor="onGoing">
+                        <a href="#onGoing" alt="On Going">On Going</a>
+                    </li>
+                    <li class="special" data-menuanchor="action">
+                        <a href="#action" alt="Action">Action</a>
+                    </li>
+                    <li>
+                        <a href="clients-and-partners.html" alt="Clients & Partners">Clients & Partners</a>
+                    </li>
+                    <li>
+                        <a href="blog-and-notes.html" alt="Blog & Notes">Blog & Notes</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <input class="modal-state" id="modal-2" type="checkbox">
+        <div class="section modal">
+            <label class="modal__bg" for="modal-2"></label>
+            <div class="modal__inner">
+                <label class="modal__close" for="modal-2"></label>
+                <div class="modal-container">
+                    <div class="modal-image-wrapper"></div>
+                    <div class="modal-content">
+                        <h2 class="popup-title">Plan a Project</h2>
+                        <p class="popup-text-small">You can start planning a project by sending a message below to us
+                            ...</p>
+                        <form id="planAProjectForm" name="planAProjectForm" action="#" onsubmit="return validateForm()"
+                            method="GET">
+                            <p class="popup-text-large">Hello, my name is
+                                <input id="fname" name="name" placeholder="Your name" type="text" />
+                                , I can be contacted via email on
+                                <input name="email_address" placeholder="Your email" type="text">
+                                or phone number on
+                                <input name="phone_number" placeholder="Your phone number" type="text">
+                                , I will hold project
+                                <select name="project_type">
+                                    <option value="default">
+                                        Select Project
+                                    </option>
+                                    <option value="design">
+                                        Graphic Design
+                                    </option>
+                                    <option value="web">
+                                        Website Development
+                                    </option>
+                                    <option value="mobile">
+                                        Mobile App Development
+                                    </option>
+                                    <option value="marketing">
+                                        Digital Marketing
+                                    </option>
+                                    <option value="custom">
+                                        Custom Project
+                                    </option>
+                                </select>
+                                . I need Farooqa's help for this project.<br>
+                                Please contact me immediately.</p>
+                            <div class="popup-button">
+                                <button class="button button-color" name="submit" id="submitButton" type="submit"
+                                    value="SUBMIT">SUBMIT</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js" defer>
+        </script>
+        <script src="./assets/script/lib/nav/classie.js" defer>
+        </script>
+        <script src="./assets/script/lib/nav/demoSVG.js" defer>
+        </script>
+        <script src="./assets/script/fullpage.min.js" type="text/javascript">
+        </script>
+        <script src="./assets/script/siema.min.js" type="text/javascript">
+        </script>
+        <script type="text/javascript">
+            /* First CSS File */
+            var giftofspeed = document.createElement('link');
+            giftofspeed.rel = 'stylesheet';
+            giftofspeed.href = './assets/fonts/museo-sans/stylesheet.css';
+            giftofspeed.type = 'text/css';
+            var godefer = document.getElementsByTagName('link')[0];
+            godefer.parentNode.insertBefore(giftofspeed, godefer);
+        </script>
+        <script type="text/javascript">
+            document.addEventListener(
+                'touchstart',
+                onTouchStart, {
+                    passive: true
+                }
+            );
+            document.addEventListener('wheel', (evt) => {
+                console.log(evt);
+            }, {
+                capture: true,
                 passive: true
+            });
+
+            function validateEmail(email) {
+                var re =
+                    /^(?:[a-z0-9!#$%&amp;'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&amp;'*+/=?^_`{|}~-]+)*|"(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])$/;
+                return re.test(email);
             }
-        );
-        document.addEventListener('wheel', (evt) => {
-            console.log(evt);
-        }, {
-            capture: true,
-            passive: true
-        });
 
-        function validateEmail(email) {
-            var re =
-                /^(?:[a-z0-9!#$%&amp;'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&amp;'*+/=?^_`{|}~-]+)*|"(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])$/;
-            return re.test(email);
-        }
-
-        function validateForm() {
-            var name = document.forms["planAProjectForm"]["name"].value;
-            var email_address = document.forms["planAProjectForm"]["email_address"].value;
-            var phone_number = document.forms["planAProjectForm"]["phone_number"].value;
-            var project_type = document.forms["planAProjectForm"]["project_type"].value;
-            if (name == "") {
-                swal("Oh no...", "Please tell us your name!", "error", {
-                    button: "OK!",
-                });
-                return false;
-            } else if (name.length < 6) {
-                swal("Oh please...", "Your name must more than 5 characters!", "error", {
-                    button: "OK!",
-                });
-                return false;
-            } else if (email_address == "") {
-                swal("Please...", "Please tell us your email!", "error", {
-                    button: "OK!",
-                });
-                return false;
-            } else if (validateEmail(email_address) == false) {
-                swal("Please fix it!", "You have entered an invalid email address.", "error", {
-                    button: "OK!",
-                });
-                return false;
-            } else if (phone_number == "") {
-                swal("Please...", "Please tell us your phone number!", "error", {
-                    button: "OK!",
-                });
-                return false;
-            } else if (typeof parseInt(phone_number) != 'number') {
-                swal("Oops...", "Phone number must number!", "error", {
-                    button: "OK!",
-                });
-                return false;
-            } else if (phone_number.length < 10) {
-                swal("Oh please...", "Your phone number length must more than 9!", "error", {
-                    button: "OK!",
-                });
-                return false;
-            } else if (project_type == "default") {
-                swal("Cool, but...", "Please select the project type!", "error", {
-                    button: "OK!",
-                });
-                return false;
-            } else {
-                var xhr = new XMLHttpRequest();
-                xhr.open('GET',
-                    'https://script.google.com/macros/s/AKfycbxDMuiujX-kOgPW1nILlKqKAUK9I2ho-or5gKlRQn0rnBCd7pWp/exec?name=' +
-                    name + '&' +
-                    'email_address=' + email_address + '&' +
-                    'phone_number=' + phone_number + '&' +
-                    'project_type=' + project_type);
-                xhr.onload = function () {
-                    if (xhr.status === 200) {
-                        //alert('User\'s name is ' + xhr.responseText);
-                        swal("Good job!", "Your message has been sent!", "success", {
+            function validateForm() {
+                var name = document.forms["planAProjectForm"]["name"].value;
+                var email_address = document.forms["planAProjectForm"]["email_address"].value;
+                var phone_number = document.forms["planAProjectForm"]["phone_number"].value;
+                var project_type = document.forms["planAProjectForm"]["project_type"].value;
+                if (name == "") {
+                    swal("Oh no...", "Please tell us your name!", "error", {
+                        button: "OK!",
+                    });
+                    return false;
+                } else if (name.length < 6) {
+                    swal("Oh please...", "Your name must more than 5 characters!", "error", {
+                        button: "OK!",
+                    });
+                    return false;
+                } else if (email_address == "") {
+                    swal("Please...", "Please tell us your email!", "error", {
+                        button: "OK!",
+                    });
+                    return false;
+                } else if (validateEmail(email_address) == false) {
+                    swal("Please fix it!", "You have entered an invalid email address.", "error", {
+                        button: "OK!",
+                    });
+                    return false;
+                } else if (phone_number == "") {
+                    swal("Please...", "Please tell us your phone number!", "error", {
+                        button: "OK!",
+                    });
+                    return false;
+                } else if (typeof parseInt(phone_number) != 'number') {
+                    swal("Oops...", "Phone number must number!", "error", {
+                        button: "OK!",
+                    });
+                    return false;
+                } else if (phone_number.length < 10) {
+                    swal("Oh please...", "Your phone number length must more than 9!", "error", {
+                        button: "OK!",
+                    });
+                    return false;
+                } else if (project_type == "default") {
+                    swal("Cool, but...", "Please select the project type!", "error", {
+                        button: "OK!",
+                    });
+                    return false;
+                } else {
+                    var xhr = new XMLHttpRequest();
+                    xhr.open('GET',
+                        'https://script.google.com/macros/s/AKfycbxDMuiujX-kOgPW1nILlKqKAUK9I2ho-or5gKlRQn0rnBCd7pWp/exec?name=' +
+                        name + '&' +
+                        'email_address=' + email_address + '&' +
+                        'phone_number=' + phone_number + '&' +
+                        'project_type=' + project_type);
+                    xhr.onload = function () {
+                        if (xhr.status === 200) {
+                            //alert('User\'s name is ' + xhr.responseText);
+                            swal("Good job!", "Your message has been sent!", "success", {
+                                    button: "OK!",
+                                })
+                                .then(() => {
+                                    window.location = "index.html";
+                                });
+                        } else {
+                            //alert('Request failed.  Returned status of ' + xhr.status);
+                            swal("Sorry...", "Error server, try again later!", "error", {
                                 button: "OK!",
-                            })
-                            .then(() => {
-                                window.location = "index.html";
                             });
-                    } else {
-                        //alert('Request failed.  Returned status of ' + xhr.status);
-                        swal("Sorry...", "Error server, try again later!", "error", {
-                            button: "OK!",
-                        });
+                        }
+                    };
+                    xhr.send()
+
+                    return false;
+
+                }
+            }
+        </script>
+        <script type="text/javascript">
+            function loadJSON(callback) {
+                var xobj = new XMLHttpRequest();
+                xobj.overrideMimeType("application/json");
+                xobj.open('GET', './data/data_works.json', true); // Replace 'my_data' with the path to your file
+                xobj.onreadystatechange = function () {
+                    if (xobj.readyState == 4 && xobj.status == "200") {
+                        // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+                        callback(xobj.responseText);
                     }
                 };
-                xhr.send()
-
-                return false;
-
+                xobj.send(null);
             }
-        }
-    </script>
-    <script type="text/javascript">
-        function loadJSON(callback) {
-            var xobj = new XMLHttpRequest();
-            xobj.overrideMimeType("application/json");
-            xobj.open('GET', './data/data_works.json', true); // Replace 'my_data' with the path to your file
-            xobj.onreadystatechange = function () {
-                if (xobj.readyState == 4 && xobj.status == "200") {
-                    // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
-                    callback(xobj.responseText);
-                }
-            };
-            xobj.send(null);
-        }
-        loadJSON(function (response) {
-            // Parse JSON string into object
-            var respo = JSON.parse(response);
-            var myBooks = respo;
-            var siema = document.createElement("div");
-            siema.setAttribute('class', 'siema');
-            var slideWrapper = document.querySelector('#slideWrapper');
-            slideWrapper.innerHTML = "";
-            var numGo = 0;
-            for (var i = 0; i < myBooks.length; i++) {
+            loadJSON(function (response) {
+                // Parse JSON string into object
+                var respo = JSON.parse(response);
+                var myBooks = respo;
+                var siema = document.createElement("div");
+                siema.setAttribute('class', 'siema');
+                var slideWrapper = document.querySelector('#slideWrapper');
+                slideWrapper.innerHTML = "";
+                var numGo = 0;
+                for (var i = 0; i < myBooks.length; i++) {
 
-                var catogory = myBooks[i].data.catogory;
-                var catogoryString = catogory.join();
-                var catogoryStringReady = catogoryString.split(',').join(', ');
+                    var catogory = myBooks[i].data.catogory;
+                    var catogoryString = catogory.join();
+                    var catogoryStringReady = catogoryString.split(',').join(', ');
 
-                if (myBooks[i].data.workOfTheMonth) {
-                    var table = document.createElement("div");
-                    var anchorCardCaptionSiema = document.createElement("a");
-                    anchorCardCaptionSiema.setAttribute('href', './works/' + myBooks[i].data.slug + '.html');
-                    anchorCardCaptionSiema.setAttribute('alt', myBooks[i].data.slug);
-                    var card = document.createElement("div");
-                    card.setAttribute('class', 'card');
-                    var cardContent = document.createElement("div");
-                    cardContent.setAttribute('class', 'card-content');
-                    card.appendChild(cardContent);
-                    var img = document.createElement("img");
-                    img.setAttribute('class', 'card-image');
-                    img.setAttribute('src', myBooks[i].data.thumbnail);
-                    img.setAttribute('alt', myBooks[i].data.title);
-                    var h1 = document.createElement("h1");
-                    var titleCard = "";
-                    var titleData = myBooks[i].data.title;
-                    if (titleData.length > 25) {
-                        titleCard = titleData.substring(0, 25) + "...";
-                    } else {
-                        titleCard = titleData
+                    if (myBooks[i].data.workOfTheMonth) {
+                        var table = document.createElement("div");
+                        var anchorCardCaptionSiema = document.createElement("a");
+                        anchorCardCaptionSiema.setAttribute('href', './works/' + myBooks[i].data.slug +
+                        '.html');
+                        anchorCardCaptionSiema.setAttribute('alt', myBooks[i].data.slug);
+                        var card = document.createElement("div");
+                        card.setAttribute('class', 'card');
+                        var cardContent = document.createElement("div");
+                        cardContent.setAttribute('class', 'card-content');
+                        card.appendChild(cardContent);
+                        var img = document.createElement("img");
+                        img.setAttribute('class', 'card-image');
+                        img.setAttribute('src', myBooks[i].data.thumbnail);
+                        img.setAttribute('alt', myBooks[i].data.title);
+                        var h1 = document.createElement("h1");
+                        var titleCard = "";
+                        var titleData = myBooks[i].data.title;
+                        if (titleData.length > 25) {
+                            titleCard = titleData.substring(0, 25) + "...";
+                        } else {
+                            titleCard = titleData
+                        }
+                        h1.innerHTML = titleCard;
+                        //h1.innerHTML = myBooks[i].data.title;
+                        anchorCardCaptionSiema.appendChild(h1);
+                        var h3 = document.createElement("h3");
+                        h3.innerHTML = catogoryStringReady;
+                        cardContent.appendChild(img);
+                        cardContent.appendChild(anchorCardCaptionSiema);
+                        cardContent.appendChild(h3);
+                        table.appendChild(card);
+                        siema.appendChild(table);
                     }
-                    h1.innerHTML = titleCard;
-                    //h1.innerHTML = myBooks[i].data.title;
-                    anchorCardCaptionSiema.appendChild(h1);
-                    var h3 = document.createElement("h3");
-                    h3.innerHTML = catogoryStringReady;
-                    cardContent.appendChild(img);
-                    cardContent.appendChild(anchorCardCaptionSiema);
-                    cardContent.appendChild(h3);
-                    table.appendChild(card);
-                    siema.appendChild(table);
+
+                    if (myBooks[i].data.onGoingWorkOfTheMonth) {
+                        numGo++;
+                        var slide = document.createElement("div");
+                        slide.setAttribute('class', 'slide');
+                        slide.setAttribute('id', 'slide' + (numGo));
+                        var slideContentBlock = document.createElement("div");
+                        slideContentBlock.setAttribute('class', 'slide-content-block');
+                        slide.appendChild(slideContentBlock);
+                        var slideDivFirst = document.createElement("div");
+                        slideContentBlock.appendChild(slideDivFirst);
+                        var slideDivSecond = document.createElement("div");
+                        slideContentBlock.appendChild(slideDivSecond);
+                        var slideCard = document.createElement("div");
+                        slideCard.setAttribute('class', 'card');
+                        slideDivFirst.appendChild(slideCard);
+                        var slideCardContent = document.createElement("div");
+                        slideCardContent.setAttribute('class', 'card-content card-content-flex');
+                        slideCard.appendChild(slideCardContent);
+                        var imgCard = document.createElement("img");
+                        imgCard.setAttribute('class', 'card-image card-image-flex');
+                        imgCard.setAttribute('src', myBooks[i].data.thumbnail);
+                        imgCard.setAttribute('alt', myBooks[i].data.title);
+                        slideCardContent.appendChild(imgCard);
+                        var slideContentTextWrapper = document.createElement("div");
+                        slideContentTextWrapper.setAttribute('class', 'slide-content-text-wrapper');
+                        slideDivSecond.appendChild(slideContentTextWrapper);
+                        var cardCaption = document.createElement("div");
+                        cardCaption.setAttribute('class', 'card-caption');
+                        slideContentTextWrapper.appendChild(cardCaption);
+                        var logoProject = document.createElement("div");
+                        logoProject.setAttribute('class', 'logo-project');
+                        cardCaption.appendChild(logoProject);
+                        var imgLogoProject = document.createElement("img");
+                        imgLogoProject.setAttribute('src', myBooks[i].data.logo);
+                        imgLogoProject.setAttribute('alt', "Logo " + myBooks[i].data.title);
+                        logoProject.appendChild(imgLogoProject);
+                        var cardCaptionTitle = document.createElement("h1");
+                        cardCaptionTitle.innerHTML = myBooks[i].data.title;
+                        cardCaption.appendChild(cardCaptionTitle);
+                        var cardCaptionCategory = document.createElement("h3");
+                        cardCaptionCategory.innerHTML = catogoryStringReady;
+                        cardCaption.appendChild(cardCaptionCategory);
+                        var cardCaptionParagraph = document.createElement("p");
+                        cardCaptionParagraph.innerHTML = myBooks[i].data.bodyCopyShort;
+                        cardCaption.appendChild(cardCaptionParagraph);
+                        var listContent = document.createElement("div");
+                        listContent.setAttribute('class', 'list-content');
+                        cardCaption.appendChild(listContent);
+                        var anchorCardCaption = document.createElement("a");
+                        anchorCardCaption.setAttribute('class', 'button button-ghost');
+                        anchorCardCaption.setAttribute('href', './works/' + myBooks[i].data.slug + '.html');
+                        anchorCardCaption.setAttribute('alt', myBooks[i].data.slug);
+                        anchorCardCaption.innerHTML = "read more";
+                        listContent.appendChild(anchorCardCaption);
+                        slideWrapper.appendChild(slide);
+                    }
                 }
 
-                if (myBooks[i].data.onGoingWorkOfTheMonth) {
-                    numGo++;
-                    var slide = document.createElement("div");
-                    slide.setAttribute('class', 'slide');
-                    slide.setAttribute('id', 'slide' + (numGo));
-                    var slideContentBlock = document.createElement("div");
-                    slideContentBlock.setAttribute('class', 'slide-content-block');
-                    slide.appendChild(slideContentBlock);
-                    var slideDivFirst = document.createElement("div");
-                    slideContentBlock.appendChild(slideDivFirst);
-                    var slideDivSecond = document.createElement("div");
-                    slideContentBlock.appendChild(slideDivSecond);
-                    var slideCard = document.createElement("div");
-                    slideCard.setAttribute('class', 'card');
-                    slideDivFirst.appendChild(slideCard);
-                    var slideCardContent = document.createElement("div");
-                    slideCardContent.setAttribute('class', 'card-content card-content-flex');
-                    slideCard.appendChild(slideCardContent);
-                    var imgCard = document.createElement("img");
-                    imgCard.setAttribute('class', 'card-image card-image-flex');
-                    imgCard.setAttribute('src', myBooks[i].data.thumbnail);
-                    imgCard.setAttribute('alt', myBooks[i].data.title);
-                    slideCardContent.appendChild(imgCard);
-                    var slideContentTextWrapper = document.createElement("div");
-                    slideContentTextWrapper.setAttribute('class', 'slide-content-text-wrapper');
-                    slideDivSecond.appendChild(slideContentTextWrapper);
-                    var cardCaption = document.createElement("div");
-                    cardCaption.setAttribute('class', 'card-caption');
-                    slideContentTextWrapper.appendChild(cardCaption);
-                    var logoProject = document.createElement("div");
-                    logoProject.setAttribute('class', 'logo-project');
-                    cardCaption.appendChild(logoProject);
-                    var imgLogoProject = document.createElement("img");
-                    imgLogoProject.setAttribute('src', myBooks[i].data.logo);
-                    imgLogoProject.setAttribute('alt', "Logo " + myBooks[i].data.title);
-                    logoProject.appendChild(imgLogoProject);
-                    var cardCaptionTitle = document.createElement("h1");
-                    cardCaptionTitle.innerHTML = myBooks[i].data.title;
-                    cardCaption.appendChild(cardCaptionTitle);
-                    var cardCaptionCategory = document.createElement("h3");
-                    cardCaptionCategory.innerHTML = catogoryStringReady;
-                    cardCaption.appendChild(cardCaptionCategory);
-                    var cardCaptionParagraph = document.createElement("p");
-                    cardCaptionParagraph.innerHTML = myBooks[i].data.bodyCopyShort;
-                    cardCaption.appendChild(cardCaptionParagraph);
-                    var listContent = document.createElement("div");
-                    listContent.setAttribute('class', 'list-content');
-                    cardCaption.appendChild(listContent);
-                    var anchorCardCaption = document.createElement("a");
-                    anchorCardCaption.setAttribute('class', 'button button-ghost');
-                    anchorCardCaption.setAttribute('href', './works/' + myBooks[i].data.slug + '.html');
-                    anchorCardCaption.setAttribute('alt', myBooks[i].data.slug);
-                    anchorCardCaption.innerHTML = "read more";
-                    listContent.appendChild(anchorCardCaption);
-                    slideWrapper.appendChild(slide);
+                var divContainer = document.querySelector('#showData');
+                divContainer.innerHTML = "";
+                divContainer.appendChild(siema);
+
+                const mySiema = new Siema({
+                    perPage: {
+                        768: 1,
+                        1024: 2,
+                        1224: 3,
+                    },
+                });
+                // Add a function that generates pagination to prototype
+                Siema.prototype.addPagination = function () {
+                    for (let i = 0; i < this.innerElements.length; i++) {
+                        const btn = document.createElement('button');
+                        btn.textContent = ''; //i;
+                        btn.addEventListener('click', () => this.goTo(i));
+                        this.selector.appendChild(btn);
+                    }
                 }
-            }
+                // Trigger pagination creator
+                mySiema.addPagination();
 
-            var divContainer = document.querySelector('#showData');
-            divContainer.innerHTML = "";
-            divContainer.appendChild(siema);
+                var myFullpage = new fullpage('#fullpage', {
+                    menu: '#menu',
+                    anchors: ['home', 'services', 'works', 'onGoing', 'action'],
+                    sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
+                    autoScrolling: false,
+                    scrollOverflow: true,
+                    licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE',
+                });
 
-            const mySiema = new Siema({
-                perPage: {
-                    768: 1,
-                    1024: 2,
-                    1224: 3,
-                },
-            });
-            // Add a function that generates pagination to prototype
-            Siema.prototype.addPagination = function () {
-                for (let i = 0; i < this.innerElements.length; i++) {
-                    const btn = document.createElement('button');
-                    btn.textContent = ''; //i;
-                    btn.addEventListener('click', () => this.goTo(i));
-                    this.selector.appendChild(btn);
-                }
-            }
-            // Trigger pagination creator
-            mySiema.addPagination();
-
-            var myFullpage = new fullpage('#fullpage', {
-                menu: '#menu',
-                anchors: ['home', 'services', 'works', 'onGoing', 'action'],
-                sectionsColor: ['#2C2C2C', '#FFFFFF', '#EDEDED', '#FFFFFF', '#2C2C2C'],
-                autoScrolling: false,
-                scrollOverflow: true,
-                licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE',
             });
 
-        });
 
+            var modal = document.querySelector('div.modal');
+            var modalInner = document.querySelector('div.modal__inner');
+            var ch = modal.clientHeight;
 
-        var modal = document.querySelector('div.modal');
-        var modalInner = document.querySelector('div.modal__inner');
-        var ch = modal.clientHeight;
+            console.log(ch);
 
-        console.log(ch);
+            if (ch < 850 && ch > 675) {
+                modalInner.style.height = "75%";
+            }
+        </script>
 
-        if (ch < 850 && ch > 675) {
-            modalInner.style.height = "75%";
-        }
-    </script>
-</body>
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+                // // The Firebase SDK is initialized and available here!
+                //
+                // firebase.auth().onAuthStateChanged(user => { });
+                // firebase.database().ref('/path/to/ref').on('value', snapshot => { });
+                // firebase.messaging().requestPermission().then(() => { });
+                // firebase.storage().ref('/path/to/ref').getDownloadURL().then(() => { });
+                //
+                // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+
+                try {
+                    let app = firebase.app();
+                    let features = ['auth', 'database', 'messaging', 'storage'].filter(feature => typeof app[
+                        feature] === 'function');
+                    document.getElementById('load').innerHTML =
+                        `Firebase SDK loaded with ${features.join(', ')}`;
+                } catch (e) {
+                    console.error(e);
+                    document.getElementById('load').innerHTML =
+                        'Error loading the Firebase SDK, check the console.';
+                }
+            });
+        </script>
+        
+    </body>
 
 </html>
