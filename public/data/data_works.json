@@ -419,6 +419,42 @@
     }
   },
   {
+    "id": 173,
+    "meta": {
+      "lang": "en",
+      "title": "Audiary",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Audiary",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Audiary",
+      "work_category": 1,
+      "image": "../assets/images/works/small/audiary.jpg",
+      "thumbnail": "../assets/images/works/small/audiary.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "audiary",
+      "date": "2019-06-05 17:59:14",
+      "date_update": "2019-06-05 17:59:41"
+    }
+  },
+  {
     "id": 131,
     "meta": {
       "lang": "en",
@@ -506,6 +542,42 @@
       "slug": "bakso-burger-sandwich-t-shirt",
       "date": "2012-07-31 11:59:16",
       "date_update": "2016-12-08 19:24:52"
+    }
+  },
+  {
+    "id": 176,
+    "meta": {
+      "lang": "en",
+      "title": "Bali JS",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Bali JS",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Bali JS",
+      "work_category": 1,
+      "image": "../assets/images/works/small/bali-js.jpg",
+      "thumbnail": "../assets/images/works/small/bali-js.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "bali-js",
+      "date": "2019-07-03 17:59:14",
+      "date_update": "2019-07-03 17:59:41"
     }
   },
   {
@@ -812,6 +884,42 @@
       "slug": "bukber-lover",
       "date": "2019-05-15 23:59:14",
       "date_update": "2019-05-15 23:59:41"
+    }
+  },
+  {
+    "id": 172,
+    "meta": {
+      "lang": "en",
+      "title": "BuyPal",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "BuyPal",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "BuyPal",
+      "work_category": 1,
+      "image": "../assets/images/works/small/buypal.jpg",
+      "thumbnail": "../assets/images/works/small/buypal.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "buypal",
+      "date": "2019-06-03 17:59:14",
+      "date_update": "2019-06-03 17:59:41"
     }
   },
   {
@@ -1262,6 +1370,42 @@
       "slug": "dimindo-business-card-design",
       "date": "2015-10-06 07:48:15",
       "date_update": "2016-12-05 16:49:58"
+    }
+  },
+  {
+    "id": 174,
+    "meta": {
+      "lang": "en",
+      "title": "Djava",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Djava",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Djava",
+      "work_category": 1,
+      "image": "../assets/images/works/small/djava.jpg",
+      "thumbnail": "../assets/images/works/small/djava.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "djava",
+      "date": "2019-06-15 17:59:14",
+      "date_update": "2019-06-15 17:59:41"
     }
   },
   {
@@ -2180,6 +2324,42 @@
       "slug": "hey-brew",
       "date": "2019-05-23 17:59:14",
       "date_update": "2019-05-23 17:59:41"
+    }
+  },
+  {
+    "id": 175,
+    "meta": {
+      "lang": "en",
+      "title": "Hunter Indonesia",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Hunter Indonesia",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Hunter Indonesia",
+      "work_category": 1,
+      "image": "../assets/images/works/small/hunter-indonesia.jpg",
+      "thumbnail": "../assets/images/works/small/hunter-indonesia.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "hunter-indonesia",
+      "date": "2019-06-25 17:59:14",
+      "date_update": "2019-06-25 17:59:41"
     }
   },
   {
