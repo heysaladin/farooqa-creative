@@ -1373,6 +1373,42 @@
     }
   },
   {
+    "id": 177,
+    "meta": {
+      "lang": "en",
+      "title": "Dipuja",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Dipuja",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Dipuja",
+      "work_category": 1,
+      "image": "../assets/images/works/small/dipuja.jpg",
+      "thumbnail": "../assets/images/works/small/dipuja.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "dipuja",
+      "date": "2019-07-05 17:59:14",
+      "date_update": "2019-07-05 17:59:41"
+    }
+  },
+  {
     "id": 174,
     "meta": {
       "lang": "en",
@@ -4948,6 +4984,42 @@
       "slug": "time-bus",
       "date": "2019-05-21 12:59:14",
       "date_update": "2019-05-21 12:59:41"
+    }
+  },
+  {
+    "id": 178,
+    "meta": {
+      "lang": "en",
+      "title": "Tomonet",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Tomonet",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Tomonet",
+      "work_category": 1,
+      "image": "../assets/images/works/small/tomonet.jpg",
+      "thumbnail": "../assets/images/works/small/tomonet.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "tomonet",
+      "date": "2019-07-10 17:59:14",
+      "date_update": "2019-07-10 17:59:41"
     }
   },
   {
