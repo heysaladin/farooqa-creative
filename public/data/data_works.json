@@ -1571,6 +1571,78 @@
     }
   },
   {
+    "id": 181,
+    "meta": {
+      "lang": "en",
+      "title": "Drawing Art 2018",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Drawing Art 2018",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Drawing Art 2018",
+      "work_category": 1,
+      "image": "../assets/images/works/small/drawing-art-2018.jpg",
+      "thumbnail": "../assets/images/works/small/drawing-art-2018.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "drawing-art-2018",
+      "date": "2018-12-31 19:59:14",
+      "date_update": "2018-12-31 19:59:41"
+    }
+  },
+  {
+    "id": 182,
+    "meta": {
+      "lang": "en",
+      "title": "Drawing Art 2019",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Drawing Art 2019",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Drawing Art 2019",
+      "work_category": 1,
+      "image": "../assets/images/works/small/drawing-art-2019.jpg",
+      "thumbnail": "../assets/images/works/small/drawing-art-2019.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "drawing-art-2019",
+      "date": "2019-04-03 19:59:14",
+      "date_update": "2019-04-03 19:59:41"
+    }
+  },
+  {
     "id": 33,
     "meta": {
       "lang": "en",
@@ -2463,6 +2535,78 @@
       "slug": "idn-times-40",
       "date": "2015-12-08 13:55:35",
       "date_update": "2016-12-07 22:41:44"
+    }
+  },
+  {
+    "id": 183,
+    "meta": {
+      "lang": "en",
+      "title": "Illustration Bali.js Website",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Illustration Bali.js Website",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Illustration Bali.js Website",
+      "work_category": 1,
+      "image": "../assets/images/works/small/illustration-balijs-website.jpg",
+      "thumbnail": "../assets/images/works/small/illustration-balijs-website.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "illustration-balijs-website",
+      "date": "2019-07-17 10:59:14",
+      "date_update": "2019-07-17 10:59:41"
+    }
+  },
+  {
+    "id": 184,
+    "meta": {
+      "lang": "en",
+      "title": "Illustration Djava App",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Illustration Djava App",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Illustration Djava App",
+      "work_category": 1,
+      "image": "../assets/images/works/small/illustration-djava-app.jpg",
+      "thumbnail": "../assets/images/works/small/illustration-djava-app.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "illustration-djava-app",
+      "date": "2019-07-17 13:59:14",
+      "date_update": "2019-07-17 13:59:41"
     }
   },
   {
@@ -4279,6 +4423,42 @@
     }
   },
   {
+    "id": 180,
+    "meta": {
+      "lang": "en",
+      "title": "Sang Kiyai",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Sang Kiyai",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Sang Kiyai",
+      "work_category": 1,
+      "image": "../assets/images/works/small/sang-kiyai.jpg",
+      "thumbnail": "../assets/images/works/small/sang-kiyai.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "slug": "sang-kiyai",
+      "date": "2019-07-16 19:59:14",
+      "date_update": "2019-07-16 19:59:41"
+    }
+  },
+  {
     "id": 167,
     "meta": {
       "lang": "en",
@@ -5261,7 +5441,8 @@
       "date": "2013-10-11 13:48:22",
       "date_update": "2016-12-08 20:13:52"
     }
-  }, {
+  },
+  {
     "id": 179,
     "meta": {
       "lang": "en",
