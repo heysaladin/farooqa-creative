@@ -162,6 +162,8 @@
         </div>
     </div>
     </script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js" defer>
+    </script>
     <script src="./assets/script/lib/nav/classie.js">
     </script>
     <script src="./assets/script/lib/nav/demoSVG.js">
@@ -184,7 +186,7 @@
         loadJSON(function (response) {
             // Parse JSON string into object
             var respo = JSON.parse(response);
-            var myBooks = respo;
+            let myBooks = respo;
             var divContainer = document.querySelector('.wrapper');
             divContainer.innerHTML = "";
 
@@ -233,6 +235,17 @@
                 box.setAttribute('class', 'box');
                 var anchorCardCaptionSiema = document.createElement("a");
                 anchorCardCaptionSiema.setAttribute('href', './works/' + myBooks[i].data.slug + '.html');
+                // var readyOrNot = myBooks[i].data.isReady;
+                // anchorCardCaptionSiema.addEventListener('click', 
+                // function(env, readyOrNot) {
+                //     console.log(readyOrNot);
+                //     if(readyOrNot == false) {
+                //         swal("Oh no...", "Under Construction!", "warning", {
+                //             button: "OK!",
+                //         });
+                //     }
+                // },
+                // false);
                 box.appendChild(anchorCardCaptionSiema);
                 var card = document.createElement("div");
                 card.setAttribute('class', 'card');
