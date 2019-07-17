@@ -2650,7 +2650,7 @@
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "isReady": false,
+      "isReady": true,
       "slug": "illustration-balijs-website",
       "date": "2019-07-17 10:59:14",
       "date_update": "2019-07-17 10:59:41"
