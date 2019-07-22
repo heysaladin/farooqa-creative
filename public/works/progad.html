@@ -39,7 +39,7 @@
                 <div class="pre-content"></div>
                 <div class="content-block">
                     <h1>ProGad</h1>
-                    <span>Development</span>
+                    <span>Marketing, Development</span>
                     <span class="date">2019-05-23 14:59:14</span>
                     <div class="hero-image-wrapper">
                         <img src="../assets/images/works/small/progad.jpg">
@@ -51,7 +51,7 @@
             </div>
             <div class="action-block" style="background: #f5f5f5;">
                 <div class="list-content">
-                    <a class="button button-ghost" href="../works.html">explore all works</a>
+                    <a class="button button-ghost" onclick="goBack()">explore all works</a>
                 </div>
             </div>
             <div class="footer" style="background: #222222;">
@@ -158,6 +158,11 @@
     <script src="../assets/script/lib/nav/classie.js">
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
+    </script>
+    <script>
+        function goBack() {
+            window.history.back();
+        }
     </script>
   </body>
 </html>

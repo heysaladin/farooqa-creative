@@ -78,7 +78,7 @@ module.exports = {
             </div>
             <div class="action-block" style="background: #f5f5f5;">
                 <div class="list-content">
-                    <a class="button button-ghost" href="../works.html">explore all works</a>
+                    <a class="button button-ghost" onclick="goBack()">explore all works</a>
                 </div>
             </div>
             <div class="footer" style="background: #222222;">
@@ -185,6 +185,11 @@ module.exports = {
     <script src="../assets/script/lib/nav/classie.js">
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
+    </script>
+    <script>
+        function goBack() {
+            window.history.back();
+        }
     </script>
   </body>
 </html>
