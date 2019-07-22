@@ -5,6 +5,24 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/404.html"
+      },
+      {
+        "source": "/",
+        "destination": "/404.html"
+      },
+      {
+        "source": "/works/",
+        "destination": "/404.html"
+      },
+      {
+        "source": "/workes-filter/",
+        "destination": "/404.html"
+      }
     ]
   }
 }
