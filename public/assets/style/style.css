@@ -1569,10 +1569,15 @@ span.date {
 .service-image-wrapper {
     /* flex: 1; */
     max-width: 50%;
+    padding: 25px 40px 0;
 }
 
 .service-image-wrapper img {
-    width: 100%;
+    width: 250px;
+}
+
+#service-3 {
+    width: 280px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -1588,6 +1593,19 @@ span.date {
 
     .service .service-body * {
         text-align: center;
+    }
+
+    .service-image-wrapper {
+        max-width: 100%;
+        padding: 0;
+    }
+
+    .service-image-wrapper img {
+        width: 100%;
+    }
+    
+    #service-3 {
+        width: 100%;
     }
 
 }
