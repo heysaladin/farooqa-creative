@@ -40,7 +40,7 @@
                 <div class="content-block">
                     <h1>Kill my worst enemy illustration</h1>
                     <span>Design</span>
-                    <span class="date">2013-02-28 11:36:41</span>
+                    <span class="date" id="date">2013-02-28 11:36:41</span>
                     <div class="hero-image-wrapper">
                         <img src="../assets/images/works/large/1LiJiu8t_work_image.png">
                     </div>
@@ -159,7 +159,10 @@
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
     </script>
+    <script src="../assets/script/moment.min.js">
+    </script>
     <script>
+        document.getElementById("date").innerHTML = moment(document.getElementById("date").textContent).format("dddd, MMMM Do YYYY")
         function goBack() {
             window.history.back();
         }

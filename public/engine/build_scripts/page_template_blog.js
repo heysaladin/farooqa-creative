@@ -71,14 +71,14 @@ module.exports = {
                     <div class="content-core">
                         <h1>${pageData.title}</h1>
                         <span>${catogoryStringReady}</span>
-                        <span class="date">${pageData.date}</span>
+                        <span class="date" id="date">${pageData.date}</span>
                         ${md.render(pageContent)}
                     </div>
                 </div>
             </div>
             <div class="action-block" style="background: #f5f5f5;">
                 <div class="list-content">
-                    <a class="button button-ghost" href="../blog-and-notes.html">read more blog</a>
+                    <a class="button button-ghost" onclick="goBack()">back</a>
                 </div>
             </div>
             <div class="footer" style="background: #222222;">
@@ -185,6 +185,14 @@ module.exports = {
     <script src="../assets/script/lib/nav/classie.js">
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
+    </script>
+    <script src="../assets/script/moment.min.js">
+    </script>
+    <script>
+        document.getElementById("date").innerHTML = moment(document.getElementById("date").textContent).format("dddd, MMMM Do YYYY")
+        function goBack() {
+            window.history.back();
+        }
     </script>
   </body>
 </html>

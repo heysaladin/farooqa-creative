@@ -40,7 +40,7 @@
                 <div class="content-block">
                     <h1>Adhitrans company profile printed</h1>
                     <span>Design</span>
-                    <span class="date">2016-10-17 13:50:07</span>
+                    <span class="date" id="date">2016-10-17 13:50:07</span>
                     <div class="hero-image-wrapper">
                         <img src="../assets/images/works/large/Q5H7Jcbq_work_image.jpg">
                     </div>
@@ -159,7 +159,10 @@
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
     </script>
+    <script src="../assets/script/moment.min.js">
+    </script>
     <script>
+        document.getElementById("date").innerHTML = moment(document.getElementById("date").textContent).format("dddd, MMMM Do YYYY")
         function goBack() {
             window.history.back();
         }

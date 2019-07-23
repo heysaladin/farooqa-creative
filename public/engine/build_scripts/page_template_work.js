@@ -67,7 +67,7 @@ module.exports = {
                 <div class="content-block">
                     <h1>${pageData.title}</h1>
                     <span>${catogoryStringReady}</span>
-                    <span class="date">${pageData.date}</span>
+                    <span class="date" id="date">${pageData.date}</span>
                     <div class="hero-image-wrapper">
                         <img src="${pageData.image}">
                     </div>
@@ -186,7 +186,10 @@ module.exports = {
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
     </script>
+    <script src="../assets/script/moment.min.js">
+    </script>
     <script>
+        document.getElementById("date").innerHTML = moment(document.getElementById("date").textContent).format("dddd, MMMM Do YYYY")
         function goBack() {
             window.history.back();
         }

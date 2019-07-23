@@ -44,7 +44,7 @@
                     <div class="content-core">
                         <h1>Perias yang kadang tak dianggap</h1>
                         <span>Design, Development</span>
-                        <span class="date">2016-09-29 08:59:19</span>
+                        <span class="date" id="date">2016-09-29 08:59:19</span>
                         <p>Yap.. &quot;Perias&quot; adalah kata yang tepat sebagai kata ganti bagi seorang desainer.</p>
 <p>Lalu, kenapa pakai kata &quot;yang tak dianggap&quot;?</p>
 <p>Sebenarnya itu hanya kiasan untuk sebuah profesi yang tak banyak orang tahu padahal hasil kerja dari profesi tersebut ada dimana-mana di keseharian kita.</p>
@@ -54,7 +54,7 @@
             </div>
             <div class="action-block" style="background: #f5f5f5;">
                 <div class="list-content">
-                    <a class="button button-ghost" href="../blog-and-notes.html">read more blog</a>
+                    <a class="button button-ghost" onclick="goBack()">back</a>
                 </div>
             </div>
             <div class="footer" style="background: #222222;">
@@ -161,6 +161,14 @@
     <script src="../assets/script/lib/nav/classie.js">
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
+    </script>
+    <script src="../assets/script/moment.min.js">
+    </script>
+    <script>
+        document.getElementById("date").innerHTML = moment(document.getElementById("date").textContent).format("dddd, MMMM Do YYYY")
+        function goBack() {
+            window.history.back();
+        }
     </script>
   </body>
 </html>

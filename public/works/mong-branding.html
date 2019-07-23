@@ -40,7 +40,7 @@
                 <div class="content-block">
                     <h1>MONG Branding</h1>
                     <span>Design</span>
-                    <span class="date">2015-10-11 07:47:46</span>
+                    <span class="date" id="date">2015-10-11 07:47:46</span>
                     <div class="hero-image-wrapper">
                         <img src="../assets/images/works/large/4vFMph3l_work_image.jpg">
                     </div>
@@ -159,7 +159,10 @@
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
     </script>
+    <script src="../assets/script/moment.min.js">
+    </script>
     <script>
+        document.getElementById("date").innerHTML = moment(document.getElementById("date").textContent).format("dddd, MMMM Do YYYY")
         function goBack() {
             window.history.back();
         }

@@ -40,7 +40,7 @@
                 <div class="content-block">
                     <h1>Nana shop branding</h1>
                     <span>Design</span>
-                    <span class="date">2015-07-28 13:58:22</span>
+                    <span class="date" id="date">2015-07-28 13:58:22</span>
                     <div class="hero-image-wrapper">
                         <img src="../assets/images/works/large/aS4yWxi6_work_image.jpg">
                     </div>
@@ -159,7 +159,10 @@
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
     </script>
+    <script src="../assets/script/moment.min.js">
+    </script>
     <script>
+        document.getElementById("date").innerHTML = moment(document.getElementById("date").textContent).format("dddd, MMMM Do YYYY")
         function goBack() {
             window.history.back();
         }

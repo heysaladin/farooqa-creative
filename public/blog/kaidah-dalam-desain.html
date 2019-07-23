@@ -44,7 +44,7 @@
                     <div class="content-core">
                         <h1>Kaidah dalam desain</h1>
                         <span>Design, Development</span>
-                        <span class="date">2016-09-29 08:58:00</span>
+                        <span class="date" id="date">2016-09-29 08:58:00</span>
                         <p>Mulai dari dapur rumah kita sampai ke sirkuit balap F1 tentu kita sadar ada yang namanya Aturan, dan tentu kita tahu pula sebenarnya aturan itu boleh-boleh saja tidak ditaati. Akan tetapi mengikuti aturan-aturan yang ada tentu lebih baik.</p>
 <p>Termasuk pula dalam dunia desain terutama ketika belajar desain, ada beberapa kaidah yang dapat kita pelajari untuk memudahkan pemahaman.</p>
 <p>Kaidah-kaidah tersebut terbagi dua kategori yakni kaidah dasar dan kaidah lanjutan.</p>
@@ -54,7 +54,7 @@
             </div>
             <div class="action-block" style="background: #f5f5f5;">
                 <div class="list-content">
-                    <a class="button button-ghost" href="../blog-and-notes.html">read more blog</a>
+                    <a class="button button-ghost" onclick="goBack()">back</a>
                 </div>
             </div>
             <div class="footer" style="background: #222222;">
@@ -161,6 +161,14 @@
     <script src="../assets/script/lib/nav/classie.js">
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
+    </script>
+    <script src="../assets/script/moment.min.js">
+    </script>
+    <script>
+        document.getElementById("date").innerHTML = moment(document.getElementById("date").textContent).format("dddd, MMMM Do YYYY")
+        function goBack() {
+            window.history.back();
+        }
     </script>
   </body>
 </html>

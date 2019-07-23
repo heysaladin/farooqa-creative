@@ -40,7 +40,7 @@
                 <div class="content-block">
                     <h1>Zoom Hotel Graphic Design</h1>
                     <span>Design</span>
-                    <span class="date">2014-01-20 07:37:50</span>
+                    <span class="date" id="date">2014-01-20 07:37:50</span>
                     <div class="hero-image-wrapper">
                         <img src="../assets/images/works/large/5EBYtVxt_work_image.jpg">
                     </div>
@@ -160,7 +160,10 @@
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
     </script>
+    <script src="../assets/script/moment.min.js">
+    </script>
     <script>
+        document.getElementById("date").innerHTML = moment(document.getElementById("date").textContent).format("dddd, MMMM Do YYYY")
         function goBack() {
             window.history.back();
         }

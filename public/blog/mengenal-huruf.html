@@ -44,7 +44,7 @@
                     <div class="content-core">
                         <h1>Mengenal huruf</h1>
                         <span>Design, Development</span>
-                        <span class="date">2016-09-29 08:56:11</span>
+                        <span class="date" id="date">2016-09-29 08:56:11</span>
                         <p>Bicara soal huruf, apa jenis huruf yang namanya anda ingat selain Times New Roman? :D</p>
 <p>Calibri, Impact ... apa lagi ya?</p>
 <p>Baik itu nama-namanya. Tapi sebelum labih jauh membahas ini itu, ada baiknya kita menganal dulu beberapa istilah berikut:
@@ -58,7 +58,7 @@ Huruf, font, text, type, tyeface, artikel, paragraf, bodycopy, judul, bold, ital
             </div>
             <div class="action-block" style="background: #f5f5f5;">
                 <div class="list-content">
-                    <a class="button button-ghost" href="../blog-and-notes.html">read more blog</a>
+                    <a class="button button-ghost" onclick="goBack()">back</a>
                 </div>
             </div>
             <div class="footer" style="background: #222222;">
@@ -165,6 +165,14 @@ Huruf, font, text, type, tyeface, artikel, paragraf, bodycopy, judul, bold, ital
     <script src="../assets/script/lib/nav/classie.js">
     </script>
     <script src="../assets/script/lib/nav/demoSVG.js">
+    </script>
+    <script src="../assets/script/moment.min.js">
+    </script>
+    <script>
+        document.getElementById("date").innerHTML = moment(document.getElementById("date").textContent).format("dddd, MMMM Do YYYY")
+        function goBack() {
+            window.history.back();
+        }
     </script>
   </body>
 </html>
