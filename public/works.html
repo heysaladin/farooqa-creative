@@ -202,7 +202,7 @@
             }
 
             myBooksData = _.sortBy(myBooksData, function (dateObj) {
-                return new Date(dateObj.date);
+                return new Date(dateObj.date_update);
             }).reverse();
 
             function delay() {
