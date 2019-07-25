@@ -951,12 +951,12 @@ a {
 
     #work .pre-content,
     #blog .pre-content {
-        min-height: 250px;
+        min-height: 350px;
     }
 
     #work .content-block,
     #blog .content-block {
-        margin: -150px auto 0;
+        margin: -250px auto 0;
     }
 }
 

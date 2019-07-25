@@ -92,23 +92,23 @@ module.exports = {
                 </ul>
                 <ul id="social-menu">
                     <li>
-                        <a class="icon behance" href="https://www.behance.net/didiengeon0aa6" rel="noopener" target="_blank"
+                        <a class="icon behance" href="https://www.behance.net/heysaladin" rel="noopener" target="_blank"
                             title=""></a>
                     </li>
                     <li>
-                        <a class="icon dribbble" href="https://dribbble.com/saladinid" rel="noopener" target="_blank"
+                        <a class="icon dribbble" href="https://dribbble.com/heysaladin" rel="noopener" target="_blank"
                             title=""></a>
                     </li>
                     <li>
-                        <a class="icon instagram" href="https://www.instagram.com/lakonono.works/" rel="noopener"
+                        <a class="icon instagram" href="https://www.instagram.com/heysaladin.works/" rel="noopener"
                             target="_blank" title=""></a>
                     </li>
                     <li>
-                        <a class="icon youtube" href="https://www.youtube.com/channel/UCkO1_CLA_xV7VktHBz9-9XQ?view_as=subscriber"
+                        <a class="icon youtube" href="https://www.youtube.com/channel/UCZCn1GEIS1sPVerIkDSwxBA?view_as=subscriber"
                             rel="noopener" target="_blank" title=""></a>
                     </li>
                     <li>
-                        <a class="icon github" href="https://github.com/saladinid" rel="noopener" target="_blank" title=""></a>
+                        <a class="icon github" href="https://github.com/heysaladin" rel="noopener" target="_blank" title=""></a>
                     </li>
                 </ul>
                 <h5 id="copyright-text">©2019 Farooqa</h5>

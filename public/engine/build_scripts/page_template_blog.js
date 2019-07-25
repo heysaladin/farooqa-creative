@@ -87,28 +87,28 @@ module.exports = {
                         <a href="../clients-and-partners.html">Clients & Partners</a>
                     </li>
                     <li>
-                        <a href="../works.html">Works</a>
+                        <a href="../works-filter/">Works</a>
                     </li>
                 </ul>
                 <ul id="social-menu">
                     <li>
-                        <a class="icon behance" href="https://www.behance.net/didiengeon0aa6" rel="noopener" target="_blank"
+                        <a class="icon behance" href="https://www.behance.net/heysaladin" rel="noopener" target="_blank"
                             title=""></a>
                     </li>
                     <li>
-                        <a class="icon dribbble" href="https://dribbble.com/saladinid" rel="noopener" target="_blank"
+                        <a class="icon dribbble" href="https://dribbble.com/heysaladin" rel="noopener" target="_blank"
                             title=""></a>
                     </li>
                     <li>
-                        <a class="icon instagram" href="https://www.instagram.com/lakonono.works/" rel="noopener"
+                        <a class="icon instagram" href="https://www.instagram.com/heysaladin.works/" rel="noopener"
                             target="_blank" title=""></a>
                     </li>
                     <li>
-                        <a class="icon youtube" href="https://www.youtube.com/channel/UCkO1_CLA_xV7VktHBz9-9XQ?view_as=subscriber"
+                        <a class="icon youtube" href="https://www.youtube.com/channel/UCZCn1GEIS1sPVerIkDSwxBA?view_as=subscriber"
                             rel="noopener" target="_blank" title=""></a>
                     </li>
                     <li>
-                        <a class="icon github" href="https://github.com/saladinid" rel="noopener" target="_blank" title=""></a>
+                        <a class="icon github" href="https://github.com/heysaladin" rel="noopener" target="_blank" title=""></a>
                     </li>
                 </ul>
                 <h5 id="copyright-text">©2019 Farooqa</h5>
@@ -128,7 +128,7 @@ module.exports = {
                     <a href="../clients-and-partners.html">Clients & Partners</a>
                 </li>
                 <li>
-                    <a href="../works.html">Works</a>
+                    <a href="../works-filter/">Works</a>
                 </li>
             </ul>
         </nav>
@@ -194,6 +194,23 @@ module.exports = {
             window.history.back();
         }
     </script>
+    <style>
+    @media only screen and (min-width: 768px) {
+        .hero-image-wrapper {
+            padding-top: 615px;
+        }
+    }
+    @media only screen and (max-width: 768px) {
+        #work .pre-content,
+        #blog .pre-content {
+            min-height: 250px;
+        }
+        #work .content-block,
+        #blog .content-block {
+            margin: -150px auto 0;
+        }
+    }
+    </style>
   </body>
 </html>
 `;
