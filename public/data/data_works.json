@@ -739,7 +739,7 @@
         "Design"
       ],
       "bodyCopyShort": "Bimbel BTW",
-      "work_category": 1,
+      "work_category": 8,
       "image": "../assets/images/works/large/bimbel-btw.jpg",
       "thumbnail": "../assets/images/works/small/bimbel-btw.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
@@ -777,7 +777,7 @@
         "Design"
       ],
       "bodyCopyShort": "Bimbel Ceria",
-      "work_category": 1,
+      "work_category": 8,
       "image": "../assets/images/works/large/bimbel-ceria.jpg",
       "thumbnail": "../assets/images/works/small/bimbel-ceria.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
@@ -4185,6 +4185,44 @@
     }
   },
   {
+    "id": 187,
+    "meta": {
+      "lang": "en",
+      "title": "Obituary",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Obituary",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Obituary",
+      "work_category": 8,
+      "image": "../assets/images/works/large/obituary.jpg",
+      "thumbnail": "../assets/images/works/small/obituary.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "obituary",
+      "date": "2019-08-12 22:15:14",
+      "date_update": "2019-08-12 22:15:41"
+    }
+  },
+  {
     "id": 164,
     "meta": {
       "lang": "en",
@@ -4447,6 +4485,44 @@
     }
   },
   {
+    "id": 186,
+    "meta": {
+      "lang": "en",
+      "title": "Petado",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Petado",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Petado",
+      "work_category": 8,
+      "image": "../assets/images/works/large/petado.jpg",
+      "thumbnail": "../assets/images/works/small/petado.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "petado",
+      "date": "2019-08-06 22:15:14",
+      "date_update": "2019-08-06 22:15:41"
+    }
+  },
+  {
     "id": 156,
     "meta": {
       "lang": "en",
@@ -4476,6 +4552,44 @@
       "slug": "pinjam-web-development",
       "date": "2019-03-18 13:59:32",
       "date_update": "2019-03-18 21:26:52"
+    }
+  },
+  {
+    "id": 189,
+    "meta": {
+      "lang": "en",
+      "title": "Police Activities Report",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Police Activities Report",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Police Activities Report",
+      "work_category": 8,
+      "image": "../assets/images/works/large/police-activities-report.jpg",
+      "thumbnail": "../assets/images/works/small/police-activities-report.jpg",
+      "logo": "../assets/images/works/logo/police-activities-report.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "police-activities-report",
+      "date": "2019-08-14 22:15:14",
+      "date_update": "2019-08-14 22:15:41"
     }
   },
   {
@@ -4922,6 +5036,44 @@
       "slug": "sby-website-design",
       "date": "2013-07-29 13:44:44",
       "date_update": "2016-12-08 13:49:30"
+    }
+  },
+  {
+    "id": 188,
+    "meta": {
+      "lang": "en",
+      "title": "Sejalan",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Sejalan",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Sejalan",
+      "work_category": 8,
+      "image": "../assets/images/works/large/sejalan.jpg",
+      "thumbnail": "../assets/images/works/small/sejalan.jpg",
+      "logo": "../assets/images/works/logo/sejalan.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "sejalan",
+      "date": "2019-08-13 22:15:14",
+      "date_update": "2019-08-13 22:15:41"
     }
   },
   {
