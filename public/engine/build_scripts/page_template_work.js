@@ -109,7 +109,7 @@ module.exports = {
                             title=""></a>
                     </li>
                     <li>
-                        <a class="icon instagram" href="https://www.instagram.com/heysaladin.works/" rel="noopener"
+                        <a class="icon instagram" href="https://www.instagram.com/heyheysaladin/" rel="noopener"
                             target="_blank" title=""></a>
                     </li>
                     <li>
@@ -150,9 +150,9 @@ module.exports = {
             <div class="modal-container">
                 <div class="modal-image-wrapper"></div>
                 <div class="modal-content">
+                    <form name="planAProjectForm" action="index.html" onsubmit="return validateForm()" method="GET">
                     <h2 class="popup-title">Plan a Project</h2>
                     <p class="popup-text-small">You can start planning a project by sending a message below to us ...</p>
-                    <form name="planAProjectForm" action="index.html" onsubmit="return validateForm()" method="GET">
                         <p class="popup-text-large">Hello, my name is
                             <input id="fname" name="fname" placeholder="Your name" type="text" />
                             , I can be contacted via email on
@@ -180,7 +180,7 @@ module.exports = {
                                     Custom Project
                                 </option>
                             </select>
-                            . I need Farooqa's help for this project.<br>
+                            . <br/> I need Farooqa's help for this project.<br>
                             Please contact me immediately.</p>
                         <div class="popup-button">
                             <button class="button button-color" name="submit" type="submit" value="SUBMIT">SUBMIT</button>

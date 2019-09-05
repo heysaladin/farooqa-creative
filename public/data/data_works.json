@@ -3373,6 +3373,44 @@
     }
   },
   {
+    "id": 192,
+    "meta": {
+      "lang": "en",
+      "title": "KSATRIA",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "KSATRIA",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "KSATRIA",
+      "work_category": 8,
+      "image": "../assets/images/works/large/ksatria.jpg",
+      "thumbnail": "../assets/images/works/small/ksatria.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "ksatria",
+      "date": "2019-09-05 22:15:14",
+      "date_update": "2019-09-05 22:15:41"
+    }
+  },
+  {
     "id": 66,
     "meta": {
       "lang": "en",
@@ -3699,6 +3737,44 @@
     }
   },
   {
+    "id": 191,
+    "meta": {
+      "lang": "en",
+      "title": "MamaMPASI",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "MamaMPASI",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "MamaMPASI",
+      "work_category": 8,
+      "image": "../assets/images/works/large/mamampasi.jpg",
+      "thumbnail": "../assets/images/works/small/mamampasi.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "mamampasi",
+      "date": "2019-09-02 22:15:14",
+      "date_update": "2019-09-02 22:15:41"
+    }
+  },
+  {
     "id": 158,
     "meta": {
       "lang": "en",
@@ -3926,6 +4002,44 @@
       "slug": "mekar",
       "date": "2019-03-18 12:26:35",
       "date_update": "2019-03-18 13:52:48"
+    }
+  },
+  {
+    "id": 190,
+    "meta": {
+      "lang": "en",
+      "title": "Melati",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Melati",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Melati",
+      "work_category": 8,
+      "image": "../assets/images/works/large/melati.jpg",
+      "thumbnail": "../assets/images/works/small/melati.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "melati",
+      "date": "2019-08-31 22:15:14",
+      "date_update": "2019-08-31 22:15:41"
     }
   },
   {
@@ -4582,7 +4696,7 @@
       "work_category": 8,
       "image": "../assets/images/works/large/police-activities-report.jpg",
       "thumbnail": "../assets/images/works/small/police-activities-report.jpg",
-      "logo": "../assets/images/works/logo/police-activities-report.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
       "isReady": true,

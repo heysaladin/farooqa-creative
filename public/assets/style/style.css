@@ -52,45 +52,53 @@ a {
 #section1 .ornament .ornament-left {
     background-image: url("../images/ornament-2.svg");
     background-position: bottom left;
-    background-size: 70%;
+    /* background-size: 70%; */
+    background-size: 50%;
 }
 
 #section1 .ornament .ornament-right {
     background-image: url("../images/ornament-1.svg");
     background-position: top right;
-    background-size: 36%;
+    /* background-size: 36%; */
+    background-size: 26%;
 }
 
 #section2 .ornament .ornament-left {
     background-image: url("../images/ornament-3.svg");
     background-position: top left;
-    background-size: 70%;
+    /* background-size: 70%; */
+    background-size: 50%;
     margin-top: -1px;
 }
 
 #section2 .ornament .ornament-right {
     background-image: url("../images/ornament-4.svg");
     background-position: bottom right;
+    background-size: 50%;
 }
 
 #section3 .ornament .ornament-left {
     background-image: url("../images/ornament-6.svg");
     background-position: bottom left;
+    background-size: 50%;
 }
 
 #section3 .ornament .ornament-right {
     background-image: url("../images/ornament-5.svg");
     background-position: top right;
+    background-size: 50%;
 }
 
 #section4 .ornament .ornament-left {
     background-image: url("../images/ornament-7.svg");
     background-position: top left;
+    background-size: 50%;
 }
 
 #section4 .ornament .ornament-right {
     background-image: url("../images/ornament-8.svg");
     background-position: bottom right;
+    background-size: 50%;
 }
 
 #section3 .ornament {
@@ -264,6 +272,9 @@ a {
     /* margin-left: 90px; */
     /* margin-top: 15px; */
     border: 1px solid #ddd;
+    background: #ffde81;
+    border-color: #ffde81;
+    color: #734410;
 }
 
 .line-block>.list-content>.button-ghost {
@@ -272,6 +283,9 @@ a {
     margin-left: 90px;
     margin-top: 15px;
     /* border: 1px solid #ddd; */
+    background: #ffde81;
+    border-color: #ffde81;
+    color: #734410;
 }
 
 #logo #logo-desktop {
@@ -331,6 +345,9 @@ a {
 
     .line-block>.list-content>.button-ghost {
         margin: 15px auto;
+        background: #ffde81;
+        border-color: #ffde81;
+        color: #734410;
     }
 }
 
@@ -1626,3 +1643,30 @@ span.date {
 }
 
 /* END Services ----------------------------- */
+
+#planAProjectForm {
+    overflow-y: scroll;
+    margin-right: 15px;
+    padding-right: 10px;
+}
+#planAProjectForm::-webkit-scrollbar {
+    width: 6px;
+    background-color: #F5F5F5;
+} 
+#planAProjectForm::-webkit-scrollbar-thumb {
+    background-color: #000000;
+}
+#planAProjectForm::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #F5F5F5;
+}
+
+input[name="phone_number"] {
+    width: 200px;
+}
+
+.popup-text-large {
+    line-height: 40px;
+}
+
+/* ------------------------------------------ */
