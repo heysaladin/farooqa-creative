@@ -2669,6 +2669,82 @@
     }
   },
   {
+    "id": 199,
+    "meta": {
+      "lang": "en",
+      "title": "HeySaladin",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "HeySaladin",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "HeySaladin",
+      "work_category": 7,
+      "image": "../assets/images/works/large/heysaladin.jpg",
+      "thumbnail": "../assets/images/works/small/heysaladin.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "heysaladin",
+      "date": "2019-10-01 23:59:14",
+      "date_update": "2019-10-01 23:59:41"
+    }
+  },
+  {
+    "id": 193,
+    "meta": {
+      "lang": "en",
+      "title": "Hunter Indonesia 3.0",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Hunter Indonesia 3.0",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Hunter Indonesia 3.0",
+      "work_category": 7,
+      "image": "../assets/images/works/large/hunter-indonesia-v3.jpg",
+      "thumbnail": "../assets/images/works/small/hunter-indonesia-v3.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "real",
+      "slug": "hunter-indonesia-v3",
+      "date": "2019-06-25 18:59:14",
+      "date_update": "2019-09-15 18:59:41"
+    }
+  },
+  {
     "id": 175,
     "meta": {
       "lang": "en",
@@ -3139,6 +3215,158 @@
       "slug": "karma-group-react-native-app-development",
       "date": "2019-03-18 13:23:07",
       "date_update": "2019-03-18 13:42:54"
+    }
+  },
+  {
+    "id": 197,
+    "meta": {
+      "lang": "en",
+      "title": "Karmagroup Cross",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Karmagroup Cross",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Karmagroup Cross",
+      "work_category": 8,
+      "image": "../assets/images/works/large/karmagroup-cross.jpg",
+      "thumbnail": "../assets/images/works/small/karmagroup-cross.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "karmagroup-cross",
+      "date": "2019-08-25 18:59:14",
+      "date_update": "2019-08-25 18:59:41"
+    }
+  },
+  {
+    "id": 195,
+    "meta": {
+      "lang": "en",
+      "title": "Karmagroup Dark",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Karmagroup Dark",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Karmagroup Dark",
+      "work_category": 7,
+      "image": "../assets/images/works/large/karmagroup-dark.jpg",
+      "thumbnail": "../assets/images/works/small/karmagroup-dark.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "karmagroup-dark",
+      "date": "2019-08-23 18:59:14",
+      "date_update": "2019-08-23 18:59:41"
+    }
+  },
+  {
+    "id": 194,
+    "meta": {
+      "lang": "en",
+      "title": "Karmagroup Home Redesign",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Karmagroup Home Redesign",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Karmagroup Home Redesign",
+      "work_category": 7,
+      "image": "../assets/images/works/large/karmagroup-home-redesign.jpg",
+      "thumbnail": "../assets/images/works/small/karmagroup-home-redesign.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "karmagroup-home-redesign",
+      "date": "2019-08-22 18:59:14",
+      "date_update": "2019-08-22 18:59:41"
+    }
+  },
+  {
+    "id": 198,
+    "meta": {
+      "lang": "en",
+      "title": "Karmagroup Modern",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Karmagroup Modern",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Karmagroup Modern",
+      "work_category": 8,
+      "image": "../assets/images/works/large/karmagroup-modern.jpg",
+      "thumbnail": "../assets/images/works/small/karmagroup-modern.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "karmagroup-modern",
+      "date": "2019-08-27 18:59:14",
+      "date_update": "2019-08-27 18:59:41"
     }
   },
   {
@@ -3705,6 +3933,44 @@
     }
   },
   {
+    "id": 196,
+    "meta": {
+      "lang": "en",
+      "title": "m.karmagroup",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "m.karmagroup",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "m.karmagroup",
+      "work_category": 7,
+      "image": "../assets/images/works/large/m-karmagroup.jpg",
+      "thumbnail": "../assets/images/works/small/m-karmagroup.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "m-karmagroup",
+      "date": "2019-08-24 18:59:14",
+      "date_update": "2019-08-24 18:59:41"
+    }
+  },
+  {
     "id": 37,
     "meta": {
       "lang": "en",
@@ -4039,7 +4305,7 @@
       "status": "exploration",
       "slug": "melati",
       "date": "2019-08-31 22:15:14",
-      "date_update": "2019-09-18 02:01:41"
+      "date_update": "2019-09-20 02:01:41"
     }
   },
   {
