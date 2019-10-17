@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>MD</title>
+    <title>Stories</title>
     <link
       href="https://fonts.googleapis.com/css?family=Eksell"
       rel="stylesheet"
@@ -15,7 +15,7 @@
   </head>
   <body>
     <div class="header">
-      <div class="header-right">
+      <div class="header-left">
         <a onclick="goBack()"><span>back</span></a>
       </div>
     </div>
@@ -27,69 +27,75 @@
     </div>
     <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
     <style>
+      body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+      }
       /* # Fonts ---------------------------------------------------------------------------------------------------- */
       @font-face {
         font-family: "ProximaNova";
         font-weight: bold;
         font-style: italic;
-        src: url("webfonts/2E39B5_0_0.eot");
-        src: url("webfonts/2E39B5_0_0.eot?#iefix") format("embedded-opentype"),
-          url("webfonts/2E39B5_0_0.woff2") format("woff2"),
-          url("webfonts/2E39B5_0_0.woff") format("woff"),
-          url("webfonts/2E39B5_0_0.ttf") format("truetype");
+        src: url("./assets/fonts/2E39B5_0_0.eot");
+        src: url("./assets/fonts/2E39B5_0_0.eot?#iefix") format("embedded-opentype"),
+          url("./assets/fonts/2E39B5_0_0.woff2") format("woff2"),
+          url("./assets/fonts/2E39B5_0_0.woff") format("woff"),
+          url("./assets/fonts/2E39B5_0_0.ttf") format("truetype");
       }
 
       @font-face {
         font-family: "ProximaNova";
         font-weight: bold;
         font-style: normal;
-        src: url("webfonts/2E39B5_1_0.eot");
-        src: url("webfonts/2E39B5_1_0.eot?#iefix") format("embedded-opentype"),
-          url("webfonts/2E39B5_1_0.woff2") format("woff2"),
-          url("webfonts/2E39B5_1_0.woff") format("woff"),
-          url("webfonts/2E39B5_1_0.ttf") format("truetype");
+        src: url("./assets/fonts/2E39B5_1_0.eot");
+        src: url("./assets/fonts/2E39B5_1_0.eot?#iefix") format("embedded-opentype"),
+          url("./assets/fonts/2E39B5_1_0.woff2") format("woff2"),
+          url("./assets/fonts/2E39B5_1_0.woff") format("woff"),
+          url("./assets/fonts/2E39B5_1_0.ttf") format("truetype");
       }
 
       @font-face {
         font-family: "ProximaNova";
         font-weight: normal;
         font-style: normal;
-        src: url("webfonts/2E39B5_3_0.eot");
-        src: url("webfonts/2E39B5_3_0.eot?#iefix") format("embedded-opentype"),
-          url("webfonts/2E39B5_3_0.woff2") format("woff2"),
-          url("webfonts/2E39B5_3_0.woff") format("woff"),
-          url("webfonts/2E39B5_3_0.ttf") format("truetype");
+        src: url("./assets/fonts/2E39B5_3_0.eot");
+        src: url("./assets/fonts/2E39B5_3_0.eot?#iefix") format("embedded-opentype"),
+          url("./assets/fonts/2E39B5_3_0.woff2") format("woff2"),
+          url("./assets/fonts/2E39B5_3_0.woff") format("woff"),
+          url("./assets/fonts/2E39B5_3_0.ttf") format("truetype");
       }
 
       @font-face {
         font-family: "ProximaNova";
         font-weight: normal;
         font-style: italic;
-        src: url("webfonts/2E39B5_4_0.eot");
-        src: url("webfonts/2E39B5_4_0.eot?#iefix") format("embedded-opentype"),
-          url("webfonts/2E39B5_4_0.woff2") format("woff2"),
-          url("webfonts/2E39B5_4_0.woff") format("woff"),
-          url("webfonts/2E39B5_4_0.ttf") format("truetype");
+        src: url("./assets/fonts/2E39B5_4_0.eot");
+        src: url("./assets/fonts/2E39B5_4_0.eot?#iefix") format("embedded-opentype"),
+          url("./assets/fonts/2E39B5_4_0.woff2") format("woff2"),
+          url("./assets/fonts/2E39B5_4_0.woff") format("woff"),
+          url("./assets/fonts/2E39B5_4_0.ttf") format("truetype");
       }
 
       @font-face {
         font-family: "Eksell";
-        src: url(./Eksell-Medium-b09c334bd30c49aa4021630d77eb5057d847f773c7022f900f926ae57df3f2f2.woff2)
+        src: url(./assets/fonts/Eksell-Medium-b09c334bd30c49aa4021630d77eb5057d847f773c7022f900f926ae57df3f2f2.woff2)
           format("woff2");
       }
 
       .header {
         padding: 25px 18px 0;
+        margin-bottom: 35px;
         display: flex;
         justify-content: flex-start;
         align-items: center;
       }
-      .header-right {
+      .header-left {
         width: 200px;
 
         text-align: left;
       }
-      .header-right a {
+      .header-left a {
         display: flex;
         cursor: pointer;
         text-decoration: none;
@@ -109,21 +115,21 @@
         /* border: 1px solid #ddd; */
         /* background: #ffffff; */
         /* border-color: #cccccc; */
-        color: #734410;
+        color: #333333;
       }
-      .header-right a::before {
+      .header-left a::before {
         content: "";
-        background: url("./back.svg") left center no-repeat transparent;
+        background: url("./assets/images/back.svg") left center no-repeat transparent;
         width: 25px;
         height: 15px;
         display: inline-block;
       }
-      .header-right a span {
+      .header-left a span {
         height: 15px;
       }
 
       .action-block {
-        padding: 100px 25px;
+        padding: 50px 25px 100px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -155,23 +161,33 @@
         border: 1px solid #ddd;
         background: #ffffff;
         border-color: #cccccc;
-        color: #734410;
+        color: #333333;
       }
 
       #content {
         width: 100%;
-        padding-right: 15px;
+        /* padding-right: 15px;
         padding-left: 15px;
         margin-right: auto;
-        margin-left: auto;
+        margin-left: auto; */
         max-width: 900px;
+        /* padding: 15px; */
 
         color: #333333;
         font-family: "ProximaNova", sans-serif;
         font-size: 18px;
         font-weight: 400;
         line-height: 1.625;
+
+        margin-right: auto;
+        margin-left: auto;
+
       }
+
+      #content > *{
+        padding: 0 25px;
+      }
+
       h1 {
         /* font-family: "Eksell", sans-serif;
         height: 6rem;
@@ -227,6 +243,17 @@
         margin-bottom: 50px;
         font-size: 0.95em;
       }
+
+@media only screen and (max-width: 768px) {
+  h1 {
+        font-size: 2.5rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+      }
+      .meta {
+        margin-bottom: 40px;
+      }
+}
     </style>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script
@@ -282,8 +309,9 @@
         //   "https://the-javascripting-english-major.org/v1/examples/markdown/" +
         //   urlParam +
         //   ".md",
-        url:
-          "https://farooq-agent.web.app/engine/pages_work/" + urlParam + ".md",
+        url: "https://raw.githubusercontent.com/heysaladin/farooqa-creative/master/public/engine/pages_work/" + urlParam + ".md",
+        // url:
+        //   "https://farooq-agent.web.app/engine/pages_work/" + urlParam + ".md",
         //url: "./" + urlParam + ".md",
         success: function(markdown) {
           // Convert the Markdown to HTML.
@@ -295,9 +323,9 @@
       });
     </script>
     <script>
-      document.getElementById("date").innerHTML = moment(
-        document.getElementById("date").textContent
-      ).format("dddd, MMMM Do YYYY");
+      // document.getElementById("date").innerHTML = moment(
+      //   document.getElementById("date").textContent
+      // ).format("dddd, MMMM Do YYYY");
       function goBack() {
         window.history.back();
       }
