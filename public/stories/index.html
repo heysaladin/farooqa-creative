@@ -1,360 +1,438 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Stories</title>
-    <link
-      href="https://fonts.googleapis.com/css?family=Eksell"
-      rel="stylesheet"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=ProximaNova"
-      rel="stylesheet"
-    />
-  </head>
-  <body>
-    <div class="header">
-      <div class="header-left">
-        <a onclick="goBack()"><span>back</span></a>
-      </div>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Stories</title>
+  <link href="https://fonts.googleapis.com/css?family=Eksell" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=ProximaNova" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="header">
+    <div class="header-left">
+      <a onclick="goBack()"><span>back</span></a>
     </div>
-    <div id="content"></div>
-    <div class="action-block">
-      <div class="list-content">
-        <a class="button button-ghost" onclick="goBack()">back</a>
-      </div>
+  </div>
+  <div id="content"></div>
+  <div class="action-block">
+    <div class="list-content">
+      <a class="button button-ghost" onclick="goBack()">back</a>
     </div>
-    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-    <style>
-      body {
-        margin: 0;
-        padding: 0;
-        width: 100%;
-      }
-      /* # Fonts ---------------------------------------------------------------------------------------------------- */
-      @font-face {
-        font-family: "ProximaNova";
-        font-weight: bold;
-        font-style: italic;
-        src: url("./assets/fonts/2E39B5_0_0.eot");
-        src: url("./assets/fonts/2E39B5_0_0.eot?#iefix") format("embedded-opentype"),
-          url("./assets/fonts/2E39B5_0_0.woff2") format("woff2"),
-          url("./assets/fonts/2E39B5_0_0.woff") format("woff"),
-          url("./assets/fonts/2E39B5_0_0.ttf") format("truetype");
-      }
+  </div>
+  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+    }
 
-      @font-face {
-        font-family: "ProximaNova";
-        font-weight: bold;
-        font-style: normal;
-        src: url("./assets/fonts/2E39B5_1_0.eot");
-        src: url("./assets/fonts/2E39B5_1_0.eot?#iefix") format("embedded-opentype"),
-          url("./assets/fonts/2E39B5_1_0.woff2") format("woff2"),
-          url("./assets/fonts/2E39B5_1_0.woff") format("woff"),
-          url("./assets/fonts/2E39B5_1_0.ttf") format("truetype");
-      }
+    /* # Fonts ---------------------------------------------------------------------------------------------------- */
+    @font-face {
+      font-family: "ProximaNova";
+      font-weight: bold;
+      font-style: italic;
+      src: url("./assets/fonts/2E39B5_0_0.eot");
+      src: url("./assets/fonts/2E39B5_0_0.eot?#iefix") format("embedded-opentype"),
+        url("./assets/fonts/2E39B5_0_0.woff2") format("woff2"),
+        url("./assets/fonts/2E39B5_0_0.woff") format("woff"),
+        url("./assets/fonts/2E39B5_0_0.ttf") format("truetype");
+    }
 
-      @font-face {
-        font-family: "ProximaNova";
-        font-weight: normal;
-        font-style: normal;
-        src: url("./assets/fonts/2E39B5_3_0.eot");
-        src: url("./assets/fonts/2E39B5_3_0.eot?#iefix") format("embedded-opentype"),
-          url("./assets/fonts/2E39B5_3_0.woff2") format("woff2"),
-          url("./assets/fonts/2E39B5_3_0.woff") format("woff"),
-          url("./assets/fonts/2E39B5_3_0.ttf") format("truetype");
-      }
+    @font-face {
+      font-family: "ProximaNova";
+      font-weight: bold;
+      font-style: normal;
+      src: url("./assets/fonts/2E39B5_1_0.eot");
+      src: url("./assets/fonts/2E39B5_1_0.eot?#iefix") format("embedded-opentype"),
+        url("./assets/fonts/2E39B5_1_0.woff2") format("woff2"),
+        url("./assets/fonts/2E39B5_1_0.woff") format("woff"),
+        url("./assets/fonts/2E39B5_1_0.ttf") format("truetype");
+    }
 
-      @font-face {
-        font-family: "ProximaNova";
-        font-weight: normal;
-        font-style: italic;
-        src: url("./assets/fonts/2E39B5_4_0.eot");
-        src: url("./assets/fonts/2E39B5_4_0.eot?#iefix") format("embedded-opentype"),
-          url("./assets/fonts/2E39B5_4_0.woff2") format("woff2"),
-          url("./assets/fonts/2E39B5_4_0.woff") format("woff"),
-          url("./assets/fonts/2E39B5_4_0.ttf") format("truetype");
-      }
+    @font-face {
+      font-family: "ProximaNova";
+      font-weight: normal;
+      font-style: normal;
+      src: url("./assets/fonts/2E39B5_3_0.eot");
+      src: url("./assets/fonts/2E39B5_3_0.eot?#iefix") format("embedded-opentype"),
+        url("./assets/fonts/2E39B5_3_0.woff2") format("woff2"),
+        url("./assets/fonts/2E39B5_3_0.woff") format("woff"),
+        url("./assets/fonts/2E39B5_3_0.ttf") format("truetype");
+    }
 
-      @font-face {
-        font-family: "Eksell";
-        src: url(./assets/fonts/Eksell-Medium-b09c334bd30c49aa4021630d77eb5057d847f773c7022f900f926ae57df3f2f2.woff2)
-          format("woff2");
-      }
+    @font-face {
+      font-family: "ProximaNova";
+      font-weight: normal;
+      font-style: italic;
+      src: url("./assets/fonts/2E39B5_4_0.eot");
+      src: url("./assets/fonts/2E39B5_4_0.eot?#iefix") format("embedded-opentype"),
+        url("./assets/fonts/2E39B5_4_0.woff2") format("woff2"),
+        url("./assets/fonts/2E39B5_4_0.woff") format("woff"),
+        url("./assets/fonts/2E39B5_4_0.ttf") format("truetype");
+    }
 
-      .header {
-        padding: 25px 18px 0;
-        margin-bottom: 35px;
-        display: flex;
-        justify-content: flex-start;
-        align-items: center;
-      }
-      .header-left {
-        width: 200px;
+    @font-face {
+      font-family: "Eksell";
+      src: url(./assets/fonts/Eksell-Medium-b09c334bd30c49aa4021630d77eb5057d847f773c7022f900f926ae57df3f2f2.woff2) format("woff2");
+    }
 
-        text-align: left;
-      }
-      .header-left a {
-        display: flex;
-        cursor: pointer;
-        text-decoration: none;
-        color: #2c2c2c;
+    .header {
+      padding: 25px 18px 0;
+      margin-bottom: 35px;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+    }
 
-        font-family: "ProximaNova", sans-serif;
-        text-transform: uppercase;
-        /* padding: 20px;
+    .header-left {
+      width: 200px;
+
+      text-align: left;
+    }
+
+    .header-left a {
+      display: flex;
+      cursor: pointer;
+      text-decoration: none;
+      color: #2c2c2c;
+
+      font-family: "ProximaNova", sans-serif;
+      text-transform: uppercase;
+      /* padding: 20px;
         border-radius: 5px; */
-        text-align: left;
-        letter-spacing: 2px;
+      text-align: left;
+      letter-spacing: 2px;
 
-        /* display: block; */
-        /* width: 100%; */
-        /* margin-left: 90px; */
-        /* margin-top: 15px; */
-        /* border: 1px solid #ddd; */
-        /* background: #ffffff; */
-        /* border-color: #cccccc; */
-        color: #333333;
-      }
-      .header-left a::before {
-        content: "";
-        background: url("./assets/images/back.svg") left center no-repeat transparent;
-        width: 25px;
-        height: 15px;
-        display: inline-block;
-      }
-      .header-left a span {
-        height: 15px;
-      }
+      /* display: block; */
+      /* width: 100%; */
+      /* margin-left: 90px; */
+      /* margin-top: 15px; */
+      /* border: 1px solid #ddd; */
+      /* background: #ffffff; */
+      /* border-color: #cccccc; */
+      color: #333333;
+    }
 
-      .action-block {
-        padding: 50px 25px 100px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
-      .action-block .list-content {
-        width: 200px;
-      }
-      .list-content {
-        text-align: left;
-      }
-      a {
-        cursor: pointer;
-        text-decoration: none;
-        color: #2c2c2c;
-      }
-      .button {
-        font-family: "ProximaNova", sans-serif;
-        text-transform: uppercase;
-        padding: 20px;
-        border-radius: 5px;
-        text-align: center;
-        letter-spacing: 2px;
-      }
-      .button-ghost {
-        display: block;
-        /* width: 100%; */
-        /* margin-left: 90px; */
-        /* margin-top: 15px; */
-        border: 1px solid #ddd;
-        background: #ffffff;
-        border-color: #cccccc;
-        color: #333333;
-      }
+    .header-left a::before {
+      content: "";
+      background: url("./assets/images/back.svg") left center no-repeat transparent;
+      width: 25px;
+      height: 15px;
+      display: inline-block;
+    }
 
-      #content {
-        width: 100%;
-        /* padding-right: 15px;
+    .header-left a span {
+      height: 15px;
+    }
+
+    .action-block {
+      padding: 50px 25px 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .action-block .list-content {
+      width: 200px;
+    }
+
+    .list-content {
+      text-align: left;
+    }
+
+    a {
+      cursor: pointer;
+      text-decoration: none;
+      color: #2c2c2c;
+    }
+
+    .button {
+      font-family: "ProximaNova", sans-serif;
+      text-transform: uppercase;
+      padding: 20px;
+      border-radius: 5px;
+      text-align: center;
+      letter-spacing: 2px;
+    }
+
+    .button-ghost {
+      display: block;
+      /* width: 100%; */
+      /* margin-left: 90px; */
+      /* margin-top: 15px; */
+      border: 1px solid #ddd;
+      background: #ffffff;
+      border-color: #cccccc;
+      color: #333333;
+    }
+
+    #content {
+      width: 100%;
+      /* padding-right: 15px;
         padding-left: 15px;
         margin-right: auto;
         margin-left: auto; */
-        max-width: 900px;
-        /* padding: 15px; */
+      max-width: 900px;
+      /* padding: 15px; */
 
-        color: #333333;
-        font-family: "ProximaNova", sans-serif;
-        font-size: 18px;
-        font-weight: 400;
-        line-height: 1.625;
+      color: #333333;
+      font-family: "ProximaNova", sans-serif;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 1.625;
 
-        margin-right: auto;
-        margin-left: auto;
+      margin-right: auto;
+      margin-left: auto;
 
-      }
+    }
 
-      #content > *{
-        padding: 0 25px;
-      }
+    #content>* {
+      padding: 0 25px;
+    }
 
-      h1 {
-        /* font-family: "Eksell", sans-serif;
+    h1 {
+      /* font-family: "Eksell", sans-serif;
         height: 6rem;
         line-height: 6rem;
         margin: 0;
         text-align: center; */
 
-        font-family: "Eksell", sans-serif;
-        font-size: 4.5rem;
-        margin-top: 3rem;
-        margin-bottom: 3rem;
-        text-align: center;
+      font-family: "Eksell", sans-serif;
+      font-size: 4.5rem;
+      margin-top: 3rem;
+      margin-bottom: 3rem;
+      text-align: center;
 
-        font-weight: 500;
-        line-height: 1.2;
-        color: inherit;
-      }
-      p {
-        margin: 0;
-        margin-bottom: 1.625em;
-        padding: 0;
-      }
+      font-weight: 500;
+      line-height: 1.2;
+      color: inherit;
+    }
 
-      #myBtn {
-        font-family: "ProximaNova", sans-serif;
-        display: none;
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        z-index: 99;
-        font-size: 18px;
-        border: none;
-        outline: none;
-        background-color: #999999;
-        color: white;
-        cursor: pointer;
-        padding: 15px;
-        border-radius: 15px;
-      }
+    p {
+      margin: 0;
+      margin-bottom: 1.625em;
+      padding: 0;
+    }
 
-      #myBtn:hover {
-        background-color: #555;
-      }
+    #myBtn {
+      font-family: "ProximaNova", sans-serif;
+      display: none;
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 99;
+      font-size: 18px;
+      border: none;
+      outline: none;
+      background-color: #999999;
+      color: white;
+      cursor: pointer;
+      padding: 15px;
+      border-radius: 15px;
+    }
 
-      .type {
-        text-align: center;
-        font-weight: bold;
-        text-transform: uppercase;
-      }
-      .meta {
-        text-align: center;
-        color: #999;
-        margin-bottom: 50px;
-        font-size: 0.95em;
-      }
+    #myBtn:hover {
+      background-color: #555;
+    }
 
-@media only screen and (max-width: 768px) {
-  h1 {
+    .type {
+      text-align: center;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+
+    .meta {
+      text-align: center;
+      color: #999;
+      margin-bottom: 50px;
+      font-size: 0.95em;
+    }
+
+    #content img {
+      margin-right: auto;
+      margin-left: auto;
+      border-radius: 5px;
+      width: 100%;
+      height: auto;
+    }
+
+    #content table {
+      font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    #content table td,
+    #content table th {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+
+    #content table tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+
+    #content table tr:hover {
+      background-color: #ddd;
+    }
+
+    #content table th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: #dddddd;
+      color: #333333;
+    }
+
+    #content blockquote {
+      padding: 30px 25px 0px !important;
+      line-height: 46px;
+      font-size: 30px;
+      color: rgba(0, 0, 0, 0.54);
+    }
+
+    #content pre {
+      padding: 10px 15px 5px !important;
+      overflow-x: auto;
+      border-radius: 5px;
+      border: 1px solid #e5e5e5;
+    }
+
+
+
+    #content code {
+      color: #333;
+      /* font-size: 13px; */
+      /* background: #f8f8f8;
+      border-radius: 5px;
+      border: 1px solid #e5e5e5;
+      padding: 2px 4px; */
+    }
+
+    #content a {
+      color: #6491b2;
+      text-decoration: none;
+    }
+
+    #content a:hover,
+    #content a:active {
+      color: #4f738d;
+      text-decoration: underline;
+    }
+
+    @media only screen and (max-width: 768px) {
+      h1 {
         font-size: 2.5rem;
         margin-top: 2rem;
         margin-bottom: 2rem;
       }
+
       .meta {
         margin-bottom: 40px;
       }
-}
-    </style>
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"
-      integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
-      integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
-      integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
-      crossorigin=""
-    ></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.4.0/markdown-it.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it-footnote/3.0.1/markdown-it-footnote.js"></script>
-    <!-- <script src="could-be.js"></script> -->
-    <script>
-      function parse_query_string(query) {
-        var vars = query.split("&");
-        var query_string = {};
-        for (var i = 0; i < vars.length; i++) {
-          var pair = vars[i].split("=");
-          var key = decodeURIComponent(pair[0]);
-          var value = decodeURIComponent(pair[1]);
-          // If first entry with this name
-          if (typeof query_string[key] === "undefined") {
-            query_string[key] = decodeURIComponent(value);
-            // If second entry with this name
-          } else if (typeof query_string[key] === "string") {
-            var arr = [query_string[key], decodeURIComponent(value)];
-            query_string[key] = arr;
-            // If third or later entry with this name
-          } else {
-            query_string[key].push(decodeURIComponent(value));
-          }
-        }
-        return query_string;
-      }
-      var query = window.location.search.substring(1);
-      var qs = parse_query_string(query);
-      //alert(qs.content);
-      // Define and assign a Markdown-it renderer.
-      let md;
-      md = window.markdownit({ html: true }).use(window.markdownitFootnote);
-      var urlParam = qs.content;
-      // Load the Markdown file with jQuery.
-      $.ajax({
-        // url:
-        //   "https://the-javascripting-english-major.org/v1/examples/markdown/" +
-        //   urlParam +
-        //   ".md",
-        url: "https://raw.githubusercontent.com/heysaladin/farooqa-creative/master/public/engine/pages_work/" + urlParam + ".md",
-        // url:
-        //   "https://farooq-agent.web.app/engine/pages_work/" + urlParam + ".md",
-        //url: "./" + urlParam + ".md",
-        success: function(markdown) {
-          // Convert the Markdown to HTML.
-          let html;
-          html = md.render(markdown);
-          // Print the HTML to #content using jQuery.
-          $("#content").html(html);
-        }
-      });
-    </script>
-    <script>
-      // document.getElementById("date").innerHTML = moment(
-      //   document.getElementById("date").textContent
-      // ).format("dddd, MMMM Do YYYY");
-      function goBack() {
-        window.history.back();
-      }
-    </script>
-    <script>
-      //Get the button
-      var mybutton = document.getElementById("myBtn");
-
-      // When the user scrolls down 20px from the top of the document, show the button
-      window.onscroll = function() {
-        scrollFunction();
-      };
-
-      function scrollFunction() {
-        if (
-          document.body.scrollTop > 20 ||
-          document.documentElement.scrollTop > 20
-        ) {
-          mybutton.style.display = "block";
+    }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"
+    integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous">
+  </script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
+    integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous">
+  </script>
+  <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+    integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+    crossorigin=""></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.4.0/markdown-it.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it-footnote/3.0.1/markdown-it-footnote.js"></script>
+  <!-- <script src="could-be.js"></script> -->
+  <script>
+    function parse_query_string(query) {
+      var vars = query.split("&");
+      var query_string = {};
+      for (var i = 0; i < vars.length; i++) {
+        var pair = vars[i].split("=");
+        var key = decodeURIComponent(pair[0]);
+        var value = decodeURIComponent(pair[1]);
+        // If first entry with this name
+        if (typeof query_string[key] === "undefined") {
+          query_string[key] = decodeURIComponent(value);
+          // If second entry with this name
+        } else if (typeof query_string[key] === "string") {
+          var arr = [query_string[key], decodeURIComponent(value)];
+          query_string[key] = arr;
+          // If third or later entry with this name
         } else {
-          mybutton.style.display = "none";
+          query_string[key].push(decodeURIComponent(value));
         }
       }
-
-      // When the user clicks on the button, scroll to the top of the document
-      function topFunction() {
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
+      return query_string;
+    }
+    var query = window.location.search.substring(1);
+    var qs = parse_query_string(query);
+    //alert(qs.content);
+    // Define and assign a Markdown-it renderer.
+    let md;
+    md = window.markdownit({
+      html: true
+    }).use(window.markdownitFootnote);
+    var urlParam = qs.content;
+    // Load the Markdown file with jQuery.
+    $.ajax({
+      // url:
+      //   "https://the-javascripting-english-major.org/v1/examples/markdown/" +
+      //   urlParam +
+      //   ".md",
+      url: "https://raw.githubusercontent.com/heysaladin/farooqa-creative/master/public/engine/pages_work/" +
+        urlParam + ".md",
+      // url:
+      //   "https://farooq-agent.web.app/engine/pages_work/" + urlParam + ".md",
+      //url: "./" + urlParam + ".md",
+      success: function (markdown) {
+        // Convert the Markdown to HTML.
+        let html;
+        html = md.render(markdown);
+        // Print the HTML to #content using jQuery.
+        $("#content").html(html);
       }
-    </script>
-  </body>
+    });
+  </script>
+  <script>
+    // document.getElementById("date").innerHTML = moment(
+    //   document.getElementById("date").textContent
+    // ).format("dddd, MMMM Do YYYY");
+    function goBack() {
+      window.history.back();
+    }
+  </script>
+  <script>
+    //Get the button
+    var mybutton = document.getElementById("myBtn");
+
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function () {
+      scrollFunction();
+    };
+
+    function scrollFunction() {
+      if (
+        document.body.scrollTop > 20 ||
+        document.documentElement.scrollTop > 20
+      ) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+  </script>
+</body>
+
 </html>
