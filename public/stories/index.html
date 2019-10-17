@@ -7,14 +7,30 @@
   <title>Stories</title>
   <link href="https://fonts.googleapis.com/css?family=Eksell" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css?family=ProximaNova" rel="stylesheet" />
+
+  <link href='./assets/styles/style.css' rel='stylesheet' />
+
 </head>
 
 <body>
+
+  <nav>
+    <div class="theme-switch-wrapper">
+      <label class="theme-switch" for="checkbox">
+        <input type="checkbox" id="checkbox" />
+        <div class="slider round"></div>
+      </label>
+      <!-- <em>DARK</em> -->
+    </div>
+
+  </nav>
+
   <div class="header">
     <div class="header-left">
       <a onclick="goBack()"><span>back</span></a>
     </div>
   </div>
+  <h1 style="font-size: 10em; display: none;" id="notFound">404</h1>
   <div id="content"></div>
   <div class="action-block">
     <div class="list-content">
@@ -24,9 +40,19 @@
   <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
   <style>
     body {
-      margin: 0;
+      /* margin: 0; */
       padding: 0;
       width: 100%;
+      /* color: var(--font-color); */
+
+
+      /* font-family: "Avenir Next LT Pro", sans-serif; */
+      background-color: var(--bg-color);
+      color: var(--font-color);
+      max-width: 100%;
+      margin: 0 auto;
+      font-size: calc(1rem + 0.25vh);
+
     }
 
     /* # Fonts ---------------------------------------------------------------------------------------------------- */
@@ -97,7 +123,7 @@
       display: flex;
       cursor: pointer;
       text-decoration: none;
-      color: #2c2c2c;
+      color: var(--font-color);
 
       font-family: "ProximaNova", sans-serif;
       text-transform: uppercase;
@@ -113,14 +139,15 @@
       /* border: 1px solid #ddd; */
       /* background: #ffffff; */
       /* border-color: #cccccc; */
-      color: #333333;
+      /* color: #333333; */
     }
 
     .header-left a::before {
       content: "";
-      background: url("./assets/images/back.svg") left center no-repeat transparent;
+      /* background: url("./assets/images/backwhite.svg") left center no-repeat transparent; */
+      /* background: var(--arrow) left center no-repeat transparent; */
       width: 25px;
-      height: 15px;
+      height: 19px;
       display: inline-block;
     }
 
@@ -146,7 +173,7 @@
     a {
       cursor: pointer;
       text-decoration: none;
-      color: #2c2c2c;
+      color: var(--font-color);
     }
 
     .button {
@@ -163,10 +190,11 @@
       /* width: 100%; */
       /* margin-left: 90px; */
       /* margin-top: 15px; */
-      border: 1px solid #ddd;
-      background: #ffffff;
-      border-color: #cccccc;
-      color: #333333;
+      /* border: 1px solid #ddd; */
+      border: var(--border);
+      /* background: #ffffff; */
+      /* border-color: #cccccc; */
+      color: var(--font-color);
     }
 
     #content {
@@ -178,7 +206,8 @@
       max-width: 900px;
       /* padding: 15px; */
 
-      color: #333333;
+      color: var(--font-color);
+      /* color: var(--paragraph); */
       font-family: "ProximaNova", sans-serif;
       font-size: 18px;
       font-weight: 400;
@@ -227,7 +256,7 @@
       font-size: 18px;
       border: none;
       outline: none;
-      background-color: #999999;
+      background-color: var(--middle);
       color: white;
       cursor: pointer;
       padding: 15px;
@@ -246,7 +275,7 @@
 
     .meta {
       text-align: center;
-      color: #999;
+      /* color: #999; */
       margin-bottom: 50px;
       font-size: 0.95em;
     }
@@ -259,20 +288,30 @@
       height: auto;
     }
 
+    #content ul,
+    #content ol {
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+
     #content table {
       font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
       border-collapse: collapse;
-      width: 100%;
+      /* width: 100%; */
+      margin-left: 25px;
+      margin-right: 25px;
     }
 
     #content table td,
     #content table th {
-      border: 1px solid #ddd;
+      /* border: 1px solid #ddd; */
+      border: var(--border);
       padding: 8px;
     }
 
     #content table tr:nth-child(even) {
-      background-color: #f2f2f2;
+      /* background-color: #f2f2f2; */
+      /* background-color: var(--middle); */
     }
 
     #content table tr:hover {
@@ -283,28 +322,36 @@
       padding-top: 12px;
       padding-bottom: 12px;
       text-align: left;
-      background-color: #dddddd;
-      color: #333333;
+      /* background-color: #dddddd; */
+      /* background-color: var(--middle); */
+      color: var(--font-color);
     }
 
     #content blockquote {
       padding: 30px 25px 0px !important;
       line-height: 46px;
       font-size: 30px;
-      color: rgba(0, 0, 0, 0.54);
+      color: var(--font-color);
+      /* color: rgba(0, 0, 0, 0.54); */
     }
 
     #content pre {
       padding: 10px 15px 5px !important;
       overflow-x: auto;
       border-radius: 5px;
-      border: 1px solid #e5e5e5;
+      /* border: 1px solid #e5e5e5; */
+      border: var(--border);
+      margin-left: 25px;
+      margin-right: 25px;
     }
 
-
+    #content hr {
+      margin-left: 25px;
+      margin-right: 25px;
+    }
 
     #content code {
-      color: #333;
+      color: var(--font-color);
       /* font-size: 13px; */
       /* background: #f8f8f8;
       border-radius: 5px;
@@ -378,6 +425,7 @@
     md = window.markdownit({
       html: true
     }).use(window.markdownitFootnote);
+    var urlParamType = qs.type;
     var urlParam = qs.content;
     // Load the Markdown file with jQuery.
     $.ajax({
@@ -385,7 +433,8 @@
       //   "https://the-javascripting-english-major.org/v1/examples/markdown/" +
       //   urlParam +
       //   ".md",
-      url: "https://raw.githubusercontent.com/heysaladin/farooqa-creative/master/public/engine/pages_work/" +
+      url: "https://raw.githubusercontent.com/heysaladin/farooqa-creative/master/public/engine/" + urlParamType +
+        "/" +
         urlParam + ".md",
       // url:
       //   "https://farooq-agent.web.app/engine/pages_work/" + urlParam + ".md",
@@ -396,7 +445,17 @@
         html = md.render(markdown);
         // Print the HTML to #content using jQuery.
         $("#content").html(html);
+        $("#notFound").css('display', 'none');
+      },
+      error: function (xhr, ajaxOptions, thrownError) {
+        if (xhr.status == 404) {
+          // alert(thrownError);
+          $("#notFound").css('display', 'block');
+        }
       }
+      //   fail: function(markdown){
+      //    console.log('request failed');
+      // }
     });
   </script>
   <script>
@@ -433,6 +492,7 @@
       document.documentElement.scrollTop = 0;
     }
   </script>
+  <script src="./assets/scripts/script.js"></script>
 </body>
 
 </html>
