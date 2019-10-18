@@ -242,6 +242,33 @@
     }
   },
   {
+    "id": 19,
+    "meta": {
+      "lang": "en",
+      "title": "Ketika koneksi absen dari hidup kita",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Ketika koneksi absen dari hidup kita",
+      "catogory": ["Design"],
+      "isReady": true,
+      "bodyCopyShort": "Saking terbiasanya kita terkoneksi dengan internet, kadang kita lupa bagaimana jika koneksi tersebut tiba-tiba sirna.",
+      "image": "../assets/images/blog/large/ketika-koneksi-absen-dari-hidup-kita.jpg",
+      "thumbnail": "../assets/images/blog/small/ketika-koneksi-absen-dari-hidup-kita.jpg",
+      "date": "2019-08-22 08:59:37",
+      "date_update": "2019-08-22 06:41:01",
+      "slug": "ketika-koneksi-absen-dari-hidup-kita"
+    }
+  },
+  {
     "id": 9,
     "meta": {
       "lang": "en",
@@ -374,6 +401,60 @@
       "date": "2016-09-29 08:55:33",
       "date_update": "2016-10-06 06:44:46",
       "slug": "mengenal-warna"
+    }
+  },
+  {
+    "id": 17,
+    "meta": {
+      "lang": "en",
+      "title": "Ngedesain pakai software apa",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Ngedesain pakai software apa",
+      "catogory": ["Design"],
+      "isReady": true,
+      "bodyCopyShort": "Sering kali ketika orang melihat karya saya baik itu UI design atau graphic design atau bahkan illustrasi, selalu ada saja yang bertanya.",
+      "image": "../assets/images/blog/large/ngedesain-pakai-software-apa.jpg",
+      "thumbnail": "../assets/images/blog/small/ngedesain-pakai-software-apa.jpg",
+      "date": "2019-07-28 08:59:37",
+      "date_update": "2019-07-28 06:41:01",
+      "slug": "ngedesain-pakai-software-apa"
+    }
+  },
+  {
+    "id": 18,
+    "meta": {
+      "lang": "en",
+      "title": "Pentingnya sebuah kepastian",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Pentingnya sebuah kepastian",
+      "catogory": ["Design"],
+      "isReady": true,
+      "bodyCopyShort": "Pernahkan kalian melihat pengumuman lowongan kerja yang membuatmu tertarik untuk mengirimkan surat lamaran pekerjaan dan Resume.",
+      "image": "../assets/images/blog/large/pentingnya-sebuah-kepastian.jpg",
+      "thumbnail": "../assets/images/blog/small/pentingnya-sebuah-kepastian.jpg",
+      "date": "2019-08-09 08:59:37",
+      "date_update": "2019-08-09 06:41:01",
+      "slug": "pentingnya-sebuah-kepastian"
     }
   },
   {

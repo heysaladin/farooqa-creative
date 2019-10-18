@@ -186,7 +186,7 @@
     </script>
     <script src="./assets/script/lib/nav/demoSVG.js">
     </script>
-    <script src="../assets/script/moment.min.js">
+    <script src="./assets/script/moment.min.js">
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.2/lodash.min.js">
     </script>
@@ -209,9 +209,21 @@
             var myBooks = respo;
             var divContainer = document.querySelector('.list-wrapper');
             divContainer.innerHTML = "";
-            myBooks = _.sortBy(myBooks, function (dateObj) {
-                return new Date(dateObj.date_update);
-            }).reverse();
+            // myBooks = _.sortBy(myBooks, function (dateObj) {
+            //     return new Date(dateObj.date_update);
+            // }).reverse();
+
+
+			for (var i = 0; i < myBooks.length; i++) {
+				var date = myBooks[i].data.date_update;
+				myBooks[i].date = date;
+			}
+
+			myBooks = _.sortBy(myBooks, function (dateObj) {
+				return new Date(dateObj.date);
+			}).reverse();
+
+
             var numGo = 0;
             for (var i = 0; i < myBooks.length; i++) {
                 console.log(myBooks[i].data.isReady);

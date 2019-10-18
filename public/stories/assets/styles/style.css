@@ -118,7 +118,7 @@ nav {
   padding: 20px 0;
   position: absolute;
   right: 45px;
-  top: -2px;
+  top: -4px;
 }
 
 /*slider switch css */
@@ -158,11 +158,11 @@ nav {
 .slider:before {
   background-color: #fff;
   content: var(--theme-text);
-  height: 25px;
+  height: 24px;
   left: 4px;
   position: absolute;
   transition: 0.4s;
-  width: 68px;
+  width: 67px;
   font-size: 0.6em;
   display: flex;
   justify-content: center;
@@ -171,6 +171,7 @@ nav {
   margin-top: 4px;
   color: var(--slider-text);
   padding-top: 1px;
+  padding-bottom: 1px;
 }
 
 input:checked + .slider {
