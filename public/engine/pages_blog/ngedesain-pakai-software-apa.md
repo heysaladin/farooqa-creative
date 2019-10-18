@@ -1,6 +1,6 @@
 <p class="type">BLOG</p>
 
-# Ngedesain pakai software apa
+# Ngedesain pakai software apa?
 
 <p class="meta">Design  /  Sunday, July 28th 2019</p>
 
