@@ -26,6 +26,7 @@
     --icon-2: url("../images/l-i-2.svg");
     --icon-3: url("../images/l-i-3.svg");
     --middle: #999999;
+    --middle-text: #999999;
     --arrow: url("../images/back.svg") left center no-repeat transparent;
   }
   
@@ -54,6 +55,7 @@
     --icon-2: url("../images/d-i-2.svg");
     --icon-3: url("../images/d-i-3.svg");
     --middle: #543E67;
+    --middle-text: #8b799a;
     --arrow: url("../images/backwhite.svg") left center no-repeat transparent;
   }
   
@@ -371,5 +373,5 @@ article.post {
 } */
 
 .meta {
-    color: var(--middle);
+    color: var(--middle-text);
 }
