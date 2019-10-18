@@ -2669,6 +2669,44 @@
     }
   },
   {
+    "id": 200,
+    "meta": {
+      "lang": "en",
+      "title": "HeyHeySaladin",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "HeyHeySaladin",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "HeyHeySaladin",
+      "work_category": 7,
+      "image": "../assets/images/works/large/heyheysaladin.jpg",
+      "thumbnail": "../assets/images/works/small/heyheysaladin.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "heyheysaladin",
+      "date": "2019-10-18 16:46:14",
+      "date_update": "2019-10-18 16:46:41"
+    }
+  },
+  {
     "id": 199,
     "meta": {
       "lang": "en",
