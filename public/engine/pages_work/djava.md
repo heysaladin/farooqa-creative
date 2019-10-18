@@ -6,4 +6,4 @@
 
 An application that combines video streaming and selling goods online.
 
-![alt text](https://farooq-agent.web.app/assets/images/works/small/djava.jpg)
+![JAVA: Video Streaming and Online Shopping](https://farooq-agent.web.app/assets/images/works/small/djava.jpg)

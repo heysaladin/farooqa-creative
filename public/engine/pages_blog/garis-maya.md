@@ -1,5 +1,13 @@
+<p class="type">BLOG</p>
+
+# Garis maya
+
+<p class="meta">Design  /  Thursday, September 29th 2016</p>
+
 Pernahkah dalam keseharian kita, menemukan sebuah brosur, flyer, banner dan lain sebagainya tapi malah bingung ketika ingin membacanya di mulai dari bagian mana dulu.
 
 Bagi Anda itu mungkin biasa karena anda dapat segara berhenti membacanya atau membuangnya bagitu saja. kejam :(
 
 Dan disitulah hal yang paling BAHAYA dari sebuah desain media komunikasi visual.
+
+![Garis maya](https://farooq-agent.web.app/assets/images/blog/small/xMRV5sJp_post_image.jpg)

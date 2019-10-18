@@ -1,3 +1,9 @@
+<p class="type">BLOG</p>
+
+# Belajar desain, mau jadi apa?
+
+<p class="meta">Design  /  Thursday, September 29th 2016</p>
+
 Rajin Pangkal Pandai, Sedekah Pangkal Kaya. Beberapa peribahasa tersebut pasti tidak asing di telinga kita. Karena memang pasti diajarkan di bangku sekolah dasar :D
 
 Baik, dari peribahasa \"Rajin Pangkal Pandai\" kita coba ilustrasikan.
@@ -13,3 +19,5 @@ Nah pertanyaannya, kalau yang dipelajari bukan pelajaran Biologi melainkan Desai
 Damn...
 
 Tenang mari kita bahas pelan-pelan!
+
+![Belajar desain, mau jadi apa?](https://farooq-agent.web.app/assets/images/blog/small/E1rLyvjZ_post_image.jpg)

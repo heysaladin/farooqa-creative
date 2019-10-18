@@ -6,4 +6,4 @@
 
 An application for saving and adopting abandoned domestic animals. also part of educating the public about caring for abandoned animals.
 
-![alt text](https://farooq-agent.web.app/assets/images/works/small/petado.jpg)
+![Petado: Rescue and Adopt Domestic Stray Animals](https://farooq-agent.web.app/assets/images/works/small/petado.jpg)
