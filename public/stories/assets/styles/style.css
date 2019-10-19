@@ -59,7 +59,7 @@
     --arrow: url("../images/backwhite.svg") left center no-repeat transparent;
   }
   
-  .header-left a::before {
+  #arrow-back {
     background: var(--arrow);
   }
 /* body {

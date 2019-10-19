@@ -28,7 +28,7 @@
 
   <div class="header">
     <div class="header-left">
-      <a onclick="goBack()"><span>back</span></a>
+      <a onclick="goBack()"><span id="arrow-back"></span><span>back</span></a>
     </div>
   </div>
   <h1 style="font-size: 10em; display: none;" id="notFound">404</h1>
@@ -132,6 +132,8 @@
         border-radius: 5px; */
       text-align: left;
       letter-spacing: 2px;
+      justify-content: flex-start;
+      align-items: center;
 
       /* display: block; */
       /* width: 100%; */
@@ -141,19 +143,22 @@
       /* background: #ffffff; */
       /* border-color: #cccccc; */
       /* color: #333333; */
+
+      width: 90px;
     }
 
-    .header-left a::before {
-      content: "";
+    #arrow-back{
+      display: block;
+      /* content: ""; */
       /* background: url("./assets/images/backwhite.svg") left center no-repeat transparent; */
       /* background: var(--arrow) left center no-repeat transparent; */
       width: 24px;
       height: 20px;
-      display: inline-block;
+      /* display: inline-block; */
     }
 
     .header-left a span {
-      height: 15px;
+      height: 20px;
     }
 
     .action-block {
