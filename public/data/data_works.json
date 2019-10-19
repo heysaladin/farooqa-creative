@@ -447,6 +447,44 @@
     }
   },
   {
+    "id": 201,
+    "meta": {
+      "lang": "en",
+      "title": "Astary",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Astary",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Astary",
+      "work_category": 7,
+      "image": "../assets/images/works/large/astary.jpg",
+      "thumbnail": "../assets/images/works/small/astary.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "astary",
+      "date": "2019-10-19 16:46:14",
+      "date_update": "2019-10-19 16:46:41"
+    }
+  },
+  {
     "id": 173,
     "meta": {
       "lang": "en",
