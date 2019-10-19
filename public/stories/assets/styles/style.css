@@ -60,7 +60,7 @@
   }
   
   #arrow-back {
-    background: var(--arrow) left center no-repeat transparent;
+    background: var(--arrow);
   }
 /* body {
   font-family: "Avenir Next LT Pro", sans-serif;
