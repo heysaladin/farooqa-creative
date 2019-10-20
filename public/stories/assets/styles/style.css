@@ -373,6 +373,6 @@ article.post {
   }
 } */
 
-.meta {
+.meta, .caption {
     color: var(--middle-text);
 }
