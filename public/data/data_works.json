@@ -782,7 +782,7 @@
       "thumbnail": "../assets/images/works/small/bimbel-btw.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "isReady": true,
       "status": "exploration",
       "slug": "bimbel-btw",
@@ -1644,7 +1644,7 @@
       "thumbnail": "../assets/images/works/small/djava.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "isReady": true,
       "status": "exploration",
       "slug": "djava",
@@ -2573,6 +2573,44 @@
     }
   },
   {
+    "id": 203,
+    "meta": {
+      "lang": "en",
+      "title": "Harta",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Harta",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Harta",
+      "work_category": 7,
+      "image": "../assets/images/works/large/harta.jpg",
+      "thumbnail": "../assets/images/works/small/harta.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "harta",
+      "date": "2019-10-20 16:46:14",
+      "date_update": "2019-10-20 16:46:41"
+    }
+  },
+  {
     "id": 144,
     "meta": {
       "lang": "en",
@@ -2850,7 +2888,7 @@
       "thumbnail": "../assets/images/works/small/hunter-indonesia.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "isReady": true,
       "status": "exploration",
       "slug": "hunter-indonesia",
@@ -5626,6 +5664,44 @@
       "slug": "shake-club-house-social-media-marketing",
       "date": "2013-07-10 07:44:38",
       "date_update": "2016-12-08 13:51:06"
+    }
+  },
+  {
+    "id": 202,
+    "meta": {
+      "lang": "en",
+      "title": "Shalova",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Shalova",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Shalova",
+      "work_category": 7,
+      "image": "../assets/images/works/large/shalova.jpg",
+      "thumbnail": "../assets/images/works/small/shalova.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "shalova",
+      "date": "2019-10-20 16:46:14",
+      "date_update": "2019-10-20 16:46:41"
     }
   },
   {
