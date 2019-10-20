@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="image/png" href="../assets/images/favicon.png" alt="favicon">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
 	<link href="../assets/fonts/museo-sans/stylesheet.css" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
@@ -14,7 +14,10 @@
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145097646-1"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
 		gtag('js', new Date());
 
 		gtag('config', 'UA-145097646-1');
@@ -314,9 +317,11 @@
 
 		#trigger-overlay {
 			display: none;
-			background: url(../../images/burger-button-nav.svg) no-repeat center center;
+			background: transparent;
+			/* background: url(../assets/images/burger-button-nav.svg) no-repeat center center; */
 			border: none;
-			width: 36px;
+			/* width: 36px; */
+			width: 150px;
 			height: 36px;
 		}
 
@@ -504,7 +509,9 @@
 					var anchorCardCaptionSiema = document.createElement("a");
 					// anchorCardCaptionSiema.setAttribute('href', './works/' + myBooks[i].data.slug + '.html');
 					// anchorCardCaptionSiema.setAttribute('link', './works/' + myBooks[i].data.slug + '.html');
-					anchorCardCaptionSiema.setAttribute('href', 'https://farooq-agent.web.app/stories/?type=pages_work&content=' + myBooks[i].data.slug);
+					anchorCardCaptionSiema.setAttribute('href',
+						'https://farooq-agent.web.app/stories/?type=pages_work&content=' + myBooks[i].data
+						.slug);
 					anchorCardCaptionSiema.setAttribute('isready', myBooks[i].data.isReady);
 					anchorCardCaptionSiema.setAttribute('id', myBooks[i].data.slug);
 					box.appendChild(anchorCardCaptionSiema);
@@ -518,8 +525,9 @@
 					imageWrapper.setAttribute('class', 'image-wrapper');
 					cardContent.appendChild(imageWrapper);
 					var img = document.createElement("img");
-					img.setAttribute('class', 'card-image');
-					img.setAttribute('src', myBooks[i].data.thumbnail);
+					img.setAttribute('class', 'card-image lazy');
+					img.setAttribute('src', '../assets/images/default.jpg');
+					img.setAttribute('data-src', myBooks[i].data.thumbnail);
 					img.setAttribute('alt', myBooks[i].data.title);
 					imageWrapper.appendChild(img);
 					var cardTextWrapper = document.createElement("div");
@@ -609,7 +617,162 @@
 			myFunction(x) // Call listener function at run time
 			x.addListener(myFunction) // Attach listener function on state changes
 
+			// lazyLoad();
+
+			!function(window) {
+			var $q = function (q, res) {
+					if (document.querySelectorAll) {
+						res = document.querySelectorAll(q);
+					} else {
+						var d = document,
+							a = d.styleSheets[0] || d.createStyleSheet();
+						a.addRule(q, 'f:b');
+						for (var l = d.all, b = 0, c = [], f = l.length; b < f; b++)
+							l[b].currentStyle.f && c.push(l[b]);
+
+						a.removeRule(0);
+						res = c;
+					}
+					return res;
+				},
+				addEventListener = function (evt, fn) {
+					window.addEventListener ?
+						this.addEventListener(evt, fn, false) :
+						(window.attachEvent) ?
+						this.attachEvent('on' + evt, fn) :
+						this['on' + evt] = fn;
+				},
+				_has = function (obj, key) {
+					return Object.prototype.hasOwnProperty.call(obj, key);
+				};
+
+			function loadImage(el, fn) {
+				var img = new Image(),
+					src = el.getAttribute('data-src');
+				img.onload = function () {
+					if (!!el.parent)
+						el.parent.replaceChild(img, el)
+					else
+						el.src = src;
+
+					fn ? fn() : null;
+				}
+				img.src = src;
+			}
+
+			function elementInViewport(el) {
+				var rect = el.getBoundingClientRect()
+
+				return (
+					rect.top >= 0 &&
+					rect.left >= 0 &&
+					rect.top <= (window.innerHeight || document.documentElement.clientHeight)
+				)
+			}
+
+			var images = new Array(),
+				query = $q('img.lazy'),
+				processScroll = function () {
+					for (var i = 0; i < images.length; i++) {
+						if (elementInViewport(images[i])) {
+							loadImage(images[i], function () {
+								images.splice(i, i);
+							});
+						}
+					};
+				};
+			// Array.prototype.slice.call is not callable under our lovely IE8
+			for (var i = 0; i < query.length; i++) {
+				images.push(query[i]);
+			};
+
+			processScroll();
+			addEventListener('scroll', processScroll);
+
+		}(this);
+
+
 		});
+	</script>
+	<script type="text/javascript">
+		/* lazyload.js (c) Lorenzo Giuliani
+		 * MIT License (http://www.opensource.org/licenses/mit-license.html)
+		 *
+		 * expects a list of:
+		 * `<img src="blank.gif" data-src="my_image.png" width="600" height="400" class="lazy">`
+		 */
+
+		// var lazyLoad = function(window) {
+		// 	var $q = function (q, res) {
+		// 			if (document.querySelectorAll) {
+		// 				res = document.querySelectorAll(q);
+		// 			} else {
+		// 				var d = document,
+		// 					a = d.styleSheets[0] || d.createStyleSheet();
+		// 				a.addRule(q, 'f:b');
+		// 				for (var l = d.all, b = 0, c = [], f = l.length; b < f; b++)
+		// 					l[b].currentStyle.f && c.push(l[b]);
+
+		// 				a.removeRule(0);
+		// 				res = c;
+		// 			}
+		// 			return res;
+		// 		},
+		// 		addEventListener = function (evt, fn) {
+		// 			window.addEventListener ?
+		// 				this.addEventListener(evt, fn, false) :
+		// 				(window.attachEvent) ?
+		// 				this.attachEvent('on' + evt, fn) :
+		// 				this['on' + evt] = fn;
+		// 		},
+		// 		_has = function (obj, key) {
+		// 			return Object.prototype.hasOwnProperty.call(obj, key);
+		// 		};
+
+		// 	function loadImage(el, fn) {
+		// 		var img = new Image(),
+		// 			src = el.getAttribute('data-src');
+		// 		img.onload = function () {
+		// 			if (!!el.parent)
+		// 				el.parent.replaceChild(img, el)
+		// 			else
+		// 				el.src = src;
+
+		// 			fn ? fn() : null;
+		// 		}
+		// 		img.src = src;
+		// 	}
+
+		// 	function elementInViewport(el) {
+		// 		var rect = el.getBoundingClientRect()
+
+		// 		return (
+		// 			rect.top >= 0 &&
+		// 			rect.left >= 0 &&
+		// 			rect.top <= (window.innerHeight || document.documentElement.clientHeight)
+		// 		)
+		// 	}
+
+		// 	var images = new Array(),
+		// 		query = $q('img.lazy'),
+		// 		processScroll = function () {
+		// 			for (var i = 0; i < images.length; i++) {
+		// 				if (elementInViewport(images[i])) {
+		// 					loadImage(images[i], function () {
+		// 						images.splice(i, i);
+		// 					});
+		// 				}
+		// 			};
+		// 		};
+		// 	// Array.prototype.slice.call is not callable under our lovely IE8
+		// 	for (var i = 0; i < query.length; i++) {
+		// 		images.push(query[i]);
+		// 	};
+
+		// 	processScroll();
+		// 	addEventListener('scroll', processScroll);
+
+		// }(this);
 	</script>
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
 </body>
