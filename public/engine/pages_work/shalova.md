@@ -6,4 +6,4 @@
 
 Shalova.
 
-![Shalova](https://farooq-agent.web.app/assets/images/works/small/shalova.jpg)
+![Shalova](https://farooq-agent.web.app/assets/images/works/large/shalova.jpg)

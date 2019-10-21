@@ -32,4 +32,4 @@ belum lagi semisal ada masalah teknis semisal tenda yang hanya cukup 2 orang nam
 * membuat orang dapat saling membantu dalam hal pengalaman
 * melihat orang yang ikut dalam rombongan dari track record-nya naik gunung
 
-![Sejalan](https://farooq-agent.web.app/assets/images/works/small/sejalan.jpg)
+![Sejalan](https://farooq-agent.web.app/assets/images/works/large/sejalan.jpg)
