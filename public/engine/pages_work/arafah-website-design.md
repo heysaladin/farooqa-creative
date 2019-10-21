@@ -6,4 +6,4 @@
 
 Arafah Website Design.
 
-![Arafah Website Design](https://farooq-agent.web.app/assets/images/works/large/arafah-website-design.jpg)
+![Arafah Website Design](https://farooq-agent.web.app/assets/images/works/large/NZuNvDxP_work_image.jpg)

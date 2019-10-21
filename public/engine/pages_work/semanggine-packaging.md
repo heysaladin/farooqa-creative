@@ -6,4 +6,4 @@
 
 Semanggine Packaging.
 
-![Semanggine Packaging](https://farooq-agent.web.app/assets/images/works/large/semanggine-packaging.jpg)
+![Semanggine Packaging](https://farooq-agent.web.app/assets/images/works/large/6JwwoPGo_work_image.jpg)

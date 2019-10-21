@@ -6,4 +6,4 @@
 
 Episode-1 Logo.
 
-![Episode-1 Logo](https://farooq-agent.web.app/assets/images/works/large/episode-1-logo.jpg)
+![Episode-1 Logo](https://farooq-agent.web.app/assets/images/works/large/2V9Jco7T_work_image.jpg)

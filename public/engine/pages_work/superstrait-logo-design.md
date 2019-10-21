@@ -6,4 +6,4 @@
 
 Superstrait Logo Design.
 
-![Superstrait Logo Design](https://farooq-agent.web.app/assets/images/works/large/superstrait-logo-design.jpg)
+![Superstrait Logo Design](https://farooq-agent.web.app/assets/images/works/large/kd31xZy1_work_image.jpg)

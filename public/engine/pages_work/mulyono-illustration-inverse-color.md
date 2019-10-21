@@ -1,9 +1,9 @@
 <p class="type">EXPLORATION</p>
 
-# Zombrema
+# Mulyono Illustration Inverse Color
 
-<p class="meta">Design  /  Thursday, Tuesday, July 31, 2012 11:58:33am</p>
+<p class="meta">Design  /  Saturday, February 4, 2012 11:56:20am</p>
 
-Zombrema.
+Mulyono Illustration Inverse Color.
 
-![Zombrema](https://farooq-agent.web.app/assets/images/works/large/zombrema.jpg)
+![Mulyono Illustration Inverse Color](https://farooq-agent.web.app/assets/images/works/large/1ifBoIWt_work_image.jpg)

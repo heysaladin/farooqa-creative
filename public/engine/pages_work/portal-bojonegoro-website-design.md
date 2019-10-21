@@ -6,4 +6,4 @@
 
 Portal Bojonegoro Website Design.
 
-![Portal Bojonegoro Website Design](https://farooq-agent.web.app/assets/images/works/large/portal-bojonegoro-website-design.jpg)
+![Portal Bojonegoro Website Design](https://farooq-agent.web.app/assets/images/works/large/UEfvFQwx_work_image.jpg)

@@ -6,4 +6,4 @@
 
 NEA.
 
-![NEA](https://farooq-agent.web.app/assets/images/works/large/nea.jpg)
+![NEA](https://farooq-agent.web.app/assets/images/works/large/upucuDho_work_image.jpg)

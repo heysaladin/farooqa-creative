@@ -6,4 +6,4 @@
 
 Key Branding.
 
-![Key Branding](https://farooq-agent.web.app/assets/images/works/large/key-branding.jpg)
+![Key Branding](https://farooq-agent.web.app/assets/images/works/large/JPrR4n5n_work_image.jpg)

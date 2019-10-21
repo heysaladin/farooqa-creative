@@ -6,4 +6,4 @@
 
 Gloria Cell Frontend Development.
 
-![Gloria Cell Frontend Development](https://farooq-agent.web.app/assets/images/works/large/gloria-cell-frontend-development.jpg)
+![Gloria Cell Frontend Development](https://farooq-agent.web.app/assets/images/works/large/R4icUt4o_work_image.jpg)

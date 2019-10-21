@@ -6,4 +6,4 @@
 
 GuluGulu Frontend Web Development.
 
-![GuluGulu Frontend Web Development](https://farooq-agent.web.app/assets/images/works/large/gulugulu-frontend-web-development.jpg)
+![GuluGulu Frontend Web Development](https://farooq-agent.web.app/assets/images/works/large/8yb4x85j_work_image.jpg)

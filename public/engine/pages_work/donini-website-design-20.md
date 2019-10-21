@@ -6,4 +6,4 @@
 
 Donini Website Design 2.0.
 
-![Donini Website Design 2.0](https://farooq-agent.web.app/assets/images/works/large/donini-website-design-20.jpg)
+![Donini Website Design 2.0](https://farooq-agent.web.app/assets/images/works/large/gdyOBT00_work_image.jpg)

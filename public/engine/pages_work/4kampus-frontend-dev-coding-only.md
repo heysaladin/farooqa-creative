@@ -6,4 +6,4 @@
 
 4KAMPUS Frontend Development Coding Only.
 
-![4KAMPUS Frontend Development Coding Only](https://farooq-agent.web.app/assets/images/works/large/4kampus-frontend-dev-coding-only.jpg)
+![4KAMPUS Frontend Development Coding Only](https://farooq-agent.web.app/assets/images/works/large/0X7wYcC3_work_image.jpg)

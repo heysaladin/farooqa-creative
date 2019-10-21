@@ -6,4 +6,4 @@
 
 Bidadari Photo Manipulation.
 
-![Bidadari Photo Manipulation](https://farooq-agent.web.app/assets/images/works/large/bidadari-photo-manipulation.jpg)
+![Bidadari Photo Manipulation](https://farooq-agent.web.app/assets/images/works/large/UtTHAul0_work_image.jpg)

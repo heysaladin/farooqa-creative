@@ -6,4 +6,4 @@
 
 Brother Website Design 2.0.
 
-![Brother Website Design 2.0](https://farooq-agent.web.app/assets/images/works/large/brother-website-design-20.jpg)
+![Brother Website Design 2.0](https://farooq-agent.web.app/assets/images/works/large/5Z7LV9E4_work_image.jpg)

@@ -6,4 +6,4 @@
 
 HANA Application Concept.
 
-![HANA Application Concept](https://farooq-agent.web.app/assets/images/works/large/hana-application-concept.jpg)
+![HANA Application Concept](https://farooq-agent.web.app/assets/images/works/large/UkSyMPts_work_image.jpg)

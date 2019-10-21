@@ -6,4 +6,4 @@
 
 Danilo Pavo Website Design and Frontend Development.
 
-![Danilo Pavo Website Design and Frontend Development](https://farooq-agent.web.app/assets/images/works/large/danilo-pavo-website-design-and-frontend-development.jpg)
+![Danilo Pavo Website Design and Frontend Development](https://farooq-agent.web.app/assets/images/works/large/3HUCoTrm_work_image.jpg)

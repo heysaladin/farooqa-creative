@@ -6,4 +6,4 @@
 
 LKCNHM.
 
-![LKCNHM](https://farooq-agent.web.app/assets/images/works/large/lkcnhm.jpg)
+![LKCNHM](https://farooq-agent.web.app/assets/images/works/large/BDYKzn6j_work_image.jpg)

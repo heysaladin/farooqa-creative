@@ -6,4 +6,4 @@
 
 Orange Tech. Website Design.
 
-![Orange Tech. Website Design](https://farooq-agent.web.app/assets/images/works/large/orange-tech-website-design.jpg)
+![Orange Tech. Website Design](https://farooq-agent.web.app/assets/images/works/large/moV5z9Ft_work_image.jpg)

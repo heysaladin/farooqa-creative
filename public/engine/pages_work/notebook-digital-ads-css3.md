@@ -6,4 +6,4 @@
 
 Notebook Digital Ads. CSS3.
 
-![Notebook Digital Ads. CSS3](https://farooq-agent.web.app/assets/images/works/large/notebook-digital-ads-css3.jpg)
+![Notebook Digital Ads. CSS3](https://farooq-agent.web.app/assets/images/works/large/VbNBzdjL_work_image.jpg)

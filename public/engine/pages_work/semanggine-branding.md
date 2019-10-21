@@ -6,4 +6,4 @@
 
 Semanggine Branding.
 
-![Semanggine Branding](https://farooq-agent.web.app/assets/images/works/large/semanggine-branding.jpg)
+![Semanggine Branding](https://farooq-agent.web.app/assets/images/works/large/YpXEsVUX_work_image.jpg)

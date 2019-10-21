@@ -6,4 +6,4 @@
 
 Pak Topo Sticker.
 
-![Pak Topo Sticker](https://farooq-agent.web.app/assets/images/works/large/pak-topo-sticker.jpg)
+![Pak Topo Sticker](https://farooq-agent.web.app/assets/images/works/large/QZcfAJHH_work_image.jpg)

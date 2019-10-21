@@ -6,4 +6,4 @@
 
 SBY Layout.
 
-![SBY Layout](https://farooq-agent.web.app/assets/images/works/large/sby-layout.jpg)
+![SBY Layout](https://farooq-agent.web.app/assets/images/works/large/TYdKaWXJ_work_image.jpg)

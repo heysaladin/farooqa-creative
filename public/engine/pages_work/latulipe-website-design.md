@@ -6,4 +6,4 @@
 
 Latulipe Website Design.
 
-![Latulipe Website Design](https://farooq-agent.web.app/assets/images/works/large/latulipe-website-design.jpg)
+![Latulipe Website Design](https://farooq-agent.web.app/assets/images/works/large/ESVI8BUV_work_image.jpg)

@@ -6,4 +6,4 @@
 
 Ferrous Brand Value and Guidelines.
 
-![Ferrous Brand Value and Guidelines](https://farooq-agent.web.app/assets/images/works/large/ferrous-brand-value-and-guidelines.jpg)
+![Ferrous Brand Value and Guidelines](https://farooq-agent.web.app/assets/images/works/large/pjx2gGpV_work_image.jpg)

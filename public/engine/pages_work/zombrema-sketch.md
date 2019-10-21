@@ -6,4 +6,4 @@
 
 Zombrema Sketch.
 
-![Zombrema Sketch](https://farooq-agent.web.app/assets/images/works/large/zombrema-sketch.jpg)
+![Zombrema Sketch](https://farooq-agent.web.app/assets/images/works/large/TTwEbvoY_work_image.jpg)

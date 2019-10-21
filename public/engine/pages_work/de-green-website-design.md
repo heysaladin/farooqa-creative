@@ -6,4 +6,4 @@
 
 De Green Website Design.
 
-![De Green Website Design](https://farooq-agent.web.app/assets/images/works/large/de-green-website-design.jpg)
+![De Green Website Design](https://farooq-agent.web.app/assets/images/works/large/ElaNduwu_work_image.jpg)

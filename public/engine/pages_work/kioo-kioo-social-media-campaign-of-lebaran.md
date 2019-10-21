@@ -6,4 +6,4 @@
 
 KIOO KIOO Social Media Campaign of Lebaran.
 
-![KIOO KIOO Social Media Campaign of Lebaran](https://farooq-agent.web.app/assets/images/works/large/kioo-kioo-social-media-campaign-of-lebaran.jpg)
+![KIOO KIOO Social Media Campaign of Lebaran](https://farooq-agent.web.app/assets/images/works/large/dbKem6ga_work_image.jpg)

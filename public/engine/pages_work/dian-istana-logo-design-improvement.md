@@ -6,4 +6,4 @@
 
 Dian Istana Logo Design Improvement.
 
-![Dian Istana Logo Design Improvement](https://farooq-agent.web.app/assets/images/works/large/dian-istana-logo-design-improvement.jpg)
+![Dian Istana Logo Design Improvement](https://farooq-agent.web.app/assets/images/works/large/31CRDdij_work_image.jpg)

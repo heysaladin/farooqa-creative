@@ -6,4 +6,4 @@
 
 Safecare Website Design 2.0.
 
-![Safecare Website Design 2.0](https://farooq-agent.web.app/assets/images/works/large/safecare-website-design-20.jpg)
+![Safecare Website Design 2.0](https://farooq-agent.web.app/assets/images/works/large/KCfaKpDn_work_image.jpg)

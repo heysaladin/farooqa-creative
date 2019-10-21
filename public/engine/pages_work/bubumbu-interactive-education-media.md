@@ -6,4 +6,4 @@
 
 Bubumbu Interactive Education Media.
 
-![Bubumbu Interactive Education Media](https://farooq-agent.web.app/assets/images/works/large/bubumbu-interactive-education-media.jpg)
+![Bubumbu Interactive Education Media](https://farooq-agent.web.app/assets/images/works/large/cMLsQat3_work_image.jpg)

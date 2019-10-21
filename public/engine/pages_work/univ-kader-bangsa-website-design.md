@@ -6,4 +6,4 @@
 
 Univ. Kader Bangsa Website Design.
 
-![Univ. Kader Bangsa Website Design](https://farooq-agent.web.app/assets/images/works/large/univ-kader-bangsa-website-design.jpg)
+![Univ. Kader Bangsa Website Design](https://farooq-agent.web.app/assets/images/works/large/MK9khiqO_work_image.jpg)

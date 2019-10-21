@@ -6,4 +6,4 @@
 
 Ledtron Packaging Design.
 
-![Ledtron Packaging Design](https://farooq-agent.web.app/assets/images/works/large/ledtron-packaging-design.jpg)
+![Ledtron Packaging Design](https://farooq-agent.web.app/assets/images/works/large/cPxTb9QG_work_image.jpg)

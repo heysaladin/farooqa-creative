@@ -6,4 +6,4 @@
 
 Alien Octopus Character Design.
 
-![Alien Octopus Character Design](https://farooq-agent.web.app/assets/images/works/large/alien-octopus-character-design.jpg)
+![Alien Octopus Character Design](https://farooq-agent.web.app/assets/images/works/large/hn4HxM8R_work_image.jpg)

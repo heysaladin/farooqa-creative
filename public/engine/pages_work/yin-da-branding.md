@@ -6,4 +6,4 @@
 
 Yin-Da Branding.
 
-![Yin-Da Branding](https://farooq-agent.web.app/assets/images/works/large/yin-da-branding.jpg)
+![Yin-Da Branding](https://farooq-agent.web.app/assets/images/works/large/a2mcSgYa_work_image.jpg)

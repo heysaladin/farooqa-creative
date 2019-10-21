@@ -6,4 +6,4 @@
 
 KREATE Website Design.
 
-![KREATE Website Design](https://farooq-agent.web.app/assets/images/works/large/kreate-website-design.jpg)
+![KREATE Website Design](https://farooq-agent.web.app/assets/images/works/large/QgMuf4vT_work_image.jpg)

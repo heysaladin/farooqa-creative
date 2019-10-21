@@ -6,4 +6,4 @@
 
 Giring Kambing.
 
-![Giring Kambing](https://farooq-agent.web.app/assets/images/works/large/giring-kambing.jpg)
+![Giring Kambing](https://farooq-agent.web.app/assets/images/works/large/YGLfq7No_work_image.jpg)

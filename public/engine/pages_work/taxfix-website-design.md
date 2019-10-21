@@ -6,4 +6,4 @@
 
 Taxfix Website Design.
 
-![Taxfix Website Design](https://farooq-agent.web.app/assets/images/works/large/taxfix-website-design.jpg)
+![Taxfix Website Design](https://farooq-agent.web.app/assets/images/works/large/qdrAsJob_work_image.jpg)

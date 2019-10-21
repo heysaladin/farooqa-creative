@@ -6,4 +6,4 @@
 
 Welco Logo Guideline.
 
-![Welco Logo Guideline](https://farooq-agent.web.app/assets/images/works/large/welco-logo-guideline.jpg)
+![Welco Logo Guideline](https://farooq-agent.web.app/assets/images/works/large/2paQkfmi_work_image.jpg)

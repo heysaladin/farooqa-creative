@@ -6,4 +6,4 @@
 
 Jatim Elctronic Data Icon.
 
-![Jatim Elctronic Data Icon](https://farooq-agent.web.app/assets/images/works/large/jatim-elctronic-data-icon.jpg)
+![Jatim Elctronic Data Icon](https://farooq-agent.web.app/assets/images/works/large/vlBUtgck_work_image.jpg)

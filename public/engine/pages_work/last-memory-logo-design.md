@@ -6,4 +6,4 @@
 
 Last Memory Logo Design.
 
-![Last Memory Logo Design](https://farooq-agent.web.app/assets/images/works/large/last-memory-logo-design.jpg)
+![Last Memory Logo Design](https://farooq-agent.web.app/assets/images/works/large/qh4hvY2u_work_image.jpg)

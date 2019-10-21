@@ -6,4 +6,4 @@
 
 Pak Pos Illustration.
 
-![Pak Pos Illustration](https://farooq-agent.web.app/assets/images/works/large/pak-pos-illustration.jpg)
+![Pak Pos Illustration](https://farooq-agent.web.app/assets/images/works/large/BvEFMZJm_work_image.jpg)

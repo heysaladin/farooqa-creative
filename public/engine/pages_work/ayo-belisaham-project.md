@@ -6,4 +6,4 @@
 
 Ayo Belisaham Project.
 
-![Ayo Belisaham Project](https://farooq-agent.web.app/assets/images/works/large/ayo-belisaham-project.jpg)
+![Ayo Belisaham Project](https://farooq-agent.web.app/assets/images/works/large/J54DT7Nc_work_image.jpg)

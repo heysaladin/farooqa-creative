@@ -6,4 +6,4 @@
 
 IDN Times 4.0.
 
-![IDN Times 4.0](https://farooq-agent.web.app/assets/images/works/large/idn-times-40.jpg)
+![IDN Times 4.0](https://farooq-agent.web.app/assets/images/works/large/h3slJWTU_work_image.jpg)

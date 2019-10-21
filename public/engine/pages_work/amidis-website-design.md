@@ -6,4 +6,4 @@
 
 Amidis Website Design.
 
-![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/large/amidis-website-design.jpg)
+![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/large/NNQUZYLj_work_image.jpg)

@@ -6,4 +6,4 @@
 
 Deteksi Website Design.
 
-![Deteksi Website Design](https://farooq-agent.web.app/assets/images/works/large/deteksi-website-design.jpg)
+![Deteksi Website Design](https://farooq-agent.web.app/assets/images/works/large/FqKF6i7Z_work_image.jpg)

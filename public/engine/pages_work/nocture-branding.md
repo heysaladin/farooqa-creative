@@ -6,4 +6,4 @@
 
 Nocture Branding.
 
-![Nocture Branding](https://farooq-agent.web.app/assets/images/works/large/nocture-branding.jpg)
+![Nocture Branding](https://farooq-agent.web.app/assets/images/works/large/nLXidNgf_work_image.jpg)

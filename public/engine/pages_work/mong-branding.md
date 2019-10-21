@@ -6,4 +6,4 @@
 
 MONG Branding.
 
-![MONG Branding](https://farooq-agent.web.app/assets/images/works/large/mong-branding.jpg)
+![MONG Branding](https://farooq-agent.web.app/assets/images/works/large/4vFMph3l_work_image.jpg)

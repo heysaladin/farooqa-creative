@@ -6,4 +6,4 @@
 
 Geonk Newspaper.
 
-![Geonk Newspaper](https://farooq-agent.web.app/assets/images/works/large/geonk-newspaper.jpg)
+![Geonk Newspaper](https://farooq-agent.web.app/assets/images/works/large/AvEFMZJm_work_image.jpg)

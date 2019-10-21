@@ -6,4 +6,4 @@
 
 FUFA Frontend Web Development.
 
-![FUFA Frontend Web Development](https://farooq-agent.web.app/assets/images/works/large/fufa-frontend-web-development.jpg)
+![FUFA Frontend Web Development](https://farooq-agent.web.app/assets/images/works/large/WfV9r5Wm_work_image.jpg)

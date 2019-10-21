@@ -6,4 +6,4 @@
 
 Suroboyo.org Website Design & Frontend Dev.
 
-![Suroboyo.org Website Design & Frontend Dev.](https://farooq-agent.web.app/assets/images/works/large/suroboyoorg-website-design-frontend-dev.jpg)
+![Suroboyo.org Website Design & Frontend Dev.](https://farooq-agent.web.app/assets/images/works/large/V7fvqktM_work_image.jpg)

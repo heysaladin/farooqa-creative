@@ -6,4 +6,4 @@
 
 Beer Lover Character Design.
 
-![Beer Lover Character Design](https://farooq-agent.web.app/assets/images/works/large/beer-lover-character-design.jpg)
+![Beer Lover Character Design](https://farooq-agent.web.app/assets/images/works/large/Xo4TxRrJ_work_image.jpg)

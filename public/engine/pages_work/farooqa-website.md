@@ -6,4 +6,4 @@
 
 Farooqa Website.
 
-![Farooqa Website](https://farooq-agent.web.app/assets/images/works/large/farooqa-website.jpg)
+![Farooqa Website](https://farooq-agent.web.app/assets/images/works/large/fqnW90nR_work_image.jpg)

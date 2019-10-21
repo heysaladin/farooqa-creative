@@ -6,4 +6,4 @@
 
 Pelindo III website design.
 
-![Pelindo III website design](https://farooq-agent.web.app/assets/images/works/large/pelindo-iii-website-design.jpg)
+![Pelindo III website design](https://farooq-agent.web.app/assets/images/works/large/5Qrdew31_work_image.jpg)

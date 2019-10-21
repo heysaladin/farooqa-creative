@@ -6,4 +6,4 @@
 
 Corporate Business Brochure.
 
-![Corporate Business Brochure](https://farooq-agent.web.app/assets/images/works/large/corporate-business-brochure.jpg)
+![Corporate Business Brochure](https://farooq-agent.web.app/assets/images/works/large/s2Sev9hP_work_image.jpg)

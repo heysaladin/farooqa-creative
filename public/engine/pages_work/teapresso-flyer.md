@@ -6,4 +6,4 @@
 
 Teapresso Flyer.
 
-![Teapresso Flyer](https://farooq-agent.web.app/assets/images/works/large/teapresso-flyer.jpg)
+![Teapresso Flyer](https://farooq-agent.web.app/assets/images/works/large/kzsxStpE_work_image.jpg)

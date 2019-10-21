@@ -6,4 +6,4 @@
 
 KREATE App UI Design.
 
-![KREATE App UI Design](https://farooq-agent.web.app/assets/images/works/large/kreate-app-ui-design.jpg)
+![KREATE App UI Design](https://farooq-agent.web.app/assets/images/works/large/syWPFwQv_work_image.jpg)

@@ -6,4 +6,4 @@
 
 Gladysnatalia Website Design.
 
-![Gladysnatalia Website Design](https://farooq-agent.web.app/assets/images/works/large/gladysnatalia-website-design.jpg)
+![Gladysnatalia Website Design](https://farooq-agent.web.app/assets/images/works/large/yxW0iFmG_work_image.jpg)

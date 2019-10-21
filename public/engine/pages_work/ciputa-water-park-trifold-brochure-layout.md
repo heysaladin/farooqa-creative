@@ -6,4 +6,4 @@
 
 Ciputa Water Park Trifold Brochure Layout.
 
-![Ciputa Water Park Trifold Brochure Layout](https://farooq-agent.web.app/assets/images/works/large/ciputa-water-park-trifold-brochure-layout.jpg)
+![Ciputa Water Park Trifold Brochure Layout](https://farooq-agent.web.app/assets/images/works/large/O2XC7OM0_work_image.jpg)

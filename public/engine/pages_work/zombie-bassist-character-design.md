@@ -6,4 +6,4 @@
 
 Zombie Bassist Character Design.
 
-![Zombie Bassist Character Design](https://farooq-agent.web.app/assets/images/works/large/zombie-bassist-character-design.jpg)
+![Zombie Bassist Character Design](https://farooq-agent.web.app/assets/images/works/large/rYhfgWJw_work_image.jpg)

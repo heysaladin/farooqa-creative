@@ -6,4 +6,4 @@
 
 TECHINNOVATION.
 
-![TECHINNOVATION](https://farooq-agent.web.app/assets/images/works/large/techinnovation.jpg)
+![TECHINNOVATION](https://farooq-agent.web.app/assets/images/works/large/cwE8r2Tk_work_image.jpg)

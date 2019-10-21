@@ -6,4 +6,4 @@
 
 SBY Website Design.
 
-![SBY Website Design](https://farooq-agent.web.app/assets/images/works/large/sby-website-design.jpg)
+![SBY Website Design](https://farooq-agent.web.app/assets/images/works/large/fkiFKacN_work_image.jpg)

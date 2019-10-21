@@ -6,4 +6,4 @@
 
 Kadologi App UI Design.
 
-![Kadologi App UI Design](https://farooq-agent.web.app/assets/images/works/large/kadologi-app-ui-design.jpg)
+![Kadologi App UI Design](https://farooq-agent.web.app/assets/images/works/large/rRMA8ULL_work_image.jpg)

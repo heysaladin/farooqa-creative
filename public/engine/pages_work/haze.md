@@ -6,4 +6,4 @@
 
 HAZE.
 
-![HAZE](https://farooq-agent.web.app/assets/images/works/large/haze.jpg)
+![HAZE](https://farooq-agent.web.app/assets/images/works/large/ge10XmE3_work_image.jpg)

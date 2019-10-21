@@ -6,4 +6,4 @@
 
 Dr. Ratna Website Design.
 
-![Dr. Ratna Website Design](https://farooq-agent.web.app/assets/images/works/large/dr-ratna-website-design.jpg)
+![Dr. Ratna Website Design](https://farooq-agent.web.app/assets/images/works/large/Jju2BnsG_work_image.jpg)

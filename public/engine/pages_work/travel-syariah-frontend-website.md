@@ -6,4 +6,4 @@
 
 Travel Syariah Frontend Website.
 
-![Travel Syariah Frontend Website](https://farooq-agent.web.app/assets/images/works/large/travel-syariah-frontend-website.jpg)
+![Travel Syariah Frontend Website](https://farooq-agent.web.app/assets/images/works/large/Rprhqg8k_work_image.jpg)

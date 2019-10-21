@@ -6,4 +6,4 @@
 
 Star Blue Business Card.
 
-![Star Blue Business Card](https://farooq-agent.web.app/assets/images/works/large/star-blue-business-card.jpg)
+![Star Blue Business Card](https://farooq-agent.web.app/assets/images/works/large/Oc9KHnKQ_work_image.jpg)

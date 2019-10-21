@@ -6,4 +6,4 @@
 
 Energen POI Redesign 3D.
 
-![Energen POI Redesign 3D](https://farooq-agent.web.app/assets/images/works/large/energen-poi-redesign-3d.jpg)
+![Energen POI Redesign 3D](https://farooq-agent.web.app/assets/images/works/large/xBRShVvY_work_image.jpg)

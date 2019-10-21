@@ -6,4 +6,4 @@
 
 One be You - Frontend Web Development.
 
-![One be You - Frontend Web Development](https://farooq-agent.web.app/assets/images/works/large/one-be-you-frontend-web-development.jpg)
+![One be You - Frontend Web Development](https://farooq-agent.web.app/assets/images/works/large/kfdWcO6B_work_image.jpg)

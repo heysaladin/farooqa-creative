@@ -6,4 +6,4 @@
 
 Maspion Website Design.
 
-![Maspion Website Design](https://farooq-agent.web.app/assets/images/works/large/maspion-website-design.jpg)
+![Maspion Website Design](https://farooq-agent.web.app/assets/images/works/large/QN7khuOA_work_image.jpg)

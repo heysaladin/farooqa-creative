@@ -6,4 +6,4 @@
 
 Dian Istana Billboard.
 
-![Dian Istana Billboard](https://farooq-agent.web.app/assets/images/works/large/dian-istana-billboard.jpg)
+![Dian Istana Billboard](https://farooq-agent.web.app/assets/images/works/large/usKR1Yug_work_image.jpg)

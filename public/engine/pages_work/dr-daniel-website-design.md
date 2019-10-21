@@ -6,4 +6,4 @@
 
 Dr. Daniel Website Design.
 
-![Dr. Daniel Website Design](https://farooq-agent.web.app/assets/images/works/large/dr-daniel-website-design.jpg)
+![Dr. Daniel Website Design](https://farooq-agent.web.app/assets/images/works/largeiwjqr1lJ_work_image.jpg)

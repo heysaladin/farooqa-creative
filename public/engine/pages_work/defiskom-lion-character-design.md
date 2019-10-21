@@ -6,4 +6,4 @@
 
 Defiskom Lion Character Design.
 
-![Defiskom Lion Character Design](https://farooq-agent.web.app/assets/images/works/large/defiskom-lion-character-design.jpg)
+![Defiskom Lion Character Design](https://farooq-agent.web.app/assets/images/works/large/5zM00KHm_work_image.jpg)

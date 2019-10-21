@@ -8,4 +8,4 @@ Lestari
 
 Shake Club House Social Media Marketing.
 
-![Shake Club House Social Media Marketing](https://farooq-agent.web.app/assets/images/works/large/shake-club-house-social-media-marketing.jpg)
+![Shake Club House Social Media Marketing](https://farooq-agent.web.app/assets/images/works/large/S81swfwM_work_image.jpg)

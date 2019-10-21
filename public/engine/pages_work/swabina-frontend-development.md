@@ -6,4 +6,4 @@
 
 Swabina Frontend Development.
 
-![Swabina Frontend Development](https://farooq-agent.web.app/assets/images/works/large/swabina-frontend-development.jpg)
+![Swabina Frontend Development](https://farooq-agent.web.app/assets/images/works/large/azKaxl36_work_image.jpg)

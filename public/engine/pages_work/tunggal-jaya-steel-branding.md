@@ -6,4 +6,4 @@
 
 Tunggal Jaya Steel Branding.
 
-![Tunggal Jaya Steel Branding](https://farooq-agent.web.app/assets/images/works/large/tunggal-jaya-steel-branding.jpg)
+![Tunggal Jaya Steel Branding](https://farooq-agent.web.app/assets/images/works/large/fO2zMMIq_work_image.jpg)

@@ -6,4 +6,4 @@
 
 Aisyira Website Design.
 
-![Aisyira Website Design](https://farooq-agent.web.app/assets/images/works/large/aisyira-website-design.jpg)
+![Aisyira Website Design](https://farooq-agent.web.app/assets/images/works/large/k5UeVzyZ_work_image.jpg)

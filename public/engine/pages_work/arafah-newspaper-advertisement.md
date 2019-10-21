@@ -6,4 +6,4 @@
 
 Arafah Newspaper Advertisement.
 
-![Arafah Newspaper Advertisement](https://farooq-agent.web.app/assets/images/works/large/arafah-newspaper-advertisement.jpg)
+![Arafah Newspaper Advertisement](https://farooq-agent.web.app/assets/images/works/large/FfZJcslm_work_image.jpg)

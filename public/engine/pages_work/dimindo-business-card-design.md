@@ -6,4 +6,4 @@
 
 DIMINDO Business Card Design.
 
-![DIMINDO Business Card Design](https://farooq-agent.web.app/assets/images/works/large/dimindo-business-card-design.jpg)
+![DIMINDO Business Card Design](https://farooq-agent.web.app/assets/images/works/large/xyVob9JL_work_image.jpg)

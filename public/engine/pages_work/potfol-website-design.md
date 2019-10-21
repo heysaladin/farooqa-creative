@@ -6,4 +6,4 @@
 
 PotFol Website Design.
 
-![PotFol Website Design](https://farooq-agent.web.app/assets/images/works/large/potfol-website-design.jpg)
+![PotFol Website Design](https://farooq-agent.web.app/assets/images/works/large/5C7TMcoQ_work_image.jpg)

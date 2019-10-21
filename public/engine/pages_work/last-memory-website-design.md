@@ -6,4 +6,4 @@
 
 Last Memory Website Design.
 
-![Last Memory Website Design](https://farooq-agent.web.app/assets/images/works/large/last-memory-website-design.jpg)
+![Last Memory Website Design](https://farooq-agent.web.app/assets/images/works/large/Wfjozuza_work_image.jpg)

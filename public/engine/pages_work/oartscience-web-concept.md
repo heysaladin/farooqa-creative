@@ -6,4 +6,4 @@
 
 O'artscience Web Concept.
 
-![O'artscience Web Concept](https://farooq-agent.web.app/assets/images/works/large/oartscience-web-concept.jpg)
+![O'artscience Web Concept](https://farooq-agent.web.app/assets/images/works/large/mFu3mTSV_work_image.jpg)
