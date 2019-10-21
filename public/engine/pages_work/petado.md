@@ -44,6 +44,6 @@ prototype
 
 validate
 
-![Petado Preview](https://farooq-agent.web.app/assets/images/works/small/petado.jpg)
+![Petado Preview](https://farooq-agent.web.app/assets/images/works/large/petado.jpg)
 
 <p class="caption">Petado Preview</p>
