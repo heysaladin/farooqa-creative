@@ -6,4 +6,4 @@
 
 Interior Design.
 
-![Interior Design](https://farooq-agent.web.app/assets/images/works/large/TnJWPk5J_work_image.jpg)
+![Interior Design](https://farooq-agent.web.app/assets/images/works/large/TnJWPk5J_work_image.png)

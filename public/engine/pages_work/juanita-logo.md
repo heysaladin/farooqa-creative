@@ -6,4 +6,4 @@
 
 Juanita Logo.
 
-![Juanita Logo](https://farooq-agent.web.app/assets/images/works/large/iUU75IOT_work_image.jpg)
+![Juanita Logo](https://farooq-agent.web.app/assets/images/works/large/iUU75IOT_work_image.png)

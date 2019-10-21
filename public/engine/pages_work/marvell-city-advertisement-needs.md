@@ -6,4 +6,4 @@
 
 Marvell City Advertisement Needs.
 
-![Marvell City Advertisement Needs](https://farooq-agent.web.app/assets/images/works/large/WzbjTjVN_work_image.jpg)
+![Marvell City Advertisement Needs](https://farooq-agent.web.app/assets/images/works/large/WzbjTjVN_work_image.png)

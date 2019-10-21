@@ -6,4 +6,4 @@
 
 Zombrema.
 
-![Zombrema](https://farooq-agent.web.app/assets/images/works/large/fFZNF0mp_work_image.jpg)
+![Zombrema](https://farooq-agent.web.app/assets/images/works/large/fFZNF0mp_work_image.png)

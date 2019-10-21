@@ -6,4 +6,4 @@
 
 Max Tape Branding Needs.
 
-![Max Tape Branding Needs](https://farooq-agent.web.app/assets/images/works/large/X3I1blAQ_work_image.jpg)
+![Max Tape Branding Needs](https://farooq-agent.web.app/assets/images/works/large/X3I1blAQ_work_image.png)

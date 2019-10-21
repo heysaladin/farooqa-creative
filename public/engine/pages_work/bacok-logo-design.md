@@ -6,4 +6,4 @@
 
 Bacok Logo Design.
 
-![Bacok Logo Design](https://farooq-agent.web.app/assets/images/works/large/PfmH0XO0_work_image.jpg)
+![Bacok Logo Design](https://farooq-agent.web.app/assets/images/works/large/PfmH0XO0_work_image.png)

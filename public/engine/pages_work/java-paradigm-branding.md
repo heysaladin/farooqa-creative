@@ -6,4 +6,4 @@
 
 Java Paradigm Branding.
 
-![Java Paradigm Branding](https://farooq-agent.web.app/assets/images/works/large/FwXD6UcP_work_image.jpg)
+![Java Paradigm Branding](https://farooq-agent.web.app/assets/images/works/large/FwXD6UcP_work_image.png)

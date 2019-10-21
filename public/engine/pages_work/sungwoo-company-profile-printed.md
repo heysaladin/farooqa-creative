@@ -6,4 +6,4 @@
 
 Sungwoo Company Profile - Printed.
 
-![Sungwoo Company Profile - Printed](https://farooq-agent.web.app/assets/images/works/large/floXG9HQ_work_image.jpg)
+![Sungwoo Company Profile - Printed](https://farooq-agent.web.app/assets/images/works/large/floXG9HQ_work_image.png)

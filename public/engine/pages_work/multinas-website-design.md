@@ -6,4 +6,4 @@
 
 Multinas Website Design.
 
-![Multinas Website Design](https://farooq-agent.web.app/assets/images/works/large/sVdiiT71_work_image.jpg)
+![Multinas Website Design](https://farooq-agent.web.app/assets/images/works/large/sVdiiT71_work_image.png)

@@ -6,4 +6,4 @@
 
 Antique Flyer.
 
-![Antique Flyer](https://farooq-agent.web.app/assets/images/works/large/wcFYd6rE_work_image.jpg)
+![Antique Flyer](https://farooq-agent.web.app/assets/images/works/large/wcFYd6rE_work_image.png)

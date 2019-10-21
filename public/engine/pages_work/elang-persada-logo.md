@@ -6,4 +6,4 @@
 
 Elang Persada Logo.
 
-![Elang Persada Logo](https://farooq-agent.web.app/assets/images/works/large/z9UILGv9_work_image.jpg)
+![Elang Persada Logo](https://farooq-agent.web.app/assets/images/works/large/z9UILGv9_work_image.png)

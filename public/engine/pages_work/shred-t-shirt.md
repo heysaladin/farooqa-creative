@@ -6,4 +6,4 @@
 
 Shred T-shirt.
 
-![Shred T-shirt](https://farooq-agent.web.app/assets/images/works/large/mq4dHLsK_work_image.jpg)
+![Shred T-shirt](https://farooq-agent.web.app/assets/images/works/large/mq4dHLsK_work_image.png)

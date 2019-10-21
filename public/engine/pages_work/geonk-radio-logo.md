@@ -6,4 +6,4 @@
 
 Geonk Radio Logo.
 
-![Geonk Radio Logo](https://farooq-agent.web.app/assets/images/works/large/C5hLTFMh_work_image.jpg)
+![Geonk Radio Logo](https://farooq-agent.web.app/assets/images/works/large/C5hLTFMh_work_image.png)

@@ -6,4 +6,4 @@
 
 GeoHorse Character Design.
 
-![GeoHorse Character Design](https://farooq-agent.web.app/assets/images/works/large/S7LWLcEB_work_image.jpg)
+![GeoHorse Character Design](https://farooq-agent.web.app/assets/images/works/large/S7LWLcEB_work_image.png)

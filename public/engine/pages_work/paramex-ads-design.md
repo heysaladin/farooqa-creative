@@ -6,4 +6,4 @@
 
 Paramex Ads. Design.
 
-![Paramex Ads. Design](https://farooq-agent.web.app/assets/images/works/large/TmUwGIPX_work_image.jpg)
+![Paramex Ads. Design](https://farooq-agent.web.app/assets/images/works/large/TmUwGIPX_work_image.png)

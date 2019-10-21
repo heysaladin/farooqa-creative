@@ -6,4 +6,4 @@
 
 Arafah Catalog.
 
-![Arafah Catalog](https://farooq-agent.web.app/assets/images/works/large/RXmjtsRZ_work_image.jpg)
+![Arafah Catalog](https://farooq-agent.web.app/assets/images/works/large/RXmjtsRZ_work_image.png)

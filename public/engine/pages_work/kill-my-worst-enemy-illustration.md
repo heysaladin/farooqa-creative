@@ -6,4 +6,4 @@
 
 Kill My Worst Enemy Illustration.
 
-![Kill My Worst Enemy Illustration](https://farooq-agent.web.app/assets/images/works/large/1LiJiu8t_work_image.jpg)
+![Kill My Worst Enemy Illustration](https://farooq-agent.web.app/assets/images/works/large/1LiJiu8t_work_image.png)

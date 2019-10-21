@@ -6,4 +6,4 @@
 
 Uneg-uneg T-shirt.
 
-![Uneg-uneg T-shirt](https://farooq-agent.web.app/assets/images/works/large/CWAXzAAp_work_image.jpg)
+![Uneg-uneg T-shirt](https://farooq-agent.web.app/assets/images/works/large/CWAXzAAp_work_image.png)

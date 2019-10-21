@@ -6,4 +6,4 @@
 
 Cap Tawon Exhibition Needs.
 
-![Cap Tawon Exhibition Needs](https://farooq-agent.web.app/assets/images/works/large/BbXf8YdB_work_image.jpg)
+![Cap Tawon Exhibition Needs](https://farooq-agent.web.app/assets/images/works/large/BbXf8YdB_work_image.png)

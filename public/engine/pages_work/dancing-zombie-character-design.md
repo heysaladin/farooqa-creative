@@ -6,4 +6,4 @@
 
 Dancing Zombie Character Design.
 
-![Dancing Zombie Character Design](https://farooq-agent.web.app/assets/images/works/large/iijD4Iqa_work_image.jpg)
+![Dancing Zombie Character Design](https://farooq-agent.web.app/assets/images/works/large/iijD4Iqa_work_image.png)

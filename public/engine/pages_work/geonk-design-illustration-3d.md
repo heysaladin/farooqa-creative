@@ -6,4 +6,4 @@
 
 Geonk design illustration 3D.
 
-![Geonk design illustration 3D](https://farooq-agent.web.app/assets/images/works/large/W8qF7pzj_work_image.jpg)
+![Geonk design illustration 3D](https://farooq-agent.web.app/assets/images/works/large/W8qF7pzj_work_image.png)

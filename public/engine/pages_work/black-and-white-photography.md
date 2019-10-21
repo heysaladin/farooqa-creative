@@ -6,4 +6,4 @@
 
 Black and White Photography.
 
-![Black and White Photography](https://farooq-agent.web.app/assets/images/works/large/gFCZavnX_work_image.jpg)
+![Black and White Photography](https://farooq-agent.web.app/assets/images/works/large/gFCZavnX_work_image.png)

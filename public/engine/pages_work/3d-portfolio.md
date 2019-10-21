@@ -6,4 +6,4 @@
 
 3D Portfolio.
 
-![3D Portfolio](https://farooq-agent.web.app/assets/images/works/large/JwkCZcPt_work_image.jpg)
+![3D Portfolio](https://farooq-agent.web.app/assets/images/works/large/JwkCZcPt_work_image.png)

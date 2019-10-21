@@ -6,4 +6,4 @@
 
 Mulyono Illustration Inverse Color.
 
-![Mulyono Illustration Inverse Color](https://farooq-agent.web.app/assets/images/works/large/1ifBoIWt_work_image.jpg)
+![Mulyono Illustration Inverse Color](https://farooq-agent.web.app/assets/images/works/large/1ifBoIWt_work_image.png)

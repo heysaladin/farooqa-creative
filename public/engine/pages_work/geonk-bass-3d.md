@@ -6,4 +6,4 @@
 
 Geonk Bass 3D.
 
-![Geonk Bass 3D](https://farooq-agent.web.app/assets/images/works/large/7foAinlQ_work_image.jpg)
+![Geonk Bass 3D](https://farooq-agent.web.app/assets/images/works/large/7foAinlQ_work_image.png)

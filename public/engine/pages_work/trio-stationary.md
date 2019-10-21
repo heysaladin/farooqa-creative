@@ -6,4 +6,4 @@
 
 Trio Stationary.
 
-![Trio Stationary](https://farooq-agent.web.app/assets/images/works/large/xYB0FX57_work_image.jpg)
+![Trio Stationary](https://farooq-agent.web.app/assets/images/works/large/xYB0FX57_work_image.png)
