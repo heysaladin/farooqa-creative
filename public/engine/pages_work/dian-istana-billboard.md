@@ -1,0 +1,9 @@
+<p class="type">EXPLORATION</p>
+
+# Dian Istana Billboard
+
+<p class="meta">Design  /  Tuesday, March 31, 2015 12:12:34pm</p>
+
+Dian Istana Billboard.
+
+![Dian Istana Billboard](https://farooq-agent.web.app/assets/images/works/large/dian-istana-billboard.jpg)
