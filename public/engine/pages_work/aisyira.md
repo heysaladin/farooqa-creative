@@ -6,4 +6,4 @@
 
 Aisyira.
 
-![Aisyira](https://farooq-agent.web.app/assets/images/works/large/aisyira.jpg)
+![Aisyira](https://farooq-agent.web.app/assets/images/works/large/aisyira-store.jpg)
