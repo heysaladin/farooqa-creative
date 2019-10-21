@@ -1,0 +1,9 @@
+<p class="type">EXPLORATION</p>
+
+# One be You - Frontend Web Development
+
+<p class="meta">Design  /  Wednesday, October 30, 2013 7:46:21am</p>
+
+One be You - Frontend Web Development.
+
+![One be You - Frontend Web Development](https://farooq-agent.web.app/assets/images/works/large/one-be-you-frontend-web-development.jpg)

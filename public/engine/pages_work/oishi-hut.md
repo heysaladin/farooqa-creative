@@ -6,4 +6,4 @@
 
 This is exploration about app can reservation a restaurant even can monitor the meal process in queue. Until give a billing with e-money.
 
-![Oishi Hut: Restaurants Queue and Billing Monitor](https://farooq-agent.web.app/assets/images/works/small/oishi-hut.jpg)
+![Oishi Hut: Restaurants Queue and Billing Monitor](https://farooq-agent.web.app/assets/images/works/large/oishi-hut.jpg)
