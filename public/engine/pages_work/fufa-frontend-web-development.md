@@ -1,0 +1,9 @@
+<p class="type">EXPLORATION</p>
+
+# FUFA Frontend Web Development
+
+<p class="meta">Design  /  Wednesday, September 25, 2013 7:51:11am</p>
+
+FUFA Frontend Web Development.
+
+![FUFA Frontend Web Development](https://farooq-agent.web.app/assets/images/works/large/fufa-frontend-web-development.jpg)

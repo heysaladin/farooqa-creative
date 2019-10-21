@@ -1,0 +1,9 @@
+<p class="type">EXPLORATION</p>
+
+# Episode-1 Logo
+
+<p class="meta">Design  /  Wednesday, August 1, 2012 11:26:49am</p>
+
+Episode-1 Logo.
+
+![Episode-1 Logo](https://farooq-agent.web.app/assets/images/works/large/episode-1-logo.jpg)
