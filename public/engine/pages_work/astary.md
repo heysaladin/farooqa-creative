@@ -6,4 +6,4 @@
 
 Astary.
 
-![Astary](https://farooq-agent.web.app/assets/images/works/small/astary.jpg)
+![Astary](https://farooq-agent.web.app/assets/images/works/large/astary.jpg)
