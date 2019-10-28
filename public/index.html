@@ -42,6 +42,9 @@
         gtag('config', 'UA-145097646-1');
     </script>
 
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css" rel="stylesheet" />
+    <link href="./assets/style/style-slide.css" rel="stylesheet" type="text/css">
+
 </head>
 
 <body>
@@ -68,11 +71,13 @@
         </ul><button id="trigger-overlay" type="button" alt="Plan a project"></button>
     </header>
     <div id="fullpage">
-        <div class="section" id="section0" style="background: url('./assets/images/bg-dark.svg') no-repeat center center fixed; 
+        <div class="section" id="section0" style="/*
+        background: url('./assets/images/bg-dark.svg') no-repeat center center fixed; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
-        background-size: cover;">
+        background-size: cover;
+        */">
             <div class="content">
                 <!-- <h1 style="margin: 0 auto; font-family:'Museo Sans 900'; font-size: 3.25em; color: white;">
                         JUST CREATE
@@ -80,9 +85,9 @@
                         SOMETHING NEW
                     </h1> -->
                 <div>
-                    <div id="girl">
+                    <!-- <div id="girl">
                         <img src="./assets/images/boy.svg" alt="Boy" /></a>
-                    </div>
+                    </div> -->
                     <h3>
                         <!-- <svg version="1.1" class="subtitle" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 229.2 69.6" style="enable-background:new 0 0 229.2 69.6;" xml:space="preserve">
                             <defs>
@@ -136,7 +141,7 @@
                             <path class="path" clip-path="url(#websiteClip)" d="M150.24,20.5S138,26.75,136,31.75s-4.07,5,.43,13.1a9.25,9.25,0,0,1-.18,7.15c-1.75,3.5-2,9.75-7.75,5.75S134.24,42,150.24,37.5c0,0,4.41-4.3,8.51-8.6s-17.5,26-15.88,31.9L173.5,35.19,186.15,9.13s-28,50.42-25.1,51S178.75,38,195.5,41c0,0,20.9-14.33,5-15.75,0,0-26.5,15.25-17,31.25,0,0,8.5,3,18-4.5s22.5-21.2,24.75-4.1" fill="none" stroke="#FFFFFF" stroke-width="10"/>
                             <path class="path" clip-path="url(#websiteClip)" d="M171,9.13s-11.33,10.38-8,11.92,43-2.8,43-2.8" fill="none" stroke="#FFFFFF" stroke-width="13"/>
                         </svg> -->
-                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+                        <!-- <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
                             xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024px" height="768px"
                             viewBox="0 0 1024 768" enable-background="new 0 0 1024 768" xml:space="preserve">
                             <g>
@@ -412,8 +417,50 @@
                     		c0,0,34.666-29.066,42.666-68.561c0,0,200-170.494,54-294.494S-151-39,73,384c0,0-153.002,247.232,150,313
                     		c258,56,623.99,23.668,722-134c46-74,24-146,24-146" />
                             </g>
-                        </svg>
+                        </svg> -->
                     </h3>
+                    
+                    <div class="blog-slider">
+                        <div class="blog-slider__wrp swiper-wrapper">
+                          <div class="blog-slider__item swiper-slide">
+                            <div class="blog-slider__content">
+                              <span class="blog-slider__code">26 December 2019</span>
+                              <div class="blog-slider__title">Lorem Ipsum Dolor</div>
+                              <div class="blog-slider__text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptate repellendus magni illo ea animi? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptate repellendus magni illo ea animi? </div>
+                              <a href="#" class="blog-slider__button">READ MORE</a>
+                            </div>
+                            <div class="blog-slider__img">
+                              <img src="./assets/images/main-illustration.svg" alt="">
+                            </div>
+                          </div>
+                          <div class="blog-slider__item swiper-slide">
+                            <div class="blog-slider__content">
+                              <span class="blog-slider__code">26 December 2019</span>
+                              <div class="blog-slider__title">Lorem Ipsum Dolor2</div>
+                              <div class="blog-slider__text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptate repellendus magni illo ea animi?</div>
+                              <a href="#" class="blog-slider__button">READ MORE</a>
+                            </div>
+                            <div class="blog-slider__img">
+                              <img src="https://res.cloudinary.com/muhammederdem/image/upload/v1535759872/kuldar-kalvik-799168-unsplash.jpg" alt="">
+                            </div>
+                          </div>
+                          
+                          <div class="blog-slider__item swiper-slide">
+                            <div class="blog-slider__content">
+                              <span class="blog-slider__code">26 December 2019</span>
+                              <div class="blog-slider__title">Lorem Ipsum Dolor</div>
+                              <div class="blog-slider__text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptate repellendus magni illo ea animi?</div>
+                              <a href="#" class="blog-slider__button">READ MORE</a>
+                            </div>
+                            <div class="blog-slider__img">
+                              <img src="https://res.cloudinary.com/muhammederdem/image/upload/v1535759871/alessandro-capuzzi-799180-unsplash.jpg" alt="">
+                            </div>
+                          </div>
+                          
+                        </div>
+                        <div class="blog-slider__pagination"></div>
+                      </div>
+
                 </div>
             </div><a href="#services" id="arrow-down-anchor">
                 <div id="arrow-down"></div>
@@ -704,6 +751,7 @@
 
         #section0 .fp-tableCell .content>div {
             display: block;
+            width: 100%;
         }
 
         #section .fp-tableCell .content h3 {
@@ -1078,6 +1126,24 @@
                 document.getElementById('load').innerHTML =
                     'Error loading the Firebase SDK, check the console.';
             }
+        });
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js"></script>
+    <script>
+        var swiper = new Swiper('.blog-slider', {
+        spaceBetween: 30,
+        effect: 'fade',
+        loop: true,
+        // mousewheel: {
+        //     invert: false,
+        // },
+        // autoHeight: true,
+        pagination: {
+            el: '.blog-slider__pagination',
+            clickable: true,
+        }
         });
     </script>
 
