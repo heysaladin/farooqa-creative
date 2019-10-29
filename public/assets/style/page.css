@@ -27,10 +27,12 @@ th,
 td {
 	padding: 0;
 	margin: 0;
+    font-family: 'Museo Sans 300', arial, helvetica;
 }
 
 a {
-	text-decoration: none;
+	text-decoration: none !important;
+	color: #2C2C2C !important;
 }
 
 table {

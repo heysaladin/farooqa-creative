@@ -190,6 +190,7 @@ a {
     letter-spacing: 5px;
     text-align: center;
     margin: 0 auto;
+    color: #2C2C2C;
 }
 
 .title-left {
@@ -438,13 +439,14 @@ a {
 }
 
 .siema>div h1 {
-    margin: 15px 0 10px;
-    font-family: 'Museo Sans 700';
-    font-size: 1.5em;
+    margin: 25px 0 5px !important;
+    font-family: 'Museo Sans 700' !important;
+    font-size: 1.5em !important;
 }
 
 .siema>div h3 {
-    color: #7E7E7E;
+    color: #7E7E7E !important;
+    font-size: 18px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -572,6 +574,7 @@ a {
 
 .card-caption>h3 {
     color: #7E7E7E;
+    font-size: 18px;
 }
 
 .card-caption>p {
