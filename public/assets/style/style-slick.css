@@ -335,7 +335,8 @@
 	color: #fff;
     font-family: 'Museo Sans 300', sans-serif, arial, helvetica;
 	font-weight: 700;
-	padding-top: 50px;
+	/* padding-top: 50px; */
+	margin: 0;
 }
 .ct-header p {
     font-family: 'Museo Sans 300', sans-serif, arial, helvetica;
@@ -408,6 +409,12 @@ outline: none !important;
     text-align: left;
     padding: 0 50px;
 }
+.slider-image-wrapper {
+	/* display: none; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 
 @media screen and (max-width: 768px) {
 	.container {
@@ -440,9 +447,6 @@ outline: none !important;
 		font-size: 1.5rem;
 		line-height: 1.5;
 		margin: 10px 0 20px;
-	}
-	.slider-image-wrapper {
-		/* display: none; */
 	}
 	.slider-image-wrapper img {
 		width: 100%;
