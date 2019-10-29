@@ -493,3 +493,20 @@
     margin-top: 0.75rem;
   }
 }
+
+@media screen and (max-width: 350px) {
+
+	.ct-header h1.big {
+		font-size: 1.5rem;
+		line-height: 1.25;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	  }
+	  .ct-header p {
+		font-family: "Museo Sans 300", sans-serif, arial, helvetica;
+		font-size: 1rem;
+		line-height: 1.25;
+		margin: 10px 0;
+		display: none;
+	  }
+}
