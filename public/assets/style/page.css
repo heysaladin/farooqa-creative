@@ -141,8 +141,8 @@ acronym {
 }
 
 #menu li a {
-	text-decoration: none;
-	color: #fff;
+	text-decoration: none !important;
+	color: #fff !important;
 }
 
 #menu li.active a:hover {
