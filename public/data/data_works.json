@@ -1959,6 +1959,44 @@
     }
   },
   {
+    "id": 205,
+    "meta": {
+      "lang": "en",
+      "title": "Esenja",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Esenja",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Esenja: Fresh Drink Branding Design",
+      "work_category": 7,
+      "image": "../assets/images/works/large/esenja.jpg",
+      "thumbnail": "../assets/images/works/small/esenja.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "esenja",
+      "date": "2019-11-01 17:46:14",
+      "date_update": "2019-11-01 17:46:41"
+    }
+  },
+  {
     "id": 152,
     "meta": {
       "lang": "en",
@@ -2439,6 +2477,44 @@
     }
   },
   {
+    "id": 207,
+    "meta": {
+      "lang": "en",
+      "title": "Go Ride X",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Go Ride X",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Go Ride X: Experience Riding Online Riding",
+      "work_category": 7,
+      "image": "../assets/images/works/large/go-ride-x.jpg",
+      "thumbnail": "../assets/images/works/small/go-ride-x.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "go-ride-x",
+      "date": "2019-11-01 19:46:14",
+      "date_update": "2019-11-01 19:46:41"
+    }
+  },
+  {
     "id": 161,
     "meta": {
       "lang": "en",
@@ -2474,6 +2550,44 @@
       "slug": "go-tadarus-go",
       "date": "2019-05-13 23:59:14",
       "date_update": "2019-05-13 23:59:41"
+    }
+  },
+  {
+    "id": 208,
+    "meta": {
+      "lang": "en",
+      "title": "Go Tour",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Go Tour",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Go Tour: Tour Guide Services",
+      "work_category": 7,
+      "image": "../assets/images/works/large/go-tour.jpg",
+      "thumbnail": "../assets/images/works/small/go-tour.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "go-tour",
+      "date": "2019-11-01 20:46:14",
+      "date_update": "2019-11-01 20:46:41"
     }
   },
   {
@@ -3481,6 +3595,44 @@
       "slug": "karmagroup-modern",
       "date": "2019-08-27 18:59:14",
       "date_update": "2019-08-27 18:59:41"
+    }
+  },
+  {
+    "id": 204,
+    "meta": {
+      "lang": "en",
+      "title": "Kebun Anggrek Clai",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Kebun Anggrek Clai",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Kebun Anggrek Clai: Orchid florist Branding Design",
+      "work_category": 7,
+      "image": "../assets/images/works/large/kebun-anggrek-clai.jpg",
+      "thumbnail": "../assets/images/works/small/kebun-anggrek-clai.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "kebun-anggrek-clai",
+      "date": "2019-11-01 16:46:14",
+      "date_update": "2019-11-01 16:46:41"
     }
   },
   {
@@ -5766,6 +5918,44 @@
       "slug": "siew",
       "date": "2016-11-12 04:28:49",
       "date_update": "2016-12-07 19:59:51"
+    }
+  },
+  {
+    "id": 206,
+    "meta": {
+      "lang": "en",
+      "title": "SnapOrder",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "SnapOrder",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "SnapOrder: Order in Wet Place",
+      "work_category": 7,
+      "image": "../assets/images/works/large/snaporder.jpg",
+      "thumbnail": "../assets/images/works/small/snaporder.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "snaporder",
+      "date": "2019-11-01 18:46:14",
+      "date_update": "2019-11-01 18:46:41"
     }
   },
   {
