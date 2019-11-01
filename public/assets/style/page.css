@@ -31,8 +31,8 @@ td {
 }
 
 a {
-	text-decoration: none !important;
-	color: #2C2C2C !important;
+	text-decoration: none;
+	color: #2C2C2C;
 }
 
 table {
@@ -141,8 +141,8 @@ acronym {
 }
 
 #menu li a {
-	text-decoration: none !important;
-	color: #fff !important;
+	text-decoration: none;
+	color: #fff;
 }
 
 #menu li.active a:hover {
