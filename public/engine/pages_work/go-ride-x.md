@@ -6,4 +6,4 @@
 
 Go Ride X.
 
-![Go Tadarus Go](https://farooq-agent.web.app/assets/images/works/large/go-ride-x.jpg)
+![Go Ride X](https://farooq-agent.web.app/assets/images/works/large/go-ride-x.jpg)

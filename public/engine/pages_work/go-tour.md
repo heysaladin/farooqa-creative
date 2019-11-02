@@ -6,4 +6,4 @@
 
 Go Tour.
 
-![Go Tadarus Go](https://farooq-agent.web.app/assets/images/works/large/go-tour.jpg)
+![Go Tour](https://farooq-agent.web.app/assets/images/works/large/go-tour.jpg)
