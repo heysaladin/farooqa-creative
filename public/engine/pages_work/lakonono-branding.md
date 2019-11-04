@@ -6,4 +6,4 @@
 
 Lakonono Branding.
 
-![Lakonono Branding](https://farooq-agent.web.app/assets/images/works/large/lakonono-branding.jpg)
+![Lakonono Branding](https://farooq-agent.web.app/assets/images/works/large/lakonono.jpg)
