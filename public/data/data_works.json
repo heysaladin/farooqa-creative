@@ -3965,7 +3965,7 @@
       "status": "exploration",
       "slug": "lakonono-branding",
       "date": "2019-03-18 12:01:36",
-      "date_update": "2019-03-18 14:01:24"
+      "date_update": "2019-11-04 17:51:24"
     }
   },
   {
@@ -4827,7 +4827,7 @@
       "status": "exploration",
       "slug": "oartscience-web-concept",
       "date": "2015-07-26 13:58:43",
-      "date_update": "2016-12-05 11:14:52"
+      "date_update": "2019-11-04 17:24:52"
     }
   },
   {
@@ -5542,6 +5542,82 @@
       "slug": "safecare-website-design-30",
       "date": "2014-01-10 12:28:19",
       "date_update": "2016-12-08 13:46:10"
+    }
+  },
+  {
+    "id": 210,
+    "meta": {
+      "lang": "en",
+      "title": "Saladin Before Learn Design",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Saladin Before Learn Design",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Saladin Before Learn Design.",
+      "work_category": 5,
+      "image": "../assets/images/works/large/saladin-before-learn-design.jpg",
+      "thumbnail": "../assets/images/works/small/saladin-before-learn-design.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "saladin-before-learn-design",
+      "date": "2019-11-04 15:46:14",
+      "date_update": "2019-11-04 15:16:41"
+    }
+  },
+  {
+    "id": 211,
+    "meta": {
+      "lang": "en",
+      "title": "Saladin College Works",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Saladin College Works",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Saladin College Works.",
+      "work_category": 5,
+      "image": "../assets/images/works/large/saladin-college-works.jpg",
+      "thumbnail": "../assets/images/works/small/saladin-college-works.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "saladin-college-works",
+      "date": "2019-11-04 16:46:14",
+      "date_update": "2019-11-04 16:16:41"
     }
   },
   {
@@ -6582,6 +6658,44 @@
       "slug": "trio-stationary",
       "date": "2014-10-08 12:47:31",
       "date_update": "2016-12-08 13:42:18"
+    }
+  },
+  {
+    "id": 209,
+    "meta": {
+      "lang": "en",
+      "title": "True Valet",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "True Valet",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "True Valet: Smart and Trust service for car valet.",
+      "work_category": 8,
+      "image": "../assets/images/works/large/true-valet.jpg",
+      "thumbnail": "../assets/images/works/small/true-valet.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "true-valet",
+      "date": "2019-11-04 17:46:14",
+      "date_update": "2019-11-04 17:16:41"
     }
   },
   {
