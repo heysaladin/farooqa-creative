@@ -4827,7 +4827,7 @@
       "status": "exploration",
       "slug": "oartscience-web-concept",
       "date": "2015-07-26 13:58:43",
-      "date_update": "2019-11-04 17:24:52"
+      "date_update": "2019-11-02 17:24:52"
     }
   },
   {
@@ -5085,7 +5085,7 @@
       "title": "Paramex ads. Design",
       "catogory": ["Design"],
       "bodyCopyShort": "Paramex ads. Design",
-      "work_category": 5,
+      "work_category": 12,
       "image": "../assets/images/works/large/TmUwGIPX_work_image.png",
       "thumbnail": "../assets/images/works/small/TmUwGIPX_work_image.png",
       "logo": "../assets/images/works/logo/farooqa.jpg",
@@ -5359,7 +5359,7 @@
         "Marketing", "Development"
       ],
       "bodyCopyShort": "ProGad",
-      "work_category": 10,
+      "work_category": 6,
       "image": "../assets/images/works/large/progad.jpg",
       "thumbnail": "../assets/images/works/small/progad.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
