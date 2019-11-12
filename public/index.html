@@ -1032,8 +1032,10 @@
                 if (myBooks[i].data.workOfTheMonth) {
                     var table = document.createElement("div");
                     var anchorCardCaptionSiema = document.createElement("a");
-                    anchorCardCaptionSiema.setAttribute('href', './works/' + myBooks[i].data.slug +
-                        '.html');
+                    //anchorCardCaptionSiema.setAttribute('href', './works/' + myBooks[i].data.slug + '.html');
+                    anchorCardCaptionSiema.setAttribute('href',
+                    'https://farooq-agent.web.app/stories/?type=pages_work&content=' + myBooks[i].data
+                    .slug);
                     anchorCardCaptionSiema.setAttribute('alt', myBooks[i].data.slug);
                     var card = document.createElement("div");
                     card.setAttribute('class', 'card');
@@ -1109,15 +1111,18 @@
                     var cardCaptionParagraph = document.createElement("p");
                     cardCaptionParagraph.innerHTML = myBooks[i].data.bodyCopyShort;
                     cardCaption.appendChild(cardCaptionParagraph);
-                    //var listContent = document.createElement("div");
-                    //listContent.setAttribute('class', 'list-content');
-                    //cardCaption.appendChild(listContent);
+                    var listContent = document.createElement("div");
+                    listContent.setAttribute('class', 'list-content');
+                    cardCaption.appendChild(listContent);
                     var anchorCardCaption = document.createElement("a");
                     anchorCardCaption.setAttribute('class', 'button button-ghost');
-                    anchorCardCaption.setAttribute('href', './works/' + myBooks[i].data.slug + '.html');
+                    //anchorCardCaption.setAttribute('href', './works/' + myBooks[i].data.slug + '.html');
+                    anchorCardCaption.setAttribute('href',
+                    'https://farooq-agent.web.app/stories/?type=pages_work&content=' + myBooks[i].data
+                    .slug);
                     anchorCardCaption.setAttribute('alt', myBooks[i].data.slug);
                     anchorCardCaption.innerHTML = "read more";
-                    //listContent.appendChild(anchorCardCaption);
+                    listContent.appendChild(anchorCardCaption);
                     slideWrapper.appendChild(slide);
                 }
             }
