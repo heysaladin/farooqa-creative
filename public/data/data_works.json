@@ -3665,7 +3665,7 @@
       "thumbnail": "../assets/images/works/small/kebun-anggrek-clai.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": true,
+      "onGoingWorkOfTheMonth": false,
       "isReady": true,
       "status": "exploration",
       "slug": "kebun-anggrek-clai",
