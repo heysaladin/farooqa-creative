@@ -1059,6 +1059,44 @@
     }
   },
   {
+    "id": 214,
+    "meta": {
+      "lang": "en",
+      "title": "BUMEJA Project",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "BUMEJA Project",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "BUMEJA Project.",
+      "work_category": 5,
+      "image": "../assets/images/works/large/bumeja.jpg",
+      "thumbnail": "../assets/images/works/small/bumeja.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "bumeja",
+      "date": "2019-11-11 16:46:14",
+      "date_update": "2019-11-11 16:16:41"
+    }
+  },
+  {
     "id": 172,
     "meta": {
       "lang": "en",
@@ -5411,6 +5449,44 @@
     }
   },
   {
+    "id": 213,
+    "meta": {
+      "lang": "en",
+      "title": "Ride Sharing",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Ride Sharing",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Ride Sharing.",
+      "work_category": 5,
+      "image": "../assets/images/works/large/ride-sharing.jpg",
+      "thumbnail": "../assets/images/works/small/ride-sharing.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "ride-sharing",
+      "date": "2019-11-11 15:46:14",
+      "date_update": "2019-11-11 15:16:41"
+    }
+  },
+  {
     "id": 34,
     "meta": {
       "lang": "en",
@@ -6032,6 +6108,44 @@
       "slug": "snaporder",
       "date": "2019-11-01 18:46:14",
       "date_update": "2019-11-01 18:46:41"
+    }
+  },
+  {
+    "id": 212,
+    "meta": {
+      "lang": "en",
+      "title": "Social WiFi Marketing",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Social WiFi Marketing",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Social WiFi Marketing.",
+      "work_category": 5,
+      "image": "../assets/images/works/large/social-wifi-marketing.jpg",
+      "thumbnail": "../assets/images/works/small/social-wifi-marketing.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "social-wifi-marketing",
+      "date": "2019-11-11 14:46:14",
+      "date_update": "2019-11-11 14:16:41"
     }
   },
   {
