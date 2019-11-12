@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  Friday, November 1, 2019 5:46:14pm</p>
 
-Esenja.
+Esenja, Branding for ice store.
 
 ![Esenja](https://farooq-agent.web.app/assets/images/works/details/esenja-sketch.jpg)
 
