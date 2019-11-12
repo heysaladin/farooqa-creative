@@ -4,6 +4,8 @@
 
 <p class="meta">Design  /  Monday, August 12th 2019</p>
 
+Obituary is a web application that contains information about corpse management for its members. It also contains a list of members who are nomads and people with jobs at high risk of accident.
+
 ## understand
 
 ### what

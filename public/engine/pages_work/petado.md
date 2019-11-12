@@ -6,43 +6,43 @@
 
 An application for saving and adopting abandoned domestic animals. also part of educating the public about caring for abandoned animals.
 
-## problems
+## Problems
 
 Banyak sekali binatang peliharaan di indonesia yg diteantarkan, diperlakukan kasar, tidak terawat, diabaikan. Perlu ada tindakan nyata untuk menolong mereka memperoleh kehidupan, rumah dan kasih sayang yang lebih baik.
 
-beberapa permasalahan yang ditemukan:
+Beberapa permasalahan yang ditemukan:
 
-* user kurang mendapat informasi seputar adopsi pet
-* user kesulitan mengenal pet yang akan diadopsi
-* orang yang merawat pet terlantar yang ingin mengadopsikannya ke user lain tidak tahu harus berbuat apa
-* orang yang melihat pet terlantar tidak dapat berbuat banyak untuk penyelamatan pet tersebut
+* User kurang mendapat informasi seputar adopsi pet
+* User kesulitan mengenal pet yang akan diadopsi
+* Orang yang merawat pet terlantar yang ingin mengadopsikannya ke user lain tidak tahu harus berbuat apa
+* Orang yang melihat pet terlantar tidak dapat berbuat banyak untuk penyelamatan pet tersebut
 
-## how might we
+## How Might We
 
-* membantu user untuk lebih mudah mengadopsi pet
-* membantu user mengenal profil dari pet yang akan dia adopsi
-* membantu user menemukan pet adopsi harapannya
-* membantu user melaporkan bahwa ada pet yg terlantar
-* membantu user menemukan pet yg bisa diadopsi di sekitar dia
-* membantu user memberikan data lengkap seputar pet yang bisa diadopsi oleh user lain
-* membantu user melakukan donasi untuk perawatan pet yg membutuhkan
+* Membantu user untuk lebih mudah mengadopsi pet
+* Membantu user mengenal profil dari pet yang akan dia adopsi
+* Membantu user menemukan pet adopsi harapannya
+* Membantu user melaporkan bahwa ada pet yg terlantar
+* Membantu user menemukan pet yg bisa diadopsi di sekitar dia
+* Membantu user memberikan data lengkap seputar pet yang bisa diadopsi oleh user lain
+* Membantu user melakukan donasi untuk perawatan pet yg membutuhkan
 
-## user persona
+## User Persona
 
-* the rescuer: orang yang merawat pet terlantar
-* the adopter: orang yang mengadopsi pet
-* the reporter: orang yang melaporkan bahwa ada pet yg perlu pertolongan
-* ++ the animal lover: orang yg membantu donasi, share ke sosial media dan ikut kampanya cinta hewan dan menolak animal abuse
+* The rescuer: orang yang merawat pet terlantar
+* The adopter: orang yang mengadopsi pet
+* The reporter: orang yang melaporkan bahwa ada pet yg perlu pertolongan
+* ++ The animal lover: orang yg membantu donasi, share ke sosial media dan ikut kampanya cinta hewan dan menolak animal abuse
 
-map
+## Map
 
-sketch
+## Sketch
 
-decide
+## Secide
 
-prototype
+## Prototype
 
-validate
+## Validate (Test)
 
 ![Petado Preview](https://farooq-agent.web.app/assets/images/works/large/petado.jpg)
 

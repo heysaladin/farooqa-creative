@@ -6,7 +6,7 @@
 
 Ini adalah fitur untuk mengetahui pengalaman pengguna saat menggunakan app gojek dan sub app go-ride. Fitur ini dilakukan langsung saat user menggunakan layanan go-ride.
 
-# Empathize
+## Empathize
 
 ### Problems
 
@@ -14,7 +14,7 @@ Ini adalah fitur untuk mengetahui pengalaman pengguna saat menggunakan app gojek
 - Tidak tahunya tim gojek dengan kondisi drivernya
 - User tidak dimudahkan mengemukakan pengalamannya saat menggunakan go-ride
 
-# Define
+## Define
 
 ### How Might We
 
