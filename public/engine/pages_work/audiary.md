@@ -32,6 +32,7 @@ tempat dimana kamu dapat berbagi pengalaman dan perasaan dalam hidupmu dengan ca
 * Membantu user menata rekamannya berdasarkan mood
 * Membantu user belajar ilmu kehidupan dari dalam hidup mereka sendiri
 
+## UI Designs
 
 ![Audiary](https://farooq-agent.web.app/assets/images/works/details/audiary-1.jpg)
 
