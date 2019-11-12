@@ -8,7 +8,7 @@
 
 Sebuah proyek untuk memaksimalkan fungsi dan manfaat Buku Merah Jambu (Buku Ibu dan Anak) yang diberikan oleh Dinas Kesehatan Republik Indonesia kepada ibu hamil dan akan digunakan pusat informasi dan media pencatatan tumbuh kembang janin dan anak hingga setidaknya usia lima tahun.
 
-# Empathize
+## Empathize
 
 ### Map
 
@@ -28,7 +28,7 @@ Sebuah proyek untuk memaksimalkan fungsi dan manfaat Buku Merah Jambu (Buku Ibu 
 - buku rawan hilang
 - buku rentan rusak (basah, terbakar, dimakan rayap dan kerusakan lainnya)
 
-# Define
+## Define
 
 ### How Might We
 
@@ -47,14 +47,14 @@ Sebuah proyek untuk memaksimalkan fungsi dan manfaat Buku Merah Jambu (Buku Ibu 
 
 - case study ini hanya membahas tentang buku pink dari dinas kesehatan, dan tidak membahan apa-apa yang tidak terkandung dalam isi buku pink
 
-# Ideation
+## Ideation
 
 // need teamwork
 
-# Prototype
+## Prototype
 
 // need teamwork
 
-# Validate
+## Validate
 
 // need teamwork
