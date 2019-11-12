@@ -6,4 +6,10 @@
 
 Smart solution for ride-sharing for car and motocycle.
 
-![SnapOrder](https://farooq-agent.web.app/assets/images/works/large/ride-sharing.jpg)
+![Ride Sharing](https://farooq-agent.web.app/assets/images/works/large/ride-sharing.jpg)
+
+## Empathize
+
+### Map
+
+![Ride Sharing Map](https://farooq-agent.web.app/assets/images/works/details/ride-sharing-conventional-map.jpg)
