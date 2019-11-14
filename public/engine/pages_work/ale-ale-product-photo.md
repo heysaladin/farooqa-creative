@@ -6,4 +6,4 @@
 
 Ale-Ale Product Photo.
 
-![Ale-Ale Product Photo](https://farooq-agent.web.app/assets/images/works/large/WzfGbZEC_work_image.png)
+![Ale-Ale Product Photo](https://farooq-agent.web.app/assets/images/works/details/30-ale-ale-product-photo/i60.png)

@@ -6,4 +6,4 @@
 
 The Bassist.
 
-![The Bassist](https://farooq-agent.web.app/assets/images/works/large/akaiWYLr_work_image.png)
+![The Bassist](https://farooq-agent.web.app/assets/images/works/details/38-the-bassist/i39.png)

@@ -6,4 +6,4 @@
 
 Ronggolawe Group Logo.
 
-![Ronggolawe Group Logo](https://farooq-agent.web.app/assets/images/works/large/2dtwtLAE_work_image.png)
+![Ronggolawe Group Logo](https://farooq-agent.web.app/assets/images/works/details/34-ronggolawe-group-logo/i5.png)

@@ -6,4 +6,8 @@
 
 Healthy Brochure.
 
-![Healthy Brochure](https://farooq-agent.web.app/assets/images/works/large/gK0XkMXS_work_image.jpg)
+![Healthy Brochure](https://farooq-agent.web.app/assets/images/works/details/67-healthy-brochure/HEALTY-BIFOLD-BROCHURE-(mock-up).jpg)
+
+![Healthy Brochure](https://farooq-agent.web.app/assets/images/works/details/67-healthy-brochure/HEALTY-BIFOLD-BROCHURE-(front+back).jpg)
+
+![Healthy Brochure](https://farooq-agent.web.app/assets/images/works/details/67-healthy-brochure/HEALTY-BIFOLD-BROCHURE-(contents).jpg)

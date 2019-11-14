@@ -6,4 +6,4 @@
 
 Gatot Kaca Character Sketch.
 
-![Gatot Kaca Character Sketch](https://farooq-agent.web.app/assets/images/works/large/Bna1SbPv_work_image.png)
+![Gatot Kaca Character Sketch](https://farooq-agent.web.app/assets/images/works/details/40-gatot-kaca-character-sketch/i29.png)

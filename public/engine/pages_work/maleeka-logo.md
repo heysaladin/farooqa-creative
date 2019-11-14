@@ -6,4 +6,6 @@
 
 Maleeka Logo.
 
+![Maleeka Logo](https://farooq-agent.web.app/assets/images/works/details/37-maleeka-logo/ANKDLM4.png)
+
 ![Maleeka Logo](https://farooq-agent.web.app/assets/images/works/large/bPYeDwer_work_image.png)

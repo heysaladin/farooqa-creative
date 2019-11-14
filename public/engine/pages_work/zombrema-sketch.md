@@ -10,4 +10,4 @@ Waktu itu saya masih awal awal berada di kota malang dengan aremanya yang sangat
 
 Konsepnya adalah sebuah karakter manusia singa yang sudah menjadi zombie.
 
-![Zombrema Sketch](https://farooq-agent.web.app/assets/images/works/large/TTwEbvoY_work_image.png)
+![Zombrema Sketch](https://farooq-agent.web.app/assets/images/works/details/39-zombrema-sketch/i36.png)
