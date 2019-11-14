@@ -12,7 +12,7 @@ Dr. Antri adalah eksplorasi desain tentang sistem antrian di sebuah klinik parak
 
 Studi kasus ini bertempat di sebuah klinik spesialis kandungan dan reproduksi. Klinik tersebut cukup ramai, karena dokter yang menangani terkenal ramah dan sangat berkompeten dalam bidangnya.Walaupun demikian, bukan berarti klinik ini tanpa persoalan. Nah, di sinilah letak keseruannya. Mari kita bantu menemukan solusi untuk persoalan-persoalan tersebut.
 
-![Dr. Antri](https://farooq-agent.web.app/assets/images/works/details/dr-antri-photo.jpg)
+![Dr. Antri](https://farooq-agent.web.app/assets/images/works/details/163-dr-antri/dr-antri-photo.jpg)
 
 ### Problems
 
@@ -20,7 +20,7 @@ Persoalan-persoalan tersebut antara lain:1. Waktu buka antrian tidak jelas. Kada
 
 ## Map
 
-![Dr. Antri](https://farooq-agent.web.app/assets/images/works/details/dr-antri-map.jpg)
+![Dr. Antri](https://farooq-agent.web.app/assets/images/works/details/163-dr-antri/dr-antri-map.jpg)
 
 ### How Might We
 
@@ -32,11 +32,11 @@ Apa yang dapat kita lakukan?
 
 Ini hanya eksplorasi desain, ide ini dapat dikembangkan lebih jauh lagi dan disesuaikan dengan kondisi klinik yang mengimplementasikan ide ini.
 
-![Dr. Antri](https://farooq-agent.web.app/assets/images/works/details/dr-antri-sketch.jpg)
+![Dr. Antri](https://farooq-agent.web.app/assets/images/works/details/163-dr-antri/dr-antri-sketch.jpg)
 
 <p class="caption">Dr. Antri Sketch</p>
 
-![Dr. Antri](https://farooq-agent.web.app/assets/images/works/details/dr-antri-rejected.jpg)
+![Dr. Antri](https://farooq-agent.web.app/assets/images/works/details/163-dr-antri/dr-antri-rejected.jpg)
 
 <p class="caption">Dr. Antri Rejected Design (too much)</p>
 

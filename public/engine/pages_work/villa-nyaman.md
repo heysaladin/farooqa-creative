@@ -6,7 +6,7 @@
 
 Eksplorasi desain web villa one page desktop dan mobile version.
 
-![Villa Nyaman Web Design](https://farooq-agent.web.app/assets/images/works/details/villa-nyaman-web-design.png)
+![Villa Nyaman Web Design](https://farooq-agent.web.app/assets/images/works/details/179-villa-nyaman/villa-nyaman-web-design.png)
 
 <p class="caption">Villa Nyaman Web Design</p>
 

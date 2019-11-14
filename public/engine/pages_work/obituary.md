@@ -36,4 +36,6 @@ jadi, perlu adanya sistem yang mempermudah pengurusan jenazah terutama pada kond
 * adanya sistem dimana user dapat menaruh dan menyiapkan sejumlah uang darurat yang jika kondisi darurat dapat dipakai untuk perawatan user itu sendiri dikala ada musibah
 * adanya sistem yang dapat mengajak tempat tempat khusus seperti tempat pengurusan jenazah, rumah sakit, klinik kesehatan, tempat ibadah dan lain sebagainya untuk dijadikan sebagai tim siap tanggap dalam kondisi darurat dan bergerak dengan biaya oprasional dari dana yang telah dipersiapankan sebelumnya oleh si jenazah yang bersangkutan
 
+## UI Design
+
 ![Obituary](https://farooq-agent.web.app/assets/images/works/large/obituary.jpg)

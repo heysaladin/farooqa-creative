@@ -12,7 +12,7 @@ Sebuah proyek untuk memaksimalkan fungsi dan manfaat Buku Merah Jambu (Buku Ibu 
 
 ### Map
 
-![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/bumeja-conventional-map.jpg)
+![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/bumeja-conventional-map.jpg)
 
 ### Data
 

@@ -60,7 +60,7 @@ Adapula kondisi ketika kita dalam perjalanan menggunakan kendaran pribadi baik m
 
 ### Map (Conventional User Map / Current Condition)
 
-![Ride Sharing Map](https://farooq-agent.web.app/assets/images/works/details/ride-sharing-conventional-map.jpg)
+![Ride Sharing Map](https://farooq-agent.web.app/assets/images/works/details/213-ride-sharing/ride-sharing-conventional-map.jpg)
 
 
 ### Planning Session

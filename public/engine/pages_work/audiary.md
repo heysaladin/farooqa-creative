@@ -34,10 +34,10 @@ tempat dimana kamu dapat berbagi pengalaman dan perasaan dalam hidupmu dengan ca
 
 ## UI Designs
 
-![Audiary](https://farooq-agent.web.app/assets/images/works/details/audiary-1.jpg)
+![Audiary](https://farooq-agent.web.app/assets/images/works/details/173-audiary/audiary-1.jpg)
 
-![Audiary](https://farooq-agent.web.app/assets/images/works/details/audiary-2.jpg)
+![Audiary](https://farooq-agent.web.app/assets/images/works/details/173-audiary/audiary-2.jpg)
 
 ## Final Preview
 
-![Audiary](https://farooq-agent.web.app/assets/images/works/details/audiary-preview.jpg)
+![Audiary](https://farooq-agent.web.app/assets/images/works/details/173-audiary/audiary-preview.jpg)

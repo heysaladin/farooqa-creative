@@ -6,4 +6,18 @@
 
 Amidis Website Design.
 
-![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/large/NNQUZYLj_work_image.jpg)
+## Web Design v.1.0
+
+![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Website_Design-Pages-Proposal.pdf)
+
+## Web Design v.2.0
+
+![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Web_Design-small_desktop-home-side_menu.jpg)
+
+![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Web_Design-small_desktop-home-slide-2.jpg)
+
+![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Web_Design-small_desktop-home-slide-3.jpg)
+
+![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Web_Design-small_desktop-innovation.jpg)
+
+![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Web_Design-small_desktop-product.jpg)

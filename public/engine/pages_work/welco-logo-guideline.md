@@ -14,4 +14,4 @@ Brandguideline sendiri sangat penting untuj menjaga agar logo yang digunakan dal
 
 Jadi, dengan brand guideline logo dapat diterapkan dalam berbagai macam implementasi tanpa menyalahi aturan yang telah dibuat. dengan begitu orang awam dapat dengan mudah membedakan logo tersebut dengan logo lain yang mungkin mirip.
 
-![Welco Logo Guideline](https://farooq-agent.web.app/assets/images/works/details/welco-logo-guideline.jpg)
+![Welco Logo Guideline](https://farooq-agent.web.app/assets/images/works/details/2-welco-logo-guideline/welco-logo-guideline.jpg)
