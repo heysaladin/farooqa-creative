@@ -1,6 +1,6 @@
 <p class="type">EXPLORATION</p>
 
-# Pelindo III website design
+# Pelindo III Website Design
 
 <p class="meta">Design, Development  /  Tuesday, November 1, 2016 1:59:32pm</p>
 

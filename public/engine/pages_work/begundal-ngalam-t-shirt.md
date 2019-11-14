@@ -6,4 +6,4 @@
 
 Begundal Ngalam T-shirt.
 
-![Begundal Ngalam T-shirt](https://farooq-agent.web.app/assets/images/works/large/h9aDmRVZ_work_image.jpg)
+![Begundal Ngalam T-shirt](https://farooq-agent.web.app/assets/images/works/details/70-begundal-ngalam-t-shirt/begunadal kaos.jpg)

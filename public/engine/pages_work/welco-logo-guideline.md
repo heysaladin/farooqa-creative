@@ -20,6 +20,5 @@ Tools:
 - Adobe Illustrator
 
 Copyright 2014
-
 - [Trio Digital Agency](https://triodigitalagency.com/)
 - [Welco](http://welco.co.id/)

@@ -8,4 +8,4 @@ Ini adalah eksplorasi desain logo dan kartu nama. saat itu saya sedang belajar d
 
 Saya sedang giat giatnya belajar desian cetak waktu itu, tentang warna cetak, ketas hingga jarak aman area kertas yang akan dipotong nantinya. serus deh.
 
-![Star Blue Business Card](https://farooq-agent.web.app/assets/images/works/large/Oc9KHnKQ_work_image.png)
+![Star Blue Business Card](https://farooq-agent.web.app/assets/images/works/details/69-star-blue-business-card/bin1.png)

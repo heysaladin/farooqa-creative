@@ -10,4 +10,4 @@ Konsep dari artwork ini adalah zombie dan arema (arek malang) dimana arema terke
 
 Tantangannya adalah bagaimana membuat seorang manusia singa yang telah menjadi zombie dengan look agak kartun.
 
-![Zombrema](https://farooq-agent.web.app/assets/images/works/large/fFZNF0mp_work_image.png)
+![Zombrema](https://farooq-agent.web.app/assets/images/works/details/61-zombrema/i56.png)

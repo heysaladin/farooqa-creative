@@ -6,4 +6,4 @@
 
 Bakso Burger Sandwich T-shirt.
 
-![Bakso Burger Sandwich T-shirt](https://farooq-agent.web.app/assets/images/works/large/jDIWQR6Z_work_image.png)
+![Bakso Burger Sandwich T-shirt](https://farooq-agent.web.app/assets/images/works/details/62-bakso-burger-sandwich-t-shirt/i55.png)

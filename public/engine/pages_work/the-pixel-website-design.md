@@ -6,4 +6,4 @@
 
 The Pixel Website Design.
 
-![The Pixel Website Design](https://farooq-agent.web.app/assets/images/works/large/0qUmt8MF_work_image.png)
+![The Pixel Website Design](https://farooq-agent.web.app/assets/images/works/details/52-the-pixel-website-design/i113.png)

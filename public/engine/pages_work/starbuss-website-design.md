@@ -6,4 +6,4 @@
 
 StarBuss Website Design.
 
-![StarBuss Website Design](https://farooq-agent.web.app/assets/images/works/large/dfMuvUjA_work_image.jpg)
+![StarBuss Website Design](https://farooq-agent.web.app/assets/images/works/details/55-starbuss-website-design/corporate.jpg)

@@ -26,6 +26,5 @@ Tools:
 - Adobe Photoshop
 
 Copyright 2014
-
 - [Trio Digital Agency](https://triodigitalagency.com/)
 - [Zoom Smart Hotel](https://zoomsmarthotels.com/)

@@ -6,4 +6,4 @@
 
 Lady's Park Sticker.
 
-![Lady's Park Sticker](https://farooq-agent.web.app/assets/images/works/large/mK5TjtfG_work_image.png)
+![Lady's Park Sticker](https://farooq-agent.web.app/assets/images/works/details/66-ladys-park-sticker/i16.png)

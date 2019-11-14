@@ -6,4 +6,4 @@
 
 Crossfit Eclipse T-shirt.
 
-![Crossfit Eclipse T-shirt](https://farooq-agent.web.app/assets/images/works/large/zrADdy0b_work_image.png)
+![Crossfit Eclipse T-shirt](https://farooq-agent.web.app/assets/images/works/details/65-crossfit-eclipse-t-shirt/i50.png)
