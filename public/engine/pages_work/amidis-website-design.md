@@ -8,7 +8,11 @@ Amidis Website Design.
 
 ## Web Design v.1.0
 
-![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Website_Design-Pages-Proposal.pdf)
+<object data="https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Website_Design-Pages-Proposal.pdf" type="application/pdf" width="" height="">
+    <embed src="https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Website_Design-Pages-Proposal.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Website_Design-Pages-Proposal.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## Web Design v.2.0
 
