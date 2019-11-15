@@ -41,3 +41,6 @@ Honorable mention: [Pratama Andry](https://www.facebook.com/ayahkode?__tn__=%2Cd
 [#janganmalasmikirsolusi](https://www.facebook.com/hashtag/janganmalasmikirsolusi?source=feed_text&epa=HASHTAG) [#lihatsekitar](https://www.facebook.com/hashtag/lihatsekitar?source=feed_text&epa=HASHTAG) [#ui](https://www.facebook.com/hashtag/ui?source=feed_text&epa=HASHTAG) [#ux](https://www.facebook.com/hashtag/ux?source=feed_text&epa=HASHTAG) [#design](https://www.facebook.com/hashtag/design?source=feed_text&epa=HASHTAG)
 
 ![Sejalan](https://farooq-agent.web.app/assets/images/works/large/sejalan.jpg)
+
+Tools:
+- Adobe XD

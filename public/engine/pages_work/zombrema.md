@@ -4,10 +4,13 @@
 
 <p class="meta">Design  /  Thursday, Tuesday, July 31, 2012 11:58:33am</p>
 
-Ini adalah desain ilustrasi untuk kebutuhan cetak sablon kaos.
+This is an illustration design for t-shirt screen printing needs.
 
-Konsep dari artwork ini adalah zombie dan arema (arek malang) dimana arema terkenal dengan maskot singa.
+The concept of this artwork is zombies and arema (poor arek) where arema is famous for its lion mascot.
 
-Tantangannya adalah bagaimana membuat seorang manusia singa yang telah menjadi zombie dengan look agak kartun.
+The challenge is how to make a lion man who has become a zombie with a somewhat cartoonish look.
 
 ![Zombrema](https://farooq-agent.web.app/assets/images/works/details/61-zombrema/i56.png)
+
+Tools:
+- Adobe Illustrator

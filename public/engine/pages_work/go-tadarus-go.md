@@ -12,3 +12,6 @@
 4. Memberikan fitur tracking terjemahan dari setiap ayat yang User baca
 
 ![Go Tadarus Go](https://farooq-agent.web.app/assets/images/works/large/go-tadarus-go.jpg)
+
+Tools:
+- Adobe XD

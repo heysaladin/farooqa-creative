@@ -4,10 +4,14 @@
 
 <p class="meta">Design  /  Monday, March 18, 2019 7:41:06am</p>
 
-Ini adalah eksplorasi desian logo dari sebuah coffeeshop.
+This is an exploration of the logo design of a coffee shop.
 
-Konsepnya adalah menampilkan gaya garang, kuat dan sangar tapi santai.
+The concept is to display a fierce, strong and fierce but relaxed style.
 
-Ini digambarkan dengan kepala singa yang tengah santai dengan membiarkan wajah dan rambutnya terterpa angin.
+This is illustrated by the lion's head relaxed by letting his face and hair blow into the wind.
 
 ![Wind Lion](https://farooq-agent.web.app/assets/images/works/large/wind-lion.jpg)
+
+Tools:
+- Adobe Illustrator
+- Wacom Bamboo

@@ -4,10 +4,13 @@
 
 <p class="meta">Design  /  Wednesday, June 1, 2011 11:41:09am</p>
 
-Ini adalah design yang saya buat ketika masih usia SMA, menggunakan komputer di ruang osis di sekolah.
+This is a design that I made when I was in high school, using a computer in the student council room at school.
 
-Ini merupakan logo lembaga program profesi 1 tahun dan gambar singa, yang merupakan representasi dari malang yakni kota dimana program profesi itu berada.
+This is the logo of a one-year professional program institution and a picture of a lion, which is a representation of Malang, the city where the professional program is located.
 
-Karya ini saya buat karena saya sadar agak susah melanjutkan pendidikan sampai kuliah pada waktu itu dan memilih bekerja saja, namun ikut kursus terlebih dahulu. di jurusan design grafis dan komputer.
+I created this work because I realized it was rather difficult to continue education until college at that time and chose to work alone, but took the course first. majoring in graphic design and computer.
 
 ![Defiskom Lion Character Design](https://farooq-agent.web.app/assets/images/works/large/5zM00KHm_work_image.png)
+
+Tools:
+- Corel Draw

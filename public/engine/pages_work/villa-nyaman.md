@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  Tuesday, July 16, 2019 5:59:14pm</p>
 
-Eksplorasi desain web villa one page desktop dan mobile version.
+Explore one page desktop and mobile villa web design.
 
 ![Villa Nyaman Web Design](https://farooq-agent.web.app/assets/images/works/details/179-villa-nyaman/villa-nyaman-web-design.png)
 

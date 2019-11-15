@@ -4,10 +4,13 @@
 
 <p class="meta">Design  /  Tuesday, July 31, 2012 11:37:21am</p>
 
-Ini adalah desain karakter zombie bassist band punk.
+This is a zombie bassist punk band character design.
 
-Saya adalah penyuka musik punk dari dulu hingga sekarang. mungkin akan smp kapan pun.
+I am a punk music lover from the past until now. may be in junior high school anytime.
 
-Yang seru adalah artwork ini menggabungkan antara konsep keren, seram dan kucu dalam satu kesatuan.
+What's fun is that this artwork combines cool concepts, scary and grandchildren in one unit.
 
 ![Zombie Bassist Character Design](https://farooq-agent.web.app/assets/images/works/large/rYhfgWJw_work_image.png)
+
+Tools:
+- Adobe Illustrator

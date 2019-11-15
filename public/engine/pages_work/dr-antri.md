@@ -45,3 +45,6 @@ Ini hanya eksplorasi desain, ide ini dapat dikembangkan lebih jauh lagi dan dise
 ![Dr. Antri](https://farooq-agent.web.app/assets/images/works/large/dr-antri.jpg)
 
 <p class="caption">Dr. Antri UI Design</p>
+
+Tools:
+- Adobe XD
