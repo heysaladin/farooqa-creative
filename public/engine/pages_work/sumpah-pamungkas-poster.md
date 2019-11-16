@@ -6,4 +6,10 @@
 
 Sumpah Pamungkas Poster.
 
-![Sumpah Pamungkas Poster](https://farooq-agent.web.app/assets/images/works/large/90bcF2tw_work_image.png)
+![Sumpah Pamungkas Poster](https://farooq-agent.web.app/assets/images/works/details/60-sumpah-pamungkas-poster/i68.png)
+
+![Sumpah Pamungkas Poster](https://farooq-agent.web.app/assets/images/works/details/60-sumpah-pamungkas-poster/i67.png)
+
+![Sumpah Pamungkas Poster](https://farooq-agent.web.app/assets/images/works/details/60-sumpah-pamungkas-poster/i66.png)
+
+![Sumpah Pamungkas Poster](https://farooq-agent.web.app/assets/images/works/details/60-sumpah-pamungkas-poster/i77.png)

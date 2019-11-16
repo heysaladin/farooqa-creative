@@ -23,7 +23,3 @@ Energen POI Redesign 3D.
 ## Billboard Design
 
 ![Energen POI Redesign 3D](https://farooq-agent.web.app/assets/images/works/details/27-energen-poi-redesign-3d/energen-billboard.jpg)
-
-## Final Preview
-
-![Energen POI Redesign 3D](https://farooq-agent.web.app/assets/images/works/large/xBRShVvY_work_image.png)

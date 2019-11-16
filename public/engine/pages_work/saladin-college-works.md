@@ -26,8 +26,6 @@ These are some of the works (which I still found) that I made when I started stu
 
 ![Saladin College Works](https://farooq-agent.web.app/assets/images/works/details/211-saladin-college-works/i14.png)
 
-![Saladin College Works](https://farooq-agent.web.app/assets/images/works/details/211-saladin-college-works/kocheng-oren.jpg)
-
 ![Saladin College Works](https://farooq-agent.web.app/assets/images/works/details/211-saladin-college-works/tattoo-neck.jpg)
 
 ![Saladin College Works](https://farooq-agent.web.app/assets/images/works/details/211-saladin-college-works/java-text.jpg)

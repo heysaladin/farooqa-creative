@@ -16,8 +16,6 @@
 
 ![3D Portfolio](https://farooq-agent.web.app/assets/images/works/details/24-3d-portfolio/i89.png)
 
-![3D Portfolio](https://farooq-agent.web.app/assets/images/works/large/JwkCZcPt_work_image.png)
-
 Tools:
 - 3D Studio Max
 - VRay Render Engine

@@ -8,5 +8,7 @@ T-shirt design that I made for the needs of CrossFit sports lovers.
 
 ![Crossfit Eclipse T-shirt](https://farooq-agent.web.app/assets/images/works/details/65-crossfit-eclipse-t-shirt/i50.png)
 
+![Crossfit Eclipse T-shirt](https://farooq-agent.web.app/assets/images/works/details/65-crossfit-eclipse-t-shirt/i49.png)
+
 Tools:
 - Adobe Illustrator

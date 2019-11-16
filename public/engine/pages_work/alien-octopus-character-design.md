@@ -6,7 +6,7 @@
 
 Alien Octopus Character Design is an exploration of character design with the concept of an alien octopus acting cute who feels his teeth are very dirty and need to be brushed with a toothbrush.
 
-![Alien Octopus Character Sketch](https://farooq-agent.web.app/assets/images/works/details/48-alien-octopus-character-design/alien-octopus-character-design.png)
+![Alien Octopus Character Sketch](https://farooq-agent.web.app/assets/images/works/details/48-alien-octopus-character-design/alien-octopus-character-design.jpg)
 
 <p class="caption">Alien Octopus Character Sketch</p>
 
