@@ -6,6 +6,10 @@
 
 This is a character design book cover design from a book about breast cancer that was written by a doctor.
 
+![Breast Cancer Care Character Design](https://farooq-agent.web.app/assets/images/works/details/45-breast-cancer-care-character-design/i22.png)
+
+![Breast Cancer Care Character Design](https://farooq-agent.web.app/assets/images/works/details/45-breast-cancer-care-character-design/i72.png)
+
 ![Breast Cancer Care Character Design](https://farooq-agent.web.app/assets/images/works/large/gNY4xqga_work_image.png)
 
 Tools:

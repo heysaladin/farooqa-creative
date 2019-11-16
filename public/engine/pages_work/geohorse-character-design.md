@@ -6,6 +6,10 @@
 
 Cute character design which is a red horse that can stand up.
 
+![GeoHorse Character Design](https://farooq-agent.web.app/assets/images/works/details/49-geohorse-character-design/horse-red-yellow.jpg)
+
+![GeoHorse Character Design](https://farooq-agent.web.app/assets/images/works/details/49-geohorse-character-design/horse-batik.jpg)
+
 ![GeoHorse Character Design](https://farooq-agent.web.app/assets/images/works/large/S7LWLcEB_work_image.png)
 
 Tools:

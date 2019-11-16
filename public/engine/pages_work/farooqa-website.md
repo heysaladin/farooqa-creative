@@ -6,6 +6,10 @@
 
 Website design for companies engaged in branding, graphic design and web design and development services.
 
+![Farooqa Website](https://farooq-agent.web.app/assets/images/works/details/18-farooqa-website/farooqa-dark.jpg)
+
+![Farooqa Website](https://farooq-agent.web.app/assets/images/works/details/18-farooqa-website/farooqa-dark-mockup.jpg)
+
 ![Farooqa Website](https://farooq-agent.web.app/assets/images/works/large/fqnW90nR_work_image.jpg)
 
 Tools:

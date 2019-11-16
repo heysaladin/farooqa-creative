@@ -6,7 +6,7 @@
 
 This is a character design for a birthday present for a friend who likes to drink beer.
 
-![Beer Lover Character Design](https://farooq-agent.web.app/assets/images/works/large/Xo4TxRrJ_work_image.png)
+![Beer Lover Character Design](https://farooq-agent.web.app/assets/images/works/details/44-beer-lover-character-design/i23.png)
 
 Tools:
 - Adobe Illustrator

@@ -6,4 +6,6 @@
 
 Tempo Cepat Website Design.
 
+![Tempo Cepat Website Design](https://farooq-agent.web.app/assets/images/works/details/130-tempo-cepat-website-design/tempocepat-graphic.jpg)
+
 ![Tempo Cepat Website Design](https://farooq-agent.web.app/assets/images/works/large/iiy2uNTa_work_image.jpg)

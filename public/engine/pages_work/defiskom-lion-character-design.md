@@ -10,7 +10,7 @@ This is the logo of a one-year professional program institution and a picture of
 
 I created this work because I realized it was rather difficult to continue education until college at that time and chose to work alone, but took the course first. majoring in graphic design and computer.
 
-![Defiskom Lion Character Design](https://farooq-agent.web.app/assets/images/works/large/5zM00KHm_work_image.png)
+![Defiskom Lion Character Design](https://farooq-agent.web.app/assets/images/works/details/47-defiskom-lion-character-design/i20.png)
 
 Tools:
 - Corel Draw

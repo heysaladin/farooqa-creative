@@ -6,6 +6,12 @@
 
 Room interior design created as a 3D college assignment.
 
+![Interior Design](https://farooq-agent.web.app/assets/images/works/details/23-interior-design/i107.png)
+
+![Interior Design](https://farooq-agent.web.app/assets/images/works/details/23-interior-design/i106.png)
+
+![Interior Design](https://farooq-agent.web.app/assets/images/works/details/23-interior-design/i104.png)
+
 ![Interior Design](https://farooq-agent.web.app/assets/images/works/large/TnJWPk5J_work_image.png)
 
 Tools:

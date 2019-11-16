@@ -10,7 +10,9 @@ Therefore this concept I gave the title "Kill My Worst Enemy" which literally is
 
 Another reference is the word "Kill My Worst Enemy" taken from a fragment of one of the Burgerkill band songs.
 
-![Kill My Worst Enemy Illustration](https://farooq-agent.web.app/assets/images/works/large/1LiJiu8t_work_image.png)
+![Kill My Worst Enemy Illustration](https://farooq-agent.web.app/assets/images/works/details/42-kill-my-worst-enemy-illustration/my-worst-enemy.png)
+
+![Kill My Worst Enemy Illustration](https://farooq-agent.web.app/assets/images/works/details/42-kill-my-worst-enemy-illustration/kmwe-mockup.jpg)
 
 Tools:
 - Adobe Illustrator

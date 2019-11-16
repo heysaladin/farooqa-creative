@@ -10,9 +10,13 @@ Alien Octopus Character Design is an exploration of character design with the co
 
 <p class="caption">Alien Octopus Character Sketch</p>
 
-![Alien Octopus Character Design](https://farooq-agent.web.app/assets/images/works/large/hn4HxM8R_work_image.png)
+![Alien Octopus Character Sketch](https://farooq-agent.web.app/assets/images/works/details/48-alien-octopus-character-design/i19.png)
 
 <p class="caption">Alien Octopus Character Design</p>
+
+![Alien Octopus Character Design](https://farooq-agent.web.app/assets/images/works/large/hn4HxM8R_work_image.png)
+
+<p class="caption">Alien Octopus Character Design Preview</p>
 
 Tools:
 - Pencil & Paper

@@ -6,6 +6,16 @@
 
 3D modeling robot work and 3D writing.
 
+![3D Portfolio](https://farooq-agent.web.app/assets/images/works/details/24-3d-portfolio/i91.png)
+
+![3D Portfolio](https://farooq-agent.web.app/assets/images/works/details/24-3d-portfolio/i85.png)
+
+![3D Portfolio](https://farooq-agent.web.app/assets/images/works/details/24-3d-portfolio/i86.png)
+
+![3D Portfolio](https://farooq-agent.web.app/assets/images/works/details/24-3d-portfolio/i87.png)
+
+![3D Portfolio](https://farooq-agent.web.app/assets/images/works/details/24-3d-portfolio/i89.png)
+
 ![3D Portfolio](https://farooq-agent.web.app/assets/images/works/large/JwkCZcPt_work_image.png)
 
 Tools:

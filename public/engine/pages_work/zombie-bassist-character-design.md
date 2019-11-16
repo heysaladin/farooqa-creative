@@ -10,6 +10,8 @@ I am a punk music lover from the past until now. may be in junior high school an
 
 What's fun is that this artwork combines cool concepts, scary and grandchildren in one unit.
 
+![Zombie Bassist Character Design](https://farooq-agent.web.app/assets/images/works/details/43-zombie-bassist-character-design/i24.png)
+
 ![Zombie Bassist Character Design](https://farooq-agent.web.app/assets/images/works/large/rYhfgWJw_work_image.png)
 
 Tools:
