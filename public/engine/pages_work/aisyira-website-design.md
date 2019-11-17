@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  Wednesday, August 26, 2015 1:56:41pm</p>
 
-Aisyira Website Design.
+AISYIRA is e-commerce web app for muslim women.
 
 129-aisyira-website-design
 

@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  Monday, March 18, 2019 12:01:36pm</p>
 
-Lakonono Branding.
+Logo design and branding for the drawing club.
 
 ![Lakonono Branding](https://farooq-agent.web.app/assets/images/works/details/155-lakonono-branding/lakonono-sketch.jpg)
 
