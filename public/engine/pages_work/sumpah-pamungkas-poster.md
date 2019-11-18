@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  Tuesday, July 31, 2012 11:57:53am</p>
 
-Sumpah Pamungkas Poster.
+A film poster design titled Sumpah Pamungkas.
 
 ![Sumpah Pamungkas Poster](https://farooq-agent.web.app/assets/images/works/details/60-sumpah-pamungkas-poster/i68.png)
 

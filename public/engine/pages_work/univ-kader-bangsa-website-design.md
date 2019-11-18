@@ -4,6 +4,6 @@
 
 <p class="meta">Design  /  Friday, July 4, 2014 1:56:24pm</p>
 
-Univ. Kader Bangsa Website Design.
+Website design for Universitas Kader Bangsa, a website as a center for information about universities and lectures.
 
 ![Univ. Kader Bangsa Website Design](https://farooq-agent.web.app/assets/images/works/large/MK9khiqO_work_image.jpg)

@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  Tuesday, May 20, 2014 1:38:47pm</p>
 
-Arafah Website Design.
+Website design for Arafah, a company that provides credit for the purchase of goods for Indonesian workers who work abroad.
 
 ![Arafah Website Design](https://farooq-agent.web.app/assets/images/works/details/98-arafah-website-design/xxxxx.jpg)
 

@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  Wednesday, January 28, 2015 1:43:21pm</p>
 
-Amidis Website Design.
+Website Design for Amidis, a company engaged in the production and sale of distilled drinking water.
 
 ## Web Design v.1.0
 

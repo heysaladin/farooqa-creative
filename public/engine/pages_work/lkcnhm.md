@@ -4,6 +4,6 @@
 
 <p class="meta">Design  /  Saturday, November 26, 2016 5:19:27am</p>
 
-LKCNHM.
+A website design for a natural museum called Lee Kong Chian Natural History Museum.
 
 ![LKCNHM](https://farooq-agent.web.app/assets/images/works/large/BDYKzn6j_work_image.jpg)

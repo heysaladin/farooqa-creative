@@ -4,6 +4,6 @@
 
 <p class="meta">Design  /  Monday, January 13, 2014 1:49:47pm</p>
 
-Teapresso Flyer.
+Flyer design for the promotion of a bubble tea brand called Teapresso.
 
 ![Teapresso Flyer](https://farooq-agent.web.app/assets/images/works/large/kzsxStpE_work_image.jpg)

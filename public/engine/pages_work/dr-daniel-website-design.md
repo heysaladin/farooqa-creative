@@ -4,6 +4,6 @@
 
 <p class="meta">Design  /  Wednesday, December 4, 2013 1:46:42pm</p>
 
-Dr. Daniel Website Design.
+Website design for dental health services.
 
 ![Dr. Daniel Website Design](https://farooq-agent.web.app/assets/images/works/largeiwjqr1lJ_work_image.jpg)
