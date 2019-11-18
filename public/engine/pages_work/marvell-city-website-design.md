@@ -6,4 +6,6 @@
 
 Website design for Marvell City, with a modern, minimalist and futuristic concept.
 
-![Marvell City Website Design](https://farooq-agent.web.app/assets/images/works/large/gq4daFI6_work_image.jpg)
+![Marvell City Website Design](https://farooq-agent.web.app/assets/images/works/details/89-marvell-city-website-design/c1a.jpg)
+
+![Marvell City Website Design](https://farooq-agent.web.app/assets/images/works/details/89-marvell-city-website-design/d2.jpg)

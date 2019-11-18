@@ -8,5 +8,7 @@ This is an exploration and logo design offering for brands engaged in the produc
 
 ![Dessert Time Logo Design](https://farooq-agent.web.app/assets/images/works/large/0dX76Xga_work_image.jpg)
 
+![Dessert Time Logo Design](https://farooq-agent.web.app/assets/images/works/details/14-dessert-time-logo-design/22-behance_layout.jpg)
+
 Tools:
 - Adobe Illustrator

@@ -6,4 +6,6 @@
 
 Flyer design for the promotion of a bubble tea brand called Teapresso.
 
+![Teapresso Flyer](https://farooq-agent.web.app/assets/images/works/details/112-teapresso-flyer/teapresso-a4.jpg)
+
 ![Teapresso Flyer](https://farooq-agent.web.app/assets/images/works/large/kzsxStpE_work_image.jpg)

@@ -9,4 +9,4 @@ Preparation of brand guidelines for interior design and architecture companies.
 Tools:
 - Adobe Illustrator
 
-![Inspiring Home Brand Value and Guidelines](https://farooq-agent.web.app/assets/images/works/large/DFN9VRZA_work_image.jpg)
+![Inspiring Home Brand Value and Guidelines](https://farooq-agent.web.app/assets/images/works/details/9-inspiring-home-brand-value-and-guidelines/15-behance_layout.jpg)

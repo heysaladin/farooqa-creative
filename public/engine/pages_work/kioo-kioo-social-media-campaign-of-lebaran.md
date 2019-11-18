@@ -8,6 +8,8 @@ Kioo-kioo is a digital provider brand in social media. Kioo-kioo often give away
 
 This is an illustration design for Kioo-Kioo Campign Eid.
 
+![KIOO KIOO Social Media Campaign of Lebaran](https://farooq-agent.web.app/assets/images/works/details/11-kioo-kioo-social-media-campaign-of-lebaran/19-behance_layout.jpg)
+
 ![KIOO KIOO Social Media Campaign of Lebaran](https://farooq-agent.web.app/assets/images/works/details/11-kioo-kioo-social-media-campaign-of-lebaran/kioo-kioo-lebaran.jpg)
 
 ![KIOO KIOO Social Media Campaign of Lebaran](https://farooq-agent.web.app/assets/images/works/details/11-kioo-kioo-social-media-campaign-of-lebaran/kioo-kioo-asset.jpg)

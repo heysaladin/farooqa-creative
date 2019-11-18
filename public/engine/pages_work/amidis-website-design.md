@@ -16,12 +16,4 @@ Website Design for Amidis, a company engaged in the production and sale of disti
 
 ## Web Design v.2.0
 
-![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Web_Design-small_desktop-home-side_menu.jpg)
-
-![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Web_Design-small_desktop-home-slide-2.jpg)
-
-![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Web_Design-small_desktop-home-slide-3.jpg)
-
-![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Web_Design-small_desktop-innovation.jpg)
-
-![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Web_Design-small_desktop-product.jpg)
+![Amidis Website Design](https://farooq-agent.web.app/assets/images/works/details/100-amidis-website-design/Amidis-Web_Design-small_desktop-home-slide-1.jpg)

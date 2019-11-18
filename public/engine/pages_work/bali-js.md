@@ -6,8 +6,4 @@
 
 Website design for Bali JS, a non-profit community for lovers and users of the Javascript programming language on the island of Bali.
 
-![Bali JS](https://farooq-agent.web.app/assets/images/works/details/183-illustration-balijs-website/balinese-girl.jpg)
-
-![Bali JS](https://farooq-agent.web.app/assets/images/works/details/183-illustration-balijs-website/bg-sketch.jpg)
-
 ![Bali JS](https://farooq-agent.web.app/assets/images/works/large/bali-js.jpg)

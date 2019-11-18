@@ -6,4 +6,4 @@
 
 A website design for a natural museum called Lee Kong Chian Natural History Museum.
 
-![LKCNHM](https://farooq-agent.web.app/assets/images/works/large/BDYKzn6j_work_image.jpg)
+![LKCNHM](https://farooq-agent.web.app/assets/images/works/details/139-lkcnhm/1-LKCNHM-web_design-small_desktop-home_page.jpg)

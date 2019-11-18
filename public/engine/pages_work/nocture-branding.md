@@ -9,4 +9,4 @@ An exploration and offer of the Nocture brand logo design, an interior design br
 Tools:
 - Adobe Illustrator
 
-![Nocture Branding](https://farooq-agent.web.app/assets/images/works/large/nLXidNgf_work_image.jpg)
+![Nocture Branding](https://farooq-agent.web.app/assets/images/works/details/6-nocture-branding/12-behance_layout.jpg)

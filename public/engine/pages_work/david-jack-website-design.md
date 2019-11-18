@@ -10,3 +10,7 @@ Tools:
 - Adobe photoshop
 
 ![David Jack Website Design](https://farooq-agent.web.app/assets/images/works/large/RragmKzj_work_image.jpg)
+
+![David Jack Website Design](https://farooq-agent.web.app/assets/images/works/details/107-david-jack-website-design/DAVID-JACK-WEBSITE-DESIGN-(DESKTOP-DIMENTION)-2.jpg)
+
+![David Jack Website Design](https://farooq-agent.web.app/assets/images/works/details/107-david-jack-website-design/DAVID-JACK-WEBSITE-DESIGN-(DESKTOP-DIMENTION)-3.jpg)

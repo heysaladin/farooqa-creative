@@ -6,7 +6,7 @@
 
 Design company profile printing for companies engaged in the electrical panel.
 
-![PADI Company Profile - Printed](https://farooq-agent.web.app/assets/images/works/large/xUZ4eZNt_work_image.jpg)
+![PADI Company Profile - Printed](https://farooq-agent.web.app/assets/images/works/details/4-padi-company-profile-printed/10-behance_layout.jpg)
 
 Tools:
 - Adobe Illustrator

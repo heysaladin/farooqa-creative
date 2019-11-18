@@ -10,4 +10,4 @@ Tools:
 - Adobe Illustrator
 - Adobe Photoshop
 
-![Max Tape Branding Needs](https://farooq-agent.web.app/assets/images/works/large/X3I1blAQ_work_image.png)
+![Max Tape Branding Needs](https://farooq-agent.web.app/assets/images/works/details/79-max-tape-branding-needs/maxtape-car.jpg)

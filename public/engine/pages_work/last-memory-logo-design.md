@@ -6,4 +6,4 @@
 
 Logo design for Last Memory, Last Memory is a company engaged in recording the information of people who have died to be remembered by family members.
 
-![Last Memory Logo Design](https://farooq-agent.web.app/assets/images/works/large/qh4hvY2u_work_image.jpg)
+![Last Memory Logo Design](https://farooq-agent.web.app/assets/images/works/details/10-last-memory-logo-design/18-behance_layout.jpg)

@@ -10,4 +10,4 @@ Technologies:
 - HTML
 - CSS
 
-![FUFA Frontend Web Development](https://farooq-agent.web.app/assets/images/works/large/WfV9r5Wm_work_image.jpg)
+![FUFA Frontend Web Development](https://farooq-agent.web.app/assets/images/works/details/13-fufa-frontend-web-development/21-behance_layout.jpg)

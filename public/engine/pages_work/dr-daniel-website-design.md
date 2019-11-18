@@ -6,4 +6,4 @@
 
 Website design for dental health services.
 
-![Dr. Daniel Website Design](https://farooq-agent.web.app/assets/images/works/largeiwjqr1lJ_work_image.jpg)
+![Dr. Daniel Website Design](https://farooq-agent.web.app/assets/images/works/details/106-dr-daniel-website-design.jpg)

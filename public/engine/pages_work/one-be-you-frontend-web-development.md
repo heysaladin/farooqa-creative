@@ -10,4 +10,4 @@ Technologies:
 - HTML
 - CSS
 
-![One be You - Frontend Web Development](https://farooq-agent.web.app/assets/images/works/large/kfdWcO6B_work_image.jpg)
+![One be You - Frontend Web Development](https://farooq-agent.web.app/assets/images/works/details/5-one-be-you-frontend-web-development/11-behance_layout.jpg)

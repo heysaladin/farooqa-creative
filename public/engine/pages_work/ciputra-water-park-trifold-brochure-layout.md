@@ -6,4 +6,4 @@
 
 Trifold Brochure Layout design for Ciputra Waterpark, Surabaya.
 
-![Ciputa Water Park Trifold Brochure Layout](https://farooq-agent.web.app/assets/images/works/large/O2XC7OM0_work_image.jpg)
+![Ciputa Water Park Trifold Brochure Layout](https://farooq-agent.web.app/assets/images/works/details/16-ciputa-water-park-trifold-brochure-layout/25-behance_layout.jpg)

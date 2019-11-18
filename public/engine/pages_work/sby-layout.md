@@ -9,4 +9,4 @@ This is a magazine page layout design for SBY. SBY (See Beyond Yourself) is a ma
 Tools:
 - Adobe InDesign
 
-![SBY Layout](https://farooq-agent.web.app/assets/images/works/large/TYdKaWXJ_work_image.png)
+![SBY Layout](https://farooq-agent.web.app/assets/images/works/details/90-sby-layout/SBY-Ferro-Menu.jpg)
