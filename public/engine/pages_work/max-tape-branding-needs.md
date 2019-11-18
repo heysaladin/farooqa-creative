@@ -4,6 +4,10 @@
 
 <p class="meta">Design  /  Thursday, June 13, 2013 12:26:35pm</p>
 
-Max Tape Branding Needs.
+An implementation of the Max Tape logo on the Car Box.
 
-![Max Tape Branding Needs](https://farooq-agent.web.app/assets/images/works/large/X3I1blAQ_work_image.png)
+Tools:
+- Adobe Illustrator
+- Adobe Photoshop
+
+![Max Tape Branding Needs](https://farooq-agent.web.app/assets/images/works/details/79-max-tape-branding-needs/maxtape-car.jpg)

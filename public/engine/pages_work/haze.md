@@ -4,6 +4,6 @@
 
 <p class="meta">Design  /  Tuesday, December 27, 2016 6:00:56pm</p>
 
-HAZE.
+Submission of website designs for HAZE. HAZE is a website owned by the Singapore government as an information center about haze from forest fires. 
 
-![HAZE](https://farooq-agent.web.app/assets/images/works/large/ge10XmE3_work_image.jpg)
+![HAZE](https://farooq-agent.web.app/assets/images/works/details/144-haze/1-haze-web_design-small_desktop.jpg)

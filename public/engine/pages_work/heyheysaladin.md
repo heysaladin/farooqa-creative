@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  Tuesday, October 8, 2019 11:59:14pm</p>
 
-HeyHeySaladin.
+A website design and development for Saladin (Muhammad Sholahuddin).
 
 ![HeySaladin](https://farooq-agent.web.app/assets/images/works/details/200-heyheysaladin/heysaladin-illustration.jpg)
 

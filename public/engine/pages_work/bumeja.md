@@ -46,15 +46,3 @@ Sebuah proyek untuk memaksimalkan fungsi dan manfaat Buku Merah Jambu (Buku Ibu 
 ### Constraint
 
 - case study ini hanya membahas tentang buku pink dari dinas kesehatan, dan tidak membahan apa-apa yang tidak terkandung dalam isi buku pink
-
-## Ideation
-
-// need teamwork
-
-## Prototype
-
-// need teamwork
-
-## Validate
-
-// need teamwork

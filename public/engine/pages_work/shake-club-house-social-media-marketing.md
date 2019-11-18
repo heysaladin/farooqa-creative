@@ -8,7 +8,7 @@ Lestari
 
 This is a design for managing social media from a brand that sells and sells coffee and other drinks.
 
-![Shake Club House Social Media Marketing](https://farooq-agent.web.app/assets/images/works/large/S81swfwM_work_image.jpg)
+![Shake Club House Social Media Marketing](https://farooq-agent.web.app/assets/images/works/details/3-shake-club-house-social-media-marketing/7-behance_layout.jpg)
 
 Tools:
 - Adobe Photoshop

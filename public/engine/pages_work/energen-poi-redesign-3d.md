@@ -4,8 +4,6 @@
 
 <p class="meta">Design  /  Thursday, May 3, 2012 11:13:17am</p>
 
-Energen POI Redesign 3D.
-
 ## POI Design
 
 ![Energen POI Redesign 3D](https://farooq-agent.web.app/assets/images/works/details/27-energen-poi-redesign-3d/i88.png)

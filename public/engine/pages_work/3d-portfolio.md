@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  2012-04-12 11:03:23</p>
 
-3D modeling robot work and 3D writing.
+My 3D works when learning to make 3D objects.
 
 ![3D Portfolio](https://farooq-agent.web.app/assets/images/works/details/24-3d-portfolio/i91.png)
 

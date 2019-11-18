@@ -6,4 +6,4 @@
 
 Explore user interface designs for elevators used in buildings with more than 1000 floors.
 
-![Lift UI](https://farooq-agent.web.app/assets/images/works/large/lift-ui.jpg)
+![Lift UI](https://farooq-agent.web.app/assets/images/works/large/lift.jpg)
