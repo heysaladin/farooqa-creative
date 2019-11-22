@@ -46,3 +46,15 @@ Sebuah proyek untuk memaksimalkan fungsi dan manfaat Buku Merah Jambu (Buku Ibu 
 ### Constraint
 
 - case study ini hanya membahas tentang buku pink dari dinas kesehatan, dan tidak membahan apa-apa yang tidak terkandung dalam isi buku pink
+
+![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/user-kuadran.jpg)
+
+![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/bumeja-ideation-sketch.jpg)
+
+![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/bumeja-crazy-eights.jpg)
+
+![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/bumeja-storyboard.jpg)
+
+![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/bumeja-user-jurney-map.jpg)
+
+![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/wireframes.jpg)
