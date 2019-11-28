@@ -18,7 +18,7 @@ HANA (hasab wa nasab).
 
 ![HANA Application Concept](https://farooq-agent.web.app/assets/images/works/large/UkSyMPts_work_image.jpg)
 
-![HANA Application Concept](https://farooq-agent.web.app/assets/images/works/details/136-hana-application-concept/hana-v1.jpg)
+![HANA Application Concept](https://farooq-agent.web.app/assets/images/works/large/hana.jpg)
 
 Tools:
 - Adobe XD
