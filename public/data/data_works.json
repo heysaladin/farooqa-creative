@@ -3452,6 +3452,44 @@
     }
   },
   {
+    "id": 217,
+    "meta": {
+      "lang": "en",
+      "title": "Karma Experience Booking",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Karma Experience Booking",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "An UI design exploration for booking system for Karma Group",
+      "work_category": 8,
+      "image": "../assets/images/works/large/bimbel-ceria.jpg",
+      "thumbnail": "../assets/images/works/small/bimbel-ceria.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "karma-experience-booking",
+      "date": "2019-11-29 13:59:14",
+      "date_update": "2019-11-29 13:59:41"
+    }
+  },
+  {
     "id": 147,
     "meta": {
       "lang": "en",
@@ -5262,7 +5300,7 @@
       "thumbnail": "../assets/images/works/small/petado.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
       "isReady": true,
       "status": "exploration",
       "slug": "petado",
