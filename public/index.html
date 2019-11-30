@@ -14,7 +14,7 @@
     <link href="./assets/style/modal.css" rel="stylesheet" type="text/css">
     <link href="./assets/style/page.css" rel="stylesheet" type="text/css">
     <link href="./assets/style/style.css" rel="stylesheet" type="text/css">
-    <!-- <link href="./assets/fonts/museo-sans/stylesheet.css" rel="stylesheet" type="text/css"> -->
+    <link href="./assets/fonts/museo-sans/stylesheet.css" rel="stylesheet" type="text/css">
     <link href="./assets/script/lib/nav/demo.css" rel="stylesheet" type="text/css">
     <link href="./assets/script/lib/nav/styleSVG.css" rel="stylesheet" type="text/css">
     <script src="./assets/script/lib/nav/snap.svg-min.js" defer>
@@ -50,7 +50,7 @@
 
 </head>
 
-<body style="background: #222222;">
+<body style="background: #222222;margin: 0;">
     <header id="header">
         <a href="index.html" id="logo" alt="Farooqa"><img id="logo-desktop" src="./assets/images/logo-white.svg"
                 alt="Farooqa Logo" />
@@ -94,15 +94,18 @@
                     Designer
                 </h1>
 
-                <p class="sub-title">Freelance digital designer based in Liège, Belgium who loves to craft attractive
-                    experiences for the web. Working as designer since 2007 and had the opportunity to work and
-                    collaborate with diverse companies and brands. Design jury member at Awwwards.</p>
+                <p class="sub-title" style="line-height: 1.5em;">We believe in partnerships, not projects. We're a truly collaborative agency that
+                    believes in articulating brands
+                    internally and bringing them to life externally. Our services are designed to seamlessly integrate
+                    strategy and
+                    creative.</p>
 
             </div>
             <style>
                 #section3 {
-    min-height: auto !important;
-}
+                    min-height: auto !important;
+                }
+
                 .big-title {
                     margin: 5em auto 0.5em;
                     font-family: 'Museo Sans 900';
@@ -114,7 +117,7 @@
                 }
 
                 .sub-title {
-                    margin: 0 auto 10em;
+                    margin: 0 auto 9em;
                     font-family: 'Museo Sans 300';
                     font-size: 1.25em;
                     color: #aaaaaa;
@@ -168,12 +171,16 @@
                 </div>
                 <div class="bg-img" style="background-image: url(./assets/images/works/small/dr-antri.jpg);"></div>
             </div>
-            <div class="text-wrapper" style="margin-top: -500px;width: 100%;height: 500px;display: flex;justify-content: center;align-items: center; flex-direction: column;">
-                <h2 style="color: white; font-size: 2em; font-family: 'Museo Sans 700'; margin-bottom: 30px;">
+            <div class="text-wrapper"
+                style="margin-top: -500px;width: 100%;height: 500px;display: flex;justify-content: center;align-items: center; flex-direction: column;">
+                <h2 style="color: white; font-size: 2em; font-family: 'Museo Sans 700'; margin-bottom: 0px;">
                     My Works Gallery
                 </h2>
 
-                <p><a href="works-gallery/" style="color: white; font-size: 1.5em; font-family: 'Museo Sans 300';padding: 10px 25px; border: solid 1px white; border-radius: 3px;">Explore.</a></p>
+                <!-- <p> -->
+                <a href="works-gallery/"
+                    style="color: white; font-size: 1.5em; font-family: 'Museo Sans 300';padding: 10px 25px; border: solid 1px white; border-radius: 3px;cursor: pointer;position: absolute;margin-top: 75px;">Explore.</a>
+                <!-- </p> -->
             </div>
         </div>
         <div class="section" id="section2" style="display: none;">
@@ -189,16 +196,20 @@
                         your overall business objectives.</p>
                         <label class="button button-color" for="modal-2">plan a
                         project</label> -->
-                    <a class="button button-color" style="margin: 3em auto;">Contact Me!</a>
+                    <a class="button button-color" style="margin: 3em auto;"
+                        href="mailto:farooqa.official@gmail.com">Contact Me!</a>
                 </div>
                 <div class="footer">
                     <ul id="secondary-menu">
+                        <li data-menuanchor="services">
+                            <a href="services.html" alt="Services">Services</a>
+                        </li>
                         <li>
                             <a href="clients-and-partners.html" alt="Clients & Partners">Clients & Partners</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="blog-and-notes.html" alt="Blog & Notes">Blog & Notes</a>
-                        </li>
+                        </li> -->
                     </ul>
                     <ul id="social-menu">
                         <li>
@@ -243,6 +254,9 @@
                 <!-- <li data-menuanchor="services">
                     <a href="#services" alt="Services">Services</a>
                 </li> -->
+                <!-- <li>
+                    <a href="./services.html" alt="Services">Services</a>
+                </li> -->
                 <li data-menuanchor="works">
                     <a href="works-gallery/" alt="Works">Works</a>
                 </li>
@@ -261,7 +275,7 @@
             </ul>
         </nav>
     </div>
-    <input class="modal-state" id="modal-2" type="checkbox">
+    <!-- <input class="modal-state" id="modal-2" type="checkbox">
     <div class="section modal">
         <label class="modal__bg" for="modal-2"></label>
         <div class="modal__inner">
@@ -311,7 +325,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <script src="./assets/script/lib/nav/classie.js" defer>
     </script>

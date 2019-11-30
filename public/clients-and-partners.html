@@ -24,7 +24,10 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145097646-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
         gtag('js', new Date());
 
         gtag('config', 'UA-145097646-1');
@@ -33,7 +36,8 @@
 
 <body>
     <header id="header">
-        <a href="index.html" id="logo"><img id="logo-desktop" src="./assets/images/logo-white.svg"> <img id="logo-mobile" src="./assets/images/logo-short-white.svg"></a>
+        <a href="index.html" id="logo"><img id="logo-desktop" src="./assets/images/logo-white.svg"> <img
+                id="logo-mobile" src="./assets/images/logo-short-white.svg"></a>
         <ul id="menu">
             <li class="special" data-menuanchor="action">
                 <a href="index.html">Home</a>
@@ -55,6 +59,8 @@
                                 </a>
                             </div> -->
                         </div>
+                        <button id="legalOrNot" style="color: #666666; font-size: 1em; font-family: 'Museo Sans 300';padding: 10px 25px; border: solid 1px #666666; border-radius: 3px;cursor: pointer;">Show All!</button>
+                        <!-- <button onclick="legalOrNot()">Show All!</button> -->
                     </div>
                 </div>
             </div>
@@ -81,11 +87,13 @@
                             target="_blank" title=""></a>
                     </li>
                     <li>
-                        <a class="icon youtube" href="https://www.youtube.com/channel/UCZCn1GEIS1sPVerIkDSwxBA?view_as=subscriber"
+                        <a class="icon youtube"
+                            href="https://www.youtube.com/channel/UCZCn1GEIS1sPVerIkDSwxBA?view_as=subscriber"
                             rel="noopener" target="_blank" title=""></a>
                     </li>
                     <li>
-                        <a class="icon github" href="https://github.com/heysaladin" rel="noopener" target="_blank" title=""></a>
+                        <a class="icon github" href="https://github.com/heysaladin" rel="noopener" target="_blank"
+                            title=""></a>
                     </li>
                 </ul>
                 <h5 id="copyright-text">©2019 Farooqa</h5>
@@ -93,8 +101,10 @@
 
         </div>
     </div>
-    <div class="section overlay overlay-genie" data-steps="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z;m 698.9986,728.03569 41.23353,0 -3.41953,77.8735 -34.98557,0 z;m 687.08153,513.78234 53.1506,0 C 738.0505,683.9161 737.86917,503.34193 737.27015,806 l -35.90067,0 c -7.82727,-276.34892 -2.06916,-72.79261 -14.28795,-292.21766 z;m 403.87105,257.94772 566.31246,2.93091 C 923.38284,513.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 455.17312,480.07689 403.87105,257.94772 z;M 51.871052,165.94772 1362.1835,168.87863 C 1171.3828,653.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 31.173122,513.78234 51.871052,165.94772 z;m 52,26 1364,4 c -12.8007,666.9037 -273.2644,483.78234 -322.7299,776 l -633.90062,0 C 359.32034,432.49318 -6.6979288,733.83462 52,26 z;m 0,0 1439.999975,0 0,805.99999 -1439.999975,0 z">
-        <svg height="100%" preserveaspectratio="none" viewbox="0 0 1440 806" width="100%" xmlns="http://www.w3.org/2000/svg">
+    <div class="section overlay overlay-genie"
+        data-steps="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z;m 698.9986,728.03569 41.23353,0 -3.41953,77.8735 -34.98557,0 z;m 687.08153,513.78234 53.1506,0 C 738.0505,683.9161 737.86917,503.34193 737.27015,806 l -35.90067,0 c -7.82727,-276.34892 -2.06916,-72.79261 -14.28795,-292.21766 z;m 403.87105,257.94772 566.31246,2.93091 C 923.38284,513.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 455.17312,480.07689 403.87105,257.94772 z;M 51.871052,165.94772 1362.1835,168.87863 C 1171.3828,653.78233 738.73561,372.23931 737.27015,806 l -35.90067,0 C 701.32034,404.49318 31.173122,513.78234 51.871052,165.94772 z;m 52,26 1364,4 c -12.8007,666.9037 -273.2644,483.78234 -322.7299,776 l -633.90062,0 C 359.32034,432.49318 -6.6979288,733.83462 52,26 z;m 0,0 1439.999975,0 0,805.99999 -1439.999975,0 z">
+        <svg height="100%" preserveaspectratio="none" viewbox="0 0 1440 806" width="100%"
+            xmlns="http://www.w3.org/2000/svg">
             <path class="overlay-path" d="m 701.56545,809.01175 35.16718,0 0,19.68384 -35.16718,0 z"></path>
         </svg> <button class="overlay-close" type="button">Close</button>
         <nav>
@@ -111,7 +121,7 @@
             </ul>
         </nav>
     </div>
-    <input class="modal-state" id="modal-2" type="checkbox">
+    <!-- <input class="modal-state" id="modal-2" type="checkbox">
     <div class="section modal">
         <label class="modal__bg" for="modal-2"></label>
         <div class="modal__inner">
@@ -121,7 +131,8 @@
                 <div class="modal-content">
                     <form name="planAProjectForm" action="index.html" onsubmit="return validateForm()" method="GET">
                         <h2 class="popup-title">Plan a Project</h2>
-                        <p class="popup-text-small">You can start planning a project by sending a message below to us ...</p>
+                        <p class="popup-text-small">You can start planning a project by sending a message below to us
+                            ...</p>
                         <p class="popup-text-large">Hello, my name is
                             <input id="fname" name="fname" placeholder="Your name" type="text" />
                             , I can be contacted via email on
@@ -149,26 +160,29 @@
                                     Custom Project
                                 </option>
                             </select>
-                            . <br/> I need Farooqa's help for this project.<br>
+                            . <br /> I need Farooqa's help for this project.<br>
                             Please contact me immediately.</p>
                         <div class="popup-button">
-                            <button class="button button-color" name="submit" type="submit" value="SUBMIT">SUBMIT</button>
+                            <button class="button button-color" name="submit" type="submit"
+                                value="SUBMIT">SUBMIT</button>
                         </div>
                     </form>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     </script>
     <script src="./assets/script/lib/nav/classie.js">
     </script>
     <script src="./assets/script/lib/nav/demoSVG.js">
     </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script type="text/javascript">
         function loadJSON(callback) {
             var xobj = new XMLHttpRequest();
             xobj.overrideMimeType("application/json");
-            xobj.open('GET', './data/data_partners_and_clients.json', true); // Replace 'my_data' with the path to your file
+            xobj.open('GET', './data/data_partners_and_clients.json',
+            true); // Replace 'my_data' with the path to your file
             xobj.onreadystatechange = function () {
                 if (xobj.readyState == 4 && xobj.status == "200") {
                     // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
@@ -185,9 +199,9 @@
             divContainer.innerHTML = "";
             var numGo = 0;
             for (var i = 0; i < myBooks.length; i++) {
-                //if (myBooks[i].legal) {
+                if (myBooks[i].legal) {
                     var box = document.createElement("div");
-                    box.setAttribute('class', 'box');
+                    box.setAttribute('class', 'box legal');
                     var anchorCardCaptionSiema = document.createElement("a");
                     anchorCardCaptionSiema.setAttribute('href', myBooks[i].url);
                     anchorCardCaptionSiema.setAttribute('target', '_blank');
@@ -197,7 +211,20 @@
                     img.setAttribute('src', myBooks[i].image);
                     anchorCardCaptionSiema.appendChild(img);
                     divContainer.appendChild(box);
-                //}
+                } else {
+                    var box = document.createElement("div");
+                    box.setAttribute('class', 'box notlegal');
+                    box.setAttribute('style', 'display: none;');
+                    var anchorCardCaptionSiema = document.createElement("a");
+                    anchorCardCaptionSiema.setAttribute('href', myBooks[i].url);
+                    anchorCardCaptionSiema.setAttribute('target', '_blank');
+                    box.appendChild(anchorCardCaptionSiema);
+                    var img = document.createElement("img");
+                    img.setAttribute('class', 'card-image');
+                    img.setAttribute('src', myBooks[i].image);
+                    anchorCardCaptionSiema.appendChild(img);
+                    divContainer.appendChild(box);
+                }
             }
 
             var wrapper = document.querySelector('div.wrapper');
@@ -251,12 +278,37 @@
                     }
                 }
             }
+            
+            /*
             var x = window.matchMedia(mq)
             myFunction(x) // Call listener function at run time
             x.addListener(myFunction) // Attach listener function on state changes
+            */
 
         });
+
+        // function legalOrNot() {
+        //     // var x = document.querySelectorAll(".notlegal");
+        //     // if (x.style.display === "flex") {
+        //     //     x.style.display = "none";
+        //     // } else {
+        //     //     x.style.display = "flex";
+        //     // }
+
+        // }
     </script>
+    <!-- <style>
+        .notlegal {
+            display: none;
+        }
+    </style> -->
+    <script>
+            $(document).ready(function(){
+              $("#legalOrNot").click(function(){
+                $(".notlegal").toggle();
+              });
+            });
+            </script>
 </body>
 
 </html>
