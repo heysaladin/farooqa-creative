@@ -1093,7 +1093,7 @@
       "status": "exploration",
       "slug": "bumeja",
       "date": "2019-11-11 16:46:14",
-      "date_update": "2019-11-11 16:16:41"
+      "date_update": ""2019-11-11 16:16:41""2019-11-11 16:16:41""2019-11-11 16:16:41" 16:16:41"
     }
   },
   {
@@ -2721,7 +2721,7 @@
       "status": "exploration",
       "slug": "gus-baha-fansclub",
       "date": "2019-11-20 11:55:29",
-      "date_update": "2019-11-20 13:57:33"
+      "date_update": "2019-11-01 18:57:33"
     }
   },
   {
@@ -3452,7 +3452,7 @@
     }
   },
   {
-    "id": 217,
+    "id": 218,
     "meta": {
       "lang": "en",
       "title": "Karma Experience Booking",
@@ -5305,8 +5305,8 @@
       "status": "exploration",
       "slug": "petado",
       "date": "2019-08-06 22:15:14",
-      "date_update": "2019-08-06 22:15:41"
-    }
+      "date_update": "2019-11-11 15:55:41"
+    }2019-08-06
   },
   {
     "id": 156,
