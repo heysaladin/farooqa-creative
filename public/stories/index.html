@@ -505,7 +505,19 @@
     //   document.getElementById("date").textContent
     // ).format("dddd, MMMM Do YYYY");
     function goBack() {
-      window.history.back();
+      //window.history.back();
+      if(1 < history.length) {
+        window.history.back();
+      } else {
+        //window.close();
+
+        // Simulate a mouse click:
+        window.location.href = "https://farooq-agent.web.app/";
+
+        // Simulate an HTTP redirect:
+        // window.location.replace("https://farooq-agent.web.app/");
+
+      }
     }
   </script>
   <script>
