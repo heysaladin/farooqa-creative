@@ -90,7 +90,7 @@ Some problems found:
 
 ## UI Design
 
-![Petado: Spash Screen, Register, Login](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-opening.jpg)
+![Petado: Spash Screen, Register, Login](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-opening.png)
 
 <p class="caption">Petado: Spash Screen, Register, Login</p>
 
@@ -98,7 +98,7 @@ Some problems found:
 
 Opening page that focuses on animal info recommended for immediate adoption, current information about saving abandoned and tortured animals, as well as information on happy stories about families who are happy by adopting abandoned animals to become members of their new family.
 
-![Home](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-home.jpg)
+![Home](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-home.png)
 
 <p class="caption">Home</p>
 
@@ -108,7 +108,7 @@ The page contains a list of pets that can be adopted. There is also their name t
 
 This page also features search, sorting, filtering and even features to find out around users if there are pets that are ready to be adopted or are in danger.
 
-![List of Pets](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-list-pets.jpg)
+![List of Pets](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-list-pets.png)
 
 <p class="caption">List of Pets</p>
 
@@ -120,7 +120,7 @@ On this page the user will also be able to access the main features of this appl
 
 There are also recommendations for seeing other animals.
 
-![Pet Details](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-pet-details.jpg)
+![Pet Details](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-pet-details.png)
 
 <p class="caption">Pet Details</p>
 
@@ -128,13 +128,13 @@ There are also recommendations for seeing other animals.
 
 The page lists stories of happy moments and information on saving animals and even information about the development of animals that have not yet been adopted that are currently in shelters.
 
-![Moments](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-moments.jpg)
+![Moments](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-moments.png)
 
 <p class="caption">Moments</p>
 
 ## Account, Sliding Menu, Notification
 
-![Account, Sliding Menu, Notification](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-standard-app.jpg)
+![Account, Sliding Menu, Notification](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-standard-app.png)
 
 <p class="caption">Account, Sliding Menu, Notification</p>
 
@@ -144,7 +144,7 @@ This page is an interesting page. Which contains a list of shelters for abandone
 
 Actually not only shelter, this page also contains a list of petshops and veterinarians affiliated with Petado, who have the same passion to help abandoned and abused animals.
 
-![The Petado's Family](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-family.jpg)
+![The Petado's Family](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-family.png)
 
 <p class="caption">The Petado's Family</p>
 
@@ -154,7 +154,7 @@ This page is a form that can be accessed to report abandoned and abused animals 
 
 On this page after the user enters location information, at the bottom a recommendation will appear to the nearest shaelter, veterinarian or pet shop. Petado doesn't want reporters to just report and run away. Petado wants the reporter to also take rescue action as soon as possible by contacting the nearest shaelter, veterinarian or pet shop.
 
-![Pet Report](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-pet-report.jpg)
+![Pet Report](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-pet-report.png)
 
 <p class="caption">Pet Report</p>
 
@@ -166,7 +166,7 @@ This feature makes the user get special notifications if there is new informatio
 
 Indeed, the best is adoption without being picky, but most people are still picky if they want to adopt abandoned and neglected animals.
 
-![Dream Buddy](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-dream-buddy.jpg)
+![Dream Buddy](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-dream-buddy.png)
 
 <p class="caption">Dream Buddy</p>
 
@@ -176,7 +176,7 @@ Adopting animals is not a joke, it takes a strong commitment, because the animal
 
 Therefore, users who do not want to adopt can also contribute by donating for the care of abandoned and abused animals.
 
-![Donation](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-donation.jpg)
+![Donation](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-donation.png)
 
 <p class="caption">Donation</p>
 
@@ -191,7 +191,7 @@ Next, Users can survey directly to the shelter where the animals to be adopted a
 
 And then, the Petado Officer will survey the residence of the user who submitted the adoption.
 
-![Adoption Proposal](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-adoption-proposal.jpg)
+![Adoption Proposal](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-adoption-proposal.png)
 
 <p class="caption">Adoption Proposal</p>
 
@@ -200,7 +200,7 @@ And then, the Petado Officer will survey the residence of the user who submitted
 1. Notification that the application for adoption is approved by Petado
 2. Additional data in the account menu, if new adoption needs to be completed
 
-![Adoption Approved](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-adoption-approved.jpg)
+![Adoption Approved](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-adoption-approved.png)
 
 <p class="caption">Adoption Approved</p>
 
@@ -209,7 +209,7 @@ And then, the Petado Officer will survey the residence of the user who submitted
 1. Complete adoption data form
 2. Congratulations that the entire adoption process has been successful
 
-![Adoption Completed](https://farooq-agent.web.app/assets/images/works/details/186-petadoweb-preview-adoption-completed.jpg)
+![Adoption Completed](https://farooq-agent.web.app/assets/images/works/details/186-petadoweb-preview-adoption-completed.png)
 
 <p class="caption">Adoption Completed</p>
 

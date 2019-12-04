@@ -83,7 +83,7 @@ Beberapa permasalahan yang ditemukan:
 
 ## Desain UI
 
-![Petado: Spash Screen, Register(Daftar), Login(Masuk)](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-opening.jpg)
+![Petado: Spash Screen, Register(Daftar), Login(Masuk)](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-opening.png)
 
 <p class="caption">Petado: Spash Screen, Register(Daftar), Login(Masuk)</p>
 
@@ -91,7 +91,7 @@ Beberapa permasalahan yang ditemukan:
 
 Halaman pembuka yang berfokus pada info hewan yang direkomendasikan untuk adopsi segera, informasi terkini tentang penyelamatan hewan terlantar dan tersiksa, serta informasi tentang kisah bahagia tentang keluarga yang senang dengan mengadopsi hewan terlantar untuk menjadi anggota keluarga baru mereka.
 
-![Beranda](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-home.jpg)
+![Beranda](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-home.png)
 
 <p class="caption">Beranda</p>
 
@@ -101,7 +101,7 @@ Halaman ini berisi daftar hewan peliharaan yang dapat diadopsi. Ada juga nama me
 
 Halaman ini juga menampilkan fitur pencarian, pengurutan, pemfilteran, dan bahkan fitur untuk mencari tahu di sekitar pengguna jika ada hewan peliharaan yang siap untuk diadopsi atau dalam bahaya.
 
-![Daftar Hewan Piaraan](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-list-pets.jpg)
+![Daftar Hewan Piaraan](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-list-pets.png)
 
 <p class="caption">Daftar Hewan Piaraan</p>
 
@@ -113,7 +113,7 @@ Pada halaman ini pengguna juga akan dapat mengakses fitur-fitur utama dari aplik
 
 Ada juga rekomendasi untuk melihat hewan lain.
 
-![Detail Hewan Piaraan](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-pet-details.jpg)
+![Detail Hewan Piaraan](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-pet-details.png)
 
 <p class="caption">Detail Hewan Piaraan</p>
 
@@ -121,13 +121,13 @@ Ada juga rekomendasi untuk melihat hewan lain.
 
 Halaman ini berisi daftar kisah-kisah tentang saat-saat bahagia dan informasi tentang menyelamatkan hewan dan bahkan informasi tentang perkembangan hewan yang belum diadopsi yang saat ini berada di tempat penampungan.
 
-![Momen](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-moments.jpg)
+![Momen](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-moments.png)
 
 <p class="caption">Momen</p>
 
 ## Akun, Menu, Pemberitahuan
 
-![Akun, Menu, Pemberitahuan](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-standard-app.jpg)
+![Akun, Menu, Pemberitahuan](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-standard-app.png)
 
 <p class="caption">Akun, Menu, Pemberitahuan</p>
 
@@ -137,7 +137,7 @@ Halaman ini adalah halaman yang menarik. Yang berisi daftar tempat perlindungan 
 
 Sebenarnya bukan hanya tempat berteduh, halaman ini juga berisi daftar hewan peliharaan dan dokter hewan yang berafiliasi dengan Petado, yang memiliki hasrat yang sama untuk membantu hewan yang ditinggalkan dan dilecehkan.
 
-![Keluarga Petado](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-family.jpg)
+![Keluarga Petado](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-family.png)
 
 <p class="caption">Keluarga Petado</p>
 
@@ -147,7 +147,7 @@ Halaman ini adalah formulir yang dapat diakses untuk melaporkan hewan yang ditin
 
 Pada halaman ini setelah pengguna memasukkan informasi lokasi, di bagian bawah sebuah rekomendasi akan muncul di toko obat, dokter hewan atau hewan peliharaan terdekat. Petado tidak ingin wartawan hanya melapor dan melarikan diri. Petado ingin reporter juga mengambil tindakan penyelamatan sesegera mungkin dengan menghubungi shaelter, dokter hewan atau toko hewan peliharaan terdekat.
 
-![Laporan Hewan Piaraan](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-pet-report.jpg)
+![Laporan Hewan Piaraan](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-pet-report.png)
 
 <p class="caption">Laporan Hewan Piaraan</p>
 
@@ -159,7 +159,7 @@ Fitur ini membuat pengguna mendapatkan pemberitahuan khusus jika ada informasi b
 
 Memang, yang terbaik adalah adopsi tanpa pilih-pilih, tetapi kebanyakan orang masih pilih-pilih jika mereka ingin mengadopsi hewan yang ditinggalkan dan terabaikan.
 
-![Kawan Impian](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-dream-buddy.jpg)
+![Kawan Impian](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-dream-buddy.png)
 
 <p class="caption">Kawan Impian</p>
 
@@ -169,7 +169,7 @@ Mengadopsi hewan bukan lelucon, butuh komitmen yang kuat, karena hewan yang diad
 
 Oleh karena itu, pengguna yang tidak ingin mengadopsi juga dapat berkontribusi dengan menyumbang untuk perawatan hewan terlantar dan dilecehkan.
 
-![Sumbangan](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-donation.jpg)
+![Sumbangan](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-donation.png)
 
 <p class="caption">Sumbangan</p>
 
@@ -184,7 +184,7 @@ Selanjutnya, Pengguna dapat mensurvei langsung ke tempat penampungan di mana hew
 
 Dan kemudian, Petado Officer akan mensurvei kediaman pengguna yang mengajukan adopsi.
 
-![Proposal Adopsi](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-adoption-proposal.jpg)
+![Proposal Adopsi](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-adoption-proposal.png)
 
 <p class="caption">Proposal Adopsi</p>
 
@@ -193,7 +193,7 @@ Dan kemudian, Petado Officer akan mensurvei kediaman pengguna yang mengajukan ad
 1. Pemberitahuan bahwa aplikasi untuk adopsi disetujui oleh Petado
 2. Data tambahan di menu akun, jika adopsi baru perlu diselesaikan
 
-![Adopsi Disetujui](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-adoption-approved.jpg)
+![Adopsi Disetujui](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-adoption-approved.png)
 
 <p class="caption">Adopsi Disetujui</p>
 
@@ -202,7 +202,7 @@ Dan kemudian, Petado Officer akan mensurvei kediaman pengguna yang mengajukan ad
 1. Formulir data adopsi lengkap
 2. Selamat bahwa seluruh proses adopsi telah berhasil
 
-![Adopsi Selesai](https://farooq-agent.web.app/assets/images/works/details/186-petadoweb-preview-adoption-completed.jpg)
+![Adopsi Selesai](https://farooq-agent.web.app/assets/images/works/details/186-petadoweb-preview-adoption-completed.png)
 
 <p class="caption">Adopsi Selesai</p>
 ## Prototipe
