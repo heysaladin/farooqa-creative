@@ -6,44 +6,139 @@
 
 An application for saving and adopting abandoned domestic animals. also part of educating the public about caring for abandoned animals.
 
+> One stop service for rescue, adopt and loving homeless, neglected, mistreated and abused animals, especially house-pet in Indonesia. 
+> *Rescue . Adopt . Love*
+
 ## Problems
 
-Banyak sekali binatang peliharaan di indonesia yg diteantarkan, diperlakukan kasar, tidak terawat, diabaikan. Perlu ada tindakan nyata untuk menolong mereka memperoleh kehidupan, rumah dan kasih sayang yang lebih baik.
+Lots of pets in Indonesia are abandoned, treated harshly, neglected, neglected. There needs to be real action to help them get a better life, home and affection.
 
-Beberapa permasalahan yang ditemukan:
+Data obtained:
 
-* User kurang mendapat informasi seputar adopsi pet
-* User kesulitan mengenal pet yang akan diadopsi
-* Orang yang merawat pet terlantar yang ingin mengadopsikannya ke user lain tidak tahu harus berbuat apa
-* Orang yang melihat pet terlantar tidak dapat berbuat banyak untuk penyelamatan pet tersebut
+* In DKI Jakarta at the end of 2018 there were more than 30 thousand cats, not including dogs. This caused the beginning of 2019 the DKI Jakarta government to conduct raids on cats roaming throughout DKI Jakarta
+* In Jakarta there were also 19,753 cats that had been given rabies vaccine throughout 2018. This means that there are still many cats in Jakarta that have not been given the vaccine and have the potential to spread rabies to humans. Not to mention other animals besides cats, for example dogs and monkeys (monkeys) which can also transmit rabies
+
+Some problems found:
+
+* Abandoned animals have the potential to transmit disease in the community
+* Shelter shelter for abandoned animals overcapacity
+* People are less well informed about pet adoption
+* People have difficulty getting to know the pet to be adopted
+* People who care for abandoned pets who want to adopt it to others do not know what to do
+* People who see abandoned pets can not do much to save the pet
 
 ## How Might We
 
-* Membantu user untuk lebih mudah mengadopsi pet
-* Membantu user mengenal profil dari pet yang akan dia adopsi
-* Membantu user menemukan pet adopsi harapannya
-* Membantu user melaporkan bahwa ada pet yg terlantar
-* Membantu user menemukan pet yg bisa diadopsi di sekitar dia
-* Membantu user memberikan data lengkap seputar pet yang bisa diadopsi oleh user lain
-* Membantu user melakukan donasi untuk perawatan pet yg membutuhkan
+* How Might WeHelps people to more easily adopt pets
+* How Might We help the public get to know the profile of the pet he is about to adopt
+* How Might We Help people find their adopted pet expectations
+* How Might We Helps the public report that there is an abandoned pet
+* How Might We Help people find pet that can be adopted around them
+* How Might We Helps the community provide complete data about pets that can be adopted by other users
+* How Might We Helps people make donations for pet care
 
-## User Persona
+## User Roles
 
-* The rescuer: orang yang merawat pet terlantar
-* The adopter: orang yang mengadopsi pet
-* The reporter: orang yang melaporkan bahwa ada pet yg perlu pertolongan
-* ++ The animal lover: orang yg membantu donasi, share ke sosial media dan ikut kampanya cinta hewan dan menolak animal abuse
+* The Rescuer: people who care for abandoned pets
+* The Adopter: people who adopts a pet
+* The Reporter: people who reports that there is a pet that needs help
+* ++ the animal lover: people who help donations, share to social media and participate in animal love campaigns and refuse animal abuse
 
 ## Map
 
+<p class="caption">User behavior map</p>
+
+<p class="caption">Petado App Structure</p>
+
 ## Sketch
 
-## Secide
+<p class="caption">Petado - App Logo Sketch</p>
+
+<p class="caption">Initial Brainstorming</p>
+
+<p class="caption">Petado App Sketch</p>
+
+<p class="caption">Crazy 8: List of Pets</p>
+
+## Wireframe
+
+## Branding
+
+## UI Design
+
+### Home
+
+Opening page that focuses on animal info recommended for immediate adoption, current information about saving abandoned and tortured animals, as well as information on happy stories about families who are happy by adopting abandoned animals to become members of their new family.
+
+### List of Pets
+
+The page contains a list of pets that can be adopted. There is also their name to recognize them more closely. And there is brief information about where he currently lives and what age they are now.
+
+This page also features search, sorting, filtering and even features to find out around users if there are pets that are ready to be adopted or are in danger.
+
+### Pet Details
+
+This is the most important page of this application, because here the user can see photos of the animal, its name, age, life story and where it is at the moment.
+
+On this page the user will also be able to access the main features of this application which is to adopt selected pets. If you are not interested in adopting it, you can also donate for treatment.
+
+There are also recommendations for seeing other animals.
+
+### Moments
+
+The page lists stories of happy moments and information on saving animals and even information about the development of animals that have not yet been adopted that are currently in shelters.
+
+### The Petado's Family
+
+This page is an interesting page. Which contains a list of shelters for abandoned and abused animals, where other users can adopt these animals.
+
+Actually not only shelter, this page also contains a list of petshops and veterinarians affiliated with Petado, who have the same passion to help abandoned and abused animals.
+
+### Pet Report
+
+This page is a form that can be accessed to report abandoned and abused animals encountered by the user. With complete data, it will help animal rescuers to take rescue actions as soon as possible.
+
+On this page after the user enters location information, at the bottom a recommendation will appear to the nearest shaelter, veterinarian or pet shop. Petado doesn't want reporters to just report and run away. Petado wants the reporter to also take rescue action as soon as possible by contacting the nearest shaelter, veterinarian or pet shop.
+
+### Dream Buddy
+
+This is the most unique page on this Petado application. Where if the current animal can be chosen for adoption, the user can make the pet's expectations criteria. Users can specify the size, coat color (body color), type (workers, family, contests etc.) as well as special notes about their dream pet.
+
+This feature makes the user get special notifications if there is new information about animals that might be close to the animal's expected criteria. It is hoped that in this way it will increase the interest of the community to adopt.
+
+Indeed, the best is adoption without being picky, but most people are still picky if they want to adopt abandoned and neglected animals.
+
+### Donation
+
+Adopting animals is not a joke, it takes a strong commitment, because the animals adopted will live for years and even decades with adopters.
+
+Therefore, users who do not want to adopt can also contribute by donating for the care of abandoned and abused animals.
+
+**Adoption Proposal**
+
+1. Completeness of Adoption Submission
+2. Confirmation that submission was successfully sent
+
+Next, Users can survey directly to the shelter where the animals to be adopted are located.
+
+And then, the Petado Officer will survey the residence of the user who submitted the adoption.
+
+**Adoption Approved**
+
+1. Notification that the application for adoption is approved by Petado
+2. Additional data in the account menu, if new adoption needs to be completed
+
+**Adoption Completed**
+
+1. Complete adoption data form
+2. Congratulations that the entire adoption process has been successful
 
 ## Prototype
 
-## Validate (Test)
+Link prototype [here](https://marvelapp.com/c992944/screen/60051425)
 
 ![Petado Preview](https://farooq-agent.web.app/assets/images/works/large/petado.jpg)
 
 <p class="caption">Petado Preview</p>
+
+# Thank You
