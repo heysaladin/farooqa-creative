@@ -5,17 +5,19 @@
 <p class="meta">Design  /  Tuesday, August 6th 2019</p>
 
 ---
+<p></p>
 
 You can see this story in English, [see here!](https://farooq-agent.web.app/stories/?type=pages_work&content=petado)
 
 ---
+<p></p>
 
 Aplikasi untuk menyimpan dan mengadopsi hewan peliharaan yang ditinggalkan. juga bagian dari mendidik masyarakat tentang merawat hewan terlantar.
 
 > Layanan satu atap untuk menyelamatkan, mengadopsi dan mencintai hewan-hewan tunawisma, terabaikan, diperlakukan buruk dan diperlakukan sewenang-wenang, terutama hewan peliharaan di Indonesia.
 > *Selamatkan . Adopsi . Cintai*
 
-## Problems
+## Permasalahan
 
 Banyak sekali binatang peliharaan di indonesia yg diteantarkan, diperlakukan kasar, tidak terawat, diabaikan. Perlu ada tindakan nyata untuk menolong mereka memperoleh kehidupan, rumah dan kasih sayang yang lebih baik.
 
@@ -28,15 +30,15 @@ Beberapa permasalahan yang ditemukan:
 
 ## How Might We
 
-* Membantu user untuk lebih mudah mengadopsi pet
-* Membantu user mengenal profil dari pet yang akan dia adopsi
-* Membantu user menemukan pet adopsi harapannya
-* Membantu user melaporkan bahwa ada pet yg terlantar
-* Membantu user menemukan pet yg bisa diadopsi di sekitar dia
-* Membantu user memberikan data lengkap seputar pet yang bisa diadopsi oleh user lain
-* Membantu user melakukan donasi untuk perawatan pet yg membutuhkan
+* Bagaimana Kita bisa membantu user untuk lebih mudah mengadopsi pet
+* Bagaimana Kita bisa membantu user mengenal profil dari pet yang akan dia adopsi
+* Bagaimana Kita bisa membantu user menemukan pet adopsi harapannya
+* Bagaimana Kita bisa membantu user melaporkan bahwa ada pet yg terlantar
+* Bagaimana Kita bisa membantu user menemukan pet yg bisa diadopsi di sekitar dia
+* Bagaimana Kita bisa membantu user memberikan data lengkap seputar pet yang bisa diadopsi oleh user lain
+* Bagaimana Kita bisa membantu user melakukan donasi untuk perawatan pet yg membutuhkan
 
-## User Persona
+## Peran Pengguna
 
 * The rescuer: orang yang merawat pet terlantar
 * The adopter: orang yang mengadopsi pet
