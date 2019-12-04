@@ -202,7 +202,7 @@ Dan kemudian, Petado Officer akan mensurvei kediaman pengguna yang mengajukan ad
 1. Formulir data adopsi lengkap
 2. Selamat bahwa seluruh proses adopsi telah berhasil
 
-![Adopsi Selesai](https://farooq-agent.web.app/assets/images/works/details/186-petadoweb-preview-adoption-completed.png)
+![Adopsi Selesai](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-adoption-completed.png)
 
 <p class="caption">Adopsi Selesai</p>
 ## Prototipe

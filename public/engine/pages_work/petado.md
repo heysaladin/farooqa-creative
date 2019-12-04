@@ -209,7 +209,7 @@ And then, the Petado Officer will survey the residence of the user who submitted
 1. Complete adoption data form
 2. Congratulations that the entire adoption process has been successful
 
-![Adoption Completed](https://farooq-agent.web.app/assets/images/works/details/186-petadoweb-preview-adoption-completed.png)
+![Adoption Completed](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-preview-adoption-completed.png)
 
 <p class="caption">Adoption Completed</p>
 
