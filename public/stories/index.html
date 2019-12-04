@@ -494,8 +494,8 @@
       var urlParam = qs.content;
 
       // live
-      //var markdownBaseUrl = "https://raw.githubusercontent.com/heysaladin/farooqa-creative/master/public/";
-      var markdownBaseUrl = "../";
+      //var markdownBaseUrl = "https://raw.githubusercontent.com/heysaladin/farooqa-creative/master/public/engine/";
+      var markdownBaseUrl = "../engine/";
 
       // alert("lang >>>>>> " + qs.lang);
 
@@ -505,11 +505,10 @@
       if (qs.lang != undefined) {
         if (qs.lang != "id") {
           finalUrl =
-            markdownBaseUrl + "engine/" + urlParamType + "/" + urlParam + ".md";
+            markdownBaseUrl + urlParamType + "/" + urlParam + ".md";
         } else {
           finalUrl =
             markdownBaseUrl +
-            "engine/" +
             urlParamType +
             "/" +
             qs.lang +
@@ -519,7 +518,7 @@
         }
       } else {
         finalUrl =
-          markdownBaseUrl + "engine/" + urlParamType + "/" + urlParam + ".md";
+          markdownBaseUrl + urlParamType + "/" + urlParam + ".md";
       }
 
       // Load the Markdown file with jQuery.
