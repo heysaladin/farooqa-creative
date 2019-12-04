@@ -1,6 +1,6 @@
 <p class="type">SOCIAL PROJECT</p>
 
-# BUMEJA Project
+# BUMEJA: Sebuah Proyek Digitalisasi Buku Kesehatan Ibu & Anak
 
 <p class="meta">Design  /  Monday, November 11, 2019 4:46:14pm</p>
 
