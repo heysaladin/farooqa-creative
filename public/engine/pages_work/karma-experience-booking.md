@@ -4,9 +4,7 @@
 
 <p class="meta">Design  /  Monday, November 29, 2019 1:59:14pm</p>
 
-An UI design exploration for online booking system of Karma Group.
-
-## "BetterExperience KarmaWeb" Project
+A design exploration for online booking system of Karma Group.
 
 >*What’s going on?*
 
@@ -17,15 +15,18 @@ The Research Timeframe: Aug 26, 2019 - Nov 26, 2019
 ## The Keys!
 
 *Acquisition*
+
 1. Acquisition overview => how many visit, and how many new visitors.
 2. Traffic sources => from which the user knows the website that we are researching.
 
 *Audience*
+
 3. Visitor => find out about user visits to website pages.
 4. User demographics & Locations => data for user demographics as well as user dispersion data based on location.
 5. Type of device => from desktop or mobile browser?
 
 *Behavior*
+
 6. Site Speed => how long does the user wait for the load to finish?
 7. Pageviews => to find out how many people see web pages and what pages are visited most often.
 8. Bounce rate => how many users have arrived but immediately left again.
@@ -34,6 +35,7 @@ The Research Timeframe: Aug 26, 2019 - Nov 26, 2019
 11. Behavior Flow => to find out what flow does the user during a visit to a website page.
 
 *Conversions*
+
 12. Goals & Conversions => to find out how many users have succeeded in reaching the goal that we provide for the user to achieve.
 
 ## Acquisition
@@ -41,13 +43,11 @@ The Research Timeframe: Aug 26, 2019 - Nov 26, 2019
 ### Acquisition overview
 
 Sessions: 1,179,374
-
 New Users: 821,071
 
 ### Traffic sources
 
 Direct: 403,084
-
 Facebook Ads.: 398,698
 
 ## Audience
@@ -55,7 +55,6 @@ Facebook Ads.: 398,698
 ### Visitor
 
 % New Sessions: 65.26%
-
 Pages / Session (avrg.): 2.27
 
 ### User demographics
@@ -68,7 +67,6 @@ Male: 48.28%
 *Locations*
 
 Indonesia: 52.37%
-
 India: 25.29%
 
 *Language*
@@ -101,13 +99,11 @@ Edge: 7.19 sec.
 ### Pageviews
 
 Pageviews: 140,316
-
 Unique Pageviews: 98,128
 
 ### Bounce rate
 
 Pageviews: 140,316
-
 Bounce Rate: 59.93%
 
 *karmagroup.com/ => 1.60%
@@ -115,7 +111,6 @@ Bounce Rate: 59.93%
 ### Exit pages
 
 Pageviews: 140,316
-
 Exits: 44.08%
 
 *karmagroup.com/ => 17.18%
@@ -123,13 +118,11 @@ Exits: 44.08%
 ### Average session duration
 
 Pageviews: 140,316
-
 Avg. Time on Page: 00:02:44
 
 *karmagroup.com/ => 00:01:15
 
 ### Behavior Flow
-
 
 ## Conversions
 
@@ -143,7 +136,11 @@ Goals are not set yet.
 
 ### About Heavy Content
 
+![Problems](http://127.0.0.1:5500/public/assets/images/works/details/218-karma-experience-booking/heavy.png)
+
 ### About Heavy Content (embeded videos)
+
+![Problems](http://127.0.0.1:5500/public/assets/images/works/details/218-karma-experience-booking/heavy-embeded.png)
 
 ### Google - PageSpeed Insights
 
@@ -170,11 +167,13 @@ because in the end everything will be directed to make a booking.
 ---
 <p></p>
 
-# Design Thinking for "BetterExperience KarmaWeb" Project
+# Design Thinking
 
 ## Empathize
 
 What the problems
+
+![Problems](http://127.0.0.1:5500/public/assets/images/works/details/218-karma-experience-booking/problems.jpg)
 
 ## Define
 
@@ -204,9 +203,15 @@ Notes
 
 Ideation
 
+![Ideation](http://127.0.0.1:5500/public/assets/images/works/details/218-karma-experience-booking/ideation.jpg)
+
 Crazy 8s
 
+![Crazy 8s](http://127.0.0.1:5500/public/assets/images/works/details/218-karma-experience-booking/crazy8s.jpg)
+
 Storyboard
+
+![Storyboard](http://127.0.0.1:5500/public/assets/images/works/details/218-karma-experience-booking/storyboard.jpg)
 
 ## Prototype
 
@@ -214,7 +219,18 @@ Prototyping link, [here!](https://marvelapp.com/c992944/screen/64217686)
 
 ![Karma Experience Booking](https://farooq-agent.web.app/assets/images/works/large/karma-experience-booking.jpg)
 
+---
+<p></p>
+
+Team: Karma Innovation Center Team
+
+Time: Nov 26, 2019 - Dec 4, 2019
+
 Tools:
 - Adobe XD
+- MarvelApp
+
+---
+<p></p>
 
 # Thank You
