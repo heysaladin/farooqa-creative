@@ -4,6 +4,14 @@
 
 <p class="meta">Design  /  Tuesday, August 6th 2019</p>
 
+---
+<p></p>
+
+Anda dapat melihat cerita ini dalam Bahasa Indonesia, [lihat di sini!](https://farooq-agent.web.app/stories/?type=pages_work&content=petado&lang=id)
+
+---
+<p></p>
+
 An application for saving and adopting abandoned domestic animals. also part of educating the public about caring for abandoned animals.
 
 > One stop service for rescue, adopt and loving homeless, neglected, mistreated and abused animals, especially house-pet in Indonesia. 

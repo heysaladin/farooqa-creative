@@ -4,6 +4,12 @@
 
 <p class="meta">Design  /  Tuesday, August 6th 2019</p>
 
+---
+
+You can see this story in English, [see here!](https://farooq-agent.web.app/stories/?type=pages_work&content=petado)
+
+---
+
 Aplikasi untuk menyimpan dan mengadopsi hewan peliharaan yang ditinggalkan. juga bagian dari mendidik masyarakat tentang merawat hewan terlantar.
 
 > Layanan satu atap untuk menyelamatkan, mengadopsi dan mencintai hewan-hewan tunawisma, terabaikan, diperlakukan buruk dan diperlakukan sewenang-wenang, terutama hewan peliharaan di Indonesia.
