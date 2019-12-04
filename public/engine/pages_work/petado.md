@@ -46,39 +46,39 @@ Some problems found:
 
 ## Map
 
-![Petado Preview](https://farooq-agent.web.app/assets/images/works/deatils/186-petado/petado-user-behavior-map.jpg)
+![User behavior map](https://farooq-agent.web.app/assets/images/works/details/186-petado/petado-user-behavior-map.jpg)
 
 <p class="caption">User behavior map</p>
 
-![Petado Preview](https://farooq-agent.web.app/assets/images/works/deatils/186-petado/petado-structure.jpg)
+![Petado App Structure](https://farooq-agent.web.app/assets/images/works/details/186-petado/petado-structure.jpg)
 
 <p class="caption">Petado App Structure</p>
 
 ## Sketch
 
-![Petado Preview](https://farooq-agent.web.app/assets/images/works/deatils/186-petado/app-name.jpg)
+![Petado - App Logo Sketch](https://farooq-agent.web.app/assets/images/works/details/186-petado/app-name.jpg)
 
 <p class="caption">Petado - App Logo Sketch</p>
 
-![Petado Preview](https://farooq-agent.web.app/assets/images/works/deatils/186-petado/brainstorming.jpg)
+![Initial Brainstorming](https://farooq-agent.web.app/assets/images/works/details/186-petado/brainstorming.jpg)
 
 <p class="caption">Initial Brainstorming</p>
 
-![Petado Preview](https://farooq-agent.web.app/assets/images/works/deatils/186-petado/petado-sketch.jpg)
+![Petado App Sketch](https://farooq-agent.web.app/assets/images/works/details/186-petado/petado-sketch.jpg)
 
 <p class="caption">Petado App Sketch</p>
 
-![Petado Preview](https://farooq-agent.web.app/assets/images/works/deatils/186-petado/crazy-8-list-of-pets-with-timer.jpg)
+![Crazy 8s: List of Pets](https://farooq-agent.web.app/assets/images/works/details/186-petado/crazy-8-list-of-pets-with-timer.jpg)
 
-<p class="caption">Crazy 8: List of Pets</p>
+<p class="caption">Crazy 8s: List of Pets</p>
 
 ## Wireframe
 
-![Petado Preview](https://farooq-agent.web.app/assets/images/works/deatils/186-petado/petado-wireframe.jpg)
+![Petado Wireframe](https://farooq-agent.web.app/assets/images/works/details/186-petado/petado-wireframe.jpg)
 
 ## Branding
 
-![Petado Preview](https://farooq-agent.web.app/assets/images/works/deatils/186-petado/petado-branding.jpg)
+![Petado Branding](https://farooq-agent.web.app/assets/images/works/details/186-petado/petado-branding.jpg)
 
 ## UI Design
 
@@ -153,7 +153,7 @@ And then, the Petado Officer will survey the residence of the user who submitted
 
 Link prototype [here](https://marvelapp.com/c992944/screen/60051427)
 
-![Petado Preview](https://farooq-agent.web.app/assets/images/works/deatils/186-petado/web-petado-1.jpg)
+![Petado Preview](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-petado-1.jpg)
 
 <p class="caption">Petado Preview</p>
 
