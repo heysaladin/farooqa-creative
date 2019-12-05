@@ -225,69 +225,69 @@ Applikasi yang biasa digunakan:
 
 ### UI Design
 
-![web-preview-opening](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-opening.png)
+![Opening](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-opening.png)
 
-<p class="caption">web-preview-opening</p>
+<p class="caption">Opening</p>
 
-![web-preview-home](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-home.png)
+![Home](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-home.png)
 
-<p class="caption">web-preview-home</p>
+<p class="caption">Home</p>
 
-![web-preview-records](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-records.png)
+![Records](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-records.png)
 
-<p class="caption">web-preview-records</p>
+<p class="caption">Records</p>
 
-![web-preview-record-create](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-record-create.png)
+![Create Record](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-record-create.png)
 
-<p class="caption">web-preview-record-create</p>
+<p class="caption">Create Record</p>
 
-![web-preview-informations](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-informations.png)
+![Informations](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-informations.png)
 
-<p class="caption">web-preview-informations</p>
+<p class="caption">Informations</p>
 
-![web-preview-information-details](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-information-details.png)
+![Information Details](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-information-details.png)
 
-<p class="caption">web-preview-information-details</p>
+<p class="caption">Information Details</p>
 
-![web-preview-faq](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-faq.png)
+![FAQ](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-faq.png)
 
-<p class="caption">web-preview-faq</p>
+<p class="caption">FAQ</p>
 
-![web-preview-ask](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-ask.png)
+![Ask Something](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-ask.png)
 
-<p class="caption">web-preview-ask</p>
+<p class="caption">Ask Something</p>
 
-![web-preview-notification](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-notification.png)
+![Notification](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-notification.png)
 
-<p class="caption">web-preview-notification</p>
+<p class="caption">Notification</p>
 
-![web-preview-notification-details](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-notification-details.png)
+![Notification Details](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-notification-details.png)
 
-<p class="caption">web-preview-notification-details</p>
+<p class="caption">Notification Details</p>
 
-![web-preview-baby-details](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-baby-details.png)
+![Daby Details](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-baby-details.png)
 
-<p class="caption">web-preview-baby-details</p>
+<p class="caption">Daby Details</p>
 
-![web-preview-graphic](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-graphic.png)
+![Chart](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-graphic.png)
 
-<p class="caption">web-preview-graphic</p>
+<p class="caption">Chart</p>
 
-![web-preview-search](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-search.png)
+![Search](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-search.png)
 
-<p class="caption">web-preview-search</p>
+<p class="caption">Search</p>
 
-![web-preview-search-result](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-search-result.png)
+![Search Result](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-search-result.png)
 
-<p class="caption">web-preview-search-result</p>
+<p class="caption">Search Result</p>
 
-![web-preview-account](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-account.png)
+![Account](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-account.png)
 
-<p class="caption">web-preview-account</p>
+<p class="caption">Account</p>
 
-![web-preview-reminder](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-reminder.png)
+![Reminder](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-reminder.png)
 
-<p class="caption">web-preview-reminder</p>
+<p class="caption">Reminder</p>
 
 ### Prototype Link
 
