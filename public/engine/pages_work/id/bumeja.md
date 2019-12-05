@@ -223,6 +223,72 @@ Applikasi yang biasa digunakan:
 
 ![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/wireframes.jpg)
 
+### UI Design
+
+![web-preview-opening](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-opening.png)
+
+<p class="caption">web-preview-opening</p>
+
+![web-preview-home](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-home.png)
+
+<p class="caption">web-preview-home</p>
+
+![web-preview-records](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-records.png)
+
+<p class="caption">web-preview-records</p>
+
+![web-preview-record-create](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-record-create.png)
+
+<p class="caption">web-preview-record-create</p>
+
+![web-preview-informations](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-informations.png)
+
+<p class="caption">web-preview-informations</p>
+
+![web-preview-information-details](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-information-details.png)
+
+<p class="caption">web-preview-information-details</p>
+
+![web-preview-faq](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-faq.png)
+
+<p class="caption">web-preview-faq</p>
+
+![web-preview-ask](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-ask.png)
+
+<p class="caption">web-preview-ask</p>
+
+![web-preview-notification](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-notification.png)
+
+<p class="caption">web-preview-notification</p>
+
+![web-preview-notification-details](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-notification-details.png)
+
+<p class="caption">web-preview-notification-details</p>
+
+![web-preview-baby-details](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-baby-details.png)
+
+<p class="caption">web-preview-baby-details</p>
+
+![web-preview-graphic](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-graphic.png)
+
+<p class="caption">web-preview-graphic</p>
+
+![web-preview-search](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-search.png)
+
+<p class="caption">web-preview-search</p>
+
+![web-preview-search-result](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-search-result.png)
+
+<p class="caption">web-preview-search-result</p>
+
+![web-preview-account](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-account.png)
+
+<p class="caption">web-preview-account</p>
+
+![web-preview-reminder](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-preview-reminder.png)
+
+<p class="caption">web-preview-reminder</p>
+
 ### Prototype Link
 
 Link prototype [here](https://marvelapp.com/c992944/screen/60051427)

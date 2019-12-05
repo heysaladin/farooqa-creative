@@ -267,6 +267,54 @@ Storyboard
 
 ## Prototype
 
+### UI Design
+
+![Icon](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-icon.png)
+
+<p class="caption">Icon</p>
+
+![Log In](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-login.png)
+
+<p class="caption">Log In</p>
+
+![Home Default](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-home-default.png)
+
+<p class="caption">Home Default</p>
+
+![Home Logged In](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-home-logged-in.png)
+
+<p class="caption">Home Logged In</p>
+
+![Exclusive Offers](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-exclusive-offers.png)
+
+<p class="caption">Exclusive Offers</p>
+
+![Products by Country](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-country.png)
+
+<p class="caption">Products by Country</p>
+
+![Products per Country](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-product-per-country.png)
+
+<p class="caption">Products per Country</p>
+
+![Product Details](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-product-details.png)
+
+<p class="caption">Product Details</p>
+
+![Product Details Sub Information](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-product-details-sub.png)
+
+<p class="caption">Product Details Sub Information</p>
+
+![Booking](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-booking.png)
+
+<p class="caption">Booking</p>
+
+![Booking Success](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-booking-success.png)
+
+<p class="caption">Booking Success</p>
+
+### Prototype Link
+
 Prototyping link, [here!](https://marvelapp.com/c992944/screen/64217686)
 
 ![Karma Experience Booking](https://farooq-agent.web.app/assets/images/works/large/karma-experience-booking.jpg)
