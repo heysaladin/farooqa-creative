@@ -1,6 +1,6 @@
 <p class="type">SOCIAL PROJECT</p>
 
-# BUMEJA Project
+# BUMEJA: A Maternal & Child Health Book Digitization Project
 
 <p class="meta">Design  /  Monday, November 11, 2019 4:46:14pm</p>
 
@@ -29,104 +29,103 @@ Buku Merah Jambu (Mother & Child Health Book) provided by the Republic of Indone
 
 #### Jumlah kelahiran
 
-Sampai akhir 2018, Badan Kependudukan dan Keluarga Berencana (BKKBN) mencatat bahwa Laju Pertumbuhan Penduduk (LPP) Indonesia berada di posisi 1,39%, yang berarti setiap tahun ada 4,2 juta sampai hampir 4,8 juta bayi baru lahir di Indonesia.
+Until the end of 2018, the Population and Family Planning Agency (BKKBN) noted that Indonesia's Population Growth Rate (LPP) was at 1.39%, meaning that every year there were 4.2 million to nearly 4.8 million newborn babies in Indonesia.
 
-Sumber: [Jumlah kelahiran](https://www.beritasatu.com/kesehatan/536962/bkkbn-48-juta-bayi-lahir-tiap-tahun)
+Source: [Jumlah kelahiran](https://www.beritasatu.com/kesehatan/536962/bkkbn-48-juta-bayi-lahir-tiap-tahun)
 
 #### Kasus Stunting
 
-Prevalensi stunting bayi berusia di bawah lima tahun (balita) Indonesia pada 2015 sebesar 36,4%. Artinya lebih dari sepertiga atau sekitar 8,8 juta balita mengalami masalah gizi di mana tinggi badannya di bawah standar sesuai usianya.
+The prevalence (Prevalensi) of stunting for infants under five years old in Indonesia in 2015 is 36.4%. This means that more than one third or around 8.8 million children under five experience nutritional problems where their height is below the standard according to their age.
 
-Sumber: [Kasus Stunting](https://databoks.katadata.co.id/datapublish/2018/11/22/prevalensi-stunting-balita-indonesia-tertinggi-kedua-di-asean)
+Source: [Kasus Stunting](https://databoks.katadata.co.id/datapublish/2018/11/22/prevalensi-stunting-balita-indonesia-tertinggi-kedua-di-asean)
 
--> prevalensi/pre·va·len·si/ /prévalénsi/ n 1 hal yang umum; kelaziman; 2 Dok jumlah keseluruhan kasus penyakit yang terjadi pada suatu waktu tertentu di suatu wilayah
-
----
-<p></p>
-
-⇒ Survey (untuk dapat BANYAK data tapi tidak dalam/data dangkal, bisa dilakukan secara online)
-
-**Pertanyaan Survey:**
-
-1. Siapa nama Anda? (nama panggilan juga tidak apa-apa)
-2. Anda seorang laki-laki atau seorang perempuan?
-3. Usia berapa Anda Sekarang?
-4. Tinggal dimana Anda sekarang?
-5. Apa profesi Anda sekarang?
-6. Menurut BKKBN ada sekitar 4 juta bayi lahir setiap tahun di Indonesia, dan dari data lain ada sekitar 8 juta balita mengalami stunting, menurut Anda bagaimana cara memantau tumbuh kembang anak dan kesehatan ibu hamil dan menyusui?
-7. Kenapa sih kita perlu tahu kondisi tumbuh kembang bayi dan kesehatan ibu hamil dan menyusui?
-8. Sebelumnya apakah Anda sudah mengetahui tentang Buku Kesehatan Ibu dan Anak (Buku Pink)?
-9. Perlu gak sih ada Buku Pink itu? Kasih alasannya juga dong!
-10. Apa yang kamu harapkan ada di Buku Pink itu?
-
-**Link Survey [di sini](https://saladin129084.typeform.com/to/ZTd2Uj).**
-
-**Insight yang didapat dari Survey:**
-
-* Banyak yang belum tahu buku pink itu apa
-* Tidak perlu ada buku pink, browsing aja
-* Lembar untuk diisi dokter (petugas medis) terbatas, akan habis jika orang tua rajin memerikasa dan meminta dokter mencatat sesuatu di lembar tersebut
-* Ada fitur yang tidak tersedia di buku pink, seperti pencatatan lingkar kepala bayi dan lingkar pinggang ibu
-* Tidak ada catatan rinci untuk kondisi janin, hanya ada pencatatan bayi setelah lahir
-* Lebih baik jika ada versi digitalnya
+-> prevalensi/pre·va·len·si/ /prévalénsi/ n 1 hal yang umum; kelaziman; 2 Dok total number of cases of disease occurring at any given time in an area
 
 ---
 <p></p>
 
-⇒ Interview (untuk mendapatkan data MENDALAM dari partisipan yang diwawancarai)
+⇒ Survey (to be able to LOT data but not in / shallow data, can be done online)
 
-**Pertanyaan Interview:**
+**Survey Questions:**
 
+1. What is your name? (nickname is okay too)
+2. Are you a boy or a girl?
+3. What age are you now?
+4. Where do you live now?
+5. What is your current profession?
+6. According to the BKKBN there are around 4 million babies born every year in Indonesia, and from other data there are around 8 million infants stunted, how do you think how to monitor the growth and development of children and the health of pregnant and lactating mothers?
+7. Why do we need to know the conditions of growth and development of babies and the health of pregnant and lactating women?
+8. Did you already know about the Mother and Child Health Book (Pink Book)?
+9. Do you need the Pink Book? Give me the reason too!
+10. What do you expect in the Pink Book?
 
-1. Siapa nama Anda? (nama panggilan juga tidak apa-apa)
-2. Anda seorang laki-laki atau seorang perempuan?
-3. Usia berapa Anda Sekarang?
-4. Tinggal dimana Anda sekarang?
-5. Apa profesi Anda sekarang?
-6. Menurut BKKBN ada sekitar 4 juta bayi lahir setiap tahun di Indonesia, dan dari data lain ada sekitar 8 juta balita mengalami stunting, menurut Anda bagaimana cara memantau tumbuh kembang anak dan kesehatan ibu hamil dan menyusui?
-7. Kenapa sih kita perlu tahu kondisi tumbuh kembang bayi dan kesehatan ibu hamil dan menyusui?
-8. Sebelumnya apakah Anda sudah mengetahui tentang Buku Kesehatan Ibu dan Anak (Buku Pink)?
-9. Perlu gak sih ada Buku Pink itu? Kasih alasannya juga dong!
-10. Apa yang kamu harapkan ada di Buku Pink itu?
-11. Apakah Anda sudah menikah?
-12. Apakah Anda sudah dikaruniai anak?
-13. Selama hamil (dan melahirkan) bagaimana cara memantau tumbuh kembang anak dan kesehatan sang ibu?
-14. Tau kah ibu tentang buku kesehatan ibu dan anak?
-15. Dari mana Anda mengetahui buku kesehatan ibu dan anak?
-16. Apakah Anda pernah membaca isi dari buku tersebut? Jika tidak, mengapa?
-17. Apakah Anda selalu membawa buku tersebut saat berkonsultasi dengan bidan / dokter?
-18. Menurut Anda apakah buku tersebut membantu memberikan informasi mengenai tumbuh kembang anak? Mengapa?
-19. Apakah buku tersebut mudah di bawa? 
-20. Pernahkah Anda lupa membawa buku tersebut saat melakukan konsultasi dengan dokter?
-21. Apa yang akan terjadi jika buku tersebut lupa dibawa saat konsultasi dengan dokter?
-22. Pernahkan buku tersbut hilang/ tidak dapat ditemukan?
-23. Bagaimana proses dari pergantian buku yang sudah hilang?
-24. Apakah Anda terbiasa menggunakan gawai? Untuk apa biasanya?
-25. Apakah anda sering mengunjungi website dari gawai Anda? Website apa saja?
-26. Lebih nyaman mana Anda saat mengakses informasi, apakah website mobile (dari browser) atau langsung dari aplikasinya? Apa alasannya?
-27. Anda malas atau tidak sih menginstall aplikasi baru? Kenapa?
+**Link Survey [here](https://saladin129084.typeform.com/to/ZTd2Uj).**
 
-**Insight yang didapat dari Survey:**
+**Insight obtained from the Survey:**
 
-* Banyak yang belum tahu buku pink itu apa
-* Sudah makin banyak orang yang familiar dengan penggunaan gadget (gawai)
-* Tidak semua mau install native app (memory terbatas, atau males klo gak terlalu diperlukan)
-* Ada banyak yang peduli sekali karena tahu sejak janin sampai usia 2 tahun adalah golden age
-* Banyak yang mau install app jika memang bisa membantu mengetahui tumbuh kembang anak
-* Sudah saatnya jadi digital karena tidak praktis membawa buku pink kesana kemari
+* Many do not know what a pink book is
+* No need for a pink book, just browse
+* Sheet to be filled by a doctor (medical officer) is limited, will run out if parents diligently check and ask the doctor to record something on the sheet
+* There are features that are not available in the pink book, such as recording the baby's head circumference and mother's waist circumference
+* There are no detailed records for the condition of the fetus, there are only records of the baby after birth
+* It's better if there is a digital version
+
+---
+<p></p>
+
+⇒ Interview (to obtain DEEP data from participants interviewed)
+
+**Interview Questions:**
+
+1. What is your name? (nickname is okay too)
+2. Are you a boy or a girl?
+3. What age are you now?
+4. Where do you live now?
+5. What is your current profession?
+6. According to the BKKBN there are around 4 million babies born every year in Indonesia, and from other data there are around 8 million infants stunted, how do you think how to monitor the growth and development of children and the health of pregnant and lactating mothers?
+7. Why do we need to know the conditions of growth and development of babies and the health of pregnant and lactating women?
+8. Did you already know about the Mother and Child Health Book (Pink Book)?
+9. Do you need the Pink Book? Give me the reason too!
+10. What do you expect in the Pink Book?
+11. Are you married?
+12. Have you been blessed with children?
+13. During pregnancy (and giving birth) how to monitor the child's growth and development and the health of the mother?
+14. Do you know about maternal and child health books?
+15. Where did you find out about maternal and child health books?
+16. Have you ever read the contents of the book? If not, why not?
+17. Do you always carry the book when consulting with a midwife / doctor?
+18. Do you think the book helps provide information about child development? Why?
+19. Is the book easy to carry?
+20. Have you ever forgotten to bring the book while consulting with a doctor?
+21. What will happen if the book is forgotten when brought in consultation with a doctor?
+22. Have the books ever been lost / can't be found?
+23. What is the process of changing books that have been lost?
+24. Are you used to using devices? For what usually?
+25. Do you often visit the website of your device? What website?
+26. Which is more convenient for you when accessing information, is it a mobile website (from a browser) or directly from the application? What is the reason?
+27. Are you lazy or not installing new applications? Why?
+
+**Insight obtained from the Interview:**
+
+* Many do not know what a pink book is
+* More and more people are familiar with using gadgets
+* Not everyone wants to install a native app (limited memory, or lazy if not too necessary)
+* There are many who really care because they know that from the fetus to the age of 2 years is the golden age
+* Many who want to install the app if it can help find out the child's growth and development
+* It's time to go digital because it's not practical to bring pink books here and there
 
 ---
 <p></p>
 
 ### Problems
 
-- Buku berukuran cukup besar sehingga kurang portable
-- Buku bercampur antara yang bersifat informasi dan form yang nantinya akan digunakan dokter dan paramedis mencatat tumbuh kembang anak
-- Buku berbentuk fisik yang mana jika buku tertinggal di rumah, buku tidak dapat dimanfaatkan
-- Buku rawan hilang
-- Buku rentan rusak (basah, terbakar, dimakan rayap dan kerusakan lainnya)
-- Beberapa fitur belum ada di buku pink
-- Update buku pink mahal karana perlu cetak dan distribusi ke seluruh negeri
+- The book is large enough to be less portable
+- The book is a mix of information and forms that will be used by doctors and paramedics to note the child's growth and development
+- Books in physical form where if books are left at home, they cannot be used
+- The book is prone to missing
+- Book vulnerable to damage (wet, burned, eaten by termites and other damage)
+- Some features aren't in the pink book yet
+- Pink book updates are expensive because they need to be printed and distributed throughout the country
 
 ### Find Right User
 
@@ -136,26 +135,26 @@ Prioritize User Categories
 
 ### Target User
 
-> *“Wanita muda yang bekerja dan ibu rumah tangga berusia 16 hingga 35 tahun yang familiar dengan penggunaan smartphone”*
+> *“Working young women and housewives aged 16 to 35 years who are familiar with using smartphones”*
 
 ### User Persona
 
-Nama: Yanti
-Jenis Kelamin: Perempuan
-Usia: 26 tahun
-Pekerjaan: Ibu Rumah Tangga
-Applikasi yang biasa digunakan:
+Name: Yanti
+Female gender
+Ages: 26 years
+Occupation: Housewife
+Application commonly used:
 - Instagram
 - WhatsApp
 - Facebook
 
 ### User Story
 
-*“Sebagai ibu rumah tangga, aku ingin memantau kondisi anak saya dari lahir sampai usia 5 tahun”*
+*“As a housewife, I want to monitor the condition of my child from birth to the age of 5 years”*
 
-*“Sebagai seorang ibu, saya ingin tahu hal yang terbaik yang bisa saya lakukan sebelum muncul masalah terkait kesehatan dan tumbuh kembanga anak saya”*
+*“As a mother, I want to know the best thing I can do before problems arise related to my child's health and development”*
 
-*“Sebagai wanita yang hamil pertama kali, saya perlu banyak input informasi seputar tumbuh kembang janin, persalinan dan menyusui”*
+*“As a woman who is pregnant for the first time, I need a lot of input information about fetal growth, delivery and breastfeeding”*
 
 ---
 <p></p>
@@ -164,20 +163,20 @@ Applikasi yang biasa digunakan:
 
 ### How Might We
 
-- Bagaimana kita bisa membantu ibu-ibu yang bekerja untuk mendapatkan fungsi buku pink tanpa harus kerepotan membawanya, sehingga pendataan catatan kesehatan anaknya bisa tetap bisa berjalan
-- Bagaimana kita bisa membantu ibu-ibu yang bekerja untuk membaca dan memperbarui isi buku pink setiap hari tanpa harus membawa buku itu, sehingga ia selalu ingat kondisi anaknya meski tidak membawa buku pink
-- Bagaimana kita bisa membantu ibu untuk mengakses buku pink kapan saja dan dimana saja termasuk daerah terpencil dan tanpa sinyal internet
-- Bagaimana kita bisa mencari solusi agar ukuran buku tidak lagi jadi masalah
-- Bagaimana kita bisa membantu ibu memperoleh informasi sesuai kondisinya saat ini (hamil, persiapan persalinan, menyusui, dan lain sebagainya)
-- Bagaimana kita bisa membantu ibu melakukan tindakan tepat terkait apa yang dialami saat ini (kontraksi, asi tidak keluar, anak kurus dan lain-lain)
-- Bagaimana kita bisa memberikan notifikasi agar ibu selalu perhatian dan tidak lupa memberikan tindakan yang tepat untuk buah hatinya
+- How can we help working mothers to get the pink book function without the hassle of carrying it, so that the data collection of their children's health records can continue to run
+- How can we help working mothers to read and update the contents of a pink book every day without having to bring the book, so that he always remembers the condition of his child even though he did not bring a pink book
+- How can we help mothers to access pink books anytime and anywhere including remote areas and without internet signal
+- How can we find a solution so that book size is no longer a problem
+- How can we help mothers obtain information according to their current conditions (pregnancy, preparation for childbirth, breastfeeding, etc.)
+- How can we help mothers take appropriate actions related to what is currently experienced (contractions, breast milk not coming out, thin children and others)
+- How can we give notification so that the mother is always attentive and does not forget to give the right actions for her baby
 
 ### Pain Points
 
-- Masih banyak ibu dan calon ibu yang bahkan tidak tahu ada buku pink
-- Banyaknya ibu yang memiliki buku pink tapi tidak cukup mampu memaksimalkan manfaat buku pink
-- Buku pink tidak praktis di bawa, terkadang bisa lupa membawa buku tersebut saat berkonsultasi
-- Buku pink rentan hilang / rusak
+- There are still many mothers and expectant mothers who don't even know that there is a pink book
+- The number of mothers who have pink books but are not enough to be able to maximize the benefits of pink books
+- Pink books are not practical in carrying, sometimes can forget to bring the book when consulting
+- Pink books are prone to missing / damaged
 
 ### Constraint
 
@@ -190,12 +189,12 @@ Applikasi yang biasa digunakan:
 
 ### Notes
 
-- Kondisi anak saat ini
-- Kondisi ideal yang bisa diusahakan untuk dicapai
-- Pencatatan konidisi anak
-- Histori kondisi anak
-- Detail biodata anak
-- Pencarian bebas
+- The child's current condition
+- Ideal conditions that can be strived to be achieved
+- Registration of children's conidition
+- History of the child's condition
+- Details of children's biodata
+- free search
 - F.A.Q
 
 ### Ideas
@@ -291,7 +290,7 @@ Applikasi yang biasa digunakan:
 
 ### Prototype Link
 
-Link prototype [here](https://marvelapp.com/c992944/screen/60051427)
+Prototype link [here](https://marvelapp.com/c992944/screen/60051427)
 
 ![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-bumeja-1.jpg)
 

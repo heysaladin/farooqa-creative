@@ -122,7 +122,7 @@ Edge: 7.19 sec.
 
 ![site speed](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/site-speed.png)
 
-*Google reccommends 5 seconds or less at 3G.*
+*Google recommends 5 seconds or less at 3G.*
 
 ### Pageviews
 
@@ -177,7 +177,7 @@ Goals are not set yet.
 
 ![Problems](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/heavy.png)
 
-### About Heavy Content (embeded videos)
+### About Heavy Content (embedded videos)
 
 ![Problems](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/heavy-embeded.png)
 

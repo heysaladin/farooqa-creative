@@ -77,7 +77,6 @@ Sumber: [Kasus Stunting](https://databoks.katadata.co.id/datapublish/2018/11/22/
 
 **Pertanyaan Interview:**
 
-
 1. Siapa nama Anda? (nama panggilan juga tidak apa-apa)
 2. Anda seorang laki-laki atau seorang perempuan?
 3. Usia berapa Anda Sekarang?
@@ -96,7 +95,7 @@ Sumber: [Kasus Stunting](https://databoks.katadata.co.id/datapublish/2018/11/22/
 16. Apakah Anda pernah membaca isi dari buku tersebut? Jika tidak, mengapa?
 17. Apakah Anda selalu membawa buku tersebut saat berkonsultasi dengan bidan / dokter?
 18. Menurut Anda apakah buku tersebut membantu memberikan informasi mengenai tumbuh kembang anak? Mengapa?
-19. Apakah buku tersebut mudah di bawa? 
+19. Apakah buku tersebut mudah di bawa?
 20. Pernahkah Anda lupa membawa buku tersebut saat melakukan konsultasi dengan dokter?
 21. Apa yang akan terjadi jika buku tersebut lupa dibawa saat konsultasi dengan dokter?
 22. Pernahkan buku tersbut hilang/ tidak dapat ditemukan?
@@ -106,7 +105,7 @@ Sumber: [Kasus Stunting](https://databoks.katadata.co.id/datapublish/2018/11/22/
 26. Lebih nyaman mana Anda saat mengakses informasi, apakah website mobile (dari browser) atau langsung dari aplikasinya? Apa alasannya?
 27. Anda malas atau tidak sih menginstall aplikasi baru? Kenapa?
 
-**Insight yang didapat dari Survey:**
+**Insight yang didapat dari Interview:**
 
 * Banyak yang belum tahu buku pink itu apa
 * Sudah makin banyak orang yang familiar dengan penggunaan gadget (gawai)
@@ -118,7 +117,7 @@ Sumber: [Kasus Stunting](https://databoks.katadata.co.id/datapublish/2018/11/22/
 ---
 <p></p>
 
-### Problems
+### Permasalahan
 
 - Buku berukuran cukup besar sehingga kurang portable
 - Buku bercampur antara yang bersifat informasi dan form yang nantinya akan digunakan dokter dan paramedis mencatat tumbuh kembang anak
@@ -289,9 +288,9 @@ Applikasi yang biasa digunakan:
 
 <p class="caption">Reminder</p>
 
-### Prototype Link
+### Prototipe
 
-Link prototype [here](https://marvelapp.com/c992944/screen/60051427)
+Tautan prototipe [here](https://marvelapp.com/c992944/screen/60051427)
 
 ![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-bumeja-1.jpg)
 
@@ -309,4 +308,4 @@ Tools:
 ---
 <p></p>
 
-# Thank You
+# Terima kasih
