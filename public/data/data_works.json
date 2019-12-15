@@ -2515,6 +2515,44 @@
     }
   },
   {
+    "id": 219,
+    "meta": {
+      "lang": "en",
+      "title": "Go Delivery",
+      "stylesheets": [
+        "./css/style.css"
+      ],
+      "scripts": [
+        "./js/main.js"
+      ],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Go Delivery",
+      "catogory": [
+        "Design"
+      ],
+      "bodyCopyShort": "Go Delivery: Delivery Services",
+      "work_category": 8,
+      "image": "../assets/images/works/large/go-delivery.jpg",
+      "thumbnail": "../assets/images/works/small/go-delivery.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "go-delivery",
+      "date": "2019-12-16 20:26:14",
+      "date_update": "2019-11-01 23:26:41"
+    }
+  },
+  {
     "id": 207,
     "meta": {
       "lang": "en",

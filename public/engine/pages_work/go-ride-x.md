@@ -34,4 +34,45 @@ Ini adalah fitur untuk mengetahui pengalaman pengguna saat menggunakan app gojek
 
 Permasalahan yang digali khusus untuk go-ride saja.
 
+## Ideation
+
+### Notes
+
+Sub Topic:
+
+1. Profesionalisme
+
+   - Apakah driver cepat sampai?
+
+2. Kondisi Kendaraan
+
+   - Bagaimana kondisi kendaraan? Jika iya:
+   - Motor tidak kokoh & oleng
+   - Jok rusak
+   - Mesin lompat-lompat
+
+3. Kondisi Helm
+
+   - helm kotor & dekil
+   - helm bau
+   - pengunci helm rusak
+   - kaca helm rusak (hilang)
+   - helm bersih dan wangi
+
+4. Kondisi Jaket Penampilan Driver
+
+   - jaket kumal & kotor
+   - jaket bersih & rapi
+
+5. Ketrampilan & Tatakrama
+
+   - nyetir ugal-ugalan
+   - bicara & bersikap tidak sopan
+   - nyetir terlalu lambat
+   - nyetir cepat tapi aman & sopan
+
+### UI Design (Snippet)
+
 ![Go Ride X](https://farooq-agent.web.app/assets/images/works/large/go-ride-x.jpg)
+
+# On Progress
