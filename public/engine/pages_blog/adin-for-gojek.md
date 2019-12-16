@@ -32,4 +32,4 @@ Solusi untuk service tour guide yang akan mengantarmu dan menemanimu kemana pun 
 
 Itu adalah explorasi saya terkait Gojek, memang semuanya masih dalam proses research namun diharapkan dapat memberi gambaran tentang ketertarikan saya terhadap Gojek.
 
-### Terima kasih :)
+### *Terima kasih :)*
