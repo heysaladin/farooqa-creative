@@ -6,7 +6,7 @@
 
 *"Go Send + Steroid = Go Delivery."*
 
-Solusi untuk service delivery memanfaatkan jumlah driver gojek yang cukup banyak.
+Solusi untuk pengiriman barang untuk beberapa titik dalam sekali jalan.
 
 ![Go Delivery](https://farooq-agent.web.app/assets/images/works/large/go-delivery.jpg)
 
