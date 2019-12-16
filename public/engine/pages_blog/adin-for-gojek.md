@@ -8,9 +8,11 @@ Sebagai bentuk ketertarikan saya dengan Gojek, saya sempat memiliki beberapa ide
 
 ---
 
-<p></p>
+<p>
 
 1. [Go Ride X](https://farooq-agent.web.app/stories/?type=pages_work&content=go-ride-x)
+
+</p>
 
 Sebuah fitur untuk mengetahui pengalaman pengguna saat menggunakan app gojek dan sub app go-ride. Fitur ini dilakukan langsung saat user menggunakan layanan go-ride.
 
@@ -18,9 +20,11 @@ Sebuah fitur untuk mengetahui pengalaman pengguna saat menggunakan app gojek dan
 
 ---
 
-<p></p>
+<p>
 
 2. [Go Delivery](https://farooq-agent.web.app/stories/?type=pages_work&content=go-delivery)
+
+</p>
 
 Solusi untuk pengiriman barang untuk beberapa titik dalam sekali jalan.
 
@@ -28,9 +32,11 @@ Solusi untuk pengiriman barang untuk beberapa titik dalam sekali jalan.
 
 ---
 
-<p></p>
+<p>
 
-3. [Go Tour](https://farooq-agent.web.app/stories/?type=pages_work&content=go-tour)
+1. [Go Tour](https://farooq-agent.web.app/stories/?type=pages_work&content=go-tour)
+
+</p>
 
 Solusi untuk service tour guide yang akan mengantarmu dan menemanimu kemana pun kamu pergi.
 
