@@ -1,4 +1,32 @@
-[{
+[
+  {
+    "id": 20,
+    "meta": {
+      "lang": "en",
+      "title": "Adin's style of Design Sprint",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Adin's style of Design Sprint",
+      "catogory": ["Design"],
+      "isReady": true,
+      "bodyCopyShort": "Adin's style of Design Sprint",
+      "image": "../assets/images/blog/details/adins-style-of-design-sprint/adin-design-sprint.jpg",
+      "thumbnail": "../assets/images/blog/details/adins-style-of-design-sprint/adin-design-sprint.jpg",
+      "date": "2019-12-22 12:59:37",
+      "date_update": "2019-12-22 12:41:01",
+      "slug": "adins-style-of-design-sprint"
+    }
+  },
+  {
     "id": 16,
     "meta": {
       "lang": "en",
