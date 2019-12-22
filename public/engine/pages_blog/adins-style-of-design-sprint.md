@@ -26,9 +26,15 @@ Mari kita bahas lebih rinci!
 
 # Research
 
-## survey
+## Read Data
 
-## user interview
+## User Info. (Persona, Storey, Journey)
+
+## Survey
+
+## User Interview
+
+## Research Results
 
 ---
 
@@ -185,13 +191,13 @@ Langkahnya adalah sebagai berikut:
 
 2. Sketching
 
-sketch ini kita buat untuk mengumpulkan ide yang kita tujukan untuk menyesaikan masalah yang ditentukan sebelumnya juga dapat mengambil inspirasi dari beberapa referensi yang didapat sebelumnya.
+Sketch ini kita buat untuk mengumpulkan ide yang kita tujukan untuk menyesaikan masalah yang ditentukan sebelumnya juga dapat mengambil inspirasi dari beberapa referensi yang didapat sebelumnya.
 
 Ada 4 tahapan sketsa yang dijelaskan di buku SPRINT dari Jake Knapp.
 
 A. Notes
 
-ini adalah catatan dan coret coretan yang terlintas dalam pikiran kita asal sesuai dengan tujuan dan bisa dibantu dengan referensi.
+Ini adalah catatan dan coret coretan yang terlintas dalam pikiran kita asal sesuai dengan tujuan dan bisa dibantu dengan referensi.
 
 ![Sketch](../assets/images/blog/details/adins-style-of-design-sprint/sketch-note.png)
 
@@ -199,7 +205,7 @@ ini adalah catatan dan coret coretan yang terlintas dalam pikiran kita asal sesu
 
 B. Ideas
 
-ini adalah bentuk teratur dari coretan note sebelumnya, isinya berupa tampilan yang masih mentah dengan komponen-komponen sederhana yang diharapkan sesuai dengan solusi yang ingin dituju.
+Ini adalah bentuk teratur dari coretan note sebelumnya, isinya berupa tampilan yang masih mentah dengan komponen-komponen sederhana yang diharapkan sesuai dengan solusi yang ingin dituju.
 
 ![Sketch](../assets/images/blog/details/adins-style-of-design-sprint/sketch-ideas.png)
 
@@ -207,7 +213,7 @@ ini adalah bentuk teratur dari coretan note sebelumnya, isinya berupa tampilan y
 
 C. Crazy 8s
 
-ini adalah sebuah excercise dimana kita ditantang mengumpulkan ide dalam waktu yang sangat sangat sangat cepat yaitu dalam waktu 8 menit dapat membuat 8 sketsa, jadi diharapan dalam 1 menit dapat membuat 1 sketsa. ini cukup efektif untuk menemukan sketsa yang cukup sesuai dengan tujuan yg ingin kita capai.
+Ini adalah sebuah excercise dimana kita ditantang mengumpulkan ide dalam waktu yang sangat sangat sangat cepat yaitu dalam waktu 8 menit dapat membuat 8 sketsa, jadi diharapan dalam 1 menit dapat membuat 1 sketsa. ini cukup efektif untuk menemukan sketsa yang cukup sesuai dengan tujuan yg ingin kita capai.
 
 ![Sketch](../assets/images/blog/details/adins-style-of-design-sprint/sketch-crazy8s.png)
 
@@ -215,7 +221,7 @@ ini adalah sebuah excercise dimana kita ditantang mengumpulkan ide dalam waktu y
 
 D. Solution sketch
 
-ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya adalah kertas putih (sekitar tiga buah) yang direkatkan satu sama lain sehingga lebih panjang ke bawah. dari satu kertas terlihat seperti satu panel yang berisi sketsa dan penjelasan serta informasi lainnya. agar lebih menarik berilah nick name pada solution sketch yg telah dibuat.
+Ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya adalah kertas putih (sekitar tiga buah) yang direkatkan satu sama lain sehingga lebih panjang ke bawah. dari satu kertas terlihat seperti satu panel yang berisi sketsa dan penjelasan serta informasi lainnya. agar lebih menarik berilah nick name pada solution sketch yg telah dibuat.
 
 ![Sketch](../assets/images/blog/details/adins-style-of-design-sprint/sketch-solution.png)
 
@@ -265,30 +271,29 @@ ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya ad
 
 ### . . .
 
-*Tuesday (Morning)*
+*Tuesday (After Lunch)*
 
 ## The Storyboard
 
 ### User test flow
 
+Langkahnya adalah sebagai berikut:
 
-masing masing anggota sprint memberikan ide bagaimana flow dari user untuk bisa sampai tahu dan menemukan solusi yang kita tawarkan. masing masing orang membuat 6 langkah flow.
+* masing masing anggota sprint memberikan ide bagaimana flow dari user untuk bisa sampai tahu dan menemukan solusi yang kita tawarkan. masing masing orang membuat 6 langkah flow.
 
-tempelkan dan urutkan berjajar di papan
+* tempelkan dan urutkan berjajar di papan
 
-tentukan flow mana yang paling baik untuk nantinya akan diubah menjadi prototype
+* tentukan flow mana yang paling baik untuk nantinya akan diubah menjadi prototype
 
-kemudian lingkari flow mana yang terpilih
+* kemudian lingkari flow mana yang terpilih
 
 ### Storyboarding
 
-buat delapan kotak di papan
+* buat delapan kotak di papan
 
-pasang sketsa dari solution sketch yang telah terpilih sebelumnya
+* pasang sketsa dari solution sketch yang telah terpilih sebelumnya
 
-jika ada kotak kotak yang kosong karena belum dibuatkan sketsa (wireframe) buatkan dan tempel di kotak yang kosong untuk melengkapi
-
-tips: jangan memasukkn flow yang tidak perlu seperti flow login, lupa password dan semacamnya! bukannya tidak penting, tapi sprint ini sedang tidak membahas flow itu.
+* jika ada kotak kotak yang kosong karena belum dibuatkan sketsa (wireframe) buatkan dan tempel di kotak yang kosong untuk melengkapi
 
 ![Storyboard](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-1.png)
 
@@ -310,27 +315,52 @@ tips: jangan memasukkn flow yang tidak perlu seperti flow login, lupa password d
 
 <p class="caption">Storyboard</p>
 
+Tips: jangan memasukkn flow yang tidak perlu seperti flow login, lupa password dan semacamnya! bukannya tidak penting, tapi sprint ini sedang tidak membahas flow itu.
+
 Output: sebuah wireframe dari storyboard yang selanjutnya akan diubah olah tim UI designer menjadi prototype.
 
 ---
 
 ## Prototype
 
+Create User Interface Design based on Storyboard
+
+Create User Interaction Design
+
 ---
 
 ## Validate
+
+Usability Testing
 
 ---
 
 # Digital Product Rapid Engineering
 
+*Build Prototype with Real Coding for Validate & Research Only*
+
 Digital Product Rapid Engineering adalah sebutan dari saya sendiri, biasa disebut juga dengan istilah UX Engineering.
 
-* interfaces dev.
-* interaction dev.
-* request web service
-* populate data
-* passing data
+Berikut adalah yang umumnya dikerjakan:
+
+* Interfaces dev.
+* Interaction dev.
+* Request web service
+* Populate data
+* Passing data
+
+## Kenapa perlu Digital Product Rapid Engineering?
+
+Perlu diketahui bahwa tidak semua kasus perlu sekali Digital Product Rapid Engineering ini, hanya kasus kasus tertentu saja. Kondisi produk sangat bermacam-macam dan untuk kebutuhan prototyping ada yang cukup hanya dengan MarvelApp namun ada pula yang memang perlu penggunaan teknologi pemrograman agar kita mampu membuat prototype yang hampir menyerupai real product kita namun dikembangkan secara sederhana dan dalam waktu yang singkat.
+
+Beberapa limitasi yang itu kiranya dapat diselesaikan dengan real coding, antara lain sebagai berikut:
+
+* Map
+* Ton of Data
+* Interface & data based on user preferences
+* Tracking & Logging
+* Performence Testing
+* etc.
 
 ---
 
