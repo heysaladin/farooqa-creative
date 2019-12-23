@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  Sunday, December 22nd 2019</p>
 
-***Disclaimer:** Ini adalah catatan teori yang saya buat untuk diri saya sendiri dan belum tentu ini adalah teori dan cara yang paling benar.*
+***Disclaimer:** Catatan saya buat karena terlalu banyak sumber yang saya temukan saat belajar design sprint, akhirnya, saya ringkas menjadi design sprint ala saya, berdasarkan sepemahaman saya. Ini adalah catatan teori yang saya buat untuk diri saya sendiri dan belum tentu ini adalah teori dan cara yang paling benar.*
 
 Selama kurang dari satu tahun terakhir ini saya mulai aktif dan serius belajar UI design berlanjut ke UX design dan sampai akhirnya  secara umum belajar Product Design. Dari berbagai sumber yang saya kumpulkan akhirnya di akhir tahun ini saya membuat catatan ini.
 
