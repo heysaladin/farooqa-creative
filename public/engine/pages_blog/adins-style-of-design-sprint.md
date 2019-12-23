@@ -387,11 +387,29 @@ Wireframe ini adalah bentuk lebih rinci dari sketsa yang dibuat sebelumnya, jika
 
 Create User Interface Design based on Storyboard.
 
+Tool yang dapat digunakan:
+
+* Keynote (for Mac & iOS)
+* Sketch (for Mac)
+* Figma
+* Adobe XD
+* inVision Studio
+* software grafis lainnya bahkan seperti Adobe Photoshop, Adobe Illustrator dan lain sebagainya.
+
 ![User Interface Design](../assets/images/blog/details/adins-style-of-design-sprint/user-interface-design.jpg)
 
 <p class="caption">User Interface Design</p>
 
 Create User Interaction Design.
+
+Tool yang dapat digunakan:
+
+* inVision
+* MarvelApp
+* Principle (for Mac)
+* Frammer
+* Protopie
+* etc.
 
 ![User Interaction Design](../assets/images/blog/details/adins-style-of-design-sprint/user-interaction-design.jpg)
 
@@ -401,11 +419,25 @@ Create User Interaction Design.
 
 ## Validate
 
-Usability Testing.
+**Usability Testing**
 
-![User Testing](../assets/images/blog/details/adins-style-of-design-sprint/user-testing.jpg)
+Tujuan dari Usability Testing adalah untuk mengetahui apakah aplikasi yang dibuat dapat digunakan oleh user. Usability Testing perlu dilakukan untuk mengetahui lebih dulu kemungkinan kendala penggunaan aplikasi yang akan dihadapi oleh pengguna.
 
-<p class="caption">User Testing</p>
+![Usability Testing](../assets/images/blog/details/adins-style-of-design-sprint/usability-testing.jpg)
+
+<p class="caption">Usability Testing</p>
+
+Ada berbagai tempat pilihan untuk melakukan Usability Testing yaitu:
+
+* di tempat umum seperti tempat perbelanjaan , café, kampus
+* di ruangan laboratory yang sudah diatur kondisinya
+* melalui online seperti Skype
+
+Jangan lupa juga untuk mendokumentasikan hasil testing seperti gambar di bawah ini. Kartu warna hijau adalah hal positif yang ditemukan dan kartu warna orange adalah untuk hal negatif yang ditemukan. Urutkan per fitur dan per pertisipan yang diuji.
+
+![Usability Testing - Documentation](../assets/images/blog/details/adins-style-of-design-sprint/user-testing.jpg)
+
+<p class="caption">Usability Testing - Documentation</p>
 
 ---
 
