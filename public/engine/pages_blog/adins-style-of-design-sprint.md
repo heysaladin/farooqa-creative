@@ -32,7 +32,7 @@ Membaca data adalah langkah paling awal untuk memulai proses research. Jika suda
 
 Jika belum ada pencatatan data sebelumnya, dapat dilakukan juga pencarian data dari sumber lain untuk informasi lain seperti seberapa pengguna smartphone di suatu wilayah, seberapa banyak penggunaan emoney di masyarakat, seberapa banyak orang yang sudah menggunakan internet dan berbagai informasi lainnya yang sesuai dengan kebutuhan research kita.
 
-![Data](../assets/images/blog/details/adins-style-of-design-sprint/data.png)
+![Read Data](../assets/images/blog/details/adins-style-of-design-sprint/data.png)
 
 <p class="caption">Read Data</p>
 
