@@ -282,11 +282,15 @@ Ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya ad
 
 **1. The Art Museum**
 
+Para anggota sprint menempel solution sketch miliknya di dinding. minta seluruh anggota sprint saling baca antar anggota sprint.
+
 ![The Art Museum](../assets/images/blog/details/adins-style-of-design-sprint/art-museum.png)
 
 <p class="caption">The Art Museum</p>
 
 **2. Heat Map**
+
+Masing-masing orang memberikan dots pada bagian yg menarik dr solution sketch yg ditampilkan.
 
 ![Heat Map](../assets/images/blog/details/adins-style-of-design-sprint/heatmap.png)
 
@@ -294,17 +298,23 @@ Ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya ad
 
 **3. Speed Critique**
 
+Fasilitator mengajak diskusi dengan pemilik sketch dan memberikan kritik dan saran secara cepat.
+
 ![Speed Critique](../assets/images/blog/details/adins-style-of-design-sprint/speed-critique.png)
 
 <p class="caption">Speed Critique</p>
 
 **4. Straw Poll**
 
+Anggota memilih mana solution sketch yang menurutnya bagus.
+
 ![Straw Poll](../assets/images/blog/details/adins-style-of-design-sprint/straw-poll.png)
 
 <p class="caption">Straw Poll</p>
 
 **5. The Super Vote**
+
+Decision maker menentukan solution sketch mana yg terbaik.
 
 ![The Super Vote](../assets/images/blog/details/adins-style-of-design-sprint/super-vote.png)
 
@@ -325,11 +335,8 @@ Ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya ad
 Langkahnya adalah sebagai berikut:
 
 * Masing masing anggota sprint memberikan ide bagaimana flow dari user untuk bisa sampai tahu dan menemukan solusi yang kita tawarkan. masing masing orang membuat 6 langkah flow.
-
 * Tempelkan dan urutkan berjajar di papan
-
 * Tentukan flow mana yang paling baik untuk nantinya akan diubah menjadi prototype
-
 * Kemudian lingkari flow mana yang terpilih
 
 . . .
@@ -337,9 +344,7 @@ Langkahnya adalah sebagai berikut:
 ### Storyboarding
 
 * Buat delapan kotak di papan
-
 * Pasang sketsa dari solution sketch yang telah terpilih sebelumnya
-
 * Jika ada kotak kotak yang kosong karena belum dibuatkan sketsa (wireframe) buatkan dan tempel di kotak yang kosong untuk melengkapi
 
 ![Storyboard - Sketch Winner](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-1.png)
