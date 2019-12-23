@@ -28,33 +28,56 @@ Mari kita bahas lebih rinci!
 
 ## Read Data
 
+Membaca data adalah langkah paling awal untuk memulai proses research. Jika sudah ada pencatatan data sebelumnya maka lebih mudah untuk mengetahui yang sedang terjadi saat ini pada produk atau bisnis yang akan kita research, seperti seberapa banyak akuisisi user, seberapa banyak transaksi dalam 3 bulan terakhir atau jangka waktu lainnya, seberapa banyak pengunjung website, seberapa banyak orang yang menginstall app, darimana user tahu dan banyak lagi informasi yang bisa kita dapatkan.
+
+Jika belum ada pencatatan data sebelumnya, dapat dilakukan juga pencarian data dari sumber lain untuk informasi lain seperti seberapa pengguna smartphone di suatu wilayah, seberapa banyak penggunaan emoney di masyarakat, seberapa banyak orang yang sudah menggunakan internet dan berbagai informasi lainnya yang sesuai dengan kebutuhan research kita.
+
 ![Data](../assets/images/blog/details/adins-style-of-design-sprint/data.png)
 
-<p class="caption">Data</p>
+<p class="caption">Read Data</p>
 
-## User Info. (Persona, Storey, Journey)
+## Arranging insights from Data
 
-![Research](../assets/images/blog/details/adins-style-of-design-sprint/user-persona.png)
+Jika sudah membaca data (terutama jika sudah ada pencatatan data sebelumnya) kita bisa catat insight-insight apa saja yang menarik yang ditemukan dari data tersebut, serta dapat juga menentukan beberapa hal. Contoh dari penataan insight ini adalah sebagai berikut:
 
-<p class="caption">Research</p>
+* User Persona
+* User Story
+* User Journey
+* User Behaviour
+* Jenis kelamin
+* Usia
+* Profesi
+* etc.
+
+![User Information](../assets/images/blog/details/adins-style-of-design-sprint/user-persona.png)
+
+<p class="caption">User Information</p>
 
 ## Survey
 
-![Research](../assets/images/blog/details/adins-style-of-design-sprint/survey.jpg)
+Untuk mendapatkan BANYAK data tapi tidak dalam/data dangkal, bisa dilakukan secara online. Survey akan lebih efektif jika orang yang menjadi target adalah orang yang sesuai dengan User Persona yang sudah ditentukan sebelumnya.
 
-<p class="caption">Research</p>
+![Survey for Research](../assets/images/blog/details/adins-style-of-design-sprint/survey.jpg)
+
+<p class="caption">Survey for Research</p>
 
 ## User Interview
 
-![Research](../assets/images/blog/details/adins-style-of-design-sprint/interview.jpg)
+Untuk mendapatkan data MENDALAM dari partisipan yang diwawancarai. Tantangannya adalah selain mencari orang yang mau diwawancarai, orang tersebut diharapkan adalah orang yang sesuai dengan User Persona yang sudah ditentukan sebelumnya.
 
-<p class="caption">Research</p>
+![Interview for Research](../assets/images/blog/details/adins-style-of-design-sprint/interview.jpg)
+
+<p class="caption">Interview for Research</p>
 
 ## Research Results
 
-![Research](../assets/images/blog/details/adins-style-of-design-sprint/research-report.jpg)
+Dari hasil research yang diperoleh dari berbagai sumber seperti membaca data, survey dan interview, saatnya untuk membuat semua informasi itu menjadi bentuk lebih sederhana seperti diagram dan poin-poin yang memudahkan orang untuk memahaminya.
 
-<p class="caption">Research</p>
+Hasil research ini selanjutnya akan dibawa ke meeting Design Sprint selanjutnya.
+
+![Research Results](../assets/images/blog/details/adins-style-of-design-sprint/research-report.jpg)
+
+<p class="caption">Research Results</p>
 
 ---
 
@@ -70,7 +93,7 @@ Ini adalah tahap awal dalam memulai design sprint yaitu tahap memahami permasala
 
 . . .
 
-1. Ask The Expert Session
+**1. Ask The Expert Session**
 
 Ini adalah diskusi antara product designer dan beberapa pihak untuk mengetahui apa yang sedang terjadi, permasalahan apa yang ada dan tujuan apa yang ingin dicapai.
 
@@ -79,10 +102,10 @@ Langkahnya adalah sebagai berikut:
 * Buat group diskusi dengan orang sebanyak 5 sampai 10 orang, jangan terlalu banyak! (contoh: 3 Orang Product Designer, 1 Orang UI Designer, 1 Orang Researcher, 1 Orang Product Manager/Project Manager/CEO, 1 Orang Developer/CTO, dan 1 Orang Operasional)
 * Penjelasan Hasil Research dari Researcher
 * Set Timer untuk 20 menit dan menyiapkan Post-it + Sharpy (Spidol)
-* Diskusi antar semua anggota dan membuat How Might We dari hasil research, business goals, development feasibility dan lain-lain
-* setelah 20 menit, tempelkan semua post-it ke dinding atau papan
-* minta semua orang membaca HMW yang didapat
-* masing-masing orang memberikan 3 dots (merah kecil) kepada HMW yang dianggap paling bagus
+* Diskusi antar semua anggota dan membuat How Might We dari hasil research, business goals, development feasibility dan lain-lain (tantangannya adalah bagaimana menemukan sweet spot antara user desirability, business viability & technology feasibility)
+* Setelah 20 menit, tempelkan semua post-it ke dinding atau papan
+* Minta semua orang membaca HMW yang didapat
+* Masing-masing orang memberikan 3 dots (merah kecil) kepada HMW yang dianggap paling bagus
 
 ![How Might We](../assets/images/blog/details/adins-style-of-design-sprint/hmw.png)
 
@@ -103,32 +126,32 @@ Ini adalah kegiatan membuat peta dari alur yang ada dalam produk atau bisnis kit
 
 Langkahnya adalah sebagai berikut:
 
-* siapkan papan dan spidol
-* buat tulisan "discover", "learn", "use" dan nama customer serta goal
-* buat flow dari awal customer hingga menemukan goal yang kita inginkan
-* tempelkan how might we yang kita buat tadi (yang ada dots nya) pada bagian flow yang sesuai dengan how might we tersebut pada peta
-* lingkari how might we dan flow mana yang akan difokuskan pada sprint kali ini
+* Siapkan papan dan spidol
+* Buat tulisan "discover", "learn", "use" dan nama customer serta goal
+* Buat flow dari awal customer hingga menemukan goal yang kita inginkan
+* Tempelkan how might we yang kita buat tadi (yang ada dots nya) pada bagian flow yang sesuai dengan how might we tersebut pada peta
+* Lingkari how might we dan flow mana yang akan difokuskan pada sprint kali ini
 
-![Map](../assets/images/blog/details/adins-style-of-design-sprint/map-1.png)
+![Map - Start](../assets/images/blog/details/adins-style-of-design-sprint/map-1.png)
 
-<p class="caption">Map</p>
+<p class="caption">Map - Start</p>
 
-![Map](../assets/images/blog/details/adins-style-of-design-sprint/map-2.png)
+![Map - with How Might We highlights](../assets/images/blog/details/adins-style-of-design-sprint/map-2.png)
 
-<p class="caption">Map</p>
+<p class="caption">Map - with How Might We highlights</p>
 
-![Map](../assets/images/blog/details/adins-style-of-design-sprint/map-3.png)
+![Map - with circle focus spot based on How Might We hottest topic](../assets/images/blog/details/adins-style-of-design-sprint/map-3.png)
 
-<p class="caption">Map</p>
+<p class="caption">Map - with circle focus spot based on How Might We hottest topic</p>
 
 . . .
 
 ![Map Alternative](../assets/images/blog/details/adins-style-of-design-sprint/map-alter.png)
 
-<p class="caption">Map Alternative (Many User Categories)</p>
+<p class="caption">Map Alternative (Many User Categories & more than one focus spot)</p>
 
 **Output:**
-*Peta yang sudah ditempeli post-it dan sudah dilingkari bagian mana yang akan jadi pusat perhatian pada sprint kali ini.*
+*Peta yang sudah ditempeli post-it (How Might We) dan sudah dilingkari bagian mana yang akan jadi pusat perhatian pada sprint kali ini.*
 
 . . .
 
@@ -136,49 +159,49 @@ Langkahnya adalah sebagai berikut:
 
 Langkahnya adalah sebagai berikut:
 
-* ajak semua anggota duduk bersama di meja
-* kemudian bagikan post-it dan sharpy (spidol)
-* set timer jadi 5 menit
-* tulis pada post-it dengan awalan "satu tahun ke depan kita akan ..." lalu lanjukkan dengan tujuan apa yang ingin di capai dalam kurun waktu tertantu (dalam hal ini satu tahun ke depan), buat beberapa hingga waktu habis
-* waktu habis dan tempel post-itdi dinding atau papan
-* vote dots kecil masing-masing orang 3 dots
-* tentukan mana yg jadi goal utama
+* Ajak semua anggota duduk bersama di meja
+* Kemudian bagikan post-it dan sharpy (spidol)
+* Set timer jadi 5 menit
+* Tulis pada post-it dengan awalan "satu tahun ke depan kita akan ..." lalu lanjukkan dengan tujuan apa yang ingin di capai dalam kurun waktu tertantu (dalam hal ini satu tahun ke depan), buat beberapa hingga waktu habis
+* Waktu habis dan tempel post-itdi dinding atau papan
+* Vote dots kecil masing-masing orang 3 dots
+* Tentukan mana yg jadi goal utama
 
-![Planning](../assets/images/blog/details/adins-style-of-design-sprint/goal-ideas.png)
+![Goal Ideas](../assets/images/blog/details/adins-style-of-design-sprint/goal-ideas.png)
 
-<p class="caption">Planning</p>
+<p class="caption">Goal Ideas</p>
 
-![Planning](../assets/images/blog/details/adins-style-of-design-sprint/goal-note.png)
+![Goal Note](../assets/images/blog/details/adins-style-of-design-sprint/goal-note.png)
 
-<p class="caption">Planning</p>
+<p class="caption">Goal Note</p>
 
-![Planning](../assets/images/blog/details/adins-style-of-design-sprint/goal-show-off-and-vote.png)
+![Goal Show Off and Vote](../assets/images/blog/details/adins-style-of-design-sprint/goal-show-off-and-vote.png)
 
-<p class="caption">Planning</p>
+<p class="caption">Goal Show Off and Vote</p>
 
-![Planning](../assets/images/blog/details/adins-style-of-design-sprint/goal-dots-vote.png)
+![Goal Dots Vote](../assets/images/blog/details/adins-style-of-design-sprint/goal-dots-vote.png)
 
-<p class="caption">Planning</p>
+<p class="caption">Goal Dots Vote</p>
 
-![Planning](../assets/images/blog/details/adins-style-of-design-sprint/goal-vote.png)
+![Goal Vote](../assets/images/blog/details/adins-style-of-design-sprint/goal-vote.png)
 
-<p class="caption">Planning</p>
+<p class="caption">Goal Vote</p>
 
-![Planning](../assets/images/blog/details/adins-style-of-design-sprint/goal-decide.png)
+![Goal Decide](../assets/images/blog/details/adins-style-of-design-sprint/goal-decide.png)
 
-<p class="caption">Planning</p>
+<p class="caption">Goal Decide</p>
 
 ![Planning](../assets/images/blog/details/adins-style-of-design-sprint/question-note.png)
 
 <p class="caption">Planning</p>
 
-![Planning](../assets/images/blog/details/adins-style-of-design-sprint/question-vote.png)
+![Question Vote](../assets/images/blog/details/adins-style-of-design-sprint/question-vote.png)
 
-<p class="caption">Planning</p>
+<p class="caption">Question Vote</p>
 
-![Planning](../assets/images/blog/details/adins-style-of-design-sprint/goal-and-question.png)
+![Goal and Question](../assets/images/blog/details/adins-style-of-design-sprint/goal-and-question.png)
 
-<p class="caption">Planning</p>
+<p class="caption">Goal and Question</p>
 
 **Output:**
 *Satu goal utama dan beberapa sprint questions.*
@@ -197,15 +220,15 @@ Langkahnya adalah sebagai berikut:
 
 Langkahnya adalah sebagai berikut:
 
-* set timer selama 25 menit
-* cari 3 produk atau fitur sebagai referensi yang sesuai dengan topik yang ingin kita tuju sesuai spot map yang kita tentukan sebelumnya
+* Set timer selama 25 menit
+* Cari 3 produk atau fitur sebagai referensi yang sesuai dengan topik yang ingin kita tuju sesuai spot map yang kita tentukan sebelumnya
 
 ![Sketch](../assets/images/blog/details/adins-style-of-design-sprint/lightning-demos.png)
 
 <p class="caption">Sketch</p>
 
 **Output:**
-*3 Referensi*
+*3 Referensi aplikasi atau fitur dari beberapa apliaksi.*
 
 . . .
 
@@ -219,33 +242,33 @@ A. Notes
 
 Ini adalah catatan dan coret coretan yang terlintas dalam pikiran kita asal sesuai dengan tujuan dan bisa dibantu dengan referensi.
 
-![Sketch](../assets/images/blog/details/adins-style-of-design-sprint/sketch-note.png)
+![Sketch - Notes](../assets/images/blog/details/adins-style-of-design-sprint/sketch-note.png)
 
-<p class="caption">Sketch</p>
+<p class="caption">Sketch - Notes</p>
 
 B. Ideas
 
 Ini adalah bentuk teratur dari coretan note sebelumnya, isinya berupa tampilan yang masih mentah dengan komponen-komponen sederhana yang diharapkan sesuai dengan solusi yang ingin dituju.
 
-![Sketch](../assets/images/blog/details/adins-style-of-design-sprint/sketch-ideas.png)
+![Sketch - Ideas](../assets/images/blog/details/adins-style-of-design-sprint/sketch-ideas.png)
 
-<p class="caption">Sketch</p>
+<p class="caption">Sketch - Ideas</p>
 
 C. Crazy 8s
 
 Ini adalah sebuah excercise dimana kita ditantang mengumpulkan ide dalam waktu yang sangat sangat sangat cepat yaitu dalam waktu 8 menit dapat membuat 8 sketsa, jadi diharapan dalam 1 menit dapat membuat 1 sketsa. ini cukup efektif untuk menemukan sketsa yang cukup sesuai dengan tujuan yg ingin kita capai.
 
-![Sketch](../assets/images/blog/details/adins-style-of-design-sprint/sketch-crazy8s.png)
+![Sketch - Crazy 8s](../assets/images/blog/details/adins-style-of-design-sprint/sketch-crazy8s.png)
 
-<p class="caption">Sketch</p>
+<p class="caption">Sketch - Crazy 8s</p>
 
-D. Solution sketch
+D. Solution Sketch
 
 Ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya adalah kertas putih (sekitar tiga buah) yang direkatkan satu sama lain sehingga lebih panjang ke bawah. dari satu kertas terlihat seperti satu panel yang berisi sketsa dan penjelasan serta informasi lainnya. agar lebih menarik berilah nick name pada solution sketch yg telah dibuat.
 
-![Sketch](../assets/images/blog/details/adins-style-of-design-sprint/sketch-solution.png)
+![Solution Sketch](../assets/images/blog/details/adins-style-of-design-sprint/sketch-solution.png)
 
-<p class="caption">Sketch</p>
+<p class="caption">Solution Sketch</p>
 
 ---
 
@@ -259,33 +282,33 @@ Ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya ad
 
 1. The Art Museum
 
-![Decide](../assets/images/blog/details/adins-style-of-design-sprint/art-museum.png)
+![The Art Museum](../assets/images/blog/details/adins-style-of-design-sprint/art-museum.png)
 
-<p class="caption">Decide</p>
+<p class="caption">The Art Museum</p>
 
 2. Heat Map
 
-![Decide](../assets/images/blog/details/adins-style-of-design-sprint/heatmap.png)
+![Heat Map](../assets/images/blog/details/adins-style-of-design-sprint/heatmap.png)
 
-<p class="caption">Decide</p>
+<p class="caption">Heat Map</p>
 
 3. Speed Critique
 
-![Decide](../assets/images/blog/details/adins-style-of-design-sprint/speed-critique.png)
+![Speed Critique](../assets/images/blog/details/adins-style-of-design-sprint/speed-critique.png)
 
-<p class="caption">Decide</p>
+<p class="caption">Speed Critique</p>
 
 4. Straw Poll
 
-![Decide](../assets/images/blog/details/adins-style-of-design-sprint/straw-poll.png)
+![Straw Poll](../assets/images/blog/details/adins-style-of-design-sprint/straw-poll.png)
 
-<p class="caption">Decide</p>
+<p class="caption">Straw Poll</p>
 
-5. Super Vote
+5. The Super Vote
 
-![Decide](../assets/images/blog/details/adins-style-of-design-sprint/super-vote.png)
+![The Super Vote](../assets/images/blog/details/adins-style-of-design-sprint/super-vote.png)
 
-<p class="caption">Decide</p>
+<p class="caption">The Super Vote</p>
 
 ---
 
@@ -295,61 +318,80 @@ Ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya ad
 
 ## The Storyboard
 
+. . .
+
 ### User test flow
 
 Langkahnya adalah sebagai berikut:
 
-* masing masing anggota sprint memberikan ide bagaimana flow dari user untuk bisa sampai tahu dan menemukan solusi yang kita tawarkan. masing masing orang membuat 6 langkah flow.
+* Masing masing anggota sprint memberikan ide bagaimana flow dari user untuk bisa sampai tahu dan menemukan solusi yang kita tawarkan. masing masing orang membuat 6 langkah flow.
 
-* tempelkan dan urutkan berjajar di papan
+* Tempelkan dan urutkan berjajar di papan
 
-* tentukan flow mana yang paling baik untuk nantinya akan diubah menjadi prototype
+* Tentukan flow mana yang paling baik untuk nantinya akan diubah menjadi prototype
 
-* kemudian lingkari flow mana yang terpilih
+* Kemudian lingkari flow mana yang terpilih
+
+. . .
 
 ### Storyboarding
 
-* buat delapan kotak di papan
+* Buat delapan kotak di papan
 
-* pasang sketsa dari solution sketch yang telah terpilih sebelumnya
+* Pasang sketsa dari solution sketch yang telah terpilih sebelumnya
 
-* jika ada kotak kotak yang kosong karena belum dibuatkan sketsa (wireframe) buatkan dan tempel di kotak yang kosong untuk melengkapi
+* Jika ada kotak kotak yang kosong karena belum dibuatkan sketsa (wireframe) buatkan dan tempel di kotak yang kosong untuk melengkapi
 
-![Storyboard](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-1.png)
+![Storyboard - Sketch Winner](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-1.png)
 
-<p class="caption">Storyboard</p>
+<p class="caption">Storyboard - Sketch Winner</p>
 
-![Storyboard](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-2.png)
+![Storyboard - Flows](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-2.png)
 
-<p class="caption">Storyboard</p>
+<p class="caption">Storyboard - Flows</p>
 
-![Storyboard](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-3.png)
+![Storyboard - Vote on Flows](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-3.png)
 
-<p class="caption">Storyboard</p>
+<p class="caption">Storyboard - Vote on Flows</p>
 
-![Storyboard](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-4.png)
+![Storyboard - Create circle the Flow Winner](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-4.png)
 
-<p class="caption">Storyboard</p>
+<p class="caption">Storyboard - Create circle the Flow Winner</p>
 
-![Storyboard](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-5.png)
+![Storyboard - put the flow winner on large pannels (8 pannels)](../assets/images/blog/details/adins-style-of-design-sprint/storyboard-5.png)
 
-<p class="caption">Storyboard</p>
+<p class="caption">Storyboard - put the flow winner on large pannels (8 pannels)</p>
 
-Tips: jangan memasukkn flow yang tidak perlu seperti flow login, lupa password dan semacamnya! bukannya tidak penting, tapi sprint ini sedang tidak membahas flow itu.
+**Tips:**
+Jangan memasukkn flow yang tidak perlu seperti flow login, lupa password dan semacamnya! bukannya tidak penting, tapi sprint ini sedang tidak membahas flow itu.
 
-Output: sebuah wireframe dari storyboard yang selanjutnya akan diubah olah tim UI designer menjadi prototype.
+**Output:**
+*Sebuah wireframe dari storyboard yang selanjutnya akan diubah olah tim UI designer menjadi prototype.*
+
+---
+
+### Wireframes
+
+Wireframe ini adalah bentuk lebih rinci dari sketsa yang dibuat sebelumnya, jika ada flow yang belum lengkap, lengkapi! Dan selalu berpedoman pada map dan goals yang telah dibuat sebelumnya.
+
+![Wireframes](../assets/images/blog/details/adins-style-of-design-sprint/wireframing.jpg)
+
+<p class="caption">Wireframes</p>
+
+**Output:**
+*Beberapa wireframe yang dibuat lebih detail sesuai proses-proses sebelumnya dan banyaknya wireframe mengikuti kebutuhan storyboard yang sudah ditentukan sebelumnya. Wireframe ini yang selanjutnya akan digunakan oleh team UI Designer untuk membuat User Interface dan User Interaction Design.*
 
 ---
 
 ## Prototype
 
-Create User Interface Design based on Storyboard
+Create User Interface Design based on Storyboard.
 
 ![User Interface Design](../assets/images/blog/details/adins-style-of-design-sprint/user-interface-design.jpg)
 
 <p class="caption">User Interface Design</p>
 
-Create User Interaction Design
+Create User Interaction Design.
 
 ![User Interaction Design](../assets/images/blog/details/adins-style-of-design-sprint/user-interaction-design.jpg)
 
@@ -359,7 +401,7 @@ Create User Interaction Design
 
 ## Validate
 
-Usability Testing
+Usability Testing.
 
 ![User Testing](../assets/images/blog/details/adins-style-of-design-sprint/user-testing.jpg)
 
@@ -397,6 +439,36 @@ Beberapa limitasi yang itu kiranya dapat diselesaikan dengan real coding, antara
 ![Rapid Engineering](../assets/images/blog/details/adins-style-of-design-sprint/rapid-engineering.jpg)
 
 <p class="caption">Rapid Engineering</p>
+
+---
+
+### Output Metamorphosis
+
+Berikut ini adalah proses perubahan dari mulai hasil research hingga berupa prototype yang siap diujikan kepada user dan hasil pengujian tersebut akan menjadi bahan research dan akan memulai fase baru pada Design Sprint selanjutnya, maka dari itu pekerjaan design tidak akan pernah selesai.
+
+![Output Metamorphosis](../assets/images/blog/details/adins-style-of-design-sprint/output-meta.jpg)
+
+<p class="caption">Output Metamorphosis</p>
+
+---
+
+## Conclusion
+
+Ini adalah hasil belajar saya selama beberapa bulan ini (12/2019) dan akan saya jadikan petokan untuk kedepannya. Fokus dari catatan ini adalah tentang design sprint dan menurut saya terbukti bekerja baik untuk merubah menjadi ide hingga jadi prototype yang diharapkan bisa jadi solusi. Ini terbukti akan memotong waktu development dan menghindarkan team development membuat sesuatu tanpa kejelasan sehingga tidak ada kerugian waktu, tenaga dan biaya. Walau demikian tidak perlu juga mengkultuskan Design Sprint ini karena faktanya saya pernah menemui orang yang mengatakan bahwa design sprint ini gak masuk akal dan bahkan mengatakan bahwa kalau saja Design Sprint ini tidak ada embel-embel nama Google, gak ada yang mau pakai.
+
+Jadi mau pakai Design Sprint atau tidak itu terserah pribadi dan team masing-masing. Hanya saja menurut saya ini adalah perkembangan dari metode zaman terdahulu seperti waterfall, SDLC, Agile (Scrum, XP) dan lain-lain. Sampai kapan Design Sprint ini akan relevan juga melihat perkembangan zaman juga.
+
+Yang terakhir, saya ingatkan bahwa Design Sprint ini adalah framework yang bisa saja orang yang memakainya salah atau tidak ada passion dalam mengerjakannya. Jadi, teruslah belajar dan carilah team yang tepat karena "Design Sprint itu untuk dikerjakan bersama (Collaborative Effort) bukan untuk dikerjan sendiri". Dan mohon maaf jika ada salah dan terima kasih sudah membaca catatan saya yang sederhana ini.
+
+---
+
+### References
+
+* Sprint - Jake Knapp
+* AJ&Smart Youtube
+* Google Design Sprint Workshop with Borrys Hasian
+* Gojek Design
+* Bukalapak Design
 
 ---
 
