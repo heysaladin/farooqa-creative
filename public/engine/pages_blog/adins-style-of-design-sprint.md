@@ -28,13 +28,33 @@ Mari kita bahas lebih rinci!
 
 ## Read Data
 
+![Data](../assets/images/blog/details/adins-style-of-design-sprint/data.png)
+
+<p class="caption">Data</p>
+
 ## User Info. (Persona, Storey, Journey)
+
+![Research](../assets/images/blog/details/adins-style-of-design-sprint/user-persona.png)
+
+<p class="caption">Research</p>
 
 ## Survey
 
+![Research](../assets/images/blog/details/adins-style-of-design-sprint/survey.jpg)
+
+<p class="caption">Research</p>
+
 ## User Interview
 
+![Research](../assets/images/blog/details/adins-style-of-design-sprint/interview.jpg)
+
+<p class="caption">Research</p>
+
 ## Research Results
+
+![Research](../assets/images/blog/details/adins-style-of-design-sprint/research-report.jpg)
+
+<p class="caption">Research</p>
 
 ---
 
@@ -325,13 +345,25 @@ Output: sebuah wireframe dari storyboard yang selanjutnya akan diubah olah tim U
 
 Create User Interface Design based on Storyboard
 
+![User Interface Design](../assets/images/blog/details/adins-style-of-design-sprint/user-interface-design.jpg)
+
+<p class="caption">User Interface Design</p>
+
 Create User Interaction Design
+
+![User Interaction Design](../assets/images/blog/details/adins-style-of-design-sprint/user-interaction-design.jpg)
+
+<p class="caption">User Interaction Design</p>
 
 ---
 
 ## Validate
 
 Usability Testing
+
+![User Testing](../assets/images/blog/details/adins-style-of-design-sprint/user-testing.jpg)
+
+<p class="caption">User Testing</p>
 
 ---
 
@@ -361,6 +393,10 @@ Beberapa limitasi yang itu kiranya dapat diselesaikan dengan real coding, antara
 * Tracking & Logging
 * Performence Testing
 * etc.
+
+![Rapid Engineering](../assets/images/blog/details/adins-style-of-design-sprint/rapid-engineering.jpg)
+
+<p class="caption">Rapid Engineering</p>
 
 ---
 
