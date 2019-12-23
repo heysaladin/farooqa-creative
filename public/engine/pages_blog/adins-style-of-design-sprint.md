@@ -120,7 +120,7 @@ Langkahnya adalah sebagai berikut:
 
 . . .
 
-2. Map
+**2. Map**
 
 Ini adalah kegiatan membuat peta dari alur yang ada dalam produk atau bisnis kita.
 
@@ -155,7 +155,7 @@ Langkahnya adalah sebagai berikut:
 
 . . .
 
-3. Planning Session
+**3. Planning Session**
 
 Langkahnya adalah sebagai berikut:
 
@@ -216,7 +216,7 @@ Langkahnya adalah sebagai berikut:
 
 . . .
 
-1. Lightning Demos (References)
+**1. Lightning Demos (References)**
 
 Langkahnya adalah sebagai berikut:
 
@@ -232,7 +232,7 @@ Langkahnya adalah sebagai berikut:
 
 . . .
 
-2. Sketching
+**2. Sketching**
 
 Sketch ini kita buat untuk mengumpulkan ide yang kita tujukan untuk menyesaikan masalah yang ditentukan sebelumnya juga dapat mengambil inspirasi dari beberapa referensi yang didapat sebelumnya.
 
@@ -280,31 +280,31 @@ Ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya ad
 
 . . .
 
-1. The Art Museum
+**1. The Art Museum**
 
 ![The Art Museum](../assets/images/blog/details/adins-style-of-design-sprint/art-museum.png)
 
 <p class="caption">The Art Museum</p>
 
-2. Heat Map
+**2. Heat Map**
 
 ![Heat Map](../assets/images/blog/details/adins-style-of-design-sprint/heatmap.png)
 
 <p class="caption">Heat Map</p>
 
-3. Speed Critique
+**3. Speed Critique**
 
 ![Speed Critique](../assets/images/blog/details/adins-style-of-design-sprint/speed-critique.png)
 
 <p class="caption">Speed Critique</p>
 
-4. Straw Poll
+**4. Straw Poll**
 
 ![Straw Poll](../assets/images/blog/details/adins-style-of-design-sprint/straw-poll.png)
 
 <p class="caption">Straw Poll</p>
 
-5. The Super Vote
+**5. The Super Vote**
 
 ![The Super Vote](../assets/images/blog/details/adins-style-of-design-sprint/super-vote.png)
 
