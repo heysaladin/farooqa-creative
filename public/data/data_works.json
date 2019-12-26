@@ -2763,6 +2763,38 @@
     }
   },
   {
+    "id": 219,
+    "meta": {
+      "lang": "en",
+      "title": "Hacknesia",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Hacknesia",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Hacknesia logo design. Logo for Hackathon in Indonesia.",
+      "work_category": 3,
+      "image": "../assets/images/works/details/219-hacknesia/hacknesia.jpg",
+      "thumbnail": "../assets/images/works/details/219-hacknesia/hacknesia.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "hacknesia",
+      "date": "2019-12-26 14:55:29",
+      "date_update": "2019-12-26 14:56:41"
+    }
+  },
+  {
     "id": 136,
     "meta": {
       "lang": "en",
