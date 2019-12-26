@@ -20,7 +20,7 @@ inti MVP adalah "pokok bisa dipake dulu". jd MVP nya traveloka ya pokok ada sist
 
 nah mindset kek gini berguna buat kita sbg product designer... "jgn muluk2"... fokus ke solusi yg spesifik aja.
 
-![Go Ride X](https://farooq-agent.web.app/assets/images/blog/details/21-mvp/mvp-illustration.png)
+![Minimum Viable Product (MVP)](https://farooq-agent.web.app/assets/images/blog/details/21-mvp/mvp-illustration.png)
 
 itu ilustrasinya
 

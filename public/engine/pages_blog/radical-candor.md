@@ -26,4 +26,4 @@ https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE
 
 https://www.youtube.com/watch?v=klHu9hTJ07Y
 
-![Go Ride X](https://farooq-agent.web.app/assets/images/blog/details/22-radical-candor/radical-candor-quadrants.jpg)
+![Radical Candor](https://farooq-agent.web.app/assets/images/blog/details/22-radical-candor/radical-candor-quadrants.jpg)

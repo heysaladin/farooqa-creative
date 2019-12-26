@@ -3942,6 +3942,38 @@
     }
   },
   {
+    "id": 220,
+    "meta": {
+      "lang": "en",
+      "title": "Klik LPD",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Klik LPD",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Klik LPD is online balinese financial cooperative.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/220-klik-lpd/klik-lpd.jpg",
+      "thumbnail": "../assets/images/works/details/220-klik-lpd/klik-lpd.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "real",
+      "slug": "klik-lpd",
+      "date": "2018-02-23 14:55:29",
+      "date_update": "2018-02-23 14:56:41"
+    }
+  },
+  {
     "id": 22,
     "meta": {
       "lang": "en",
