@@ -4,19 +4,19 @@
 
 <p class="meta">Design  /  Thursday, December 26th, 2019 2:49:59pm</p>
 
-Aku baca-baca dan lihat sumber-sumber soal "RADICAL CANDOR", sebuah sikap yg baik untuk membangun team yg lebih solid dan progressive.
+Aku baca-baca dan lihat sumber-sumber soal "RADICAL CANDOR", sebuah sikap yang baik untuk membangun tim yang lebih solid dan progressive.
 
-intinya "JUJUR" namun tetap RENDAH HATI dan KASIH SOLUSI.
+Intinya "JUJUR" namun tetap RENDAH HATI dan KASIH SOLUSI.
 
 ## Summary
 
-manipulative insincerity => "bodo amat pokok aku datang, duduk, gajian dan cicilanku kebayar, bodo amat sama kerjaan"
+Manipulative Insincerity => "bodo amat pokok aku datang, duduk, gajian dan cicilanku kebayar, bodo amat sama kerjaan".
 
-obnoxious aggression => "eh kamu makan gaji buta ya, kamu di sini dibayar buat kerja, klo mau belajar sana ke sekolah jg di sini, dasar gak guna"
+Obnoxious Aggression => "eh kamu makan gaji buta ya, kamu di sini dibayar buat kerja, kalau mau belajar sana ke sekolah jangan di sini! Dasar gak guna".
 
-ruinous empathy => "wah keren ya bro, mantab (padahal tahu bahwa yg dikerjakan temannya itu jika dibiarkan bisa bikin team hancur dan perusahaan bangkrut. manis tp mematikan, tinggal nunggu bom waktu)"
+Ruinous Empathy => "wah keren ya bro, mantab (padahal tahu bahwa yang dikerjakan temannya itu jika dibiarkan bisa bikin tim hancur dan perusahaan bangkrut. Manis tapi mematikan, tinggal nunggu bom waktu saja)".
 
-radical candor => "lagi ngapain bro, ngegame ya? ok gpp santai aja, tp kerjaan aman kan? oiya jgn lupa kerjaan yg kmrin hari ini mau dibahas di meeting ya. ok mantab"
+Radical Candor => "lagi ngapain bro, ngegame ya? OK gak apa-apa santai aja, tapi kerjaan aman kan? Oiya jangan lupa kerjaan yang kemarin, hari ini mau dibahas di meeting ya! OK mantab".
 
 ## Resources
 

@@ -8,13 +8,13 @@
 
 Selama kurang dari satu tahun terakhir ini saya mulai aktif dan serius belajar UI design berlanjut ke UX design dan sampai akhirnya  secara umum belajar Product Design. Dari berbagai sumber yang saya kumpulkan akhirnya di akhir tahun ini saya membuat catatan ini.
 
-Berikut adalah gambaran alur dari design sprint yang saya pahami, mulai dr research, Design Sprint hingga validasi dengan berbagai bentuk prototype.
+Berikut adalah gambaran alur dari design sprint yang saya pahami, mulai dari research, Design Sprint hingga validasi dengan berbagai bentuk prototype.
 
 ![Adin's style of Design Sprint](../assets/images/blog/details/adins-style-of-design-sprint/adin-design-sprint.jpg)
 
 <p class="caption">Adin's Design Sprint</p>
 
-Fokus dari catatan ini adalah tentang desian sprint namun tetap mengacu pada Design Thinking sebagai mindset. Dalam catatan ini design sprint yg dimaksud sangat terpengaruh oleh Design Sprint yg digagas ulang oleh sebuah team di Jerman bernama AJ&Smart yg dibuat berdasarkan buku SPRINT karya Jake Knapp.
+Fokus dari catatan ini adalah tentang desian sprint namun tetap mengacu pada Design Thinking sebagai mindset. Dalam catatan ini design sprint yang dimaksud sangat terpengaruh oleh Design Sprint yang digagas ulang oleh sebuah team di Jerman bernama AJ&Smart yang dibuat berdasarkan buku SPRINT karya Jake Knapp.
 
 ![Adin's style of Design Sprint - Table](../assets/images/blog/details/adins-style-of-design-sprint/adin-design-sprint-table.jpg)
 
@@ -28,7 +28,7 @@ Mari kita bahas lebih rinci!
 
 ## Read Data
 
-Membaca data adalah langkah paling awal untuk memulai proses research. Jika sudah ada pencatatan data sebelumnya maka lebih mudah untuk mengetahui yang sedang terjadi saat ini pada produk atau bisnis yang akan kita research, seperti seberapa banyak akuisisi user, seberapa banyak transaksi dalam 3 bulan terakhir atau jangka waktu lainnya, seberapa banyak pengunjung website, seberapa banyak orang yang menginstall app, darimana user tahu dan banyak lagi informasi yang bisa kita dapatkan.
+Membaca data adalah langkah paling awal untuk memulai proses research. Jika sudah ada pencatatan data sebelumnya maka lebih mudah untuk mengetahui yang sedang terjadi saat ini pada produk atau bisnis yang akan kita research, seperti seberapa banyak akuisisi user, seberapa banyak transaksi dalam 3 bulan terakhir atau jangka waktu lainnya, seberapa banyak pengunjung website, seberapa banyak orang yang menginstall aplikasi, darimana user tahu dan banyak lagi informasi yang bisa kita dapatkan.
 
 Jika belum ada pencatatan data sebelumnya, dapat dilakukan juga pencarian data dari sumber lain untuk informasi lain seperti seberapa pengguna smartphone di suatu wilayah, seberapa banyak penggunaan emoney di masyarakat, seberapa banyak orang yang sudah menggunakan internet dan berbagai informasi lainnya yang sesuai dengan kebutuhan research kita.
 
@@ -101,7 +101,7 @@ Langkahnya adalah sebagai berikut:
 
 * Buat group diskusi dengan orang sebanyak 5 sampai 10 orang, jangan terlalu banyak! (contoh: 3 Orang Product Designer, 1 Orang UI Designer, 1 Orang Researcher, 1 Orang Product Manager/Project Manager/CEO, 1 Orang Developer/CTO, dan 1 Orang Operasional)
 * Penjelasan Hasil Research dari Researcher
-* Set Timer untuk 20 menit dan menyiapkan Post-it + Sharpy (Spidol)
+* Set Timer untuk 20 menit dan menyiapkan Post-it + Sharpie (Spidol)
 * Diskusi antar semua anggota dan membuat How Might We dari hasil research, business goals, development feasibility dan lain-lain (tantangannya adalah bagaimana menemukan sweet spot antara user desirability, business viability & technology feasibility)
 * Setelah 20 menit, tempelkan semua post-it ke dinding atau papan
 * Minta semua orang membaca HMW yang didapat
@@ -157,15 +157,19 @@ Langkahnya adalah sebagai berikut:
 
 **3. Planning Session**
 
+. . .
+
+*Goal*
+
 Langkahnya adalah sebagai berikut:
 
 * Ajak semua anggota duduk bersama di meja
-* Kemudian bagikan post-it dan sharpy (spidol)
+* Kemudian bagikan post-it dan sharpie (spidol)
 * Set timer jadi 5 menit
 * Tulis pada post-it dengan awalan "satu tahun ke depan kita akan ..." lalu lanjukkan dengan tujuan apa yang ingin di capai dalam kurun waktu tertantu (dalam hal ini satu tahun ke depan), buat beberapa hingga waktu habis
-* Waktu habis dan tempel post-itdi dinding atau papan
+* Waktu habis dan tempel post-it di dinding atau papan
 * Vote dots kecil masing-masing orang 3 dots
-* Tentukan mana yg jadi goal utama
+* Tentukan mana yang jadi goal utama
 
 ![Goal Ideas](../assets/images/blog/details/adins-style-of-design-sprint/goal-ideas.png)
 
@@ -191,6 +195,10 @@ Langkahnya adalah sebagai berikut:
 
 <p class="caption">Goal Decide</p>
 
+. . .
+
+*Sprint Question*
+
 ![Planning](../assets/images/blog/details/adins-style-of-design-sprint/question-note.png)
 
 <p class="caption">Planning</p>
@@ -203,8 +211,16 @@ Langkahnya adalah sebagai berikut:
 
 <p class="caption">Goal and Question</p>
 
+. . .
+
+*Define Matrics*
+
+Dari beberapa Sprint Questions yang didapat kita bisa pula tentukan beberapa matrics yang bisa diukur nantinya. Bisa berupa durasi, jumlah komentar, jumlah pengunjung halaman web, jumlah orang yang mengunduh aplikasi, juamlah transaksi dan sebagainya.
+
+. . .
+
 **Output:**
-*Satu goal utama dan beberapa sprint questions.*
+*Satu goal utama, beberapa sprint questions dan beberapa matrics yang akan diukur ke depannya.*
 
 ---
 
@@ -228,7 +244,7 @@ Langkahnya adalah sebagai berikut:
 <p class="caption">Sketch</p>
 
 **Output:**
-*3 Referensi aplikasi atau fitur dari beberapa apliaksi.*
+*3 Referensi aplikasi atau fitur dari beberapa aplikasi.*
 
 . . .
 
@@ -256,7 +272,7 @@ Ini adalah bentuk teratur dari coretan note sebelumnya, isinya berupa tampilan y
 
 C. Crazy 8s
 
-Ini adalah sebuah excercise dimana kita ditantang mengumpulkan ide dalam waktu yang sangat sangat sangat cepat yaitu dalam waktu 8 menit dapat membuat 8 sketsa, jadi diharapan dalam 1 menit dapat membuat 1 sketsa. ini cukup efektif untuk menemukan sketsa yang cukup sesuai dengan tujuan yg ingin kita capai.
+Ini adalah sebuah excercise dimana kita ditantang mengumpulkan ide dalam waktu yang sangat sangat sangat cepat yaitu dalam waktu 8 menit dapat membuat 8 sketsa, jadi diharapan dalam 1 menit dapat membuat 1 sketsa. ini cukup efektif untuk menemukan sketsa yang cukup sesuai dengan tujuan yang ingin kita capai.
 
 ![Sketch - Crazy 8s](../assets/images/blog/details/adins-style-of-design-sprint/sketch-crazy8s.png)
 
@@ -264,7 +280,7 @@ Ini adalah sebuah excercise dimana kita ditantang mengumpulkan ide dalam waktu y
 
 D. Solution Sketch
 
-Ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya adalah kertas putih (sekitar tiga buah) yang direkatkan satu sama lain sehingga lebih panjang ke bawah. dari satu kertas terlihat seperti satu panel yang berisi sketsa dan penjelasan serta informasi lainnya. agar lebih menarik berilah nick name pada solution sketch yg telah dibuat.
+Ini adalah bentuk lengkap dari sketsa yang telah dibuat sebelumnya. bentuknya adalah kertas putih (sekitar tiga buah) yang direkatkan satu sama lain sehingga lebih panjang ke bawah. dari satu kertas terlihat seperti satu panel yang berisi sketsa dan penjelasan serta informasi lainnya. agar lebih menarik berilah nick name pada solution sketch yang telah dibuat.
 
 ![Solution Sketch](../assets/images/blog/details/adins-style-of-design-sprint/sketch-solution.png)
 
@@ -290,7 +306,7 @@ Para anggota sprint menempel solution sketch miliknya di dinding. minta seluruh 
 
 **2. Heat Map**
 
-Masing-masing orang memberikan dots pada bagian yg menarik dr solution sketch yg ditampilkan.
+Masing-masing orang memberikan dots pada bagian yang menarik dari solution sketch yang ditampilkan.
 
 ![Heat Map](../assets/images/blog/details/adins-style-of-design-sprint/heatmap.png)
 
@@ -314,7 +330,7 @@ Anggota memilih mana solution sketch yang menurutnya bagus.
 
 **5. The Super Vote**
 
-Decision maker menentukan solution sketch mana yg terbaik.
+Decision maker menentukan solution sketch mana yang terbaik.
 
 ![The Super Vote](../assets/images/blog/details/adins-style-of-design-sprint/super-vote.png)
 
@@ -434,9 +450,9 @@ Tujuan dari Usability Testing adalah untuk mengetahui apakah aplikasi yang dibua
 
 Ada berbagai tempat pilihan untuk melakukan Usability Testing yaitu:
 
-* di tempat umum seperti tempat perbelanjaan , café, kampus
-* di ruangan laboratory yang sudah diatur kondisinya
-* melalui online seperti Skype
+* Di tempat umum seperti tempat perbelanjaan , café, kampus
+* Di ruangan laboratory yang sudah diatur kondisinya
+* Melalui online seperti Skype, Google Hangout atau semacamnya
 
 Jangan lupa juga untuk mendokumentasikan hasil testing seperti gambar di bawah ini. Kartu warna hijau adalah hal positif yang ditemukan dan kartu warna orange adalah untuk hal negatif yang ditemukan. Urutkan per fitur dan per pertisipan yang diuji.
 

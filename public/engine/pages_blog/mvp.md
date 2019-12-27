@@ -8,22 +8,22 @@ Minimum Viable Product atau yang sering disingkat MVP adalah versi dari produk b
 
 Kalau menggunakan bahasaku sendiri, MVP adalah bentuk sederhana dari produk untuk menyelesaikan sebuah masalah.
 
-misal traveloka, contoh ya..
+Misal Traveloka, contoh ya...
 
-traveloka yg skrg kan ribet tuh bnyak fitur...
+Traveloka yang sekarang kan ribet tuh banyak fitur...
 
-anggap kita balik ke masa lalu atau kita mau bikin bisnis serupa.
+Anggap kita balik ke masa lalu atau kita mau bikin bisnis serupa.
 
-nah jgn langsung bikin app ky traveloka langsung kompleks gitu.. tp bikin MVP dulu.
+Nah, jangan langsung bikin app seperti traveloka langsung kompleks gitu... tapi bikin MVP dulu.
 
-inti MVP adalah "pokok bisa dipake dulu". jd MVP nya traveloka ya pokok ada sistem yg bs beli tiket.... UDAH gitu aja.
+Inti MVP adalah "pokok bisa dipake dulu". Jadi MVP nya traveloka ya pokok ada sistem yang bisa beli tiket... UDAH gitu aja.
 
-nah mindset kek gini berguna buat kita sbg product designer... "jgn muluk2"... fokus ke solusi yg spesifik aja.
+Nah, mindset kek gini berguna buat kita sebagai Product Designer... "jangan muluk-muluk"... fokus ke solusi yang spesifik aja.
 
 ![Minimum Viable Product (MVP)](https://farooq-agent.web.app/assets/images/blog/details/21-mvp/mvp-illustration.png)
 
-itu ilustrasinya
+Itu ilustrasinya...
 
-pokok bs dipke dulu, dan persoalan yg mau diselesaikan tercapai.
+Pokok bisa dipke dulu, dan persoalan yang mau diselesaikan tercapai.
 
 UDAH.
