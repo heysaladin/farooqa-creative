@@ -6,7 +6,7 @@
 
 Hacknesia logo design. Logo for Hackathon in Indonesia.
 
-![Hacknesia](https://farooq-agent.web.app/assets/images/works/details/219-hacknesia/hacknesia.jpg)
+![Hacknesia](https://farooq-agent.web.app/assets/images/works/details/220-hacknesia/hacknesia.jpg)
 
 Tools:
 - Adobe Illustrator

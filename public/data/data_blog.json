@@ -1,5 +1,32 @@
 [
   {
+    "id": 23,
+    "meta": {
+      "lang": "en",
+      "title": "7 Things in Visual Design Theory",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "7 Things in Visual Design Theory",
+      "catogory": ["Design"],
+      "isReady": true,
+      "bodyCopyShort": "7 Things in Visual Design Theory.",
+      "image": "../assets/images/blog/details/23-7-things-in-visual-design-theory/7-things-in-visual-design-theory.png",
+      "thumbnail": "../assets/images/blog/details/23-7-things-in-visual-design-theory/7-things-in-visual-design-theory.png",
+      "date": "2019-12-29 12:59:37",
+      "date_update": "2019-12-29 12:41:01",
+      "slug": "7-things-in-visual-design-theory"
+    }
+  },
+  {
     "id": 20,
     "meta": {
       "lang": "en",
@@ -372,8 +399,8 @@
       "bodyCopyShort": "Bicara soal huruf, apa jenis huruf yang namanya anda ingat selain Times New Roman? :D Calibri, Impact ... apa lagi ya?</p>\n\n<p>Baik itu nama-namanya.",
       "image": "../assets/images/blog/large/Ag6VIEIn_post_image.jpg",
       "thumbnail": "../assets/images/blog/small/Ag6VIEIn_post_image.jpg",
-      "date": "2016-09-29 08:56:11",
-      "date_update": "2016-10-06 07:44:37",
+      "date": "2016-09-29 07:56:11",
+      "date_update": "2016-10-06 06:44:37",
       "slug": "perbedaan-desain-dan-seni"
     }
   },

@@ -6,4 +6,4 @@
 
 Klik LPD is online balinese financial cooperative.
 
-![Klik LPD](https://farooq-agent.web.app/assets/images/works/details/220-klik-lpd/klik-lpd.jpg)
+![Klik LPD](https://farooq-agent.web.app/assets/images/works/details/221-klik-lpd/klik-lpd.jpg)
