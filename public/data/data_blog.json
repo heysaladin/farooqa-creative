@@ -10,7 +10,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -18,9 +18,9 @@
       "title": "7 Things in Visual Design Theory",
       "catogory": ["Design"],
       "isReady": true,
-      "bodyCopyShort": "7 Things in Visual Design Theory.",
-      "image": "../assets/images/blog/details/23-7-things-in-visual-design-theory/7-things-in-visual-design-theory.png",
-      "thumbnail": "../assets/images/blog/details/23-7-things-in-visual-design-theory/7-things-in-visual-design-theory.png",
+      "bodyCopyShort": "Berikut adalah daftar teori yang berhasil aku kumpulkan selama belajar ilmu desain grafis.",
+      "image": "./assets/images/blog/details/23-7-things-in-visual-design-theory/7-things-in-visual-design-theory.jpg",
+      "thumbnail": "./assets/images/blog/details/23-7-things-in-visual-design-theory/7-things-in-visual-design-theory.jpg",
       "date": "2019-12-29 12:59:37",
       "date_update": "2019-12-29 12:41:01",
       "slug": "7-things-in-visual-design-theory"
@@ -37,7 +37,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -46,8 +46,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Catatan saya buat karena terlalu banyak sumber yang saya temukan saat belajar design sprint, akhirnya saya ringkas menjadi design sprint ala saya berdasarkan sepemahaman saya.",
-      "image": "../assets/images/blog/details/adins-style-of-design-sprint/adin-design-sprint.jpg",
-      "thumbnail": "../assets/images/blog/details/adins-style-of-design-sprint/adin-design-sprint.jpg",
+      "image": "./assets/images/blog/details/adins-style-of-design-sprint/adin-design-sprint.jpg",
+      "thumbnail": "./assets/images/blog/details/adins-style-of-design-sprint/adin-design-sprint.jpg",
       "date": "2019-12-22 12:59:37",
       "date_update": "2019-12-22 12:41:01",
       "slug": "adins-style-of-design-sprint"
@@ -64,7 +64,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -73,8 +73,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Tak dipungkiri lagi bahwa pemasaran adalah elemen penting bagi sebuah perusahaan. Seiring perkembangan jaman, pemasaranpun ikut berkembang mengikuti jaman.",
-      "image": "../assets/images/blog/large/La9m4GAI_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/La9m4GAI_post_image.jpg",
+      "image": "./assets/images/blog/large/La9m4GAI_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/La9m4GAI_post_image.jpg",
       "date": "2016-09-29 08:59:37",
       "date_update": "2016-10-06 15:41:01",
       "slug": "apa-itu-digital-marketing"
@@ -91,7 +91,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -100,8 +100,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Terjadi perdebatan dimana-mana tentang perbedaan antara UI dan UX. Tapi masih banyak pula yang bahkan belum tahu apa itu UI dan UX. Binatang apa itu?",
-      "image": "../assets/images/blog/large/Yd7Sr24j_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/Yd7Sr24j_post_image.jpg",
+      "image": "./assets/images/blog/large/Yd7Sr24j_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/Yd7Sr24j_post_image.jpg",
       "date": "2016-09-29 08:58:53",
       "date_update": "2016-10-06 13:43:35",
       "slug": "apa-itu-uiux"
@@ -118,7 +118,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -127,8 +127,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Kalau sebelumnya Anda pernah mendengar Desain Interior, Desain Eksterior, Desain Grafis, Desain Fashion dan desain-desain lainnya, kali ini kita akan membahas soal Visual Desain.",
-      "image": "../assets/images/blog/large/qlkxhcbN_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/qlkxhcbN_post_image.jpg",
+      "image": "./assets/images/blog/large/qlkxhcbN_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/qlkxhcbN_post_image.jpg",
       "date": "2016-09-29 08:52:46",
       "date_update": "2016-10-06 02:45:47",
       "slug": "apa-itu-visual-desain"
@@ -145,7 +145,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -154,8 +154,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Kita kali ini akan bahas soal POI. Apa itu POI? POI atau singkatan dari oint of Interest adalah titik awal mata manusia melihat sebuah benda. Dalam konteks ini benda yang dimaksud adalah Desain.",
-      "image": "../assets/images/blog/large/w2sqSPpS_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/w2sqSPpS_post_image.jpg",
+      "image": "./assets/images/blog/large/w2sqSPpS_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/w2sqSPpS_post_image.jpg",
       "date": "2016-09-29 08:53:40",
       "date_update": "2016-10-06 03:45:23",
       "slug": "apa-sih-poi-itu"
@@ -172,7 +172,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -181,8 +181,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Rajin Pangkal Pandai, Sedekah Pangkal Kaya. Beberapa peribahasa tersebut pasti tidak asing di telinga kita. Karena memang pasti diajarkan di bangku sekolah dasar :D",
-      "image": "../assets/images/blog/large/E1rLyvjZ_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/E1rLyvjZ_post_image.jpg",
+      "image": "./assets/images/blog/large/E1rLyvjZ_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/E1rLyvjZ_post_image.jpg",
       "date": "2016-09-29 08:53:22",
       "date_update": "2016-10-06 11:45:35",
       "slug": "belajar-desain-mau-jadi-apa"
@@ -199,7 +199,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -208,8 +208,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Jika Anda ingin jadi \"jagoan\" dalam dunia desain, tak perlu repot-repot belajar kitab kuno segala. Anda cukup mengusai 2 (dua) jurus. iya cuma DUA.",
-      "image": "../assets/images/blog/large/B7Kks1Qf_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/B7Kks1Qf_post_image.jpg",
+      "image": "./assets/images/blog/large/B7Kks1Qf_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/B7Kks1Qf_post_image.jpg",
       "date": "2016-09-29 08:57:20",
       "date_update": "2016-10-06 10:44:05",
       "slug": "cuma-dengan-2-jurus"
@@ -226,7 +226,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -235,8 +235,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Jaman berubah begitu cepat. Terjadi perubahan yang sangat cepat dimana-mana. Komputer misalnya, dari dahulu komputer yang terlihat sangat canggih dan rumit sekarang tanpa disadari komputer sudah masuk dalam saku pakaian kita.",
-      "image": "../assets/images/blog/large/biZnbgkg_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/biZnbgkg_post_image.jpg",
+      "image": "./assets/images/blog/large/biZnbgkg_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/biZnbgkg_post_image.jpg",
       "date": "2016-09-29 08:58:29",
       "date_update": "2016-10-06 14:43:44",
       "slug": "desain-web-dari-waktu-ke-waktu"
@@ -253,7 +253,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -262,8 +262,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Pernahkah dalam keseharian kita, menemukan sebuah brosur, flyer, banner dan lain sebagainya tapi malah bingung ketika ingin membacanya di mulai dari bagian mana dulu.",
-      "image": "../assets/images/blog/large/xMRV5sJp_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/xMRV5sJp_post_image.jpg",
+      "image": "./assets/images/blog/large/xMRV5sJp_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/xMRV5sJp_post_image.jpg",
       "date": "2016-09-29 08:53:59",
       "date_update": "2016-10-06 04:45:10",
       "slug": "garis-maya"
@@ -280,7 +280,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -289,8 +289,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Mulai dari dapur rumah kita sampai ke sirkuit balap F1 tentu kita sadar ada yang namanya Aturan, dan tentu kita tahu pula sebenarnya aturan itu boleh-boleh saja tidak ditaati.",
-      "image": "../assets/images/blog/large/q1ttRqac_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/q1ttRqac_post_image.jpg",
+      "image": "./assets/images/blog/large/q1ttRqac_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/q1ttRqac_post_image.jpg",
       "date": "2016-09-29 08:58:00",
       "date_update": "2016-10-06 09:43:55",
       "slug": "kaidah-dalam-desain"
@@ -307,7 +307,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -316,8 +316,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Saking terbiasanya kita terkoneksi dengan internet, kadang kita lupa bagaimana jika koneksi tersebut tiba-tiba sirna.",
-      "image": "../assets/images/blog/large/ketika-koneksi-absen-dari-hidup-kita.jpg",
-      "thumbnail": "../assets/images/blog/large/ketika-koneksi-absen-dari-hidup-kita.jpg",
+      "image": "./assets/images/blog/large/ketika-koneksi-absen-dari-hidup-kita.jpg",
+      "thumbnail": "./assets/images/blog/large/ketika-koneksi-absen-dari-hidup-kita.jpg",
       "date": "2019-08-22 08:59:37",
       "date_update": "2019-08-22 06:41:01",
       "slug": "ketika-koneksi-absen-dari-hidup-kita"
@@ -334,7 +334,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -343,8 +343,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "\"Apakah foto adalah ilustrasi?\" jawab langsung! Apa alasan Anda? Baik di artikel kali ini kita akan coba memahami apa itu ilustrasi.",
-      "image": "../assets/images/blog/large/AtbwjD0Q_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/AtbwjD0Q_post_image.jpg",
+      "image": "./assets/images/blog/large/AtbwjD0Q_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/AtbwjD0Q_post_image.jpg",
       "date": "2016-09-29 08:56:42",
       "date_update": "2016-10-06 07:44:28",
       "slug": "memahami-apa-itu-ilustrasi"
@@ -361,7 +361,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -370,8 +370,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Ketika duduk di taman kanak-kanak dulu anda pasti diajari beberapa bentuk bangun. Baik bangun datar atau bangun ruang.",
-      "image": "../assets/images/blog/large/p4saDamP_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/p4saDamP_post_image.jpg",
+      "image": "./assets/images/blog/large/p4saDamP_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/p4saDamP_post_image.jpg",
       "date": "2016-09-29 08:54:33",
       "date_update": "2016-10-06 05:44:58",
       "slug": "mengenal-bentuk"
@@ -388,7 +388,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -397,8 +397,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Bicara soal huruf, apa jenis huruf yang namanya anda ingat selain Times New Roman? :D Calibri, Impact ... apa lagi ya?</p>\n\n<p>Baik itu nama-namanya.",
-      "image": "../assets/images/blog/large/Ag6VIEIn_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/Ag6VIEIn_post_image.jpg",
+      "image": "./assets/images/blog/large/Ag6VIEIn_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/Ag6VIEIn_post_image.jpg",
       "date": "2016-09-29 07:56:11",
       "date_update": "2016-10-06 06:44:37",
       "slug": "perbedaan-desain-dan-seni"
@@ -415,7 +415,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -424,8 +424,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Tanpa disadari, layout sangat akrab dengan kita dalam kehidupan sehari-hari.",
-      "image": "../assets/images/blog/large/ccWFSD33_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/ccWFSD33_post_image.jpg",
+      "image": "./assets/images/blog/large/ccWFSD33_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/ccWFSD33_post_image.jpg",
       "date": "2016-09-29 08:56:57",
       "date_update": "2016-10-06 08:44:17",
       "slug": "mengenal-layout"
@@ -442,7 +442,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -451,8 +451,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Merah, kuning, hijau. Selalu ketiga warna itu yang terbayang dalam pikiran kita jika mendengar kata \"Warna-warni\".",
-      "image": "../assets/images/blog/large/FndTWHKS_post_image.jpg",
-      "thumbnail": "../assets/images/blog/large/FndTWHKS_post_image.jpg",
+      "image": "./assets/images/blog/large/FndTWHKS_post_image.jpg",
+      "thumbnail": "./assets/images/blog/large/FndTWHKS_post_image.jpg",
       "date": "2016-09-29 08:55:33",
       "date_update": "2016-10-06 06:14:46",
       "slug": "mengenal-warna"
@@ -469,7 +469,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -478,8 +478,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Minimum Viable Product atau yang sering disingkat MVP adalah versi dari produk baru dengan fitur yang sangat sederhana tetapi mampu memberikan hasil maksimum tentang pengetahuan konsumen secara mudah.",
-      "image": "../assets/images/blog/details/21-mvp/mvp-illustration.png",
-      "thumbnail": "../assets/images/blog/details/21-mvp/mvp-illustration.png",
+      "image": "./assets/images/blog/details/21-mvp/mvp-illustration.png",
+      "thumbnail": "./assets/images/blog/details/21-mvp/mvp-illustration.png",
       "date": "2019-12-26 12:59:37",
       "date_update": "2019-12-26 12:41:01",
       "slug": "mvp"
@@ -496,7 +496,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -505,8 +505,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Sering kali ketika orang melihat karya saya baik itu UI design atau graphic design atau bahkan illustrasi, selalu ada saja yang bertanya.",
-      "image": "../assets/images/blog/large/ngedesain-pakai-software-apa.jpg",
-      "thumbnail": "../assets/images/blog/large/ngedesain-pakai-software-apa.jpg",
+      "image": "./assets/images/blog/large/ngedesain-pakai-software-apa.jpg",
+      "thumbnail": "./assets/images/blog/large/ngedesain-pakai-software-apa.jpg",
       "date": "2019-07-28 08:59:37",
       "date_update": "2019-07-28 06:41:01",
       "slug": "ngedesain-pakai-software-apa"
@@ -523,7 +523,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -532,8 +532,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Pernahkan kalian melihat pengumuman lowongan kerja yang membuatmu tertarik untuk mengirimkan surat lamaran pekerjaan dan Resume.",
-      "image": "../assets/images/blog/large/pentingnya-sebuah-kepastian.jpg",
-      "thumbnail": "../assets/images/blog/large/pentingnya-sebuah-kepastian.jpg",
+      "image": "./assets/images/blog/large/pentingnya-sebuah-kepastian.jpg",
+      "thumbnail": "./assets/images/blog/large/pentingnya-sebuah-kepastian.jpg",
       "date": "2019-08-09 08:59:37",
       "date_update": "2019-08-09 06:41:01",
       "slug": "pentingnya-sebuah-kepastian"
@@ -550,7 +550,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -559,8 +559,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Banyak diantara kita yang masih menganggap bahwa seni dan desain adalah sama. Hal ini kurang tepat, karena pada kenyataannya memang banyak perbedaan antara keduanya.",
-      "image": "../assets/images/blog/large/RQ31NVk5_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/RQ31NVk5_post_image.jpg",
+      "image": "./assets/images/blog/large/RQ31NVk5_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/RQ31NVk5_post_image.jpg",
       "date": "2016-09-29 05:55:33",
       "date_update": "2016-10-06 01:45:57",
       "slug": "perbedaan-desain-dan-seni"
@@ -577,7 +577,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -586,8 +586,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Yap.. \"Perias\" adalah kata yang tepat sebagai kata ganti bagi seorang desainer. Lalu, kenapa pakai kata \"yang tak dianggap\"?",
-      "image": "../assets/images/blog/large/N8RVh6ag_post_image.jpg",
-      "thumbnail": "../assets/images/blog/small/N8RVh6ag_post_image.jpg",
+      "image": "./assets/images/blog/large/N8RVh6ag_post_image.jpg",
+      "thumbnail": "./assets/images/blog/small/N8RVh6ag_post_image.jpg",
       "date": "2016-09-29 08:59:19",
       "date_update": "2016-10-06 12:43:26",
       "slug": "perias-yang-kadang-tak-dianggap"
@@ -604,7 +604,7 @@
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
       "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "viewport": "width=device-width, initial-scale=1",
       "extra": []
     },
@@ -613,8 +613,8 @@
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Aku baca-baca dan lihat sumber-sumber soal RADICAL CANDOR, sebuah sikap yg baik untuk membangun team yg lebih solid dan progressive.",
-      "image": "../assets/images/blog/details/22-radical-candor/radical-candor-quadrants.jpg",
-      "thumbnail": "../assets/images/blog/details/22-radical-candor/radical-candor-quadrants.jpg",
+      "image": "./assets/images/blog/details/22-radical-candor/radical-candor-quadrants.jpg",
+      "thumbnail": "./assets/images/blog/details/22-radical-candor/radical-candor-quadrants.jpg",
       "date": "2019-12-26 14:59:37",
       "date_update": "2019-12-26 14:41:01",
       "slug": "radical-candor"

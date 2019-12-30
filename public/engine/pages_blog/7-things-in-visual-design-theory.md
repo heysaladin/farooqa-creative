@@ -4,9 +4,11 @@
 
 <p class="meta">Design  /  Sunday, December 29th 2019</p>
 
-![7 Things in Visual Design Theory](../assets/images/blog/details/23-7-things-in-visual-design-theory/7-things-in-visual-design-theory.png)
+![7 Things in Visual Design Theory](../assets/images/blog/details/23-7-things-in-visual-design-theory/7-things-in-visual-design-theory.jpg)
 
 <p class="caption">Visual Designer</p>
+
+Berikut adalah daftar teori yang berhasil aku kumpulkan selama belajar ilmu desain grafis. Ada 7 hal yang menurut aku menjadi poin penting dalam membuat sebuah desain. Semua pon tersebut aku urutkan mulai dari yang paling sederhana hingga yang cukup lengkap yang umumnya ada di sebuah desain. Berikut adalah daftarnya dan artikel ini hanyalah rangkuman, informasi lebih rinci dapat kamu temukan pada link yang disediakan di setiap poin.
 
 ## 1. Point
 
@@ -63,5 +65,7 @@ Pembahasan lebih lanjut, [lihat di sini!](https://farooq-agent.web.app/stories/?
 ![Mengenal layout](https://farooq-agent.web.app/assets/images/blog/small/ccWFSD33_post_image.jpg)
 
 <p class="caption">Layout</p>
+
+Nah, itulah 7 poin-poin teori yang berhasil aku kumpulkan dan semoga bermanfaat.
 
 ***Terimakasih.***
