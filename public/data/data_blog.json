@@ -381,7 +381,7 @@
     "id": 8,
     "meta": {
       "lang": "en",
-      "title": "Mengenal huruf",
+      "title": "Mengenal Huruf",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -393,7 +393,7 @@
       "extra": []
     },
     "data": {
-      "title": "Mengenal huruf",
+      "title": "Mengenal Huruf",
       "catogory": ["Design"],
       "isReady": true,
       "bodyCopyShort": "Bicara soal huruf, apa jenis huruf yang namanya anda ingat selain Times New Roman? :D Calibri, Impact ... apa lagi ya?</p>\n\n<p>Baik itu nama-namanya.",
@@ -401,7 +401,7 @@
       "thumbnail": "./assets/images/blog/small/Ag6VIEIn_post_image.jpg",
       "date": "2016-09-29 07:56:11",
       "date_update": "2016-10-06 06:44:37",
-      "slug": "perbedaan-desain-dan-seni"
+      "slug": "mengenal-huruf"
     }
   },
   {
