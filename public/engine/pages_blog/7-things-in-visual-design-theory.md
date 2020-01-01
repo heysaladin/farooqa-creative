@@ -44,7 +44,7 @@ Pembahasan lebih lanjut, [lihat di sini!](https://farooq-agent.web.app/stories/?
 
 ## 5. Typography
 
-Pembahasan lebih lanjut, [lihat di sini!](https://farooq-agent.web.app/stories/?type=pages_blog&content=perbedaan-desain-dan-seni)
+Pembahasan lebih lanjut, [lihat di sini!](https://farooq-agent.web.app/stories/?type=pages_blog&content=mengenal-huruf)
 
 ![Mengenal huruf](https://farooq-agent.web.app/assets/images/blog/small/Ag6VIEIn_post_image.jpg)
 
