@@ -22,6 +22,8 @@ Nah, mindset kek gini berguna buat kita sebagai Product Designer... "jangan mulu
 
 ![Minimum Viable Product (MVP)](https://farooq-agent.web.app/assets/images/blog/details/21-mvp/mvp-illustration.png)
 
+<p class="caption">MVP Illustration</p>
+
 Itu ilustrasinya...
 
 Pokok bisa dipke dulu, dan persoalan yang mau diselesaikan tercapai.
