@@ -4683,6 +4683,38 @@
     }
   },
   {
+    "id": 226,
+    "meta": {
+      "lang": "en",
+      "title": "MaTa Bencana",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "MaTa Bencana",
+      "catogory": ["Design"],
+      "bodyCopyShort": "MaTa Bencana.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/226-mata-bencana/mata-bencana.jpg",
+      "thumbnail": "../assets/images/works/details/226-mata-bencana/mata-bencana.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "real",
+      "slug": "mata-bencana",
+      "date": "2020-02-02 15:55:29",
+      "date_update": "2020-02-02 15:56:41"
+    }
+  },
+  {
     "id": 79,
     "meta": {
       "lang": "en",
@@ -6277,6 +6309,70 @@
     }
   },
   {
+    "id": 225,
+    "meta": {
+      "lang": "en",
+      "title": "Smart Booking Flow",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Smart Booking Flow",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Smart Booking Flow.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/225-smart-booking-flow/smart-booking-flow.jpg",
+      "thumbnail": "../assets/images/works/details/225-smart-booking-flow/smart-booking-flow.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "real",
+      "slug": "smart-booking-flow",
+      "date": "2020-02-02 14:55:29",
+      "date_update": "2020-02-02 14:56:41"
+    }
+  },
+  {
+    "id": 223,
+    "meta": {
+      "lang": "en",
+      "title": "Snap n' Match",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Snap n' Match",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Snap n' Match.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/223-snap-n-match/snap-n-match.jpg",
+      "thumbnail": "../assets/images/works/details/223-snap-n-match/snap-n-match.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "real",
+      "slug": "snap-n-match",
+      "date": "2020-02-02 12:55:29",
+      "date_update": "2020-02-02 12:56:41"
+    }
+  },
+  {
     "id": 206,
     "meta": {
       "lang": "en",
@@ -7177,6 +7273,38 @@
     }
   },
   {
+    "id": 224,
+    "meta": {
+      "lang": "en",
+      "title": "ViFit",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "ViFit",
+      "catogory": ["Design"],
+      "bodyCopyShort": "ViFit.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/224-vifit/vifit.jpg",
+      "thumbnail": "../assets/images/works/details/224-vifit/vifit.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "real",
+      "slug": "vifit",
+      "date": "2020-02-02 13:55:29",
+      "date_update": "2020-02-02 13:56:41"
+    }
+  },
+  {
     "id": 179,
     "meta": {
       "lang": "en",
@@ -7212,6 +7340,38 @@
       "slug": "villa-nyaman",
       "date": "2019-07-16 17:59:14",
       "date_update": "2019-07-16 17:59:41"
+    }
+  },
+  {
+    "id": 222,
+    "meta": {
+      "lang": "en",
+      "title": "Wedding Virtual Tour",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Wedding Virtual Tour",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Wedding Virtual Tour.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/222-wedding-virtual-tour/wedding-virtual-tour.jpg",
+      "thumbnail": "../assets/images/works/details/222-wedding-virtual-tour/wedding-virtual-tour.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "real",
+      "slug": "wedding-virtual-tour",
+      "date": "2020-02-02 11:55:29",
+      "date_update": "2020-02-02 11:56:41"
     }
   },
   {
