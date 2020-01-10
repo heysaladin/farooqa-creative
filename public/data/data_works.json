@@ -2131,6 +2131,38 @@
     }
   },
   {
+    "id": 228,
+    "meta": {
+      "lang": "en",
+      "title": "Free Time",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Free Time",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Free Time.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/228-free-time/free-time.jpg",
+      "thumbnail": "../assets/images/works/details/228-free-time/free-time.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "real",
+      "slug": "free-time",
+      "date": "2020-02-10 14:35:29",
+      "date_update": "2020-02-10 14:36:41"
+    }
+  },
+  {
     "id": 13,
     "meta": {
       "lang": "en",
@@ -6338,6 +6370,38 @@
       "slug": "smart-booking-flow",
       "date": "2020-02-02 14:55:29",
       "date_update": "2020-02-02 14:56:41"
+    }
+  },
+  {
+    "id": 227,
+    "meta": {
+      "lang": "en",
+      "title": "Smart Organic Farm",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Smart Organic Farm",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Smart Organic Farm.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/227-smart-organic-farm/smart-organic-farm.jpg",
+      "thumbnail": "../assets/images/works/details/227-smart-organic-farm/smart-organic-farm.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "real",
+      "slug": "smart-organic-farm",
+      "date": "2020-02-10 14:25:29",
+      "date_update": "2020-02-10 14:26:41"
     }
   },
   {
