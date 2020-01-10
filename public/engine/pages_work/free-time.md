@@ -39,7 +39,7 @@ Berikut adalah beberapa masalah yang ada di lingkungan kerja KIC:
 
 ![Free Time - Map](https://farooq-agent.web.app/assets/images/works/details/228-free-time/free-time-sketch.jpg)
 
-<p class="caption">Map</p>
+<p class="caption">Sketch</p>
 
 ---
 <p></p>
