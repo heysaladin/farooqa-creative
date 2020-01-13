@@ -44,6 +44,10 @@ Berikut adalah beberapa masalah yang ada di lingkungan kerja KIC:
 ---
 <p></p>
 
-![Free Time](https://farooq-agent.web.app/assets/images/works/details/228-free-time/free-time.jpg)
+![Free Time](https://farooq-agent.web.app/assets/images/works/details/228-free-time/login.jpg)
 
-<p class="caption">Free Time</p>
+<p class="caption">Free Time - Log In Screen</p>
+
+![Free Time](https://farooq-agent.web.app/assets/images/works/details/228-free-time/dashboard.jpg)
+
+<p class="caption">Free Time - Dashboard</p>
