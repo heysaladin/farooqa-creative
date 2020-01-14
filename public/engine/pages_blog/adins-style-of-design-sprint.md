@@ -460,6 +460,20 @@ Jangan lupa juga untuk mendokumentasikan hasil testing seperti gambar di bawah i
 
 <p class="caption">Usability Testing - Documentation</p>
 
+**Net Promoter Score**
+
+Net Promoter Score (NPS) adalah salah satu cara mengubah hasil testing yang berupa data kualitatif menjadi kuntitatif. Net Promoter Score dapat menunjukkan secara lansung tipe user yang loyal. Score ini menjadi indikator berapa banyak user yang mau merekomendasikan website, app atau produk digital lainnya ke orang lain.
+
+Berikut adalah perhitungan NPS.
+
+![Net Promoter Score](../assets/images/blog/details/adins-style-of-design-sprint/NPS.jpg)
+
+<p class="caption">Net Promoter Score</p>
+
+Namun, pada prakteknya dapat juga diperjelas apa saja yang bisa dinilai. Setidaknya ada 3 hal yang bisa diberikan nilai oleh user yang dites dengan nilai 0 sampai 10 yaitu Usefulness (Kebergunaan), Learnability (Kemudahan mempelajari dan menggunakan), Satisfaction (Kepuasan).
+
+Ketiga nilai dari seorang yang dites itu selanjutnya dirata-rata. Kemudian dikumpulkan dengan rata-rata nilai hasil dari partisipan (orang yg dites) lainnya. Barulah selanjutnya dihitung nilai NPS-nya.
+
 ---
 
 # Digital Product Rapid Engineering
