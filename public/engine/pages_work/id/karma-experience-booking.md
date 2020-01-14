@@ -319,6 +319,58 @@ Tautan prototipe, [di sini!](https://marvelapp.com/c992944/screen/64217686)
 
 ![Karma Experience Booking](https://farooq-agent.web.app/assets/images/works/large/karma-experience-booking.jpg)
 
+## Test (Validate)
+
+### Usability Testing (UT)
+
+Tujuan dari Usability Testing adalah untuk mengetahui apakah aplikasi yang dibuat dapat digunakan oleh user.
+
+Dilakukan UT kepada 3 partisipant.
+
+![Usability Testing for Karma Experience Booking | 1st Participant](../assets/images/works/details/218-karma-experience-booking/ut-participant-1a.jpg)
+
+![Usability Testing for Karma Experience Booking | 1st Participant](../assets/images/works/details/218-karma-experience-booking/ut-participant-1b.jpg)
+
+<p class="caption">Usability Testing for Karma Experience Booking | 1st Participant</p>
+
+![Usability Testing for Karma Experience Booking | 2nd Participant](../assets/images/works/details/218-karma-experience-booking/ut-participant-2.jpg)
+
+<p class="caption">Usability Testing for Karma Experience Booking | 2nd Participant</p>
+
+![Usability Testing for Karma Experience Booking | 3rd Participant](../assets/images/works/details/218-karma-experience-booking/ut-participant-3.jpg)
+
+<p class="caption">Usability Testing for Karma Experience Booking | 3rd Participant</p>
+
+Berikut adalah cuplikan dari usability test-nya. Pada Usability Testing kali ini, tim merekamnya menggunakan beberapa tool sebagai berikut:
+- Macbook Pro 13" 2010 -> alat perekam
+- iPhone 6S -> prototype presenter
+- facetime -> merekam menggunakan camera build-in dari macbook pro
+- [letsview](https://letsview.com/) -> untuk mirror iphone ke macbook (perlu di-install di macbook dan iphone)
+- wifi connection
+- quicktime player -> untuk merekam semua aktifitas layar dan merekam suara menggunakan microphone build-in pada macbook
+
+<iframe style="margin: 0 auto 25px; display: block;" width="560" height="315" src="https://www.youtube.com/embed/1XlDuiU_fHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p class="caption">Clip - Usability Testing for Karma Experience Booking | 1st Participant</p>
+
+<iframe style="margin: 0 auto 25px; display: block;" width="560" height="315" src="https://www.youtube.com/embed/McTjENls4MQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p class="caption">Clip - Usability Testing for Karma Experience Booking | 2nd Participant</p>
+
+<iframe style="margin: 0 auto 25px; display: block;" width="560" height="315" src="https://www.youtube.com/embed/gadUtuHQNc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p class="caption">Clip - Usability Testing for Karma Experience Booking | 3rd Participant</p>
+
+Beberapa insights yang didapatkan dari proses Usability Testing:
+
+- Perlu mencari cara terbaik untuk membuat trigger awal untuk mengalihkan user dari website utama karmagroup ke webapp Karma Experience Booking
+- Perlu cara yang lebih baik untuk menampilkan pilihan kamar yang ada
+- Perlu cara yang lebih baik untuk menunjukkan pada user bahwa pilihan kamar mempengaruhi harga per malam yang tertera
+- perlu penampilan offers atau diskon yang lebih menarik di bagian depan (home)
+- List offers seperti blog tidak terlihat seperti offers
+- Perlu mempertimbangkan penggunaan sticky header
+- Tampilan card berwarna emas gradasi terlihat seperti tombol
+
 ---
 <p></p>
 
