@@ -371,6 +371,61 @@ Beberapa insights yang didapatkan dari proses Usability Testing:
 - Perlu mempertimbangkan penggunaan sticky header
 - Tampilan card berwarna emas gradasi terlihat seperti tombol
 
+### Scoring
+
+Untuk penilaian ini, kita menggunakan Net Promoter Score dan menekankan pada 3 aspek penilaian yaitu Usefulness (Kebergunaan), Learnability (Kemudahan mempelajari dan menggunakan), Satisfaction (Kepuasan). Rumus NPS adalah -> NPS = Promoters (Pendukung) - Detractors (Pencela). Hasilnya adalah sebagai berikut:
+
+**Participant 1**
+
+- Usefulness: 9
+- Learnability: 7
+- Satisfaction: 7
+
+**Participant 2**
+
+- Usefulness: 10
+- Learnability: 8
+- Satisfaction: 8
+
+**Participant 3**
+
+- Usefulness: 8
+- Learnability: 8
+- Satisfaction: 9
+
+. . .
+
+Lalu perhitungan Net Promoter Score adalah sebagai berikut:
+
+**Usefulness**
+
+- Promoters (score 9-10): 2
+- Passives (score 7-8): 1
+- Detractors (score 0-6): 0
+
+**NPS untuk Usefulness: 2 - 0 = 2** (Dua orang bersedia mendukung dan memprmosikan kepada orang lain dalam hal Usefulness)
+
+**Learnability**
+
+- Promoters (score 9-10): 0
+- Passives (score 7-8): 3
+- Detractors (score 0-6): 0
+
+**NPS untuk Usefulness: 0 - 0 = 0** (Tidak ada orang bersedia mendukung dan memprmosikan kepada orang lain dalam hal Learnability, tapi juga tidak menjelek-jelekkan)
+
+**Satisfaction**
+
+- Promoters (score 9-10): 1
+- Passives (score 7-8): 2
+- Detractors (score 0-6): 0
+
+**NPS untuk Usefulness: 1 - 0 = 1** (Satu orang bersedia mendukung dan memprmosikan kepada orang lain dalam hal Satisfaction)
+
+---
+<p></p>
+
+
+
 ---
 <p></p>
 
