@@ -269,55 +269,49 @@ Storyboard
 
 ### Desain UI
 
-![Icon](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-icon.png)
+![Trigger for move to web app & Home Default](../assets/images/works/details/218-karma-experience-booking/f-keb-1.png)
 
-<p class="caption">Icon</p>
+<p class="caption">Trigger for move to web app & Home Default</p>
 
-![Log In](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-login.png)
+![Log In & Home Logged In](../assets/images/works/details/218-karma-experience-booking/f-keb-2.png)
 
-<p class="caption">Log In</p>
+<p class="caption">Log In & Home Logged In</p>
 
-![Home Default](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-home-default.png)
+![Profile & Recommendations](../assets/images/works/details/218-karma-experience-booking/f-keb-3.png)
 
-<p class="caption">Home Default</p>
+<p class="caption">Profile & Recommendations</p>
 
-![Home Logged In](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-home-logged-in.png)
+![Booking Status](../assets/images/works/details/218-karma-experience-booking/f-keb-4.png)
 
-<p class="caption">Home Logged In</p>
+<p class="caption">Booking Status</p>
 
-![Exclusive Offers](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-exclusive-offers.png)
+![Exclusive Offers](../assets/images/works/details/218-karma-experience-booking/f-keb-5.png)
 
 <p class="caption">Exclusive Offers</p>
 
-![Products by Country](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-country.png)
+![Products by Country & Search](../assets/images/works/details/218-karma-experience-booking/f-keb-6.png)
 
-<p class="caption">Products by Country</p>
+<p class="caption">Products by Country & Search</p>
 
-![Products per Country](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-product-per-country.png)
+![Products per Country & Product Details](../assets/images/works/details/218-karma-experience-booking/f-keb-7.png)
 
-<p class="caption">Products per Country</p>
+<p class="caption">Products per Country & Product Details</p>
 
-![Product Details](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-product-details.png)
+![Product Details Sub Information & More Informations](../assets/images/works/details/218-karma-experience-booking/f-keb-8.png)
 
-<p class="caption">Product Details</p>
+<p class="caption">Product Details Sub Information & More Informations</p>
 
-![Product Details Sub Information](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-product-details-sub.png)
+![Booking Data](../assets/images/works/details/218-karma-experience-booking/f-keb-9.png)
 
-<p class="caption">Product Details Sub Information</p>
+<p class="caption">Booking Data</p>
 
-![Booking](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-booking.png)
+![Booking Payment](../assets/images/works/details/218-karma-experience-booking/f-keb-10.png)
 
-<p class="caption">Booking</p>
+<p class="caption">Booking Payment</p>
 
-![Booking Success](https://farooq-agent.web.app/assets/images/works/details/218-karma-experience-booking/web-preview-booking-success.png)
+![Booking Success & Notifications](../assets/images/works/details/218-karma-experience-booking/f-keb-11.png)
 
-<p class="caption">Booking Success</p>
-
-### Tautan Prototipe
-
-Tautan prototipe, [di sini!](https://marvelapp.com/c992944/screen/64217686)
-
-![Karma Experience Booking](https://farooq-agent.web.app/assets/images/works/large/karma-experience-booking.jpg)
+<p class="caption">Booking Success & Notifications</p>
 
 ## Test (Validate)
 
@@ -371,6 +365,25 @@ Beberapa insights yang didapatkan dari proses Usability Testing:
 - Perlu mempertimbangkan penggunaan sticky header
 - Tampilan card berwarna emas gradasi terlihat seperti tombol
 
+Vote for fixing
+
+![Skype ](../assets/images/works/details/218-karma-experience-booking/KEB-options-1-TRIGGER-dot.jpg)
+
+<p class="caption">TRIGGER Options</p>
+
+![Skype ](../assets/images/works/details/218-karma-experience-booking/KEB-options-2-OFFERS-dot.jpg)
+
+<p class="caption">OFFERS Options</p>
+
+![Skype ](../assets/images/works/details/218-karma-experience-booking/KEB-options-3-ACCOMMODATIONS-dot.jpg)
+
+<p class="caption">ACCOMMODATIONS Options</p>
+
+![Skype ](../assets/images/works/details/218-karma-experience-booking/vote.jpg)
+
+<p class="caption">Skype Voting</p>
+
+
 ### Scoring
 
 Untuk penilaian ini, kita menggunakan Net Promoter Score dan menekankan pada 3 aspek penilaian yaitu Usefulness (Kebergunaan), Learnability (Kemudahan mempelajari dan menggunakan), Satisfaction (Kepuasan). Rumus NPS adalah -> NPS = Promoters (Pendukung) - Detractors (Pencela). Hasilnya adalah sebagai berikut:
@@ -393,7 +406,7 @@ Untuk penilaian ini, kita menggunakan Net Promoter Score dan menekankan pada 3 a
 - Learnability: 8
 - Satisfaction: 9
 
-. . .
+. . . 
 
 Lalu perhitungan Net Promoter Score adalah sebagai berikut:
 
@@ -403,7 +416,7 @@ Lalu perhitungan Net Promoter Score adalah sebagai berikut:
 - Passives (score 7-8): 1
 - Detractors (score 0-6): 0
 
-**NPS untuk Usefulness: 2 - 0 = 2** (Dua orang bersedia mendukung dan memprmosikan kepada orang lain dalam hal Usefulness)
+**NPS untuk Usefulness: 2 - 0 = 2** (Dua orang bersedia mendukung dan mempromosikan  kepada orang lain dalam hal Usefulness)
 
 **Learnability**
 
@@ -411,7 +424,7 @@ Lalu perhitungan Net Promoter Score adalah sebagai berikut:
 - Passives (score 7-8): 3
 - Detractors (score 0-6): 0
 
-**NPS untuk Usefulness: 0 - 0 = 0** (Tidak ada orang bersedia mendukung dan memprmosikan kepada orang lain dalam hal Learnability, tapi juga tidak menjelek-jelekkan)
+**NPS untuk Usefulness: 0 - 0 = 0** (Tidak ada orang bersedia mendukung dan mempromosikan  kepada orang lain dalam hal Learnability, tapi juga tidak menjelek-jelekkan)
 
 **Satisfaction**
 
@@ -419,25 +432,44 @@ Lalu perhitungan Net Promoter Score adalah sebagai berikut:
 - Passives (score 7-8): 2
 - Detractors (score 0-6): 0
 
-**NPS untuk Usefulness: 1 - 0 = 1** (Satu orang bersedia mendukung dan memprmosikan kepada orang lain dalam hal Satisfaction)
+**NPS untuk Usefulness: 1 - 0 = 1** (Satu orang bersedia mendukung dan mempromosikan  kepada orang lain dalam hal Satisfaction)
 
 ---
 <p></p>
 
+## Final Result
 
+### Tautan Prototipe
+
+Tautan prototipe, [di sini!](https://marvelapp.com/c992944/screen/64217686)
+
+![Karma Experience Booking](https://farooq-agent.web.app/assets/images/works/large/karma-experience-booking.jpg)
 
 ---
 <p></p>
 
-Tim: Karma Innovation Center Team
+Lokasi: Karma Innovation Center Team
 
-Waktu: Nov 26, 2019 - Dec 4, 2019
+Waktu: Nov 26, 2019 - Dec 4, 2019 (Diperpanjang hingga 18 Januari 2020)
 
 Tools:
 - Adobe XD
 - MarvelApp
 
+Team for this project:
+- **Adin (me)**, Head of UX & UI Design
+- Teofilus, Head of Technology
+- Abu Bakar, Team Manager
+- Wayan Wirka, Senior Web Developer
+- August, Web Developer
+- Ferry, Web Developer
+- Bajra, Web Developer
+- Julius, Web Developer
+- Dennice, Web Tester & Part of UI Design
+
 ---
 <p></p>
+
+> Project ini masih berjalan dan masuk tahap development...
 
 # Terima kasih
