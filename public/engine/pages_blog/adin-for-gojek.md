@@ -4,13 +4,13 @@
 
 <p class="meta">Design  /  Monday, December 16th 2019</p>
 
-Sebagai bentuk ketertarikan saya dengan Gojek, saya sempat memiliki beberapa ide terkait fitur dan produk baru untuk Gojek. Ide-ide tersebut antara lain:
+As a form of my interest in Gojek, I had some ideas about new features and products for Gojek. These ideas include:
 
 ---
 
 ## [Go Ride X](https://farooq-agent.web.app/stories/?type=pages_work&content=go-ride-x)
 
-Sebuah fitur untuk mengetahui pengalaman pengguna saat menggunakan app gojek dan sub app go-ride. Fitur ini dilakukan langsung saat user menggunakan layanan go-ride.
+A feature to find out the user experience when using the gojek app and go-ride sub app. This feature is performed directly when the user uses the go-ride service.
 
 ![Go Ride X](https://farooq-agent.web.app/assets/images/works/large/go-ride-x.jpg)
 
@@ -18,7 +18,7 @@ Sebuah fitur untuk mengetahui pengalaman pengguna saat menggunakan app gojek dan
 
 ## [Go Delivery](https://farooq-agent.web.app/stories/?type=pages_work&content=go-delivery)
 
-Solusi untuk pengiriman barang untuk beberapa titik dalam sekali jalan.
+Solution for shipping goods to several points in one go.
 
 ![Go Delivery](https://farooq-agent.web.app/assets/images/works/large/go-delivery.jpg)
 
@@ -26,10 +26,10 @@ Solusi untuk pengiriman barang untuk beberapa titik dalam sekali jalan.
 
 ## [Go Tour](https://farooq-agent.web.app/stories/?type=pages_work&content=go-tour)
 
-Solusi untuk service tour guide yang akan mengantarmu dan menemanimu kemana pun kamu pergi.
+The solution for a tour guide service that will take you and accompany you wherever you go.
 
 ![Go Tour](https://farooq-agent.web.app/assets/images/works/large/go-tour.jpg)
 
-Itu adalah explorasi saya terkait Gojek, memang semuanya masih dalam proses research namun diharapkan dapat memberi gambaran tentang ketertarikan saya terhadap Gojek.
+That is my exploration related to Gojek, indeed everything is still in the process of research but hopefully it can give an idea of my interest in Gojek.
 
-## *Terima kasih :)*
+## *Thank you :)*
