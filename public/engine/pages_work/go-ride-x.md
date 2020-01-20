@@ -4,35 +4,35 @@
 
 <p class="meta">Design  /  Friday, November 1, 2019 7:46:14pm</p>
 
-Ini adalah fitur untuk mengetahui pengalaman pengguna saat menggunakan app gojek dan sub app go-ride. Fitur ini dilakukan langsung saat user menggunakan layanan go-ride.
+This is a feature to find out the user experience when using the gojek app and the go-ride sub app. This feature is performed directly when the user uses the go-ride service.
 
 ## Empathize
 
 ### Problems
 
-- Mekanisme review driver yg terbatas
-- Tidak tahunya tim gojek dengan kondisi drivernya
-- User tidak dimudahkan mengemukakan pengalamannya saat menggunakan go-ride
+- Limited driver review mechanism
+- He didn't know the gojek team with the driver condition
+- Users are not facilitated to express their experiences when using go-ride
 
 ## Define
 
 ### How Might We
 
-- Membantu tim gojek mengetahui kondisi dan kualitas drivernya secara lebih mendalam
-- Membantu tim gojek dalam mengelola dan meningkatkan kualitas layanan go-ride-nya
-- Membantu driver go-ride mengetahui kekurangannya dan apa yang perlu diperbaiki dan mana yang perlu ditingkatkan
-- Membantu pengguna go-ride menyampaikan keluhannya secara terstruktur
-- Membantu pengguna mendapatkan tambahan saldo go-pay sebagai kompensasi (1)
-- Memberikan waktu 3 jam setelah pengguna menggunkan layanan goride untuk memberikan review mendalam (bagi user yang terburu-buru) (2)
+- How Might We Helps the gojek team find out more about the condition and quality of the driver
+- How Might We Assist the gojek team in managing and improving the quality of its go-ride services
+- How Might We Helps go-ride drivers know their shortcomings and what needs to be fixed and which needs to be improved
+- How Might We Helps go-ride users submit their complaints in a structured manner
+- How Might We Helps users get an additional go-pay balance as compensation (1)
+- How Might We Give 3 hours after the user uses the goride service to provide an in-depth review (for users in a hurry) (2)
 
 ### Pain Points
 
-- Banyak dari pengguna goride menimati layanan go-ride dalam kondisi terburu-buru (2)
-- Akan muncul pertanyaan "setelah aku kasih feedback, aku dapat apa?" (1)
+- Many go ride users enjoy the go-ride service in rush conditions (2)
+- The question will appear "after I give feedback, what do I get?" (1)
 
 ### Constraint
 
-Permasalahan yang digali khusus untuk go-ride saja.
+Problems that were explored specifically for the go-ride only.
 
 ## Ideation
 
@@ -40,36 +40,36 @@ Permasalahan yang digali khusus untuk go-ride saja.
 
 Sub Topic:
 
-1. Profesionalisme
+1. Professionalism
 
-   - Apakah driver cepat sampai?
+   - Did the driver arrive quickly?
 
-2. Kondisi Kendaraan
+2. Vehicle Conditions
 
-   - Bagaimana kondisi kendaraan? Jika iya:
-   - Motor tidak kokoh & oleng
-   - Jok rusak
-   - Mesin lompat-lompat
+   - What is the condition of the vehicle? If yes:
+   - Motor is not sturdy & shaking
+   - Seat is broken
+   - Skipping machine
 
-3. Kondisi Helm
+3. Helmet Condition
 
-   - helm kotor & dekil
-   - helm bau
-   - pengunci helm rusak
-   - kaca helm rusak (hilang)
-   - helm bersih dan wangi
+   - dirty & filthy helmet
+   - smelly helmet
+   - helmet lock is broken
+   - broken helmet glass (lost)
+   - clean and fragrant helmet
 
-4. Kondisi Jaket Penampilan Driver
+4. Condition of Jacket & Appearance of Drivers
 
-   - jaket kumal & kotor
-   - jaket bersih & rapi
+   - dirty and dirty jacket
+   - clean & neat jacket
 
-5. Ketrampilan & Tatakrama
+5. Skills & Governance
 
-   - nyetir ugal-ugalan
-   - bicara & bersikap tidak sopan
-   - nyetir terlalu lambat
-   - nyetir cepat tapi aman & sopan
+   - reckless driving
+   - talk & be rude
+   - driving too slowly
+   - driving fast but safe & polite
 
 ### UI Design (Snippet)
 

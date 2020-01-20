@@ -16,104 +16,36 @@
 
 ### Ask The Expert (expert, user, developer, merchant etc.)
 
+⇒ Interview
 
-⇒ Survey *(untuk dapat BANYAK data tapi tidak dalam/data dangkal, bisa dilakukan secara online)*
-
-// need team's help
-
-⇒ Interview *(untuk mendapatkan data MENDALAM dari partisipan yang diwawancarai)*
-
-// need team's help
-
-- Apakah Anda pernah bepergian dari satu tempat ke tempat yang lain dengan kendaraan umum?
-- Jika anda bepergian, apakah lebih sering sendirian?
-- Jika bepergian hanya sendiri dari titik A ke titik B, otomatis bangku kosong kan, apakah anda tidak keberatan ketika orang lain menumpang?
+- Have you ever traveled from one place to another by public transportation?
+- If you travel, is it more often alone?
+- If traveling alone from point A to point B, automatically the bench is empty right, do you mind when other people hitchhike?
 
 
 ### *What the story*
 
-Sering dalam kehidupan kita melihat orang yang mungkin ingin berhemat dalam hidupnya, termasuk berhemat dalam hal biaya transportasi.
+Often in life we see people who might want to downsize in their lives, including frugality in terms of transportation costs.
 
-Di lain sisi ada kondisi dimana kita pesan taksi atau layanan sejenis dimana mobil yang mengantar kita kelebihan 2 atau lebih bangku dan kita membayar penuh untuk mobil itu padahal ada 2 atau lebih bangku kosong.
+On the other hand there are conditions where we order a taxi or similar service where the car that takes us over 2 or more seats and we pay in full for the car even though there are 2 or more empty seats.
 
-Adapula kondisi ketika kita dalam perjalanan menggunakan kendaran pribadi baik mobil atau motor kita punya jok yang kosong tidak terisi apa-apa.
-
-
-### *User persona*
-
-// need team's help
+There are also conditions when we are traveling using private vehicles, both cars and motorcycles, we have an empty seat filled with nothing.
 
 
 ### *What the problem*
 
-- Banyaknya kursi kosong dalam kendaraan transportasi kita
-- Mahalnya biaya untuk sewa mobil jarak dekat karena satu mobil hanya untuk satu orang
-- Bepergian dengan bangku kosong kurang ekonomis karena bahan bakar yang dikonsumsi relatif sama jika dibandingkan dengan kita mengisi bangku kosong tersebut
+- Number of empty seats in our transportation vehicle
+- The high cost for renting a short distance car because one car is only for one person
+- Traveling with an empty bench is less economical because the fuel consumed is relatively the same when compared to us filling the empty bench
 
 
 ### *How Might We*
 
-- Membantu orang yang butuh tumpangan untuk mendapatkan tumpangan
-- Membuat orang yang punya space kosong pada kendaraannya untuk menawarkan jasa tumpangan
-- Membuat solusi agar biaya transportasi bisa lebih murah dengan patungan
+- How Might We help people who need a ride to get a ride
+- How Might We make people who have free space on their vehicles to offer a ride service
+- How Might We made a solution so that transportation costs could be cheaper with a joint venture
 
 
 ### Map (Conventional User Map / Current Condition)
 
 ![Ride Sharing Map](https://farooq-agent.web.app/assets/images/works/details/213-ride-sharing/ride-sharing-conventional-map.jpg)
-
-
-### Planning Session
-
-
-### *Long Term Goal*
-
-"Dalam waktu setahun ke depan jumlah transaksi Ride-Sharing > 1000 transaksi"
-
-
----
-
-
-## Produce Solutions
-
-
-### Lightning Demos
-
-(on research)
-
-
-### Sketching
-
-(on research)
-
-
----
-
-
-## Vote on Solution (Decide)
-
-// need teamwork
-
-
-## The Storyboard
-
-(base on voting)
-
-
----
-
-
-## Prototype
-
-// need teamwork
-
-
----
-
-
-## Validate (Test)
-
-// need teamwork
-
-
----

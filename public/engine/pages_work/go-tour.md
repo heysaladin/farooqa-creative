@@ -4,9 +4,9 @@
 
 <p class="meta">Design  /  Friday, November 1, 2019 8:46:14pm</p>
 
-*"Solusi untuk kebutuhan tour guide untuk perjalan wisata."*
+*"Solution for the needs of a tour guide for your tour."*
 
-Solusi untuk service tour guide yang akan mengantarmu dan menemanimu kemana pun kamu pergi.
+The solution for a tour guide service that will take you and accompany you wherever you go.
 
 ![Go Tour](https://farooq-agent.web.app/assets/images/works/large/go-tour.jpg)
 

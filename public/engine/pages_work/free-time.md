@@ -6,25 +6,25 @@
 
 ## Understand
 
-*Lokasi Eksplorasi: Karma Innovation Center (KIC) - Karma Head Office Bali*
+*Exploration Location: Karma Innovation Center (KIC) - Karma Head Office Bali*
 
-Sebuah team yang baik adalah team yang terus berkembang. Karena adanya waktu kosong di sela-sela kerja, akan lebih efektif jika dimanfaatkan untuk melakukan hal-hal yang lebih bermanfaat.
+A good team is a team that continues to grow. Because there is free time on the sidelines of work, it will be more effective if used to do things that are more useful.
 
 ### Define the Problems
 
-Berikut adalah beberapa masalah yang ada di lingkungan kerja KIC:
+The following are some of the problems that exist in the KIC work environment:
 
-* Keinginan belajar tinggi namun susah berkomitmen
-* Perlunya sharing ilmu tapi susah menemukan partner dalam belajar
-* Susahnya menentukan waktu untuk dipakai belajar bersama
-* Adanya rasa sungkan antar team member
-* Ketidaktahuan antar team member apakah team member yang diajak belajar sedang sibuk atau tidak
+* The desire to learn is high but hard to commit
+* The need for sharing knowledge but hard to find partners in learning
+* Difficult to determine the time to use to learn together
+* There is a sense of hesitation between team members
+* Ignorance between team members whether the team members invited to learn are busy or not
 
 ### How Might We
 
-* Bagaimana kita bisa membuat sistem dimana team member dapat mengetahui apakah team member lainnya sedang sibuk atau tidak
-* Bagaimana kita bisa memudahkan team member untuk secara jujur memberi tahu teman-temannya bahwa ia sedang sibuk atau tidak
-* Bagaimana kita bisa membuat waktu kosong tidak terbuang sia-sia karena dipakai belajar dan upgrade skill
+* How might we create a system where team members can find out whether other team members are busy or not
+* How might we make it easier for team members to honestly tell their friends that they are busy or not
+* How might we make free time not be wasted because it is used to learn and upgrade skills
 
 ### Map
 

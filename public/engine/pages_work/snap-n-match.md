@@ -6,19 +6,19 @@
 
 ## Understand
 
-Perkembangan teknologi telah mengubah gaya hidup masyarakat. Termasuk dalam urusan belanja, terutama dalam hal belanja. belanja online sudah mulai banyak dilakukan oleh masyarakat indonesia. Salah satu yang sering dilakukan adalah belanja online untuk barang sandang atau pakaian. namun, ada beberapa masalah dalam renomena belanja online pakaian ini.
+The development of technology has changed people's lifestyles. Included in matters of shopping, especially in terms of shopping. online shopping has begun to be done by many Indonesian people. One that is often done is online shopping for clothing or clothing items. However, there are some problems in renomena shopping for these clothes online.
 
 ### Define the Problems
 
-- Pembeli pakaian dalam beberapa item, user tidak bisa melakukan mix and match
-- Pembeli tidak tahu apakah warna pilihan cocok dengan warna kulit pembelinya
-- Pembeli tidak tahu bagaimana jika barang dibeli memiliki ukuran berbeda dari yang dipajang di online store-nya
+- Buyers of clothes in several items, users can not mix and match
+- Buyers do not know whether the chosen color matches the buyer's skin color
+- The buyer does not know what if the item purchased has a different size than that displayed in his online store
 
 ### How Might We
 
-- Bagaimana kita bisa membuat user bisa melakukan mix and match dari item-item yang dijual
-- Bagaimana kita bisa membuat user mencoba pakaian yang mereka pilih
-- Bagaimana kita bisa membantu user mencoba ukuran pakaian sesuai tubuh user berdasarkan ukuran yang tersedia
+- How might we make the user can mix and match the items being sold
+- How might we make users try on the clothes they choose
+- How might we help users try clothing sizes according to the user's body based on available sizes
 
 ![Snap n' Match](https://farooq-agent.web.app/assets/images/works/details/223-snap-n-match/snap-n-match.jpg)
 

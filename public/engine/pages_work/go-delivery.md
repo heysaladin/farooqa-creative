@@ -6,7 +6,7 @@
 
 *"Go Send + Steroid = Go Delivery."*
 
-Solusi untuk pengiriman barang untuk beberapa titik dalam sekali jalan.
+Solution for shipping goods to several points in one go.
 
 ![Go Delivery](https://farooq-agent.web.app/assets/images/works/large/go-delivery.jpg)
 

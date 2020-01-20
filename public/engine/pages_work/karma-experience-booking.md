@@ -231,17 +231,17 @@ What the problems
 
 How Might We
 
-* How Might We menentukan satu tujuan yang paling penting untuk disampaikan kepada visitor yaitu ”booking”
-* How Might We membantu visitor melakukan booking dengan cepat dan mudah
-* How Might We mengurangi waktu load website agar lebih cepat sampai pada visitor dengan efisiensi konten dan pendekatan teknis teknologi
-* How Might We membuat tampilan yang tampil sangat baik di ukuran mobile device
-* How Might We membuat website tetap dapat diakses walau dengan menggunakan jaringan yang lambat
+* How Might We determine the single most important goal to convey to visitors, which is "booking"
+* How Might We help visitors make bookings quickly and easily
+* How Might We reduce website load time so that it reaches visitors faster with efficient content and a technical approach to technology
+* How Might We make a display that appears very well on the size of a mobile device
+* How Might We make websites still accessible even by using a slow network
 
 Design Thinking Goals
 
-1. Website dapat di-load dalam waktu kurang dari 5 detik
-2. Website tampil dengan sangat baik di layar mobile phone
-3. Website memudahkan visitor melakukan booking
+1. The website can be loaded in less than 5 seconds
+2. Website performs very well on the mobile phone screen
+3. Website makes it easy for visitors to book
 
 ## Ideation
 

@@ -6,21 +6,21 @@
 
 ## Understand
 
-Mungkin banyak di antara kita yang ingin memulai gaya hidup sehat. Salah satu aspek yang berperan penting dalam menjaga kesehatan adalah soal asupan nutrisi dari makanan dan minuman yg kita makan dan minum.
+Maybe many of us who want to start a healthy lifestyle. One aspect that plays an important role in maintaining health is a matter of nutrient intake from food and drinks that we eat and drink.
 
-Cara untuk mengetahui apakah makanan yang sudah kita makan adalah dengan mencatatnya. Iya, mencatatnya. Dengan mencatat kita akan tahu secara detail apa yg kita makan. Fasilitas pencatatan makanan seperti ini sebenarnya sudah ada, sepeti dengan menggunakan mobile app seperti myfitnesspal dan fat secret. Namun, proses pencatatan seperti itu cukup membosankan dan terkesan ribet.
+The way to find out whether the food we have eaten is to record it. Yes, take notes. By noting we will know in detail what we eat. Food recording facilities like this actually already exist, such as by using mobile apps such as myfitnesspal and fat secret. However, the recording process as it is quite boring and seem complicated.
 
 ### Define the Problems
 
-- Input makanan dirasa cukup ribet
-- Jika lupa, susah sekali mengingat makanan yang kemarin dimakan
-- Susahnya mengira-ngira gramasi dari makanan yang dimakan
+- Food input is quite complicated
+- If you forget, it's hard to remember the food you ate yesterday
+- The difficulty of guessing gramasi from food eaten
 
 ### How Might We
 
-- Bagaimana kita bisa membuat proses pencatatan makanan menjadi lebih mudah
-- Bagaimana kita bisa mengadakan sebuah sistem reminder untuk update makanan
-- Bagaimana kita bisa membantu dengan bantuan kecerdasan buatan membuat proses pencatatan makanan menjadi lebih mudah
+- How might we make the process of recording food easier
+- How might we hold a reminder system for food updates
+- How might we can help with the help of artificial intelligence makes the process of recording food easier
 
 ![ViFit](https://farooq-agent.web.app/assets/images/works/details/224-vifit/vifit.jpg)
 
