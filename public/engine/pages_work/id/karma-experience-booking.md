@@ -229,7 +229,7 @@ Apa masalahnya?
 
 ## Define
 
-Bagaimana Mungkin Kita
+### How Might We
 
 * Bagaimana Kami Dapat menentukan satu tujuan yang paling penting untuk disampaikan kepada pengunjung yaitu ”pemesanan”
 * Bagaimana Mungkin Kami membantu pengunjung melakukan pemesanan dengan cepat dan mudah
@@ -237,10 +237,10 @@ Bagaimana Mungkin Kita
 * Bagaimana Mungkin Kita membuat tampilan yang tampil sangat baik di ukuran perangkat seluler
 * Bagaimana Mungkin Kita membuat situs web dapat diakses walau dengan menggunakan jaringan yang lebih cepat
 
-Tujuan Design Thinking
+### Matrics
 
-1. Situs web dapat memuat dalam waktu kurang dari 5 detik
-2. Situs web tampil dengan sangat baik di layar ponsel
+1. Situs web tampil dengan sangat baik di layar ponsel
+2. Situs web dapat memuat dalam waktu kurang dari 5 detik
 3. Situs web memudahkan pengunjung melakukan pemesanan
 
 ## Ideation
@@ -444,6 +444,12 @@ Lalu perhitungan Net Promoter Score adalah sebagai berikut:
 Tautan prototipe, [di sini!](https://marvelapp.com/c992944/screen/64217686)
 
 ![Karma Experience Booking](https://farooq-agent.web.app/assets/images/works/large/karma-experience-booking.jpg)
+
+### Expected Impacts
+
+- Pengguna dapat mengakses situs web yang cocok dan sangat baik di layar ponsel
+- Pengguna dapat memuat situs web dalam waktu kurang dari 5 detik
+- Pengguna dapat melakukan pemesanan dengan lebih jelas dan mudah
 
 ---
 <p></p>

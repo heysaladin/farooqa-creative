@@ -229,7 +229,7 @@ What the problems
 
 ## Define
 
-How Might We
+### How Might We
 
 * How Might We determine the single most important goal to convey to visitors, which is "booking"
 * How Might We help visitors make bookings quickly and easily
@@ -237,10 +237,10 @@ How Might We
 * How Might We make a display that appears very well on the size of a mobile device
 * How Might We make websites still accessible even by using a slow network
 
-Design Thinking Goals
+### The Matrics
 
-1. The website can be loaded in less than 5 seconds
-2. Website performs very well on the mobile phone screen
+1. Website performs very well on the mobile phone screen
+2. The website can be loaded in less than 5 seconds
 3. Website makes it easy for visitors to book
 
 ## Ideation
@@ -444,6 +444,12 @@ Then the calculation of the Net Promoter Score is as follows:
 Tautan prototipe, [di sini!](https://marvelapp.com/c992944/screen/64217686)
 
 ![Karma Experience Booking](https://farooq-agent.web.app/assets/images/works/large/karma-experience-booking.jpg)
+
+### Expected Impacts
+
+- User can access the website fit and very well on the mobile phone screen
+- User can load the website in less than 5 seconds
+- User can do the booking  more clearly and easily
 
 ---
 <p></p>

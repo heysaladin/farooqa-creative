@@ -127,6 +127,12 @@ Sumber: [Kasus Stunting](https://databoks.katadata.co.id/datapublish/2018/11/22/
 - Beberapa fitur belum ada di buku pink
 - Update buku pink mahal karana perlu cetak dan distribusi ke seluruh negeri
 
+### Matrics
+
+- Buku pink ringkas dan mudah dibawa
+- Proses pemantauan tumbuh kembang anak bisa dipantau dimana saja
+- Pengetahuan tentang tindakan perawatan janin dan anak dapat diperoleh kapan saja
+
 ### Find Right User
 
 Prioritize User Categories
@@ -293,6 +299,12 @@ Applikasi yang biasa digunakan:
 Tautan prototipe [here](https://marvelapp.com/c992944/screen/60051427)
 
 ![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-bumeja-1.jpg)
+
+### Dampak yang diharapkan
+
+- User dapat membawa buku pink dalam bentuk digital kapan pun dia pergi
+- User dapat memantau tumbuh kembang anaknya kapan saja
+- User dapat mendapat pemberitahuan tentang tindakan apa yang tepat terkait tumbuh kembang janin dan anaknya
 
 ---
 <p></p>

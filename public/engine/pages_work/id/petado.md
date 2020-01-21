@@ -38,7 +38,13 @@ Beberapa permasalahan yang ditemukan:
 * Bagaimana Kita bisa membantu user memberikan data lengkap seputar pet yang bisa diadopsi oleh user lain
 * Bagaimana Kita bisa membantu user melakukan donasi untuk perawatan pet yg membutuhkan
 
-## Peran Pengguna
+### Matrics
+
+- Proses pelaporan yang mudah untuk hewan yang ditinggalkan atau dilecehkan kepada penyayang binatang
+- Penyayang binatang dapat melakukan penyelamatan hewan secara efektif
+- Proses adopsi hewan lebih mudah
+
+## Role Pengguna
 
 * The rescuer: orang yang merawat pet terlantar
 * The adopter: orang yang mengadopsi pet
@@ -213,5 +219,11 @@ Tautan prototipe [di sini](https://marvelapp.com/c992944/screen/60051427)
 ![Petado Preview](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-petado-1.jpg)
 
 <p class="caption">Petado Preview</p>
+
+## Dampak yang diharapkan
+
+- Pengguna dapat melaporkan hewan yang ditinggalkan atau dilecehkan lebih cepat dan mudah
+- Pengguna dapat melakukan penyelamatan hewan secara efektif
+- Pengguna dapat mengadopsi hewan dengan mudah
 
 # Terima kasih

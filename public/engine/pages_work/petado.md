@@ -45,6 +45,12 @@ Some problems found:
 * How Might We Helps the community provide complete data about pets that can be adopted by other users
 * How Might We Helps people make donations for pet care
 
+## The Matrics
+
+- Easy reporting process for abandoned or abused animal to the animal lover
+- The animal lover can do the animal resque effectively
+- Animal adoption process more easy
+
 ## User Roles
 
 * The Rescuer: people who care for abandoned pets
@@ -220,5 +226,11 @@ Link prototype [here](https://marvelapp.com/c992944/screen/60051427)
 ![Petado Preview](https://farooq-agent.web.app/assets/images/works/details/186-petado/web-petado-1.jpg)
 
 <p class="caption">Petado Preview</p>
+
+### Expected Impacts
+
+- User can reporting the abandoned or abused animal faster and easily
+- User can do the animal resque effectively
+- User can adopt the animal easily
 
 # Thank You

@@ -127,6 +127,12 @@ Source: [Kasus Stunting](https://databoks.katadata.co.id/datapublish/2018/11/22/
 - Some features aren't in the pink book yet
 - Pink book updates are expensive because they need to be printed and distributed throughout the country
 
+### Matrics
+
+- The pink book is concise and easy to carry
+- The process of monitoring children's growth and development can be monitored anywhere
+- Knowledge of fetal and child care measures can be obtained at any time
+
 ### Find Right User
 
 Prioritize User Categories
@@ -293,6 +299,12 @@ Application commonly used:
 Prototype link [here](https://marvelapp.com/c992944/screen/60051427)
 
 ![BUMEJA Map](https://farooq-agent.web.app/assets/images/works/details/214-bumeja/web-bumeja-1.jpg)
+
+### Expected Impacts
+
+- Users can carry pink books in digital form whenever they go
+- Users can monitor the growth and development of their children at any time
+- Users can get notifications about what actions are appropriate related to the development of the fetus and child
 
 ---
 <p></p>
