@@ -739,6 +739,7 @@ a {
     margin: 25px auto;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 #social-menu li {
