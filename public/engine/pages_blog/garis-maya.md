@@ -24,7 +24,7 @@ Setidaknya ada 2 pola alur dari mata manusia dalam melihat sebuah layout design 
 
 Adalah bentuk pemindaian informasi dari sebuah layout design berbentuk seperti huruf F.
 
-![F-Pattern](../assets/images/blog/details/5-garis-maya/F-pattern.jpg)
+![F-Pattern](../assets/images/blog/details/5-garis-maya/f-pattern.jpg)
 
 <p class="caption">F-Pattern</p>
 

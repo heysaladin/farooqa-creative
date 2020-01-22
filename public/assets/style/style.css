@@ -761,22 +761,34 @@ a {
 }
 
 #social-menu li:nth-child(1) a {
-    background-image: url('../images/icon-social-1.svg');
+    background-image: url('../images/icon-social-7.svg');
 }
 
 #social-menu li:nth-child(2) a {
-    background-image: url('../images/icon-social-2.svg');
+    background-image: url('../images/icon-social-6.svg');
 }
 
 #social-menu li:nth-child(3) a {
-    background-image: url('../images/icon-social-3.svg');
+    background-image: url('../images/icon-social-2.svg');
 }
 
 #social-menu li:nth-child(4) a {
-    background-image: url('../images/icon-social-4.svg');
+    background-image: url('../images/icon-social-3.svg');
 }
 
 #social-menu li:nth-child(5) a {
+    background-image: url('../images/icon-social-1.svg');
+}
+
+#social-menu li:nth-child(6) a {
+    background-image: url('../images/icon-social-8.svg');
+}
+
+#social-menu li:nth-child(7) a {
+    background-image: url('../images/icon-social-4.svg');
+}
+
+#social-menu li:nth-child(8) a {
     background-image: url('../images/icon-social-5.svg');
 }
 
