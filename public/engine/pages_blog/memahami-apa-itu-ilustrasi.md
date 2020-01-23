@@ -41,7 +41,7 @@ Ini adalah jenis ilustrasi yang dibuat dengan cara tradisional dengan alat-alat 
 
 **1. Woodcutting**
 
-![Woodcutting](../assets/images/blog/details/9-memahami-apa-itu-ilustrasi/Woodcutting.jpg)
+![Woodcutting](../assets/images/blog/details/9-memahami-apa-itu-ilustrasi/woodcutting.jpg)
 
 <p class="caption">Woodcutting</p>
 
