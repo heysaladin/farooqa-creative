@@ -287,6 +287,38 @@
     }
   },
   {
+    "id": 229,
+    "meta": {
+      "lang": "en",
+      "title": "Apotekita",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Apotekita",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Apotekita.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/229-apotekita/apotekita.jpg",
+      "thumbnail": "../assets/images/works/details/229-apotekita/apotekita.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "apotekita",
+      "date": "2020-02-05 13:35:29",
+      "date_update": "2020-02-05 13:36:41"
+    }
+  },
+  {
     "id": 96,
     "meta": {
       "lang": "en",
@@ -4619,6 +4651,38 @@
     }
   },
   {
+    "id": 230,
+    "meta": {
+      "lang": "en",
+      "title": "Marisan",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Marisan",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Marisan.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/230-marisan/marisan.jpg",
+      "thumbnail": "../assets/images/works/details/230-marisan/marisan.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "marisan",
+      "date": "2020-02-05 14:35:29",
+      "date_update": "2020-02-05 14:36:41"
+    }
+  },
+  {
     "id": 88,
     "meta": {
       "lang": "en",
@@ -5679,6 +5743,38 @@
     }
   },
   {
+    "id": 231,
+    "meta": {
+      "lang": "en",
+      "title": "Quick Clean",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Quick Clean",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Quick Clean.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/231-quick-clean/quick-clean.jpg",
+      "thumbnail": "../assets/images/works/details/231-quick-clean/quick-clean.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "quick-clean",
+      "date": "2020-02-05 15:35:29",
+      "date_update": "2020-02-05 15:36:41"
+    }
+  },
+  {
     "id": 170,
     "meta": {
       "lang": "en",
@@ -6509,7 +6605,7 @@
       "status": "exploration",
       "slug": "social-wifi-marketing",
       "date": "2019-11-11 14:46:14",
-      "date_update": "2019-11-01 19:46:41"
+      "date_update": "2020-02-05 12:46:41"
     }
   },
   {
