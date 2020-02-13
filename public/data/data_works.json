@@ -4907,6 +4907,38 @@
     }
   },
   {
+    "id": 233,
+    "meta": {
+      "lang": "en",
+      "title": "Melalie Mobile Web",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Melalie Mobile Web",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Melalie Mobile Web.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/233-melalie-homepage-mobile-web/melalie-homepage-mobile-web.jpg",
+      "thumbnail": "../assets/images/works/details/233-melalie-homepage-mobile-web/melalie-homepage-mobile-web.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "melalie-homepage-mobile-web",
+      "date": "2020-02-12 14:35:29",
+      "date_update": "2020-02-12 14:36:41"
+    }
+  },
+  {
     "id": 190,
     "meta": {
       "lang": "en",
@@ -4942,6 +4974,38 @@
       "slug": "melati",
       "date": "2019-08-31 22:15:14",
       "date_update": "2019-09-20 02:01:41"
+    }
+  },
+  {
+    "id": 235,
+    "meta": {
+      "lang": "en",
+      "title": "Money Transfer",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Money Transfer",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Money Transfer.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/236-money-transfer/money-transfer.jpg",
+      "thumbnail": "../assets/images/works/details/236-money-transfer/money-transfer.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "money-transfer",
+      "date": "2020-02-12 17:35:29",
+      "date_update": "2020-02-12 17:36:41"
     }
   },
   {
@@ -5038,6 +5102,38 @@
       "slug": "mulyono-illustration-inverse-color",
       "date": "2012-02-04 11:56:20",
       "date_update": "2016-12-05 15:58:54"
+    }
+  },
+  {
+    "id": 233,
+    "meta": {
+      "lang": "en",
+      "title": "MyItem",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "MyItem",
+      "catogory": ["Design"],
+      "bodyCopyShort": "MyItem.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/234-myitem/myitem.jpg",
+      "thumbnail": "../assets/images/works/details/234-myitem/myitem.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "myitem",
+      "date": "2020-02-12 15:35:29",
+      "date_update": "2020-02-12 15:36:41"
     }
   },
   {
@@ -5743,6 +5839,38 @@
     }
   },
   {
+    "id": 234,
+    "meta": {
+      "lang": "en",
+      "title": "Proteksi",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Proteksi",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Proteksi.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/235-proteksi/proteksi.jpg",
+      "thumbnail": "../assets/images/works/details/235-proteksi/proteksi.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "proteksi",
+      "date": "2020-02-12 16:35:29",
+      "date_update": "2020-02-12 16:36:41"
+    }
+  },
+  {
     "id": 231,
     "meta": {
       "lang": "en",
@@ -6198,6 +6326,38 @@
       "slug": "sby-website-design",
       "date": "2013-07-29 13:44:44",
       "date_update": "2013-07-29 13:49:30"
+    }
+  },
+  {
+    "id": 232,
+    "meta": {
+      "lang": "en",
+      "title": "Scatory",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Scatory",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Scatory.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/232-scatory/scatory.jpg",
+      "thumbnail": "../assets/images/works/details/232-scatory/scatory.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "scatory",
+      "date": "2020-02-12 13:35:29",
+      "date_update": "2020-02-12 13:36:41"
     }
   },
   {
