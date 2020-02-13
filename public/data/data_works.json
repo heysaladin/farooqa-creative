@@ -1,4 +1,5 @@
-[{
+[
+  {
     "id": 24,
     "meta": {
       "lang": "en",
@@ -483,12 +484,8 @@
     "meta": {
       "lang": "en",
       "title": "Astary",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -499,9 +496,7 @@
     },
     "data": {
       "title": "Astary",
-      "catogory": [
-        "Marketing", "Design"
-      ],
+      "catogory": ["Marketing", "Design"],
       "bodyCopyShort": "A project branding and marketing strategy for startups engaged in manufacturing custom goods from fibergals, wood, animal skins and other custom goods.",
       "work_category": 3,
       "image": "../assets/images/works/large/astary.jpg",
@@ -521,12 +516,8 @@
     "meta": {
       "lang": "en",
       "title": "Audiary",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -537,9 +528,7 @@
     },
     "data": {
       "title": "Audiary",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Audiary",
       "work_category": 8,
       "image": "../assets/images/works/large/audiary.jpg",
@@ -655,12 +644,8 @@
     "meta": {
       "lang": "en",
       "title": "Bali JS",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -671,9 +656,7 @@
     },
     "data": {
       "title": "Bali JS",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Bali JS",
       "work_category": 7,
       "image": "../assets/images/works/large/bali-js.jpg",
@@ -789,12 +772,8 @@
     "meta": {
       "lang": "en",
       "title": "Bimbel BTW",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -805,9 +784,7 @@
     },
     "data": {
       "title": "Bimbel BTW",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Bimbel BTW",
       "work_category": 8,
       "image": "../assets/images/works/large/bimbel-btw.jpg",
@@ -827,12 +804,8 @@
     "meta": {
       "lang": "en",
       "title": "Bimbel Ceria",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -843,9 +816,7 @@
     },
     "data": {
       "title": "Bimbel Ceria",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Bimbel Ceria",
       "work_category": 8,
       "image": "../assets/images/works/large/bimbel-ceria.jpg",
@@ -1057,12 +1028,8 @@
     "meta": {
       "lang": "en",
       "title": "Bukber Lover",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -1073,9 +1040,7 @@
     },
     "data": {
       "title": "Bukber Lover",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Bukber Lover",
       "work_category": 8,
       "image": "../assets/images/works/large/bukber-lover.jpg",
@@ -1095,12 +1060,8 @@
     "meta": {
       "lang": "en",
       "title": "BUMEJA Project",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -1111,9 +1072,7 @@
     },
     "data": {
       "title": "BUMEJA Project",
-      "catogory": [
-        "Featured", "Design"
-      ],
+      "catogory": ["Featured", "Design"],
       "bodyCopyShort": "BUMEJA Project.",
       "work_category": 8,
       "image": "../assets/images/works/large/bumeja.jpg",
@@ -1133,12 +1092,8 @@
     "meta": {
       "lang": "en",
       "title": "BuyPal",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -1149,9 +1104,7 @@
     },
     "data": {
       "title": "BuyPal",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "BuyPal",
       "work_category": 8,
       "image": "../assets/images/works/large/buypal.jpg",
@@ -1651,12 +1604,8 @@
     "meta": {
       "lang": "en",
       "title": "Dipuja",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -1667,9 +1616,7 @@
     },
     "data": {
       "title": "Dipuja",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Dipuja",
       "work_category": 8,
       "image": "../assets/images/works/large/dipuja.jpg",
@@ -1689,12 +1636,8 @@
     "meta": {
       "lang": "en",
       "title": "Djava",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -1705,9 +1648,7 @@
     },
     "data": {
       "title": "Djava",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Djava",
       "work_category": 8,
       "image": "../assets/images/works/large/djava.jpg",
@@ -1759,12 +1700,8 @@
     "meta": {
       "lang": "en",
       "title": "Dr. Antri",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -1775,9 +1712,7 @@
     },
     "data": {
       "title": "Dr. Antri",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Dr. Antri",
       "work_category": 8,
       "image": "../assets/images/works/large/dr-antri.jpg",
@@ -1861,12 +1796,8 @@
     "meta": {
       "lang": "en",
       "title": "Drawing Art 2018",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -1877,9 +1808,7 @@
     },
     "data": {
       "title": "Drawing Art 2018",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Drawing Art 2018",
       "work_category": 1,
       "image": "../assets/images/works/large/drawing-art-2018.jpg",
@@ -1899,12 +1828,8 @@
     "meta": {
       "lang": "en",
       "title": "Drawing Art 2019",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -1915,9 +1840,7 @@
     },
     "data": {
       "title": "Drawing Art 2019",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Drawing Art 2019",
       "work_category": 1,
       "image": "../assets/images/works/large/drawing-art-2019.jpg",
@@ -2033,12 +1956,8 @@
     "meta": {
       "lang": "en",
       "title": "Esenja",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -2049,9 +1968,7 @@
     },
     "data": {
       "title": "Esenja",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Esenja: Fresh Drink Branding Design",
       "work_category": 3,
       "image": "../assets/images/works/large/esenja.jpg",
@@ -2583,12 +2500,8 @@
     "meta": {
       "lang": "en",
       "title": "Go Delivery",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -2599,9 +2512,7 @@
     },
     "data": {
       "title": "Go Delivery",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Go Delivery: Delivery Services",
       "work_category": 8,
       "image": "../assets/images/works/large/go-delivery.jpg",
@@ -2621,12 +2532,8 @@
     "meta": {
       "lang": "en",
       "title": "Go Ride X",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -2637,9 +2544,7 @@
     },
     "data": {
       "title": "Go Ride X",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Go Ride X: Experience Riding Online Riding",
       "work_category": 8,
       "image": "../assets/images/works/large/go-ride-x.jpg",
@@ -2659,12 +2564,8 @@
     "meta": {
       "lang": "en",
       "title": "Go Tadarus Go",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -2675,9 +2576,7 @@
     },
     "data": {
       "title": "Go Tadarus Go",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Go Tadarus Go",
       "work_category": 8,
       "image": "../assets/images/works/large/go-tadarus-go.jpg",
@@ -2697,12 +2596,8 @@
     "meta": {
       "lang": "en",
       "title": "Go Tour",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -2713,9 +2608,7 @@
     },
     "data": {
       "title": "Go Tour",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Go Tour: Tour Guide Services",
       "work_category": 8,
       "image": "../assets/images/works/large/go-tour.jpg",
@@ -2895,12 +2788,8 @@
     "meta": {
       "lang": "en",
       "title": "Harta",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -2911,9 +2800,7 @@
     },
     "data": {
       "title": "Harta",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Harta",
       "work_category": 8,
       "image": "../assets/images/works/large/harta.jpg",
@@ -3029,12 +2916,8 @@
     "meta": {
       "lang": "en",
       "title": "Hey Brew",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3045,9 +2928,7 @@
     },
     "data": {
       "title": "Hey Brew",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Hey Brew",
       "work_category": 8,
       "image": "../assets/images/works/large/hey-brew.jpg",
@@ -3067,12 +2948,8 @@
     "meta": {
       "lang": "en",
       "title": "HeyHeySaladin",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3083,9 +2960,7 @@
     },
     "data": {
       "title": "HeyHeySaladin",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "HeyHeySaladin",
       "work_category": 7,
       "image": "../assets/images/works/large/heyheysaladin.jpg",
@@ -3105,12 +2980,8 @@
     "meta": {
       "lang": "en",
       "title": "HeySaladin",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3121,9 +2992,7 @@
     },
     "data": {
       "title": "HeySaladin",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "HeySaladin",
       "work_category": 7,
       "image": "../assets/images/works/large/heysaladin.jpg",
@@ -3143,12 +3012,8 @@
     "meta": {
       "lang": "en",
       "title": "Hunter Indonesia 3.0",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3159,9 +3024,7 @@
     },
     "data": {
       "title": "Hunter Indonesia 3.0",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Hunter Indonesia 3.0",
       "work_category": 7,
       "image": "../assets/images/works/large/hunter-indonesia-v3.jpg",
@@ -3181,12 +3044,8 @@
     "meta": {
       "lang": "en",
       "title": "Hunter Indonesia",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3197,9 +3056,7 @@
     },
     "data": {
       "title": "Hunter Indonesia",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Hunter Indonesia",
       "work_category": 7,
       "image": "../assets/images/works/large/hunter-indonesia.jpg",
@@ -3219,12 +3076,8 @@
     "meta": {
       "lang": "en",
       "title": "Hunter Motorcycle",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3235,10 +3088,7 @@
     },
     "data": {
       "title": "Hunter Motorcycle",
-      "catogory": [
-        "Design",
-        "Development"
-      ],
+      "catogory": ["Design", "Development"],
       "bodyCopyShort": "Hunter Motorcycle",
       "work_category": 7,
       "image": "../assets/images/works/large/hunter.jpg",
@@ -3290,12 +3140,8 @@
     "meta": {
       "lang": "en",
       "title": "Illustration Bali.js Website",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3306,9 +3152,7 @@
     },
     "data": {
       "title": "Illustration Bali.js Website",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Illustration Bali.js Website",
       "work_category": 1,
       "image": "../assets/images/works/large/illustration-balijs-website.jpg",
@@ -3328,12 +3172,8 @@
     "meta": {
       "lang": "en",
       "title": "Illustration Djava App",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3344,9 +3184,7 @@
     },
     "data": {
       "title": "Illustration Djava App",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Illustration Djava App",
       "work_category": 1,
       "image": "../assets/images/works/large/illustration-djava-app.jpg",
@@ -3590,12 +3428,8 @@
     "meta": {
       "lang": "en",
       "title": "Karma Experience Booking",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3606,9 +3440,7 @@
     },
     "data": {
       "title": "Karma Experience Booking",
-      "catogory": [
-        "Featured", "Design"
-      ],
+      "catogory": ["Featured", "Design"],
       "bodyCopyShort": "An UI design exploration for booking system for Karma Group",
       "work_category": 8,
       "image": "../assets/images/works/large/karma-experience-booking.jpg",
@@ -3724,12 +3556,8 @@
     "meta": {
       "lang": "en",
       "title": "Karmagroup Cross",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3740,9 +3568,7 @@
     },
     "data": {
       "title": "Karmagroup Cross",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Karmagroup Cross",
       "work_category": 8,
       "image": "../assets/images/works/large/karmagroup-cross.jpg",
@@ -3762,12 +3588,8 @@
     "meta": {
       "lang": "en",
       "title": "Karmagroup Dark",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3778,9 +3600,7 @@
     },
     "data": {
       "title": "Karmagroup Dark",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Karmagroup Dark",
       "work_category": 7,
       "image": "../assets/images/works/large/karmagroup-dark.jpg",
@@ -3800,12 +3620,8 @@
     "meta": {
       "lang": "en",
       "title": "Karmagroup Home Redesign",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3816,9 +3632,7 @@
     },
     "data": {
       "title": "Karmagroup Home Redesign",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Karmagroup Home Redesign",
       "work_category": 7,
       "image": "../assets/images/works/large/karmagroup-home-redesign.jpg",
@@ -3838,12 +3652,8 @@
     "meta": {
       "lang": "en",
       "title": "Karmagroup Modern",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3854,9 +3664,7 @@
     },
     "data": {
       "title": "Karmagroup Modern",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Karmagroup Modern",
       "work_category": 8,
       "image": "../assets/images/works/large/karmagroup-modern.jpg",
@@ -3876,12 +3684,8 @@
     "meta": {
       "lang": "en",
       "title": "Kebun Anggrek Clai",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -3892,9 +3696,7 @@
     },
     "data": {
       "title": "Kebun Anggrek Clai",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Kebun Anggrek Clai: Orchid florist Branding Design",
       "work_category": 3,
       "image": "../assets/images/works/large/kebun-anggrek-clai.jpg",
@@ -4074,12 +3876,8 @@
     "meta": {
       "lang": "en",
       "title": "Kolega",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -4090,10 +3888,7 @@
     },
     "data": {
       "title": "Kolega",
-      "catogory": [
-        "Design",
-        "Development"
-      ],
+      "catogory": ["Design", "Development"],
       "bodyCopyShort": "Kolega",
       "work_category": 8,
       "image": "../assets/images/works/large/kolega.jpg",
@@ -4177,12 +3972,8 @@
     "meta": {
       "lang": "en",
       "title": "KSATRIA",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -4193,9 +3984,7 @@
     },
     "data": {
       "title": "KSATRIA",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "KSATRIA",
       "work_category": 8,
       "image": "../assets/images/works/large/ksatria.jpg",
@@ -4439,12 +4228,8 @@
     "meta": {
       "lang": "en",
       "title": "Lift UI",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -4455,9 +4240,7 @@
     },
     "data": {
       "title": "Lift UI",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Lift UI",
       "work_category": 9,
       "image": "../assets/images/works/large/lift.jpg",
@@ -4509,12 +4292,8 @@
     "meta": {
       "lang": "en",
       "title": "m.karmagroup",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -4525,9 +4304,7 @@
     },
     "data": {
       "title": "m.karmagroup",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "m.karmagroup",
       "work_category": 7,
       "image": "../assets/images/works/large/m-karmagroup.jpg",
@@ -4579,12 +4356,8 @@
     "meta": {
       "lang": "en",
       "title": "MamaMPASI",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -4595,9 +4368,7 @@
     },
     "data": {
       "title": "MamaMPASI",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "MamaMPASI",
       "work_category": 8,
       "image": "../assets/images/works/large/mamampasi.jpg",
@@ -4617,12 +4388,8 @@
     "meta": {
       "lang": "en",
       "title": "Mamikos",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -4633,9 +4400,7 @@
     },
     "data": {
       "title": "Mamikos",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Mamikos",
       "work_category": 8,
       "image": "../assets/images/works/large/mamikos.jpg",
@@ -4943,12 +4708,8 @@
     "meta": {
       "lang": "en",
       "title": "Melati",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -4959,9 +4720,7 @@
     },
     "data": {
       "title": "Melati",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Melati",
       "work_category": 8,
       "image": "../assets/images/works/large/melati.jpg",
@@ -5301,12 +5060,8 @@
     "meta": {
       "lang": "en",
       "title": "Obituary",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -5317,9 +5072,7 @@
     },
     "data": {
       "title": "Obituary",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Obituary",
       "work_category": 8,
       "image": "../assets/images/works/large/obituary.jpg",
@@ -5339,12 +5092,8 @@
     "meta": {
       "lang": "en",
       "title": "Oishi Hut",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -5355,9 +5104,7 @@
     },
     "data": {
       "title": "Oishi Hut",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Oishi Hut",
       "work_category": 8,
       "image": "../assets/images/works/large/oishi-hut.jpg",
@@ -5601,12 +5348,8 @@
     "meta": {
       "lang": "en",
       "title": "Petado",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -5617,9 +5360,7 @@
     },
     "data": {
       "title": "Petado",
-      "catogory": [
-        "Featured", "Design"
-      ],
+      "catogory": ["Featured", "Design"],
       "bodyCopyShort": "Petado",
       "work_category": 8,
       "image": "../assets/images/works/large/petado.jpg",
@@ -5671,12 +5412,8 @@
     "meta": {
       "lang": "en",
       "title": "Police Activities Report",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -5687,9 +5424,7 @@
     },
     "data": {
       "title": "Police Activities Report",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Police Activities Report",
       "work_category": 8,
       "image": "../assets/images/works/large/police-activities-report.jpg",
@@ -5805,12 +5540,8 @@
     "meta": {
       "lang": "en",
       "title": "ProGad",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -5821,9 +5552,7 @@
     },
     "data": {
       "title": "ProGad",
-      "catogory": [
-        "Marketing", "Development"
-      ],
+      "catogory": ["Marketing", "Development"],
       "bodyCopyShort": "ProGad",
       "work_category": 6,
       "image": "../assets/images/works/large/progad.jpg",
@@ -5907,12 +5636,8 @@
     "meta": {
       "lang": "en",
       "title": "Rent Gear",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -5923,9 +5648,7 @@
     },
     "data": {
       "title": "Rent Gear",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Rent Gear",
       "work_category": 8,
       "image": "../assets/images/works/large/rent-gear.jpg",
@@ -5945,12 +5668,8 @@
     "meta": {
       "lang": "en",
       "title": "Ride Sharing",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -5961,9 +5680,7 @@
     },
     "data": {
       "title": "Ride Sharing",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Ride Sharing.",
       "work_category": 5,
       "image": "../assets/images/works/large/ride-sharing.jpg",
@@ -6015,12 +5732,8 @@
     "meta": {
       "lang": "en",
       "title": "Ruteku",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -6031,9 +5744,7 @@
     },
     "data": {
       "title": "Ruteku",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Ruteku",
       "work_category": 8,
       "image": "../assets/images/works/large/ruteku.jpg",
@@ -6117,12 +5828,8 @@
     "meta": {
       "lang": "en",
       "title": "Saladin Before Learn Design",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -6133,9 +5840,7 @@
     },
     "data": {
       "title": "Saladin Before Learn Design",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Saladin Before Learn Design.",
       "work_category": 5,
       "image": "../assets/images/works/large/saladin-before-learn-design.jpg",
@@ -6155,12 +5860,8 @@
     "meta": {
       "lang": "en",
       "title": "Saladin College Works",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -6171,9 +5872,7 @@
     },
     "data": {
       "title": "Saladin College Works",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Saladin College Works.",
       "work_category": 5,
       "image": "../assets/images/works/large/saladin-college-works.jpg",
@@ -6193,12 +5892,8 @@
     "meta": {
       "lang": "en",
       "title": "Sang Kiyai",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -6209,9 +5904,7 @@
     },
     "data": {
       "title": "Sang Kiyai",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Sang Kiyai",
       "work_category": 8,
       "image": "../assets/images/works/large/sang-kiyai.jpg",
@@ -6231,12 +5924,8 @@
     "meta": {
       "lang": "en",
       "title": "Sang Penemu",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -6247,9 +5936,7 @@
     },
     "data": {
       "title": "Sang Penemu",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Sang Penemu",
       "work_category": 8,
       "image": "../assets/images/works/large/sang-penemu.jpg",
@@ -6365,12 +6052,8 @@
     "meta": {
       "lang": "en",
       "title": "Sejalan",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -6381,9 +6064,7 @@
     },
     "data": {
       "title": "Sejalan",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Sejalan",
       "work_category": 8,
       "image": "../assets/images/works/large/sejalan.jpg",
@@ -6499,12 +6180,8 @@
     "meta": {
       "lang": "en",
       "title": "Shalova",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -6515,9 +6192,7 @@
     },
     "data": {
       "title": "Shalova",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Shalova",
       "work_category": 8,
       "image": "../assets/images/works/large/shalova.jpg",
@@ -6697,12 +6372,8 @@
     "meta": {
       "lang": "en",
       "title": "SnapOrder",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -6713,9 +6384,7 @@
     },
     "data": {
       "title": "SnapOrder",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "SnapOrder: Order in Wet Place",
       "work_category": 8,
       "image": "../assets/images/works/large/snaporder.jpg",
@@ -6735,12 +6404,8 @@
     "meta": {
       "lang": "en",
       "title": "Social WiFi Marketing",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -6751,9 +6416,7 @@
     },
     "data": {
       "title": "Social WiFi Marketing",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Social WiFi Marketing.",
       "work_category": 5,
       "image": "../assets/images/works/large/social-wifi-marketing.jpg",
@@ -7125,12 +6788,8 @@
     "meta": {
       "lang": "en",
       "title": "Temu Dokter",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -7141,9 +6800,7 @@
     },
     "data": {
       "title": "Temu Dokter",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Temu Dokter",
       "work_category": 8,
       "image": "../assets/images/works/large/temu-dokter.jpg",
@@ -7227,12 +6884,8 @@
     "meta": {
       "lang": "en",
       "title": "Time Bus",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -7243,9 +6896,7 @@
     },
     "data": {
       "title": "Time Bus",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Time Bus",
       "work_category": 8,
       "image": "../assets/images/works/large/time-bus.jpg",
@@ -7261,16 +6912,44 @@
     }
   },
   {
+    "id": 237,
+    "meta": {
+      "lang": "en",
+      "title": "TokoDash",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "TokoDash",
+      "catogory": ["Design"],
+      "bodyCopyShort": "TokoDash.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/237-tokodash/tokodash.jpg",
+      "thumbnail": "../assets/images/works/details/237-tokodash/tokodash.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "tokodash",
+      "date": "2020-02-12 13:25:29",
+      "date_update": "2020-02-12 13:26:41"
+    }
+  },
+  {
     "id": 178,
     "meta": {
       "lang": "en",
       "title": "Tomonet",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -7281,9 +6960,7 @@
     },
     "data": {
       "title": "Tomonet",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Tomonet",
       "work_category": 8,
       "image": "../assets/images/works/large/tomonet.jpg",
@@ -7399,12 +7076,8 @@
     "meta": {
       "lang": "en",
       "title": "True Valet",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -7415,9 +7088,7 @@
     },
     "data": {
       "title": "True Valet",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "True Valet: Smart and Trust service for car valet.",
       "work_category": 8,
       "image": "../assets/images/works/large/true-valet.jpg",
@@ -7629,12 +7300,8 @@
     "meta": {
       "lang": "en",
       "title": "Villa Nyaman",
-      "stylesheets": [
-        "./css/style.css"
-      ],
-      "scripts": [
-        "./js/main.js"
-      ],
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
       "charset": "utf-8",
       "description": "Excellent freelance company from Bali, Indonesia.",
       "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
@@ -7645,9 +7312,7 @@
     },
     "data": {
       "title": "Villa Nyaman",
-      "catogory": [
-        "Design"
-      ],
+      "catogory": ["Design"],
       "bodyCopyShort": "Villa Nyaman",
       "work_category": 7,
       "image": "../assets/images/works/large/villa-nyaman.jpg",
