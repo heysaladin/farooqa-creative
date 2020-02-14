@@ -141,7 +141,6 @@ Selanjutnya user melihat detail item yang ingin dibelinya, untuk selanjutnya bis
 
 ![MyItem](../assets/images/works/details/234-myitem/details.jpg)
 
-
 <p class="caption">. . .</p>
 
 # Thank You
