@@ -110,3 +110,19 @@ Opsi 2
 Diputuskan memilih pilihan nomor 2 karena ada fitur pencarian serta tombol sortir berdasarkan harga termurah dan penjual terpercaya juga terlihat cukup jelas.
 
 ## Final Solution
+
+Home
+
+![MyItem](../assets/images/works/details/234-myitem/home.jpg)
+
+List of Game
+
+![MyItem](../assets/images/works/details/234-myitem/game.jpg)
+
+List of Items
+
+![MyItem](../assets/images/works/details/234-myitem/list.jpg)
+
+Item Details
+
+![MyItem](../assets/images/works/details/234-myitem/details.jpg)
