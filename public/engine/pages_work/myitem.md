@@ -111,18 +111,37 @@ Diputuskan memilih pilihan nomor 2 karena ada fitur pencarian serta tombol sorti
 
 ## Final Solution
 
-Home
+### *The Flow*
+
+![MyItem](../assets/images/works/details/234-myitem/flow-myitem.png)
+
+### *The HiFi Mockup*
+
+***Home***
+
+Di bagian home, untuk memudahkan user ditampilkan langsung kategori item yang dapat dibeli meliputi diamonds, skin, hero dan accounts.
 
 ![MyItem](../assets/images/works/details/234-myitem/home.jpg)
 
-List of Game
+***List of Game***
+
+Setelah user memilih kategori apa yang ingin dibeli, user memilih game yang itemnya ingin dibeli.
 
 ![MyItem](../assets/images/works/details/234-myitem/game.jpg)
 
-List of Items
+***List of Items***
+
+Ditampilkanlah daftar item-item berdasarkan kategori dan game yang telah dipilih sebelumnya.
 
 ![MyItem](../assets/images/works/details/234-myitem/list.jpg)
 
-Item Details
+***Item Details***
+
+Selanjutnya user melihat detail item yang ingin dibelinya, untuk selanjutnya bisa lanjut ke proses pembelian.
 
 ![MyItem](../assets/images/works/details/234-myitem/details.jpg)
+
+
+<p class="caption">. . .</p>
+
+# Thank You
