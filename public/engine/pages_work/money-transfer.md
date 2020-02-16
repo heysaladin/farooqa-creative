@@ -190,24 +190,95 @@ Kita coba dulu dengan merubah homescreen karena ini adalah titik awal user mengg
 
 <p class="caption">Pilihan Sketsa Homescreen (1, 2, 3 & 4)</p>
 
+**Pilihan 1**: Banyak bermain dengan Card dan memfokuskan user untuk memilih salah satu di antara 4 icon utama.
+
+**Pilihan 2**: Membuat seakan-akan user adalah nasabar suatu bank, ini ditunjukkan dengan visual seakan-akan kartu rekening.
+
+**Pilihan 3**: Mengangkat konsep minimalis dengan teks berisi kata-kata kreatif dan informatif berukuran besar dan 4 icon utama berukuran besar pula.
+
+**Pilihan 4**: Menyiapkan ruang untuk layanan Flip lebih dari 4 seberti saat ini, juga mengguankan slider di bagian atas informasi-informasi penting.
+
 ## *Decide*
 
 Kita putuskan untuk memilih sketsa pilihan nomor 1 karena lebih jelas dan menampilkan cukup banyak informasi sebagai homescreen.
 
+*Peta Alur Transfer Uang*
+
+![Flip](../assets/images/works/details/236-money-transfer/flow-map.png)
+
+<p class="caption">Peta Alur Transfer Uang</p>
+
+*Wireframe*
+
+![Flip](../assets/images/works/details/236-money-transfer/wireframe.png)
+
+<p class="caption">Wireframe</p>
+
 ## *Prototype*
 
-x
+![Flip](../assets/images/works/details/236-money-transfer/a.png)
 
-Validate (Test)
-X
+![Flip](../assets/images/works/details/236-money-transfer/b.png)
 
-Refinement
-X
+![Flip](../assets/images/works/details/236-money-transfer/c.png)
 
-Final Solution
-X
+![Flip](../assets/images/works/details/236-money-transfer/d.png)
 
-![Flip](../assets/images/works/details/236-money-transfer/money-transfer.jpg)
+![Flip](../assets/images/works/details/236-money-transfer/e.png)
+
+## *Validate (Test)*
+
+Validasi dilakukan dengan cara membagikan link prototype dengan MarvelApp ke 5 orang partisipan. Dan diperoleh setidaknya 3 poin penting:
+
+1. **Security issue** 
+
+* *"gak ada otp?"*
+* *"password sebelum ngirim"*
+* *"atau autentikasi sebelum ngirim"*
+* *"cmn 1x login di app ya"*
+* *"kalau di jenius login pake numerik (6 angka)
+terus kalau mau transaksi ada otentikasi lagi (nah tapi yg di jenius ini pake password angka huruf) kadang aku lupa sih"*
+* *"atau pake sidik jari kayak bank permata atau ovo atau app lain nya kayaknya udah mengadopsi sidik jari"*
+
+2. **Kenapa ada testimoni?** 
+
+* *"Testimoni ini buat apa ya mas?"*
+* *"Hmm agak aneh ndak sih mas, soalnya terstimoni dan riview pelanggan bukannya sudah di playstore / appstore"*
+* *"Menurut saya testimoni biasa ada website kan karena tidak mengandalkan layanan marketing seperti playstore / appstore"*
+
+3. **"Daftar Rekening" terdengar rancu** 
+
+* *"Untuk memilih orang yg ingin dikirim harus klik daftar rekening dulu ya mas?"*
+* *"Kayak ada yang janggal saat mencet daftar rekening 😅"*
+* *"Mungkin daftar rekening dimasukan ke bagian rekening tujuan mas"*
+* *"Jadi ada hyperlink untuk menunjukan daftar rekening di taruh di dalam "kotak" rekening tujuan"*
+* *"Kalau yg itu kan dipisah"*
+* *"Dan juga saat di pencet yang muncul enakan seperti dialog ndak sih mas?"*
+* *"Saat saya memencet saya kira ke halaman lain 😅"*
+
+<p class="caption">. . .</p>
+
+## Refinement
+
+Proses dimana kita coba perbaikan lagi dan murnikan apa-apa yang kita dapat dari proses validasi prototype yang telah dilakukan sebelumnya.
+
+1. **Security issue:** Kami putuskan tidak melakukan proses keamanan lebih lanjut ini karena sudah ada validasi akun sebelumnya, dan dengan usulan ini akan membuat aplikasi lebih aman tapi sangat kurang "Mudah", atau nilai kemudahannya rendah
+2. **Kenapa ada testimoni?:** Nah, ini usulan yang oke juga akhirnya kami putuskan untuk meghapus section "review & testimony" pada bagian bawah Homescreen
+3. **"Daftar Rekening" terdengar rancu:** Usulan dalam hal ini sebenarnya baik, namun sebagian partisipan merasa tidak ada kendala, jadi kami putuskan tidak mengikuti usulan dalam hal ini karena kita memilih menunggu untuk melihat data, apakah nantinya proses input rekening saat ini bener-benar sebuah masalah, jika yang saat ini bermasalah maka kita akan pikirkan flow baru yang lebih mudah untuk melakukan "input rekening tujuan" ini
+
+<p class="caption">. . .</p>
+
+## Final Solution
+
+Setalah kita melakukan serangkaian eksplorasi yang cukup melelahkan, mari kita tinjau lagi 3 aspek yang kita tentukan di awal yaitu "Aman", "Cepat" dan "Mudah".
+
+**AMAN**: Dengan selalu menunjukkan bahwa Flip sudah terdaftar di Bank Indonesia, diharapkan user dapat lebih percaya dan tak perlu ragu lagi soal keamanan. Dijamin AMAN.
+
+**CEPAT**: Dengan menyederhanakan proses, diharapkan tidak ada lagi proses yang bertele-tele dan minim impact. Informasi dan bahasa visual juga digunakan untuk membantu user agar faham bahwa memang ada proses terkait transfer antar Bank, jadi perlu memakan beberapa menit.
+
+**MUDAH**: Dengan alur yang sederhana dan jelas, diharapkan user tidak ada kendala saat proses transaksi. Penghapusan step yang hanya merepotkan juga dilakukan demi meningkatkan kemudahan user.
+
+> *Sebagai penutup, ini adalah link dari **prototype** yang telah dibuat:* [https://marvelapp.com/c992944/screen/66396473](https://marvelapp.com/c992944/screen/66396473)
 
 <p class="caption">. . .</p>
 
