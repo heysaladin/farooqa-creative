@@ -192,11 +192,11 @@ Kita coba dulu dengan merubah homescreen karena ini adalah titik awal user mengg
 
 **Pilihan 1**: Banyak bermain dengan Card dan memfokuskan user untuk memilih salah satu di antara 4 icon utama.
 
-**Pilihan 2**: Membuat seakan-akan user adalah nasabar suatu bank, ini ditunjukkan dengan visual seakan-akan kartu rekening.
+**Pilihan 2**: Membuat seakan-akan user adalah nasabah suatu bank, ini ditunjukkan dengan visual seakan-akan kartu rekening.
 
 **Pilihan 3**: Mengangkat konsep minimalis dengan teks berisi kata-kata kreatif dan informatif berukuran besar dan 4 icon utama berukuran besar pula.
 
-**Pilihan 4**: Menyiapkan ruang untuk layanan Flip lebih dari 4 seberti saat ini, juga mengguankan slider di bagian atas informasi-informasi penting.
+**Pilihan 4**: Menyiapkan ruang untuk layanan Flip lebih dari 4 seberti saat ini, juga menggunakan slider di bagian atas informasi-informasi penting.
 
 ## *Decide*
 

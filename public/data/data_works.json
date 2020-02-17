@@ -6656,6 +6656,38 @@
     }
   },
   {
+    "id": 238,
+    "meta": {
+      "lang": "en",
+      "title": "Tammwel",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Tammwel",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Tammwel.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/238-tammwel/tammwel.jpg",
+      "thumbnail": "../assets/images/works/details/238-tammwel/tammwel.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "tammwel",
+      "date": "2020-02-17 10:25:29",
+      "date_update": "2020-02-17 10:26:41"
+    }
+  },
+  {
     "id": 50,
     "meta": {
       "lang": "en",
