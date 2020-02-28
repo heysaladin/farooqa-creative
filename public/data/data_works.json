@@ -1856,6 +1856,38 @@
     }
   },
   {
+    "id": 240,
+    "meta": {
+      "lang": "en",
+      "title": "ecoBali",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "ecoBali",
+      "catogory": ["Design"],
+      "bodyCopyShort": "ecoBali.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/240-ecobali/ecobali.jpg",
+      "thumbnail": "../assets/images/works/details/240-ecobali/ecobali.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "ecobali",
+      "date": "2020-02-17 10:25:29",
+      "date_update": "2020-02-28 5:26:41"
+    }
+  },
+  {
     "id": 33,
     "meta": {
       "lang": "en",
@@ -5312,6 +5344,38 @@
     }
   },
   {
+    "id": 239,
+    "meta": {
+      "lang": "en",
+      "title": "PeDaS",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "PeDaS",
+      "catogory": ["Design"],
+      "bodyCopyShort": "PeDaS.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/239-pedas/pedas.jpg",
+      "thumbnail": "../assets/images/works/details/239-pedas/pedas.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "pedas",
+      "date": "2020-02-17 10:25:29",
+      "date_update": "2020-02-28 4:26:41"
+    }
+  },
+  {
     "id": 137,
     "meta": {
       "lang": "en",
@@ -5628,7 +5692,7 @@
       "status": "exploration",
       "slug": "quick-clean",
       "date": "2020-02-05 15:35:29",
-      "date_update": "2020-02-05 15:36:41"
+      "date_update": "2020-02-28 7:36:41"
     }
   },
   {
@@ -6684,7 +6748,7 @@
       "status": "exploration",
       "slug": "tammwel",
       "date": "2020-02-17 10:25:29",
-      "date_update": "2020-02-17 10:26:41"
+      "date_update": "2020-02-28 6:26:41"
     }
   },
   {
