@@ -3424,6 +3424,38 @@
     }
   },
   {
+    "id": 242,
+    "meta": {
+      "lang": "en",
+      "title": "Juba",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Juba",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Juba.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/242-juba/juba.jpg",
+      "thumbnail": "../assets/images/works/details/242-juba/juba.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "juba",
+      "date": "2020-03-1 10:25:29",
+      "date_update": "2020-02-28 5:58:41"
+    }
+  },
+  {
     "id": 95,
     "meta": {
       "lang": "en",
@@ -6016,6 +6048,38 @@
     }
   },
   {
+    "id": 241,
+    "meta": {
+      "lang": "en",
+      "title": "Sapa Sekolah",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Sapa Sekolah",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Sapa Sekolah.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/241-sapa-sekolah/sapa-sekolah.jpg",
+      "thumbnail": "../assets/images/works/details/241-sapa-sekolah/sapa-sekolah.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "sapa-sekolah",
+      "date": "2020-03-1 10:25:29",
+      "date_update": "2020-02-28 5:07:41"
+    }
+  },
+  {
     "id": 90,
     "meta": {
       "lang": "en",
@@ -6492,7 +6556,7 @@
       "status": "exploration",
       "slug": "social-wifi-marketing",
       "date": "2019-11-11 14:46:14",
-      "date_update": "2020-02-05 12:46:41"
+      "date_update": "2020-02-28 5:59:41"
     }
   },
   {
