@@ -6,4 +6,4 @@
 
 Juba.
 
-![Juba](./assets/images/works/details/242-juba/juba.jpg)
+![Juba](https://farooq-agent.web.app/assets/images/works/details/242-juba/juba.jpg)
