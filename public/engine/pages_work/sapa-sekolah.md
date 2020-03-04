@@ -6,4 +6,4 @@
 
 Sapa Sekolah.
 
-![Sapa Sekolah](./assets/images/works/details/241-sapa-sekolah/sapa-sekolah.jpg)
+![Sapa Sekolah](https://farooq-agent.web.app/assets/images/works/details/241-sapa-sekolah/sapa-sekolah.jpg)
