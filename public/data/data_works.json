@@ -1664,6 +1664,38 @@
     }
   },
   {
+    "id": 243,
+    "meta": {
+      "lang": "en",
+      "title": "Dompet Digital",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Dompet Digital",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Dompet Digital.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/243-dompet-digital/dompet-digital.jpg",
+      "thumbnail": "../assets/images/works/details/243-dompet-digital/dompet-digital.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "dompet-digital",
+      "date": "2020-03-1 3:25:29",
+      "date_update": "2020-02-12 16:46:41"
+    }
+  },
+  {
     "id": 74,
     "meta": {
       "lang": "en",
