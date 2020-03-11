@@ -4352,6 +4352,38 @@
     }
   },
   {
+    "id": 245,
+    "meta": {
+      "lang": "en",
+      "title": "Liputan 6",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Liputan 6",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Liputan 6.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/245-liputan-6/liputan-6.jpg",
+      "thumbnail": "../assets/images/works/details/245-liputan-6/liputan-6.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "liputan-6",
+      "date": "2020-03-11 11:25:29",
+      "date_update": "2020-03-11 11:25:29"
+    }
+  },
+  {
     "id": 139,
     "meta": {
       "lang": "en",
@@ -5756,7 +5788,7 @@
       "status": "exploration",
       "slug": "quick-clean",
       "date": "2020-02-05 15:35:29",
-      "date_update": "2020-02-28 7:36:41"
+      "date_update": "2020-03-11 10:55:29"
     }
   },
   {
@@ -6813,6 +6845,38 @@
       "slug": "swabina-frontend-development",
       "date": "2016-06-22 13:54:43",
       "date_update": "2016-12-08 19:45:06"
+    }
+  },
+  {
+    "id": 244,
+    "meta": {
+      "lang": "en",
+      "title": "Tammwel Web",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Tammwel Web",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Tammwel Web.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/244-tammwel-web/tammwel-web.jpg",
+      "thumbnail": "../assets/images/works/details/244-tammwel-web/tammwel-web.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "tammwel-web",
+      "date": "2020-03-11 10:25:29",
+      "date_update": "2020-03-11 10:25:29"
     }
   },
   {

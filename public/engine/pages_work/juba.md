@@ -53,6 +53,6 @@ Within 5 days we were able to create a high fidelity prototype that HSBC can use
 
 <p class="caption">. . .</p>
 
-> Prototype Link: https://marvelapp.com/10he63fj/screen/66896748
+> Prototype Link: [https://marvelapp.com/10he63fj/screen/66896748](https://marvelapp.com/10he63fj/screen/66896748)
 
 # Thank You
