@@ -143,5 +143,3 @@ Konsep yang kedua menekankan pada adanya fitur agar user dapat mengambil gambar 
 <p class="caption">Proposal Flow 2 <a href="../assets/images/works/details/231-quick-clean/custom.png" target="_blank">(click here to zoom-in!)</a></p>
 
 . . .
-
-<p class="caption" style="color: red; font-weight: bold;">Mohon untuk memilih 1 di antara 2 konsep di atas! Serta berilah masukkan dan saran atau bahkan pertanyaan jika ada yang kurang jelas. Komunikasi menggunakan whatsapp saja. Terimakasih :)</p>
