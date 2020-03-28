@@ -1,6 +1,6 @@
 <p class="type">EXPLORATION</p>
 
-# Tammwel
+# Tammwel App
 
 <p class="meta">Design  /  Monday, February 17, 2020 10:52:14pm</p>
 
@@ -11,7 +11,7 @@
 * **Timeline:** 1 month
 * **Tools Used:** Adobe XD, MarvelApp, Zeplin
 
-![Tammwel](../assets/images/works/details/238-tammwel/tammwel.jpg)
+![Tammwel App](../assets/images/works/details/238-tammwel/tammwel.jpg)
 
 ## Overview
 
@@ -102,8 +102,34 @@ From the problems revealed earlier, there are 3 main things that concern us, nam
 
 <p class="caption">. . .</p>
 
-**Preview:** [https://drive.google.com/drive/folders/1BHQDbRPAgH4Rh3h04TUTRvnvFrEtf14Z?usp=sharing](https://drive.google.com/drive/folders/1BHQDbRPAgH4Rh3h04TUTRvnvFrEtf14Z?usp=sharing)
+## Mock Up
 
-**Prototype:** [https://marvelapp.com/10he63fj/](https://marvelapp.com/10he63fj/)
+![Mock Up - Tammwel App](../assets/images/works/details/238-tammwel/preview-TAMMWEL-APP/splashscreen@2x.png)
+
+![Mock Up - Tammwel App](../assets/images/works/details/238-tammwel/preview-TAMMWEL-APP/home@2x.png)
+
+![Mock Up - Tammwel App](../assets/images/works/details/238-tammwel/preview-TAMMWEL-APP/loan-offers@2x.png)
+
+![Mock Up - Tammwel App](../assets/images/works/details/238-tammwel/preview-TAMMWEL-APP/loan-offers-search@2x.png)
+
+![Mock Up - Tammwel App](../assets/images/works/details/238-tammwel/preview-TAMMWEL-APP/load-offer-details@2x.png)
+
+![Mock Up - Tammwel App](../assets/images/works/details/238-tammwel/preview-TAMMWEL-APP/loan-list@2x.png)
+
+![Mock Up - Tammwel App](../assets/images/works/details/238-tammwel/preview-TAMMWEL-APP/loan-details@2x.png)
+
+![Mock Up - Tammwel App](../assets/images/works/details/238-tammwel/preview-TAMMWEL-APP/news@2x.png)
+
+![Mock Up - Tammwel App](../assets/images/works/details/238-tammwel/preview-TAMMWEL-APP/profile@2x.png)
+
+![Mock Up - Tammwel App](../assets/images/works/details/238-tammwel/preview-TAMMWEL-APP/notification@2x.png)
+
+<p class="caption">. . .</p>
+
+## Prototype
+
+**Prototype Link:** [https://marvelapp.com/10he63fj/](https://marvelapp.com/10he63fj/)
+
+<p class="caption">. . .</p>
 
 # Thank You

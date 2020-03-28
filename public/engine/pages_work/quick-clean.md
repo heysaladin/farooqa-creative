@@ -6,9 +6,8 @@
 
 > Sebuah research untuk membantu bisnis penyedia jasa kebersihan untuk bekerja lebih efisien dan teratur.
 
-![Quick Clean](../assets/images/works/details/231-quick-clean/quick-clean.jpg)
-
-. . .
+---
+<p class="caption"></p>
 
 - **Observation site:** PT. Adidaya Madani
 - **Team:** Baim (Product Manager)
@@ -17,7 +16,8 @@
 - **Tools Used:** Sketch, Invision, Zeplin, Android Studio, Git
 - **Languages and Frameworks used:** Android SDK, Kotlin
 
-. . .
+---
+<p class="caption"></p>
 
 ## Overview
 
@@ -120,7 +120,7 @@ User memilih jenis pelayanan kebersihan sesuai yang tersedia baru memasukkan det
 **Pengelolaan Tenaga Kerja:**
 Adalah dedicated team dari kliknklin yang selalu siap sedia jika ada pesanan datang.
 
-. . .
+<p class="caption">. . .</p>
 
 ### Ide-ide yang didapatkan
 
@@ -142,6 +142,8 @@ Konsep yang kedua menekankan pada adanya fitur agar user dapat mengambil gambar 
 
 <p class="caption">Proposal Flow 2 <a href="../assets/images/works/details/231-quick-clean/custom.png" target="_blank">(click here to zoom-in!)</a></p>
 
-. . .
+<p class="caption">. . .</p>
 
-<p class="caption" style="color: red; font-weight: bold;">Mohon untuk memilih 1 di antara 2 konsep di atas! Serta berilah masukkan dan saran atau bahkan pertanyaan jika ada yang kurang jelas. Komunikasi menggunakan whatsapp saja. Terimakasih :)</p>
+![Quick Clean](../assets/images/works/details/231-quick-clean/quick-clean.jpg)
+
+<p class="caption">. . .</p>

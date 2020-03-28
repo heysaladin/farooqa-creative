@@ -1891,7 +1891,7 @@
     "id": 240,
     "meta": {
       "lang": "en",
-      "title": "ecoBali",
+      "title": "Kelola Sampah",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1903,9 +1903,9 @@
       "extra": []
     },
     "data": {
-      "title": "ecoBali",
+      "title": "Kelola Sampah",
       "catogory": ["Design"],
-      "bodyCopyShort": "ecoBali.",
+      "bodyCopyShort": "Kelola Sampah.",
       "work_category": 8,
       "image": "../assets/images/works/details/240-ecobali/ecobali.jpg",
       "thumbnail": "../assets/images/works/details/240-ecobali/ecobali.jpg",
@@ -3328,6 +3328,38 @@
     }
   },
   {
+    "id": 246,
+    "meta": {
+      "lang": "en",
+      "title": "ITACOV",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "ITACOV",
+      "catogory": ["Design"],
+      "bodyCopyShort": "ITACOV",
+      "work_category": 2,
+      "image": "../assets/images/works/details/246-itacov/v1.0/itacov.jpg",
+      "thumbnail": "../assets/images/works/details/246-itacov/v1.0/itacov.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "itacov",
+      "date": "2012-03-27 11:01:11",
+      "date_update": "2020-03-27 19:26:54"
+    }
+  },
+  {
     "id": 124,
     "meta": {
       "lang": "en",
@@ -4147,8 +4179,8 @@
       "catogory": ["Marketing", "Design"],
       "bodyCopyShort": "Lakonono Branding",
       "work_category": 3,
-      "image": "../assets/images/works/large/lakonono.jpg",
-      "thumbnail": "../assets/images/works/small/lakonono.jpg",
+      "image": "../assets/images/works/details/155-lakonono-branding/lakoni.jpg",
+      "thumbnail": "../assets/images/works/details/155-lakonono-branding/lakoni.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
@@ -4156,7 +4188,7 @@
       "status": "exploration",
       "slug": "lakonono-branding",
       "date": "2019-03-18 12:01:36",
-      "date_update": "2020-02-28 6:01:41"
+      "date_update": "2020-03-28 6:01:41"
     }
   },
   {
@@ -5788,7 +5820,7 @@
       "status": "exploration",
       "slug": "quick-clean",
       "date": "2020-02-05 15:35:29",
-      "date_update": "2020-03-11 10:55:29"
+      "date_update": "2020-02-28 6:15:41"
     }
   },
   {
@@ -6848,6 +6880,38 @@
     }
   },
   {
+    "id": 247,
+    "meta": {
+      "lang": "en",
+      "title": "Tammwel Design",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Tammwel Design",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Tammwel Design.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/247-tammwel-design/tammwel-design.jpg",
+      "thumbnail": "../assets/images/works/details/247-tammwel-design/tammwel-design.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "tammwel-design",
+      "date": "2020-03-11 10:25:29",
+      "date_update": "2020-03-11 10:26:00"
+    }
+  },
+  {
     "id": 244,
     "meta": {
       "lang": "en",
@@ -6883,7 +6947,7 @@
     "id": 238,
     "meta": {
       "lang": "en",
-      "title": "Tammwel",
+      "title": "Tammwel App",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -6895,9 +6959,9 @@
       "extra": []
     },
     "data": {
-      "title": "Tammwel",
+      "title": "Tammwel App",
       "catogory": ["Design"],
-      "bodyCopyShort": "Tammwel.",
+      "bodyCopyShort": "Tammwel App.",
       "work_category": 8,
       "image": "../assets/images/works/details/238-tammwel/tammwel.jpg",
       "thumbnail": "../assets/images/works/details/238-tammwel/tammwel.jpg",
