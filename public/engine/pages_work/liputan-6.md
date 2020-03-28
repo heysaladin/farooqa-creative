@@ -5,9 +5,12 @@
 <p class="meta">Design  /  Wednesday, March 11, 2020 11:52:14pm</p>
 
 > *Research to help improve UX of mobile application a huge news media in Indonesia.*
+<<<<<<< HEAD
 
 ---
 <p class="caption"></p>
+=======
+>>>>>>> 19ed8d2722d764a98b5396829e2cbf1705eee738
 
 * **Team:** KLY
 * **Roles:** Product Design (UX & UI Design)
