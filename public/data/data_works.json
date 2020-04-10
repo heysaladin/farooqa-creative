@@ -7360,6 +7360,38 @@
     }
   },
   {
+    "id": 248,
+    "meta": {
+      "lang": "en",
+      "title": "Tresnan",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Tresnan",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Tresnan.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/248-tresnan/tresnan.jpg",
+      "thumbnail": "../assets/images/works/details/248-tresnan/tresnan.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "tresnan",
+      "date": "2020-04-10 10:25:29",
+      "date_update": "2020-04-10 10:26:00"
+    }
+  },
+  {
     "id": 85,
     "meta": {
       "lang": "en",
