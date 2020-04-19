@@ -4412,7 +4412,7 @@
       "status": "exploration",
       "slug": "liputan-6",
       "date": "2020-03-11 11:25:29",
-      "date_update": "2020-03-11 11:25:29"
+      "date_update": "2020-02-28 5:59:41"
     }
   },
   {
@@ -5693,6 +5693,38 @@
       "slug": "potfol-website-design",
       "date": "2013-03-01 11:44:26",
       "date_update": "2013-03-01 13:55:19"
+    }
+  },
+  {
+    "id": 250,
+    "meta": {
+      "lang": "en",
+      "title": "Prakerja",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Prakerja",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Prakerja.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/250-prakerja/prakerja.jpg",
+      "thumbnail": "../assets/images/works/details/250-prakerja/prakerja.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "prakerja",
+      "date": "2020-04-20 10:35:29",
+      "date_update": "2020-04-09 10:36:00"
     }
   },
   {
@@ -7357,6 +7389,38 @@
       "slug": "travel-syariah-frontend-website",
       "date": "2016-07-07 13:54:23",
       "date_update": "2016-12-08 19:44:51"
+    }
+  },
+  {
+    "id": 249,
+    "meta": {
+      "lang": "en",
+      "title": "Tresnan Landing Page",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Tresnan Landing Page",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Tresnan Landing Page.",
+      "work_category": 7,
+      "image": "../assets/images/works/details/249-tresnan-landing-page/tresnan-landing-page.jpg",
+      "thumbnail": "../assets/images/works/details/249-tresnan-landing-page/tresnan-landing-page.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "tresnan",
+      "date": "2020-04-20 10:25:29",
+      "date_update": "2020-04-20 10:26:00"
     }
   },
   {
