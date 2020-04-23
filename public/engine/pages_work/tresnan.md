@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  Friday, April 10, 2020 10:52:14 pm</p>
 
-> *A Dating App Project.*
+> *A Dating App Project*
 
 ---
 <p class="caption"></p>

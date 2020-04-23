@@ -4,7 +4,7 @@
 
 <p class="meta">Design  /  Monday, April 20, 2020 10:52:14 pm</p>
 
-> *A Dating App Landing Page Project.*
+> *A Dating App Landing Page Project*
 
 ---
 <p class="caption"></p>
@@ -17,9 +17,9 @@
 ---
 <p class="caption"></p>
 
-![Tresnan](../assets/images/works/details/248-tresnan/tresnan.jpg)
+![Tresnan Landing Page](../assets/images/works/details/249-tresnan-landing-page/tresnan-landing-page.jpg)
 
-<p class="caption">Tresnan</p>
+<p class="caption">Tresnan Landing Page</p>
 
 ## Overview
 

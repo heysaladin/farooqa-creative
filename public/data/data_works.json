@@ -3456,6 +3456,38 @@
     }
   },
   {
+    "id": 251,
+    "meta": {
+      "lang": "en",
+      "title": "JiYu",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "JiYu",
+      "catogory": ["Design"],
+      "bodyCopyShort": "JiYu",
+      "work_category": 7,
+      "image": "../assets/images/works/details/251-jiyu/jiyu.jpg",
+      "thumbnail": "../assets/images/works/details/251-jiyu/jiyu.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "jiyu",
+      "date": "2020-04-23 12:55:29",
+      "date_update": "2020-04-23 12:55:30"
+    }
+  },
+  {
     "id": 32,
     "meta": {
       "lang": "en",
