@@ -21,6 +21,10 @@
 
 <p class="caption">JiYu</p>
 
+Flow: [JiYu App Flow](https://whimsical.com/E2vnrJcPFfnp4WxxSXfWDj)
+
+Prototype: [JiYu App Prototype](https://marvelapp.com/e64dbc1/screen/68671026)
+
 <p class="caption">. . .</p>
 
 # On Progress ...
