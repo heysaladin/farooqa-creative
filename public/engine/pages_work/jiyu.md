@@ -1,6 +1,6 @@
 <p class="type">EXPLORATION</p>
 
-# JiYu
+# JiYu Timeblock App
 
 <p class="meta">Design  /  Thursday, April 23, 2020 12:55:14 pm</p>
 
