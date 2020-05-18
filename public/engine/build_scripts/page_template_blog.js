@@ -120,7 +120,7 @@ module.exports = {
                         <a class="icon github" href="https://github.com/heysaladin" rel="noopener" target="_blank" title=""></a>
                     </li>
                 </ul>
-                <h5 id="copyright-text">©2019 Farooqa</h5>
+                <h5 id="copyright-text">©2020 Farooqa</h5>
             </div>
         </div>
     </div>

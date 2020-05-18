@@ -6,7 +6,7 @@
 
 > Sebuah eksplorasi UI design aplikasi penanggulangan COVID-19 di Indonesia.
 
-![ITACOV](../assets/images/works/details/246-itacov/v1.0/itacov.jpg)
+![ITACOV](../assets/images/works/details/246-itacov/itacov.jpg)
 
 <p class="caption">. . .</p>
 

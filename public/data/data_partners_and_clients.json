@@ -1,4 +1,26 @@
-[{
+[
+  {
+  "title": "Tammwel",
+    "catogory": ["partner"],
+    "image": "http://tammwel.com/landing/images/logo.png",
+    "url": "http://tammwel.com/",
+    "legal": true
+  },
+  {
+    "title": "Tresnan",
+    "catogory": ["partner"],
+    "image": "https://www.tresnan.co/logo-color.svg",
+    "url": "https://www.tresnan.co/",
+    "legal": true
+  },
+  {
+    "title": "Virtual Spirit Technology Sdn. Bhd.",
+    "catogory": ["partner"],
+    "image": "https://virtualspirit.me/assets/front-end/logo@2x-134c71c04dd516fd8bb089dc014c371f815f2d647599513ce45ccac87745dfb6.png",
+    "url": "https://virtualspirit.me/",
+    "legal": true
+  },
+  {
     "title": "PT. Akal Karya Indonesia",
     "catogory": ["partner"],
     "image": "../assets/images/works/logo/akasia.jpg",

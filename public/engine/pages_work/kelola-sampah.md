@@ -6,4 +6,4 @@
 
 Kelola Sampah.
 
-![Kelola Sampah](https://farooq-agent.web.app/assets/images/works/details/240-ecobali/ecobali.jpg)
+![Kelola Sampah](https://farooq-agent.web.app/assets/images/works/details/240-kelola-sampah/kelola-sampah.jpg)

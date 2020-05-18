@@ -21,43 +21,4 @@
 
 <p class="caption">JiYu MockUp</p>
 
-## Brainstorming
-
-<!---
-![JiYu](../assets/images/works/details/251-jiyu/1.png)
-<p class="caption">Daily Screen - Brainstorming</p>
-![JiYu](../assets/images/works/details/251-jiyu/2.png)
-<p class="caption">Weekly Screen - Alternative vertical scroll only</p>
-![JiYu](../assets/images/works/details/251-jiyu/3.png)
-<p class="caption">Block Details - Brainstorming</p>
-![JiYu](../assets/images/works/details/251-jiyu/4.png)
-<p class="caption">Block Details - Alternative</p>
---->
-
-![JiYu](../assets/images/works/details/251-jiyu/6.png)
-
-<p class="caption">Review Screen - Brainstorming</p>
-
-## System
-
-![JiYu](../assets/images/works/details/251-jiyu/5.png)
-
-<p class="caption">AutoLogin System</p>
-
-## Special Flow
-
-![JiYu](../assets/images/works/details/251-jiyu/7.jpg)
-
-<p class="caption">Flow Add Block</p>
-
 <p class="caption">. . .</p>
-
-> Flow: [https://whimsical.com/E2vnrJcPFfnp4WxxSXfWDj](https://whimsical.com/E2vnrJcPFfnp4WxxSXfWDj)
-
-> Prototype: [https://marvelapp.com/e64dbc1/](https://marvelapp.com/e64dbc1/)
-
-<p class="caption">. . .</p>
-
-<!---
-# On Progress ...
---->

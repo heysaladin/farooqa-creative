@@ -27,33 +27,6 @@
     }
   },
   {
-    "id": 20,
-    "meta": {
-      "lang": "en",
-      "title": "Adin's style of Design Sprint",
-      "stylesheets": ["./css/style.css"],
-      "scripts": ["./js/main.js"],
-      "charset": "utf-8",
-      "description": "Excellent freelance company from Bali, Indonesia.",
-      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
-      "author": "Farooq Agent",
-      "favicon": "./assets/images/favicon.png",
-      "viewport": "width=device-width, initial-scale=1",
-      "extra": []
-    },
-    "data": {
-      "title": "Adin's style of Design Sprint",
-      "catogory": ["Design"],
-      "isReady": true,
-      "bodyCopyShort": "Catatan saya buat karena terlalu banyak sumber yang saya temukan saat belajar design sprint, akhirnya saya ringkas menjadi design sprint ala saya berdasarkan sepemahaman saya.",
-      "image": "./assets/images/blog/details/adins-style-of-design-sprint/adin-design-sprint.jpg",
-      "thumbnail": "./assets/images/blog/details/adins-style-of-design-sprint/adin-design-sprint.jpg",
-      "date": "2019-12-22 12:59:37",
-      "date_update": "2019-12-22 12:41:01",
-      "slug": "adins-style-of-design-sprint"
-    }
-  },
-  {
     "id": 16,
     "meta": {
       "lang": "en",
@@ -510,33 +483,6 @@
       "date": "2019-07-28 08:59:37",
       "date_update": "2019-07-28 06:41:01",
       "slug": "ngedesain-pakai-software-apa"
-    }
-  },
-  {
-    "id": 18,
-    "meta": {
-      "lang": "en",
-      "title": "Pentingnya sebuah kepastian",
-      "stylesheets": ["./css/style.css"],
-      "scripts": ["./js/main.js"],
-      "charset": "utf-8",
-      "description": "Excellent freelance company from Bali, Indonesia.",
-      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
-      "author": "Farooq Agent",
-      "favicon": "./assets/images/favicon.png",
-      "viewport": "width=device-width, initial-scale=1",
-      "extra": []
-    },
-    "data": {
-      "title": "Pentingnya sebuah kepastian",
-      "catogory": ["Design"],
-      "isReady": true,
-      "bodyCopyShort": "Pernahkan kalian melihat pengumuman lowongan kerja yang membuatmu tertarik untuk mengirimkan surat lamaran pekerjaan dan Resume.",
-      "image": "./assets/images/blog/large/pentingnya-sebuah-kepastian.jpg",
-      "thumbnail": "./assets/images/blog/large/pentingnya-sebuah-kepastian.jpg",
-      "date": "2019-08-09 08:59:37",
-      "date_update": "2019-08-09 06:41:01",
-      "slug": "pentingnya-sebuah-kepastian"
     }
   },
   {

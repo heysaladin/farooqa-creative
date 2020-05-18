@@ -316,7 +316,7 @@
       "status": "exploration",
       "slug": "apotekita",
       "date": "2020-02-05 13:35:29",
-      "date_update": "2020-02-05 13:36:41"
+      "date_update": "2020-05-18 15:00:00"
     }
   },
   {
@@ -892,7 +892,7 @@
       "status": "exploration",
       "slug": "blonjoan",
       "date": "2019-03-18 10:52:48",
-      "date_update": "2019-03-18 15:44:12"
+      "date_update": "2020-05-18 08:00:00"
     }
   },
   {
@@ -1628,7 +1628,7 @@
       "status": "exploration",
       "slug": "dipuja",
       "date": "2019-07-05 17:59:14",
-      "date_update": "2019-07-05 17:59:41"
+      "date_update": "2020-05-18 03:00:00"
     }
   },
   {
@@ -1885,38 +1885,6 @@
       "slug": "drawing-art-2019",
       "date": "2019-04-03 19:59:14",
       "date_update": "2019-04-03 19:59:41"
-    }
-  },
-  {
-    "id": 240,
-    "meta": {
-      "lang": "en",
-      "title": "Kelola Sampah",
-      "stylesheets": ["./css/style.css"],
-      "scripts": ["./js/main.js"],
-      "charset": "utf-8",
-      "description": "Excellent freelance company from Bali, Indonesia.",
-      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
-      "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
-      "viewport": "width=device-width, initial-scale=1",
-      "extra": []
-    },
-    "data": {
-      "title": "Kelola Sampah",
-      "catogory": ["Design"],
-      "bodyCopyShort": "Kelola Sampah.",
-      "work_category": 8,
-      "image": "../assets/images/works/details/240-ecobali/ecobali.jpg",
-      "thumbnail": "../assets/images/works/details/240-ecobali/ecobali.jpg",
-      "logo": "../assets/images/works/logo/farooqa.jpg",
-      "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": false,
-      "isReady": true,
-      "status": "exploration",
-      "slug": "ecobali",
-      "date": "2020-02-17 10:25:29",
-      "date_update": "2020-02-28 5:26:41"
     }
   },
   {
@@ -3347,8 +3315,8 @@
       "catogory": ["Design"],
       "bodyCopyShort": "ITACOV",
       "work_category": 2,
-      "image": "../assets/images/works/details/246-itacov/v1.0/itacov.jpg",
-      "thumbnail": "../assets/images/works/details/246-itacov/v1.0/itacov.jpg",
+      "image": "../assets/images/works/details/246-itacov/itacov.jpg",
+      "thumbnail": "../assets/images/works/details/246-itacov/itacov-thumbnail.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
@@ -3356,7 +3324,7 @@
       "status": "exploration",
       "slug": "itacov",
       "date": "2012-03-27 11:01:11",
-      "date_update": "2020-03-27 19:26:54"
+      "date_update": "2020-05-18 16:00:00"
     }
   },
   {
@@ -3476,7 +3444,7 @@
       "bodyCopyShort": "JiYu",
       "work_category": 7,
       "image": "../assets/images/works/details/251-jiyu/jiyu.jpg",
-      "thumbnail": "../assets/images/works/details/251-jiyu/jiyu.jpg",
+      "thumbnail": "../assets/images/works/details/251-jiyu/jiyu-thumbnail.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
@@ -3836,7 +3804,7 @@
       "status": "exploration",
       "slug": "karmagroup-modern",
       "date": "2019-08-27 18:59:14",
-      "date_update": "2020-02-28 6:00:41"
+      "date_update": "2020-05-18 10:00:00"
     }
   },
   {
@@ -3869,6 +3837,38 @@
       "slug": "kebun-anggrek-clai",
       "date": "2019-11-01 16:46:14",
       "date_update": "2019-11-01 16:46:41"
+    }
+  },
+  {
+    "id": 240,
+    "meta": {
+      "lang": "en",
+      "title": "Kelola Sampah",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Kelola Sampah",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Kelola Sampah.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/240-kelola-sampah/kelola-sampah.jpg",
+      "thumbnail": "../assets/images/works/details/240-kelola-sampah/kelola-sampah.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "kelola-sampah",
+      "date": "2020-02-17 10:25:29",
+      "date_update": "2020-05-18 13:00:00"
     }
   },
   {
@@ -4028,7 +4028,7 @@
       "status": "exploration",
       "slug": "kokaku",
       "date": "2019-03-18 07:49:59",
-      "date_update": "2019-03-18 13:50:07"
+      "date_update": "2020-05-18 11:00:00"
     }
   },
   {
@@ -4636,7 +4636,7 @@
       "status": "exploration",
       "slug": "marisan",
       "date": "2020-02-05 14:35:29",
-      "date_update": "2020-02-05 14:36:41"
+      "date_update": "2020-05-18 15:00:00"
     }
   },
   {
@@ -4892,7 +4892,7 @@
       "status": "exploration",
       "slug": "melalie-homepage-mobile-web",
       "date": "2020-02-12 14:35:29",
-      "date_update": "2020-02-12 14:36:41"
+      "date_update": "2020-05-18 14:00:00"
     }
   },
   {
@@ -4924,7 +4924,7 @@
       "status": "exploration",
       "slug": "melati",
       "date": "2019-08-31 22:15:14",
-      "date_update": "2019-09-20 02:01:41"
+      "date_update": "2020-05-18 12:00:00"
     }
   },
   {
@@ -5532,7 +5532,7 @@
       "status": "exploration",
       "slug": "pedas",
       "date": "2020-02-17 10:25:29",
-      "date_update": "2020-02-28 4:26:41"
+      "date_update": "2020-05-18 19:00:00"
     }
   },
   {
@@ -5748,7 +5748,7 @@
       "bodyCopyShort": "Prakerja.",
       "work_category": 8,
       "image": "../assets/images/works/details/250-prakerja/prakerja.jpg",
-      "thumbnail": "../assets/images/works/details/250-prakerja/prakerja.jpg",
+      "thumbnail": "../assets/images/works/details/250-prakerja/prakerja-thumbnail.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
@@ -5820,7 +5820,7 @@
       "status": "exploration",
       "slug": "progad",
       "date": "2019-05-23 14:59:14",
-      "date_update": "2019-05-23 14:59:41"
+      "date_update": "2020-03-28 6:00:41"
     }
   },
   {
@@ -5884,7 +5884,7 @@
       "status": "exploration",
       "slug": "quick-clean",
       "date": "2020-02-05 15:35:29",
-      "date_update": "2020-02-28 6:15:41"
+      "date_update": "2020-05-18 19:01:00"
     }
   },
   {
@@ -5916,7 +5916,7 @@
       "status": "exploration",
       "slug": "rent-gear",
       "date": "2019-05-23 16:59:14",
-      "date_update": "2019-05-23 16:59:41"
+      "date_update": "2020-05-18 07:00:00"
     }
   },
   {
@@ -6204,7 +6204,7 @@
       "status": "exploration",
       "slug": "sang-penemu",
       "date": "2019-05-21 13:59:14",
-      "date_update": "2019-05-21 13:59:41"
+      "date_update": "2020-05-18 05:00:00"
     }
   },
   {
@@ -6236,7 +6236,7 @@
       "status": "exploration",
       "slug": "sapa-sekolah",
       "date": "2020-03-1 10:25:29",
-      "date_update": "2020-02-28 5:07:41"
+      "date_update": "2020-05-18 18:00:00"
     }
   },
   {
@@ -6332,7 +6332,7 @@
       "status": "exploration",
       "slug": "scatory",
       "date": "2020-02-12 13:35:29",
-      "date_update": "2020-02-12 13:36:41"
+      "date_update": "2020-05-18 17:00:00"
     }
   },
   {
@@ -6364,7 +6364,7 @@
       "status": "exploration",
       "slug": "sejalan",
       "date": "2019-08-13 22:15:14",
-      "date_update": "2019-09-18 03:15:41"
+      "date_update": "2020-05-18 06:00:00"
     }
   },
   {
@@ -6716,7 +6716,7 @@
       "status": "exploration",
       "slug": "social-wifi-marketing",
       "date": "2019-11-11 14:46:14",
-      "date_update": "2020-02-28 5:59:41"
+      "date_update": "2020-05-18 02:00:00"
     }
   },
   {
@@ -7292,7 +7292,7 @@
       "status": "exploration",
       "slug": "time-bus",
       "date": "2019-05-21 12:59:14",
-      "date_update": "2019-05-21 12:59:41"
+      "date_update": "2020-05-18 04:00:00"
     }
   },
   {
@@ -7316,7 +7316,7 @@
       "bodyCopyShort": "TokoDash.",
       "work_category": 8,
       "image": "../assets/images/works/details/237-tokodash/tokodash.jpg",
-      "thumbnail": "../assets/images/works/details/237-tokodash/tokodash.jpg",
+      "thumbnail": "../assets/images/works/details/237-tokodash/tokodash-thumbnail.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
@@ -7324,7 +7324,7 @@
       "status": "exploration",
       "slug": "tokodash",
       "date": "2020-02-12 13:25:29",
-      "date_update": "2020-02-12 13:26:41"
+      "date_update": "2020-05-18 19:02:00"
     }
   },
   {
