@@ -1248,6 +1248,38 @@
     }
   },
   {
+    "id": 239,
+    "meta": {
+      "lang": "en",
+      "title": "Creco",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Creco",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Creco.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/239-creco/creco.jpg",
+      "thumbnail": "../assets/images/works/details/239-creco/creco.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "creco",
+      "date": "2020-02-17 10:25:29",
+      "date_update": "2020-05-18 19:00:00"
+    }
+  },
+  {
     "id": 65,
     "meta": {
       "lang": "en",
@@ -5501,38 +5533,6 @@
       "slug": "paramex-ads-design",
       "date": "2012-07-31 11:18:08",
       "date_update": "2016-12-08 19:20:26"
-    }
-  },
-  {
-    "id": 239,
-    "meta": {
-      "lang": "en",
-      "title": "PeDaS",
-      "stylesheets": ["./css/style.css"],
-      "scripts": ["./js/main.js"],
-      "charset": "utf-8",
-      "description": "Excellent freelance company from Bali, Indonesia.",
-      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
-      "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
-      "viewport": "width=device-width, initial-scale=1",
-      "extra": []
-    },
-    "data": {
-      "title": "PeDaS",
-      "catogory": ["Design"],
-      "bodyCopyShort": "PeDaS.",
-      "work_category": 8,
-      "image": "../assets/images/works/details/239-pedas/pedas.jpg",
-      "thumbnail": "../assets/images/works/details/239-pedas/pedas.jpg",
-      "logo": "../assets/images/works/logo/farooqa.jpg",
-      "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": false,
-      "isReady": true,
-      "status": "exploration",
-      "slug": "pedas",
-      "date": "2020-02-17 10:25:29",
-      "date_update": "2020-05-18 19:00:00"
     }
   },
   {
