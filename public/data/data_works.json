@@ -3072,6 +3072,38 @@
     }
   },
   {
+    "id": 197,
+    "meta": {
+      "lang": "en",
+      "title": "hiTravel",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "hiTravel",
+      "catogory": ["Design"],
+      "bodyCopyShort": "hiTravel",
+      "work_category": 8,
+      "image": "../assets/images/works/details/197-hitravel/hitravel.jpg",
+      "thumbnail": "../assets/images/works/details/197-hitravel/hitravel.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "hitravel",
+      "date": "2019-08-25 18:59:14",
+      "date_update": "2020-06-07 18:59:41"
+    }
+  },
+  {
     "id": 193,
     "meta": {
       "lang": "en",
@@ -3709,38 +3741,6 @@
       "slug": "karma-group-react-native-app-development",
       "date": "2019-03-18 13:23:07",
       "date_update": "2019-03-18 13:42:54"
-    }
-  },
-  {
-    "id": 197,
-    "meta": {
-      "lang": "en",
-      "title": "Karmagroup Cross",
-      "stylesheets": ["./css/style.css"],
-      "scripts": ["./js/main.js"],
-      "charset": "utf-8",
-      "description": "Excellent freelance company from Bali, Indonesia.",
-      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
-      "author": "Farooq Agent",
-      "favicon": "../assets/images/favicon.png",
-      "viewport": "width=device-width, initial-scale=1",
-      "extra": []
-    },
-    "data": {
-      "title": "Karmagroup Cross",
-      "catogory": ["Design"],
-      "bodyCopyShort": "Karmagroup Cross",
-      "work_category": 8,
-      "image": "../assets/images/works/large/karmagroup-cross.jpg",
-      "thumbnail": "../assets/images/works/small/karmagroup-cross.jpg",
-      "logo": "../assets/images/works/logo/farooqa.jpg",
-      "workOfTheMonth": false,
-      "onGoingWorkOfTheMonth": false,
-      "isReady": true,
-      "status": "exploration",
-      "slug": "karmagroup-cross",
-      "date": "2019-08-25 18:59:14",
-      "date_update": "2019-08-25 18:59:41"
     }
   },
   {
