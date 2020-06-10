@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="image/png" href="../assets/images/favicon.png" alt="favicon">
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+	<!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'> -->
 	<link href="../assets/fonts/museo-sans/stylesheet.css" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
@@ -424,6 +424,8 @@
 	</script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.2/lodash.min.js">
 	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.26.0/moment-with-locales.min.js">
+	</script>
 	<script type="text/javascript">
 		function loadJSON(callback) {
 			var xobj = new XMLHttpRequest();
@@ -450,7 +452,7 @@
 			}
 
 			myBooksData = _.sortBy(myBooksData, function (dateObj) {
-				return new Date(dateObj.date);
+				return new moment(dateObj.date).format();
 			}).reverse();
 
 			function delay() {
