@@ -16,6 +16,10 @@
 
 <p class="caption">. . .</p>
 
+![gokreator](../assets/images/works/details/239-creco/gokreator-site-map.png)
+
+<p class="caption">. . .</p>
+
 ![gokreator](../assets/images/works/details/239-creco/gokreator.jpg)
 
 ![gokreator](../assets/images/works/details/239-creco/gokreator-dashboard.jpg)
