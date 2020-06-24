@@ -76,7 +76,7 @@ These are some of the works (which I still found) that I made when I started stu
 
 ![Saladin College Works](https://farooq-agent.web.app/assets/images/works/details/211-saladin-college-works/i83.png)
 
-![Saladin College Works](https://farooq-agent.web.app/assets/images/works/details/211-saladin-college-works/geodin.png)
+![Saladin College Works](https://farooq-agent.web.app/assets/images/works/details/211-saladin-college-works/geodin.jpg)
 
 ![Saladin College Works](https://farooq-agent.web.app/assets/images/works/details/211-saladin-college-works/i79.png)
 
