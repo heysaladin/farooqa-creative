@@ -1276,7 +1276,7 @@
       "status": "real",
       "slug": "creco",
       "date": "2020-02-17 10:25:29",
-      "date_update": "2020-06-09 19:00:00"
+      "date_update": "2020-06-09 19:50:00"
     }
   },
   {
@@ -1660,7 +1660,7 @@
       "status": "exploration",
       "slug": "dipuja",
       "date": "2019-07-05 17:59:14",
-      "date_update": "2020-06-08 11:05:29"
+      "date_update": "2020-06-09 19:01:00"
     }
   },
   {
@@ -3075,7 +3075,7 @@
     "id": 197,
     "meta": {
       "lang": "en",
-      "title": "hiTravel",
+      "title": "EXPO",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3087,12 +3087,12 @@
       "extra": []
     },
     "data": {
-      "title": "hiTravel",
-      "catogory": ["Marketing", "Design"],
-      "bodyCopyShort": "hiTravel",
-      "work_category": 3,
-      "image": "../assets/images/works/details/197-hitravel/hitravel.jpg",
-      "thumbnail": "../assets/images/works/details/197-hitravel/hitravel-thumbnail.jpg",
+      "title": "EXPO",
+      "catogory": ["Design"],
+      "bodyCopyShort": "EXPO",
+      "work_category": 7,
+      "image": "../assets/images/works/details/197-hitravel/expo.jpg",
+      "thumbnail": "../assets/images/works/details/197-hitravel/expo-thumbnail.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
@@ -3100,7 +3100,7 @@
       "status": "exploration",
       "slug": "hitravel",
       "date": "2019-08-25 18:59:14",
-      "date_update": "2020-06-08 10:55:29"
+      "date_update": "2020-07-08 10:55:29"
     }
   },
   {
@@ -5884,7 +5884,7 @@
       "status": "real",
       "slug": "quick-clean",
       "date": "2020-02-05 15:35:29",
-      "date_update": "2020-06-08 10:15:29"
+      "date_update": "2020-06-09 19:03:00"
     }
   },
   {
@@ -6364,7 +6364,7 @@
       "status": "exploration",
       "slug": "sejalan",
       "date": "2019-08-13 22:15:14",
-      "date_update": "2020-06-08 10:25:29"
+      "date_update": "2020-06-09 19:02:00"
     }
   },
   {
