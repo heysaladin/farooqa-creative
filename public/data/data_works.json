@@ -3075,7 +3075,7 @@
     "id": 197,
     "meta": {
       "lang": "en",
-      "title": "EXPO",
+      "title": "CUBICLE",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -3087,18 +3087,18 @@
       "extra": []
     },
     "data": {
-      "title": "Sekolah Online",
-      "catogory": ["Research, Design"],
-      "bodyCopyShort": "Sekolah Online",
+      "title": "CUBICLE",
+      "catogory": ["Research, Design, Development"],
+      "bodyCopyShort": "CUBICLE",
       "work_category": 7,
-      "image": "../assets/images/works/details/197-hitravel/sekolah-online.jpg",
-      "thumbnail": "../assets/images/works/details/197-hitravel/sekolah-online-thumbnail.jpg",
+      "image": "../assets/images/works/details/197-cubicle/cubicle.jpg",
+      "thumbnail": "../assets/images/works/details/197-cubicle/cubicle-thumbnail.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
       "isReady": true,
       "status": "exploration",
-      "slug": "hitravel",
+      "slug": "cubicle",
       "date": "2019-08-25 18:59:14",
       "date_update": "2020-07-08 10:55:29"
     }
