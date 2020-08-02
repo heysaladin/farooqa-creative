@@ -144,6 +144,12 @@ Konsep yang kedua menekankan pada adanya fitur agar user dapat mengambil gambar 
 
 <p class="caption">. . .</p>
 
+![Quick Clean](../assets/images/works/details/231-quick-clean/quick-clean-v01.jpg)
+
+<p class="caption">v0.1</p>
+
+<p class="caption">. . .</p>
+
 ![Quick Clean](../assets/images/works/details/231-quick-clean/quick-clean.jpg)
 
 <p class="caption">. . .</p>

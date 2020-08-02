@@ -6339,7 +6339,7 @@
     "id": 188,
     "meta": {
       "lang": "en",
-      "title": "Sejalan",
+      "title": "Setenda",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -6351,13 +6351,13 @@
       "extra": []
     },
     "data": {
-      "title": "Sejalan",
+      "title": "Setenda",
       "catogory": ["Design"],
-      "bodyCopyShort": "Sejalan",
+      "bodyCopyShort": "Setenda",
       "work_category": 8,
-      "image": "../assets/images/works/large/sejalan.jpg",
-      "thumbnail": "../assets/images/works/small/sejalan.jpg",
-      "logo": "../assets/images/works/logo/sejalan.jpg",
+      "image": "../assets/images/works/details/188-sejalan/setenda.jpg",
+      "thumbnail": "../assets/images/works/details/188-sejalan/setenda-thumbnail.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
       "isReady": true,

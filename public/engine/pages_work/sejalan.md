@@ -1,6 +1,6 @@
 <p class="type">EXPLORATION</p>
 
-# Sejalan
+# Setenda
 
 <p class="meta">Design  /  Tuesday, August 13th 2019</p>
 
@@ -40,7 +40,21 @@ Honorable mention: [Pratama Andry](https://www.facebook.com/ayahkode?__tn__=%2Cd
 
 [#janganmalasmikirsolusi](https://www.facebook.com/hashtag/janganmalasmikirsolusi?source=feed_text&epa=HASHTAG) [#lihatsekitar](https://www.facebook.com/hashtag/lihatsekitar?source=feed_text&epa=HASHTAG) [#ui](https://www.facebook.com/hashtag/ui?source=feed_text&epa=HASHTAG) [#ux](https://www.facebook.com/hashtag/ux?source=feed_text&epa=HASHTAG) [#design](https://www.facebook.com/hashtag/design?source=feed_text&epa=HASHTAG)
 
+<p class="caption">. . .</p>
+
 ![Sejalan](https://farooq-agent.web.app/assets/images/works/large/sejalan.jpg)
+
+<p class="caption">v0.1</p>
 
 Tools:
 - Adobe XD
+
+
+<p class="caption">. . .</p>
+
+![Setenda](../assets/images/works/details/188-sejalan/setenda.jpg)
+
+<p class="caption">. . .</p>
+
+Tools:
+- Figma
