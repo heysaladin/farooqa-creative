@@ -544,6 +544,38 @@
     }
   },
   {
+    "id": 252,
+    "meta": {
+      "lang": "en",
+      "title": "Autocom",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Autocom",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Autocom",
+      "work_category": 7,
+      "image": "../assets/images/works/details/252-autocom/autocom.jpg",
+      "thumbnail": "../assets/images/works/details/252-autocom/autocom-thumbnail.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": false,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "autocom",
+      "date": "2020-08-16 23:50:00",
+      "date_update": "2020-08-16 23:50:00"
+    }
+  },
+  {
     "id": 131,
     "meta": {
       "lang": "en",
