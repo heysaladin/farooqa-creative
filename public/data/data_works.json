@@ -3648,6 +3648,38 @@
     }
   },
   {
+    "id": 254,
+    "meta": {
+      "lang": "en",
+      "title": "Kalaweit",
+      "stylesheets": ["./css/style.css"],
+      "scripts": ["./js/main.js"],
+      "charset": "utf-8",
+      "description": "Excellent freelance company from Bali, Indonesia.",
+      "keywords": "freelance,agency,design,development,marketing,graphic design,application, creative",
+      "author": "Farooq Agent",
+      "favicon": "../assets/images/favicon.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "extra": []
+    },
+    "data": {
+      "title": "Kalaweit",
+      "catogory": ["Design"],
+      "bodyCopyShort": "Mobile App redesign for information of animal rescues in Borneo.",
+      "work_category": 8,
+      "image": "../assets/images/works/details/254-kalaweit/kalaweit.jpg",
+      "thumbnail": "../assets/images/works/details/254-kalaweit/kalaweit-thumbnail.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
+      "workOfTheMonth": false,
+      "onGoingWorkOfTheMonth": true,
+      "isReady": true,
+      "status": "exploration",
+      "slug": "kalaweit",
+      "date": "2020-09-28 21:22:00",
+      "date_update": "2020-09-28 21:22:00"
+    }
+  },
+  {
     "id": 218,
     "meta": {
       "lang": "en",
