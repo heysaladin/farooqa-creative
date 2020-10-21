@@ -1923,7 +1923,7 @@
     "id": 182,
     "meta": {
       "lang": "en",
-      "title": "Food Menu",
+      "title": "DeliFood",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -1935,12 +1935,12 @@
       "extra": []
     },
     "data": {
-      "title": "Food Menu",
+      "title": "DeliFood",
       "catogory": ["Design"],
-      "bodyCopyShort": "Food Menu",
-      "work_category": 1,
-      "image": "../assets/images/works/large/drawing-art-2019.jpg",
-      "thumbnail": "../assets/images/works/small/drawing-art-2019.jpg",
+      "bodyCopyShort": "DeliFood",
+      "work_category": 8,
+      "image": "../assets/images/works/details/182-drawing-art-2019/delifood.jpg",
+      "thumbnail": "../assets/images/works/details/182-drawing-art-2019/delifood-thumbnail.jpg",
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
