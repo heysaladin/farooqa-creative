@@ -4,6 +4,10 @@
 
 <p class="meta">Design  /  Wednesday, April 3, 2019 7:59:14pm</p>
 
+![JustDine](../assets/images/works/details/182-drawing-art-2019/justdine-long.jpg)
+
+<p class="caption">. . .</p>
+
 Makan bersama atau berwisata kuliner adalah salah satu kegiatan favorit masyarakat luas. Tujuan utama kegiatan makan-makan ini tidak hanya untuk mencari makan lezat tapi juga sarana berkumpul bersama orang-orang terdekat. Tapi semua berubah sejak pandemi COVID-19 melanda.
 
 <p class="caption">. . .</p>
@@ -69,12 +73,12 @@ Saya telusuri lagi dengan mengadakan wawancara sederhana secara tatap muka langs
 
 ### Bagaimana saja cara kita (How Might We)
 
-- Bagaimana saja cara kita membaca menu tanpa menyentuh buku menu
-- Bagaimana saja cara kita memesan tanpa kontak terlalu dekat dengan pelayan restoran
-- Bagaimana saja cara kita membuat proses pembayaran tanpa kontak fisik
-- Bagaimana saja cara kita agar pelanggan tidak bosan menunggu
-- Bagaimana saja cara kita membuat proses reservasi menjadi jauh lebih mudah
-- Bagaimana saja cara kita mengajak pengunjung restoran untuk mau memberikan penilaian terhadap restoran yang baru saja dikunjungi
+- Bagaimana saja cara kita membaca menu tanpa menyentuh buku menu?
+- Bagaimana saja cara kita memesan tanpa kontak terlalu dekat dengan pelayan restoran?
+- Bagaimana saja cara kita membuat proses pembayaran tanpa kontak fisik?
+- Bagaimana saja cara kita agar pelanggan tidak bosan menunggu?
+- Bagaimana saja cara kita membuat proses reservasi menjadi jauh lebih mudah?
+- Bagaimana saja cara kita mengajak pengunjung restoran untuk mau memberikan penilaian terhadap restoran yang baru saja dikunjungi?
 
 ### Affinity map
 
@@ -135,10 +139,6 @@ Saya telusuri lagi dengan mengadakan wawancara sederhana secara tatap muka langs
 Berikut ini adalah link prototype dari aplikasi Justine. Di prototype ini kamu bisa melakukan klik seperti pada aplikasi yang sebenarnya.
 
 > [https://marvelapp.com/prototype/30d2d0h/screen/73902598](https://marvelapp.com/prototype/30d2d0h/screen/73902598)
-
-<p class="caption">. . .</p>
-
-![JustDine](../assets/images/works/details/182-drawing-art-2019/justdine-long.jpg)
 
 ---
 <p></p>

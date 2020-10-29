@@ -4,7 +4,52 @@
 
 <p class="meta">Design  /  Tuesday, August 13th 2019</p>
 
-## Understand
+![Setenda](../assets/images/works/details/188-sejalan/setenda.jpg)
+
+<p class="caption">. . .</p>
+
+Kegiatan outdoor seperti naik gunung, camping & kegiatan alam bebas lainnya adalah kegiatan yang selain sehat juga menyenangkan.
+
+# Understand
+
+## Problem statement
+
+Menjadi sebuah masalah jika ada keinginan naik gunung tapi gak ada teman,atau ada teman tapi hanya sedikit, sedangkan kita tahu akan lebih seru jika kegiatan bisa dilakukan beramai-ramai. belum lagi akan banyak keuntungan yang didapat jika berkegiatan bersama sama seperti, join tenda, sharing logistik, sharing pengalaman dan tentu saja menambah sahabat.
+
+# Analyze
+
+## User persona
+
+![Nikahan](../assets/images/works/details/188-sejalan/persona-1-SETENDA.jpg)
+
+<p class="caption">Persona 1 <a href="../assets/images/works/details/188-sejalan/persona-1-SETENDA.jpg" target="_blank">(click here to zoom-in!)</a></p>
+
+![Nikahan](../assets/images/works/details/188-sejalan/persona-2-SETENDA.jpg)
+
+<p class="caption">Persona 2 <a href="../assets/images/works/details/188-sejalan/persona-2-SETENDA.jpg" target="_blank">(click here to zoom-in!)</a></p>
+
+---
+<p></p>
+
+Tools:
+- Figma
+
+---
+<p></p>
+
+<!--
+
+Idenya sih biar bisa mempertemukan orang yg mau naik gunung tapi cupu dan gak punya alat, dan si anak gunung yg mau naik gunung dan punya alat (misal kelebihan kapasitas tenda) tapi gak ada teman.
+
+Ini terinspirasi dari ide pendaki keren asal Jawa Barat, Abang [Zeihan Aulia](https://www.facebook.com/pointrocket?__tn__=%2CdK-R-R&eid=ARCGuHbTzQPm4geUvTtenmzDwfinHlugkhlrQp_fepkIzYVddg0wYMEc7E2sQgb-fA1SCgn3Qsct9hak&fref=mentions)
+
+Honorable mention: [Pratama Andry](https://www.facebook.com/ayahkode?__tn__=%2CdK-R-R&eid=ARCfo_LXzvicxepYkc7pc8tMOxaf1wKRiq0MMcb6WZuSVD9ukMgY4x6PIHS5S4UNSw6jljq27f6c7Sd6&fref=mentions)
+
+[#janganmalasmikirsolusi](https://www.facebook.com/hashtag/janganmalasmikirsolusi?source=feed_text&epa=HASHTAG) [#lihatsekitar](https://www.facebook.com/hashtag/lihatsekitar?source=feed_text&epa=HASHTAG) [#ui](https://www.facebook.com/hashtag/ui?source=feed_text&epa=HASHTAG) [#ux](https://www.facebook.com/hashtag/ux?source=feed_text&epa=HASHTAG) [#design](https://www.facebook.com/hashtag/design?source=feed_text&epa=HASHTAG)
+
+-->
+
+<!---
 
 ### What
 
@@ -32,14 +77,6 @@ Belum lagi semisal ada masalah teknis semisal tenda yang hanya cukup 2 orang nam
 * Membuat orang dapat saling membantu dalam hal pengalaman
 * Melihat orang yang ikut dalam rombongan dari track record-nya naik gunung
 
-Idenya sih biar bisa mempertemukan orang yg mau naik gunung tapi cupu dan gak punya alat, dan si anak gunung yg mau naik gunung dan punya alat (misal kelebihan kapasitas tenda) tapi gak ada teman.
-
-Ini terinspirasi dari ide pendaki keren asal Jawa Barat, Abang [Zeihan Aulia](https://www.facebook.com/pointrocket?__tn__=%2CdK-R-R&eid=ARCGuHbTzQPm4geUvTtenmzDwfinHlugkhlrQp_fepkIzYVddg0wYMEc7E2sQgb-fA1SCgn3Qsct9hak&fref=mentions)
-
-Honorable mention: [Pratama Andry](https://www.facebook.com/ayahkode?__tn__=%2CdK-R-R&eid=ARCfo_LXzvicxepYkc7pc8tMOxaf1wKRiq0MMcb6WZuSVD9ukMgY4x6PIHS5S4UNSw6jljq27f6c7Sd6&fref=mentions)
-
-[#janganmalasmikirsolusi](https://www.facebook.com/hashtag/janganmalasmikirsolusi?source=feed_text&epa=HASHTAG) [#lihatsekitar](https://www.facebook.com/hashtag/lihatsekitar?source=feed_text&epa=HASHTAG) [#ui](https://www.facebook.com/hashtag/ui?source=feed_text&epa=HASHTAG) [#ux](https://www.facebook.com/hashtag/ux?source=feed_text&epa=HASHTAG) [#design](https://www.facebook.com/hashtag/design?source=feed_text&epa=HASHTAG)
-
 <p class="caption">. . .</p>
 
 ![Sejalan](https://farooq-agent.web.app/assets/images/works/large/sejalan.jpg)
@@ -49,22 +86,4 @@ Honorable mention: [Pratama Andry](https://www.facebook.com/ayahkode?__tn__=%2Cd
 Tools:
 - Adobe XD
 
-
-<p class="caption">. . .</p>
-
-![Setenda](../assets/images/works/details/188-sejalan/setenda.jpg)
-
-<p class="caption">. . .</p>
-
-## User perssona
-
-![Nikahan](../assets/images/works/details/188-sejalan/persona-1-SETENDA.jpg)
-
-<p class="caption">Persona 1 <a href="../assets/images/works/details/188-sejalan/persona-1-SETENDA.jpg" target="_blank">(click here to zoom-in!)</a></p>
-
-![Nikahan](../assets/images/works/details/188-sejalan/persona-2-SETENDA.jpg)
-
-<p class="caption">Persona 2 <a href="../assets/images/works/details/188-sejalan/persona-2-SETENDA.jpg" target="_blank">(click here to zoom-in!)</a></p>
-
-Tools:
-- Figma
+-->

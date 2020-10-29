@@ -4,6 +4,10 @@
 
 <p class="meta">Design  /  Wednesday, October 21, 2020 0:59:14am</p>
 
+![JustDine](../assets/images/works/details/182-drawing-art-2019/justdine-long.jpg)
+
+<p class="caption">. . .</p>
+
 Dining together or having a culinary tour is one of the favorite activities of the common society The main purpose of this dining activity is not only to find delicious food but also a means of gathering with the closest people. But everything has changed since the COVID-19 pandemic hit.
 
 <p class="caption">. . .</p>
@@ -67,14 +71,14 @@ I traced it again by conducting a simple face-to-face interview and not using an
 
 ## Inovasi
 
-### Bagaimana saja cara kita (How Might We)
+### How Might We (HMW)
 
-- How might we make the reservation process a lot easier
-- How might we read the menu without touching the menu book
-- How might we order without too close contact with the waitress
-- How might we make the payment process without physical contact
-- How might we so that customers don't get bored of waiting
-- How might we invite restaurant visitors to want to give an assessment of the restaurant that has just visited
+- How might we make the reservation process a lot easier?
+- How might we read the menu without touching the menu book?
+- How might we order without too close contact with the waitress?
+- How might we make the payment process without physical contact?
+- How might we so that customers don't get bored of waiting?
+- How might we invite restaurant visitors to want to give an assessment of the restaurant that has just visited?
 
 ### Affinity map
 
@@ -135,10 +139,6 @@ I traced it again by conducting a simple face-to-face interview and not using an
 The following is a prototype link of the Justine application. In this prototype you can click like in the real application.
 
 > [https://marvelapp.com/prototype/30d2d0h/screen/73902598](https://marvelapp.com/prototype/30d2d0h/screen/73902598)
-
-<p class="caption">. . .</p>
-
-![JustDine](../assets/images/works/details/182-drawing-art-2019/justdine-long.jpg)
 
 ---
 <p></p>
