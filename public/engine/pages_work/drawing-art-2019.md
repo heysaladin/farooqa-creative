@@ -6,8 +6,6 @@
 
 ![JustDine](../assets/images/works/details/182-drawing-art-2019/justdine-long.jpg)
 
-<p class="caption">. . .</p>
-
 Makan bersama atau berwisata kuliner adalah salah satu kegiatan favorit masyarakat luas. Tujuan utama kegiatan makan-makan ini tidak hanya untuk mencari makan lezat tapi juga sarana berkumpul bersama orang-orang terdekat. Tapi semua berubah sejak pandemi COVID-19 melanda.
 
 <p class="caption">. . .</p>
@@ -146,3 +144,6 @@ Berikut ini adalah link prototype dari aplikasi Justine. Di prototype ini kamu b
 Tools:
 - Figma
 - Whimsical
+
+---
+<p></p>

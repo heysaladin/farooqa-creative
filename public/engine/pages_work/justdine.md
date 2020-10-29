@@ -6,8 +6,6 @@
 
 ![JustDine](../assets/images/works/details/182-drawing-art-2019/justdine-long.jpg)
 
-<p class="caption">. . .</p>
-
 Dining together or having a culinary tour is one of the favorite activities of the common society The main purpose of this dining activity is not only to find delicious food but also a means of gathering with the closest people. But everything has changed since the COVID-19 pandemic hit.
 
 <p class="caption">. . .</p>
@@ -146,3 +144,6 @@ The following is a prototype link of the Justine application. In this prototype 
 Tools:
 - Figma
 - Whimsical
+
+---
+<p></p>
