@@ -2,9 +2,9 @@
 
 # JustDine
 
-<p class="meta">Design  /  Wednesday, April 3, 2019 7:59:14pm</p>
+<p class="meta">Design  /  Wednesday, October 21, 2020 0:59:14am</p>
 
-Makan bersama atau berwisata kuliner adalah salah satu kegiatan favorit masyarakat luas. Tujuan utama kegiatan makan-makan ini tidak hanya untuk mencari makan lezat tapi juga sarana berkumpul bersama orang-orang terdekat. Tapi semua berubah sejak pandemi COVID-19 melanda.
+Dining together or having a culinary tour is one of the favorite activities of the common society The main purpose of this dining activity is not only to find delicious food but also a means of gathering with the closest people. But everything has changed since the COVID-19 pandemic hit.
 
 <p class="caption">. . .</p>
 
@@ -12,19 +12,19 @@ Makan bersama atau berwisata kuliner adalah salah satu kegiatan favorit masyarak
 
 ## Understand the situation
 
-Pandemi COVID-19 telah melanda di bumi sejak akhir 2019. Sudah ratusan ribu yang terinfeksi dan puluhan ribu meninggal karenanya. Virus ini menular melalui droplet dari saluran pernafasan dan menyerang organ pernafasan terutama paru-paru sehingga dapat beraktibat fatal karena dapat mengganggu pernafasan. Pandemi sangat sangat memukul sektor hospitality termasuk restoran, karena pengunjung takut tertular selama berada di restoran.
+The COVID-19 pandemic has hit the earth since the end of 2019. Hundreds of thousands have been infected and tens of thousands have died because of it. This virus is transmitted through droplets from the respiratory tract and attacks the respiratory organs, especially the lungs so that it can have fatal consequences because it can interfere with breathing. The pandemic has particularly hit the hospitality sector, including restaurants, because visitors are afraid of contracting them while in restaurants.
 
 ## Understand the customer
 
-Konsumen restoran tidak hanya ingin mendapatkan makanan lezat tapi juga suasana dan pelayanan terbaik dari restoran karena pengalaman dan pelayanan tidak bisa didapatkan dari layanan antar makanan untuk di makan di rumah.
+Restaurant consumers not only want to get delicious food but also the best atmosphere and service from the restaurant because experience and service cannot be obtained from food delivery services to eat at home.
 
 ## Understand the business owner
 
-pandemi memukul telak bisnis restoran. namun semakin lama orang-orang berada di rumah semakin tinggi pula keinginan untuk mendapatkan pelayanan hiburan, termasuk pelayanan restoran. COVID-19 menyebar melalui droplet dari orang yang terinfeksi, droplet ini menyebar paling mudah karena interaksi dengan orang lain. Selama restoran bisa meminimalkan interaksi customer yang datang, harusnya relatif lebih aman.
+The pandemic has hit the restaurant business badly. however, the longer people stay at home, the higher the desire for entertainment services, including restaurant services. COVID-19 is spread through droplets from infected people, these droplets are spread most easily due to interactions with other people. As long as the restaurant can minimize the interaction of customers who come, it should be relatively safer.
 
 ## Problem statement
 
-> *Bagaimana sebuah restoran bisa mengurangi interaksi dengan orang asing di restoran, pelayan dan proses pembayaran pun dilakukan tanpa kontak fisik untuk meyakinkan customer bahwa pelayanan restoran dapat dilakukan dengan aman tanpa takut tertular COVID-19?*
+> *How can a restaurant reduce interactions with strangers in the restaurant, waiters and payment processes without physical contact to convince customers that restaurant services can be carried out safely without fear of contracting COVID-19?*
 
 <p class="caption">. . .</p>
 
@@ -32,14 +32,14 @@ pandemi memukul telak bisnis restoran. namun semakin lama orang-orang berada di 
 
 ## User interview
 
-Saya telusuri lagi dengan mengadakan wawancara sederhana secara tatap muka langsung dan tidak tatap muka menggunakan aplikasi chatting online. Wawancara dilakukan dengan beberapa bertanyaan terkait kebutuhan untuk mencari tahu seputar pelayanan restoran selama pandemi.
+I traced it again by conducting a simple face-to-face interview and not using an online chat application. Interviews were conducted with several questions regarding the need to find out about restaurant services during the pandemic.
 
 ## Points of research
 
-- Orang-orang sudah bosan karena terlalu lama di rumah
-- Orang-orang ingin liburan atau mendapatkan hiburan lainnya
-- Pembayaran bisa secara online melalui ewallet atau semacamnya
-- Meja makan, perlengkapan dan lainnya dapat dibersihkan lagi sebelum dan sesudah ada customer datang
+- People are tired of staying home too long
+- People want vacation or other entertainment
+- Payment can be online via ewallet or similar
+- The dining table, equipment and others can be cleaned again before and after a customer arrives
 
 <p class="caption">. . .</p>
 
@@ -47,13 +47,13 @@ Saya telusuri lagi dengan mengadakan wawancara sederhana secara tatap muka langs
 
 ## User persona
 
-![JustDine](../assets/images/works/details/182-drawing-art-2019/persona-1-JUSTDINE.jpg)
+![JustDine](../assets/images/works/details/182-drawing-art-2019/persona-1-JUSTDINE-en.jpg)
 
-<p class="caption">Persona 1 <a href="../assets/images/works/details/182-drawing-art-2019/persona-1-JUSTDINE.jpg" target="_blank">(click here to zoom-in!)</a></p>
+<p class="caption">Persona 1 <a href="../assets/images/works/details/182-drawing-art-2019/persona-1-JUSTDINE-en.jpg" target="_blank">(click here to zoom-in!)</a></p>
 
-![JustDine](../assets/images/works/details/182-drawing-art-2019/persona-2-JUSTDINE.jpg)
+![JustDine](../assets/images/works/details/182-drawing-art-2019/persona-2-JUSTDINE-en.jpg)
 
-<p class="caption">Persona 2 <a href="../assets/images/works/details/182-drawing-art-2019/persona-2-JUSTDINE.jpg" target="_blank">(click here to zoom-in!)</a></p>
+<p class="caption">Persona 2 <a href="../assets/images/works/details/182-drawing-art-2019/persona-2-JUSTDINE-en.jpg" target="_blank">(click here to zoom-in!)</a></p>
 
 ## User journey map
 
@@ -69,12 +69,12 @@ Saya telusuri lagi dengan mengadakan wawancara sederhana secara tatap muka langs
 
 ### Bagaimana saja cara kita (How Might We)
 
-- Bagaimana saja cara kita membaca menu tanpa menyentuh buku menu
-- Bagaimana saja cara kita memesan tanpa kontak terlalu dekat dengan pelayan restoran
-- Bagaimana saja cara kita membuat proses pembayaran tanpa kontak fisik
-- Bagaimana saja cara kita agar pelanggan tidak bosan menunggu
-- Bagaimana saja cara kita membuat proses reservasi menjadi jauh lebih mudah
-- Bagaimana saja cara kita mengajak pengunjung restoran untuk mau memberikan penilaian terhadap restoran yang baru saja dikunjungi
+- How might we make the reservation process a lot easier
+- How might we read the menu without touching the menu book
+- How might we order without too close contact with the waitress
+- How might we make the payment process without physical contact
+- How might we so that customers don't get bored of waiting
+- How might we invite restaurant visitors to want to give an assessment of the restaurant that has just visited
 
 ### Affinity map
 
@@ -132,7 +132,7 @@ Saya telusuri lagi dengan mengadakan wawancara sederhana secara tatap muka langs
 
 ### Prototype
 
-Berikut ini adalah link prototype dari aplikasi Justine. Di prototype ini kamu bisa melakukan klik seperti pada aplikasi yang sebenarnya.
+The following is a prototype link of the Justine application. In this prototype you can click like in the real application.
 
 > [https://marvelapp.com/prototype/30d2d0h/screen/73902598](https://marvelapp.com/prototype/30d2d0h/screen/73902598)
 

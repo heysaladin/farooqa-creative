@@ -56,5 +56,15 @@ Tools:
 
 <p class="caption">. . .</p>
 
+## User perssona
+
+![Nikahan](../assets/images/works/details/188-sejalan/persona-1-SETENDA.jpg)
+
+<p class="caption">Persona 1 <a href="../assets/images/works/details/188-sejalan/persona-1-SETENDA.jpg" target="_blank">(click here to zoom-in!)</a></p>
+
+![Nikahan](../assets/images/works/details/188-sejalan/persona-2-SETENDA.jpg)
+
+<p class="caption">Persona 2 <a href="../assets/images/works/details/188-sejalan/persona-2-SETENDA.jpg" target="_blank">(click here to zoom-in!)</a></p>
+
 Tools:
 - Figma
