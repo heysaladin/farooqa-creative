@@ -20,7 +20,18 @@ Bagaimana sebuah undangan pernikahan dapat memanfaatkan teknologi untuk memaksim
 
 ## User interview
 
-Saya telusuri lagi dengan mengadakan wawancara sederhana secara tatap muka  langsung dan tidak tatap muka menggunakan aplikasi chatting online. Wawancara dilakukan dengan beberapa bertanyaan terkait kebutuhan dan masalah apa yang saat ini dirasakan selama mendapatkan undangan pernikahan baik cetak maupun online.
+Saya telusuri lagi dengan mengadakan survey & wawancara sederhana secara tatap muka  langsung dan tidak tatap muka menggunakan aplikasi chatting online. Wawancara dilakukan dengan beberapa bertanyaan terkait kebutuhan dan masalah apa yang saat ini dirasakan selama mendapatkan undangan pernikahan baik cetak maupun online.
+
+## Survey
+
+- Usia yang disurvey berkisar antara 24 hingga 29 tahun
+- Pekerjaan kebanyakan yang disurvey adalah pegawai swasta
+- 100% yang disurvey belum menikah
+- 75% berencana akan menikah sebentar lagi
+- 100% lebih memilih membuat undangan pernikahan online daripada undangan pernikahan cetak karena lebih praktis, mengurangi sampah dan aman (tidak takut kena virus corona saat membagikan undangan)
+- 100% tetap akan membuat undangan cetak dengan jumlah terbatas sebagai bentuk penghormatan kepada kerabat yang lebih tua atau tidak ada akses undangan online, tidak ada undangan cetak kepada kerabat yang sangat dituakan dan dihormati dianggap tidak sopan
+- 100% menginginkan dapat menyebarkan undangan secara pribadi ke masihg-masing calon undangan
+- 50% tidak tahu cara membuat undangan online
 
 ## Points of research
 

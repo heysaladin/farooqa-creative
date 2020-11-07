@@ -16,6 +16,37 @@ Kegiatan outdoor seperti naik gunung, camping & kegiatan alam bebas lainnya adal
 
 Menjadi sebuah masalah jika ada keinginan naik gunung tapi gak ada teman,atau ada teman tapi hanya sedikit, sedangkan kita tahu akan lebih seru jika kegiatan bisa dilakukan beramai-ramai. belum lagi akan banyak keuntungan yang didapat jika berkegiatan bersama sama seperti, join tenda, sharing logistik, sharing pengalaman dan tentu saja menambah sahabat.
 
+# Research
+
+# Survey
+
+- Usia yang disurvey berkisar antara 18 sampai 47 tahun
+- Profesi yang disurvey terdiri dari berbagai latar belakang profesi
+- Lokasi domisili yang disurvey terdiri dari berbagai macam daerah di indonesia (mayoritas pulau jawa)
+- 100% orang yang disurvey suka mendaki gunung
+- 100% berencana naik gunung beberapa waktu ke depan
+- Waktu paling disukai untuk naik gunung adalah di musim kemarau dan diakhir pekan (atau hari libur)
+- Sebelum naik gunung hal yang dilakukan adalah persiapan fisik, istirahat cukup dan memastikan peralatan serta perlengkapan tidak ada yg kurang
+- Persiapan fisik paling disukai adalah lari
+- Tujuan mendaki adalah menambah teman, menikmati alam dan mengasah kemampuan diri (pengalaman)
+- 100% menyarankan untuk mendaki dengan melengkapi perijinan yang ada (jika memang perlu), jangan sampai ilegal karena proses perijinan juga tidak rumit bahkan sebagian bisa secara online
+- 75% lebih mengutamakan menenutukan gunungnya terlebih dahulu baru cari teman dibandingkan mencari teman dulu baru gunungnya bebas
+- 100% menyatakan perlu memiliki peralatan mendaki yang memadai untuk mendaki gunung
+- 50% menyatakan lebih baik mendaki dengan membawa peralatan masing-masing secara mandiri
+- 41,7% menyatakan lebih baik mendaki dengan berbagi perlatan dengan teman satu team
+- Peralatan yang paling wajib dibawa oleh individu adalah jaket, sepatu gunung, ransel
+- Peralatan yang wajib ada di sebuah kelompok adalah tenda & alat masak
+- 58,3% suka mengambil foto di gunung
+- 41,7% menyatakan "biasa saja" terkait pengambilan foto di gunung
+- Dalam hal mendokumentasikan perjalanan pendakian 25% mengunggahnya ke sosial media, 41,7% mengambil foto dan video untuk diri seniri & 33,3% hanya menyimpannya dalam memori
+- Hal yang paling ditakutkan ketika mendaki adalah cuaca buruk (tiba-tiba), kecelakaan (yang meyebabkan cedera) & hypotermia
+- Etika yang baik saat mendaki gunung adalah dengan menaati peraturan gunung yang didaki, menjaga sopan santun (jaga ucapan & jangan asusila) & selalu jaga kebersihan dan kelestarian hutan
+- Pendapat tentang Open Trip adalah "bagus bisa kenal orang baru, dan tidak ribet"
+- 66,6% lebih memilih perjalanan mandiri daripada Open Trip karena dengan mendaki mandiri biaya lebih hemat (karena Open Trip itu paketan peralatan, makan Guide dll.) dan biasanya pendakian mandiri dilakukan dengan teman jadi sudah kenal dan tahu wataknya
+- Kriteria teman yang baik adalah teman yang tidak egois dan mau saling membantu
+- Jika sebuah tim mengetahui timnya punya penyakit yang akan berbahaya jika kambuh di gunung 58,3% menyatakan lebih baik melarangnya ikut & 41,7% menyatakan tidak apa-apa ikut tapi pastikan membawa obat dan tahu penanganan yang tepat
+- Kisaran biaya yang dikeluarkan untuk mendaki gunung relatif murah berkisar antara Rp. 200.000 sampai Rp. 1.000.000
+
 # Analyze
 
 ## User persona

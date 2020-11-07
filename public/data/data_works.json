@@ -7075,7 +7075,7 @@
     "id": 247,
     "meta": {
       "lang": "en",
-      "title": "Tammwel Design",
+      "title": "Desert Project",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -7087,9 +7087,9 @@
       "extra": []
     },
     "data": {
-      "title": "Tammwel Design",
+      "title": "Desert Project",
       "catogory": ["Design"],
-      "bodyCopyShort": "Tammwel Design.",
+      "bodyCopyShort": "Desert Project.",
       "work_category": 5,
       "image": "../assets/images/works/details/247-tammwel-design/tammwel-design.jpg",
       "thumbnail": "../assets/images/works/details/247-tammwel-design/tammwel-design-thumbnail.jpg",
@@ -7128,7 +7128,7 @@
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "isReady": true,
+      "isReady": false,
       "status": "real",
       "slug": "tammwel-web",
       "date": "2020-03-11 10:25:29",
@@ -7160,7 +7160,7 @@
       "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
-      "isReady": true,
+      "isReady": false,
       "status": "real",
       "slug": "tammwel",
       "date": "2020-02-17 10:25:29",
