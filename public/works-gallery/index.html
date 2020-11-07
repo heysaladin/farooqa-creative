@@ -572,7 +572,11 @@
 					cardList.appendChild(box);
 
 					//divContainer.appendChild(box);
-					divContainer.appendChild(cardList);
+
+					if(myBooks[i].data.isReady) {
+						divContainer.appendChild(cardList);
+					}
+					
 				}
 				//console.log('Done!');
 				processManipulation(myBooksData);
