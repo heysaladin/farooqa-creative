@@ -31,9 +31,9 @@
 
 <p class="caption">Mascot Design Process</p>
 
-![Tammwel](../assets/images/works/details/247-tammwel-design/tammwel-design.jpg)
+![Tammwel](../assets/images/works/details/247-tammwel-design/old-tammwel-design.jpg)
 
-<p class="caption">Mascot Design Sketch</p>
+<p class="caption">Mascot Design</p>
 
 ![Tammwel](../assets/images/works/details/247-tammwel-design/mascot-design-other-natural-colors.jpg)
 
