@@ -5379,7 +5379,7 @@
     "id": 135,
     "meta": {
       "lang": "en",
-      "title": "Oartscience web concept",
+      "title": "HOLO",
       "stylesheets": ["./css/style.css"],
       "scripts": ["./js/main.js"],
       "charset": "utf-8",
@@ -5391,13 +5391,13 @@
       "extra": []
     },
     "data": {
-      "title": "Oartscience web concept",
+      "title": "HOLO",
       "catogory": ["Design"],
-      "bodyCopyShort": "Oartscience web concept",
+      "bodyCopyShort": "HOLO",
       "work_category": 7,
-      "image": "../assets/images/works/large/mFu3mTSV_work_image.jpg",
-      "thumbnail": "../assets/images/works/small/mFu3mTSV_work_image.jpg",
-      "logo": "../assets/images/works/logo/oartstudios.jpg",
+      "image": "../assets/images/works/details/135-oartscience-web-concept/holo.jpg",
+      "thumbnail": "../assets/images/works/details/135-oartscience-web-concept/holo-thumbnail.jpg",
+      "logo": "../assets/images/works/logo/farooqa.jpg",
       "workOfTheMonth": false,
       "onGoingWorkOfTheMonth": false,
       "isReady": true,

@@ -1,5 +1,18 @@
 <p class="type">EXPLORATION</p>
 
+# HOLO
+
+<p class="meta">Design  /  Sunday, November 15, 2020 6:58:43pm</p>
+
+![HOLO](../assets/images/works/details/135-oartscience-web-concept/holo.jpg)
+
+![HOLO](../assets/images/works/details/135-oartscience-web-concept/holo-full.jpg)
+
+Tools:
+- Figma
+
+<p class="caption">. . .</p>
+
 # O'artscience Web Concept
 
 <p class="meta">Design  /  Sunday, July 26, 2015 1:58:43pm</p>
